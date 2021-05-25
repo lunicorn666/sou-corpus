@@ -1,0 +1,185 @@
+Grid Issues for Electricity Production;Stockholm//PM|NOM//ROOT//0 2008//RG|NOM//nummod//0
+
+Preface;Stockholm//PM|NOM//ROOT//0 ,//MID//punct//2 November//PM|NOM//conj//0 2007//RG|NOM//nummod//2
+
+
+1.1 Introduction;Source//PM|NOM//ROOT//0 ://MID//punct//0
+1.1 Introduction;REE//PM|NOM//appos//0
+1.1 Introduction;Source//PM|NOM//ROOT//0 ://MID//punct//0
+1.1 Introduction;AEE//PM|NOM//appos//0
+1.1 Introduction;Source//PM|NOM//ROOT//0 ://MID//punct//0
+1.1 Introduction;REE//PM|NOM//appos//0 ,//MID//punct//4 March//PM|NOM//conj//2 2007//RG|NOM//nummod//4 gardening//NN|UTR|SIN|IND|NOM//conj//2
+1.1 Introduction;Hydro//PM|NOM//nmod//1 power//PM|NOM//ROOT//1 10//RG|NOM//nummod//3 b.8//RG|NOM//obj//1
+1.1 Introduction;First//PM|NOM//ROOT//0
+1.1 Introduction;Thereafter//NN|UTR|PLU|IND|NOM//ROOT//0
+1.1 Introduction;First//PM|NOM//ROOT//0
+1.1 Introduction;Thereafter//NN|UTR|PLU|IND|NOM//ROOT//0
+1.1 Introduction;First//PM|NOM//ROOT//0
+1.1 Introduction;Thereafter//NN|UTR|PLU|IND|NOM//ROOT//0
+1.1 Introduction;First//PM|NOM//ROOT//0
+1.1 Introduction;Thereafter//NN|UTR|PLU|IND|NOM//ROOT//0
+1.1 Introduction;First//PM|NOM//ROOT//0
+1.1 Introduction;Thereafter//NN|UTR|PLU|IND|NOM//amod//6 1.3.2//RG|NOM//fixed//0 Permitting//NN|UTR|SIN|IND|NOM//conj//0 Entities//PM|NOM//flat//2 1.4.1//RG|NOM//conj//2 Available//UO//amod//6 capacity//UO//ROOT//6
+1.1 Introduction;Substation//NN|UTR|SIN|IND|NOM//nmod//1 Substation//NN|UTR|SIN|IND|NOM//ROOT//1
+1.1 Introduction;Wind//PM|NOM//ROOT//0 farm//PM|NOM//flat:name//0
+1.1 Introduction;Substation//NN|UTR|SIN|IND|NOM//ROOT//0 132//RG|NOM//nummod//2 kW//NN|AN//nmod//0 ,//MID//punct//2 20//RG|NOM//nummod//5 MW//NN|AN//obl//6 20//RG|NOM//nummod//2 km//NN|AN//case//8 1.6.1//RG|NOM//nmod//2 Net-metering//NN|UTR|SIN|IND|NOM//nummod//0
+1.1 Introduction;Measurement//UO//amod//1 equipment//UO//ROOT//1 production//UO//obj//1
+1.1 Introduction;Connection//UO//ROOT//0 point//UO//nmod//0
+1.1 Introduction;Measurement//UO//amod//1 equipment//UO//ROOT//1 consumption//UO//obj//1
+1.1 Introduction;Consumption//NN|UTR|SIN|IND|NOM//nmod//1 1.6.2//RG|NOM//compound//2 Hourly//UO//ROOT//2 measurement//PM|NOM//amod//4 1.6.3//RG|NOM//nmod//6 Measurement//UO//nmod//6 costs//UO//appos//2
+
+
+1.9 Conclusions Spain;Tariff//UO//ROOT//0 Structure//UO//flat//0
+1.9 Conclusions Spain;Network//UO//ROOT//0 connection//UO//nmod//2 costs//UO//conj//0
+1.9 Conclusions Spain;Metering//NN|UTR|SIN|IND|NOM//ROOT//0
+1.9 Conclusions Spain;Network//PM|NOM//compound//1 Concessions//PM|NOM//ROOT//1
+1.9 Conclusions Spain;Network//PM|NOM//compound//1 Connection//PM|NOM//compound//2 Procedures//PM|NOM//ROOT//2
+1.9 Conclusions Spain;Technical//UO//amod//1 requirements//UO//ROOT//1
+
+
+2.1 Introduction;Source//PM|NOM//ROOT//0 ://MID//punct//0
+2.1 Introduction;REN//NN|AN//nmod//7 2.2.1//RG|NOM//nmod//4 Wind//PM|NOM//nsubj//2 Power//PM|NOM//flat:name//4 2.2.2//RG|NOM//conj//2 Solar//PM|NOM//parataxis//0 Power//PM|NOM//flat:name//7 2.2.3//RG|NOM//conj//7 Biomass//NN|UTR|SIN|IND|NOM//conj//7 2.2.4//RG|NOM//conj//7 Hydropower//PM|NOM//nmod//13 2.3.1//RG|NOM//conj//7 Permitting//PM|NOM//conj//7 Entities//PM|NOM//conj//7 2.4.1//RG|NOM//nmod//18 Available//PM|NOM//amod//18 Capacity//PM|NOM//obj//7
+
+
+2.9 Conclusions Portugal;Tariff//UO//ROOT//0 Structure//UO//flat//0
+2.9 Conclusions Portugal;Network//UO//ROOT//0 connection//UO//nmod//2 costs//UO//conj//0
+2.9 Conclusions Portugal;Network//PM|NOM//compound//1 Concessions//PM|NOM//ROOT//1
+2.9 Conclusions Portugal;Metering//NN|UTR|SIN|IND|NOM//ROOT//0
+2.9 Conclusions Portugal;Network//PM|NOM//compound//1 Connection//PM|NOM//compound//2 Procedures//PM|NOM//ROOT//2
+2.9 Conclusions Portugal;Technical//UO//amod//1 requirements//UO//ROOT//1
+
+
+3.1 Introduction;•//PP//case//1 E.on-Netz//PM|NOM//ROOT//1
+3.1 Introduction;Onshore//PM|NOM//ROOT//0 Wind//PM|NOM//flat//0 Power//PM|NOM//flat:name//1
+3.1 Introduction;Offshore//PM|NOM//nmod//1 Wind//PM|NOM//ROOT//1 Power//PM|NOM//flat:name//1
+3.1 Introduction;Categories//PM|NOM//ROOT//0 ://MAD//punct//0
+3.1 Introduction;Article//PM|NOM//ROOT//0 4//RG|NOM//nummod//0
+3.1 Introduction;Source//PM|NOM//ROOT//0 ://MID//punct//0
+3.1 Introduction;E.on//PM|NOM//amod//3 3.3.2//RG|NOM//compound//4 Permitting//PM|NOM//appos//0 Entities//PM|NOM//conj//4
+3.1 Introduction;On-Site//PM|NOM//amod//1 Generation//PM|NOM//ROOT//1
+3.1 Introduction;DistributionCode//PM|NOM//ROOT//0 ://MID//punct//0
+3.1 Introduction;http://www.vdn-berlin.de/global/downloads/publikationen///JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//4 DistributionCode2003.pdf//NN|AN//amod//4 3.4.1//RG|NOM//nmod//6 Available//PM|NOM//amod//6 Capacity//PM|NOM//appos//0
+
+
+3.9 Conclusions Germany;Tariff//UO//ROOT//0 Structure//UO//flat//0
+3.9 Conclusions Germany;Network//PM|NOM//amod//2 upgrade//UO//amod//2 costs//UO//ROOT//2
+3.9 Conclusions Germany;Network//UO//ROOT//0 concessions//UO//flat//0
+3.9 Conclusions Germany;Network//PM|NOM//compound//1 Connection//PM|NOM//ROOT//1 Procedure//PM|NOM//flat:name//1
+3.9 Conclusions Germany;Metering//NN|UTR|SIN|IND|NOM//ROOT//0
+
+
+4.1 Introduction;Source//PM|NOM//ROOT//0 ://MID//punct//0
+4.1 Introduction;http://www.berr.gov.uk/files/file39569.pdf//PM|NOM//appos//0 .//MAD//punct//0
+4.1 Introduction;Source//PM|NOM//ROOT//0 ://MID//punct//0
+4.1 Introduction;http://www.restats.org.uk/capacity.htm//NN|AN//appos//0 .//MAD//punct//0
+4.1 Introduction;Source//PM|NOM//ROOT//0 ://MID//punct//0
+4.1 Introduction;http://www.berr.gov.uk/files/file40156.pdf//UO//amod//3 only//UO//appos//0 )//PAD//punct//0
+4.1 Introduction;Source//PM|NOM//ROOT//0 ://MID//punct//0
+4.1 Introduction;http://www.berr.gov.uk/files/file32776.pdf//PM|NOM//appos//0 4.1.3//RG|NOM//amod//5 Relevant//AB|POS//amod//5 Legislations//PM|GEN//nsubj//2
+4.1 Introduction;Disenrgworgrp.aspx//RG|NOM//ROOT//0
+4.1 Introduction;C.//PM|NOM//compound//1 Renewable//PM|NOM//ROOT//1 Obligations//UO//flat//1
+4.1 Introduction;D.//PM|NOM//nmod//1 Offshore//PM|NOM//compound//2 Networks//PM|NOM//ROOT//2
+4.1 Introduction;A.//PM|NOM//compound//1 Licensing//PM|NOM//ROOT//1
+4.1 Introduction;B.//PM|NOM//nmod//2 Price//PM|NOM//nmod//2 Control//PM|NOM//ROOT//2
+4.1 Introduction;C.//PM|NOM//compound//2 Offshore//PM|NOM//flat//0 Networks//PM|NOM//ROOT//2
+4.1 Introduction;D.//PM|NOM//nmod//1 Private-wire//PM|NOM//nsubj//2 networks//PM|NOM//ROOT//2
+4.1 Introduction;Source//PM|NOM//ROOT//0 ://MID//punct//0
+4.1 Introduction;http://www.bwea.com/pdf/realpower/rp08onshore.pdf//RG|NOM//parataxis//0
+4.1 Introduction;Source//PM|NOM//ROOT//0 ://MID//punct//0
+4.1 Introduction;http://www.restats.org.uk/maps.htm//NN|AN//appos//0 .//MAD//punct//0
+4.1 Introduction;Source//PM|NOM//ROOT//0 ://MID//punct//0
+4.1 Introduction;http://www.bwea.com/pdf/OnshoreWindPoweringAheadFull.pdf//UO//parataxis//0
+4.1 Introduction;A.//PM|NOM//nmod//2 Non//PM|NOM//compound//2 Fossil//PM|NOM//compound//3 Fuel//PM|NOM//ROOT//3 Obligations//PM|NOM//obj//3 (//PAD//punct//4 NFFO//PM|NOM//appos//4 )//PAD//punct//3
+4.1 Introduction;Souce//NN|NEU|SIN|IND|NOM//ROOT//0 ://MID//punct//0
+4.1 Introduction;http://stats.berr.gov.uk/energystats/dukes07_c7.pdf//NN|UTR|SIN|IND|NOM//appos//0
+4.1 Introduction;Source//PM|NOM//ROOT//0 ://MAD//punct//0
+4.1 Introduction;http://www.nfpa.co.uk///NN|NEU|SIN|IND|NOM//punct//0
+4.1 Introduction;C.//PM|NOM//compound//2 Renewables//PM|NOM//flat//0 Obligation//NN|UTR|SIN|IND|NOM//ROOT//2
+4.1 Introduction;Source//PM|NOM//ROOT//0 ://MID//punct//0
+4.1 Introduction;http://www.ofgem.gov.uk/Sustainability/Environmnt/RenewablObl/Documents1/170983607.pdf//PM|NOM//parataxis//0
+4.1 Introduction;Source//PM|NOM//ROOT//0 ://MID//punct//0
+4.1 Introduction;http://www.e-roc.co.uk///UO//amod//3 technologies//UO//appos//0
+4.1 Introduction;Source//PM|NOM//ROOT//0 ://MID//punct//0
+4.1 Introduction;http://www.berr.gov.uk/files/file39497.pdf//PM|NOM//appos//0
+4.1 Introduction;A.//PM|NOM//compound//2 Transmission//PM|NOM//compound//2 System//UO//ROOT//2
+4.1 Introduction;B.//PM|NOM//nmod//1 Distribution//PM|NOM//compound//2 System//PM|NOM//ROOT//2
+4.1 Introduction;"Agreement//PM|NOM//ROOT//0 (//PAD//punct//0 BELLA//PM|NOM//appos//0 )//PAD//punct//2 4.2.2//RG|NOM//amod//5 Permitting//NN|UTR|SIN|IND|NOM//conj//0 Entities//PM|NOM//flat//5 1//RG|NOM//nummod//5 )//PAD//punct//5 10//RG|NOM//nummod//10 megawatts//NN|UTR|PLU|IND|NOM//conj//0 ;//MID//punct//0"
+4.1 Introduction;or//NN|NEU|SIN|IND|NOM//punct//0
+4.1 Introduction;Electricity+(Class+Exemptions+from+the+Requirement+for+a+License)+Order+2001//PM|NOM//ROOT//0 &//KN|AN//cc//2 searchEnacted=0&extentMatchOnly=0&confersPower=0&blanketAmendment=0&sort//NN|NEU|PLU|IND|NOM//conj//0
+4.1 Introduction;Alpha=0&TYPE//PM|NOM//nsubj//2 =//MID//punct//2 QS&PageNumber=1&NavFrom=0&parentActiveTextDocId=2536280//PS|NEU|SIN|DEF//ROOT//2 &//KN|AN//punct//2 ActiveTextDocId=2536293&filesize=436//PM|NOM//conj//2
+4.1 Introduction;Access//UO//nmod//1 Transmission//UO//compound//2 System//UO//ROOT//2
+4.1 Introduction;Queue//PM|NOM//ROOT//0 Management//PM|NOM//flat//0
+4.1 Introduction;Distribution//PM|NOM//nmod//3 Network//PM|NOM//compound//3 Access//PM|NOM//flat//1 .pdf//RG|NOM//ROOT//3
+4.1 Introduction;Transmission//PM|NOM//compound//2 Connection//UO//flat//0 Charges//PM|NOM//ROOT//2
+4.1 Introduction;Directly//UO//amod//2 connected//UO//amod//2 generation//NN|UTR|SIN|IND|NOM//ROOT//2
+4.1 Introduction;Directly//UO//amod//2 connected//UO//amod//2 generation//NN|UTR|SIN|IND|NOM//ROOT//2
+4.1 Introduction;Directly//UO//amod//2 connected//UO//amod//2 generation//NN|UTR|SIN|IND|NOM//ROOT//2
+4.1 Introduction;Directly//UO//amod//2 connected//UO//amod//2 generation//NN|UTR|SIN|IND|NOM//ROOT//2
+4.1 Introduction;Directly//UO//amod//2 connected//UO//amod//2 generation//NN|UTR|SIN|IND|NOM//ROOT//2
+4.1 Introduction;Directly//UO//amod//2 connected//UO//amod//2 generation//NN|UTR|SIN|IND|NOM//ROOT//2
+4.1 Introduction;Bilateral//NN|UTR|SIN|IND|NOM//ROOT//0
+4.1 Introduction;Connection//NN|UTR|SIN|IND|NOM//ROOT//0
+4.1 Introduction;Agreement//NN|NEU|PLU|IND|NOM//ROOT//0
+4.1 Introduction;Bilateral//NN|UTR|SIN|IND|NOM//ROOT//0
+4.1 Introduction;Connection//NN|UTR|SIN|IND|NOM//ROOT//0
+4.1 Introduction;Agreement//NN|NEU|PLU|IND|NOM//ROOT//0
+4.1 Introduction;Bilateral//NN|UTR|SIN|IND|NOM//ROOT//0
+4.1 Introduction;Connection//NN|UTR|SIN|IND|NOM//ROOT//0
+4.1 Introduction;Agreement//NN|NEU|PLU|IND|NOM//ROOT//0
+4.1 Introduction;Bilateral//NN|UTR|SIN|IND|NOM//ROOT//0
+4.1 Introduction;Connection//NN|UTR|SIN|IND|NOM//ROOT//0
+4.1 Introduction;Agreement//NN|NEU|PLU|IND|NOM//ROOT//0
+4.1 Introduction;Bilateral//NN|UTR|SIN|IND|NOM//ROOT//0
+4.1 Introduction;Connection//NN|UTR|SIN|IND|NOM//ROOT//0
+4.1 Introduction;Agreement//NN|NEU|PLU|IND|NOM//ROOT//0
+4.1 Introduction;Bilateral//NN|UTR|SIN|IND|NOM//ROOT//0
+4.1 Introduction;Connection//NN|UTR|SIN|IND|NOM//ROOT//0
+4.1 Introduction;Agreement//NN|NEU|PLU|IND|NOM//ROOT//0
+4.1 Introduction;Distribution//PM|NOM//nmod//2 Connection//PM|NOM//compound//2 Charges//PM|NOM//ROOT//2
+4.1 Introduction;Mods.aspx//NN|UTR|SIN|DEF|NOM//ROOT//0
+
+4.8 Grid Tariffs;Annual//PM|NOM//nmod//1 Connection//PM|NOM//compound//2 Charges//PM|NOM//ROOT//2
+4.8 Grid Tariffs;Mods.aspx//NN|UTR|SIN|DEF|NOM//ROOT//0
+
+4.10 Conclusions United Kingdom;Tariff//UO//ROOT//0 Structure//UO//flat//0
+4.10 Conclusions United Kingdom;Network//PM|NOM//nsubj//1 Upgrade//PM|NOM//ROOT//1 Costs//PM|NOM//obj//1
+4.10 Conclusions United Kingdom;Network//PM|NOM//compound//1 Concessions//PM|NOM//ROOT//1
+4.10 Conclusions United Kingdom;Network//PM|NOM//compound//1 Connection//PM|NOM//ROOT//1 Procedure//PM|NOM//flat:name//1
+4.10 Conclusions United Kingdom;Metering//NN|UTR|SIN|IND|NOM//ROOT//0
+
+
+5.10 Summary and Conclusion / Justitiedepartementet;Skyddet//NN|NEU|SIN|DEF|NOM//ROOT//0 för//PP//case//4 den//DT|UTR|SIN|DEF//det//4 personliga//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//4 integriteten//NN|UTR|SIN|DEF|NOM//nmod//0 .//MAD//punct//0
+5.10 Summary and Conclusion / Justitiedepartementet;Bedömningar//NN|UTR|PLU|IND|NOM//ROOT//0 och//KN//cc//2 förslag//NN|NEU|PLU|IND|NOM//conj//0 .//MAD//punct//0 [//PAD//punct//0
+5.10 Summary and Conclusion / Justitiedepartementet;3//RG|NOM//nummod//4 ]//PAD//punct//0
+5.10 Summary and Conclusion / Justitiedepartementet;Fastighetsmäklaren//NN|UTR|SIN|DEF|NOM//ROOT//0 och//KN//cc//2 konsumenten//NN|UTR|SIN|DEF|NOM//conj//0 .//MAD//punct//0 [//PAD//nmod//5
+5.10 Summary and Conclusion / Justitiedepartementet;6//RG|NOM//nmod//0 ]//PAD//punct//0
+
+5.10 Summary and Conclusion / Utrikesdepartementet;Immunitet//NN|UTR|SIN|IND|NOM//ROOT//0 för//PP//case//2 stater//NN|UTR|PLU|IND|NOM//nmod//0 och//KN//cc//5 deras//PS|UTR/NEU|SIN/PLU|DEF//nmod:poss//5 egendom//NN|UTR|SIN|IND|NOM//conj//2 .//MAD//punct//0 [//PAD//nmod//0
+5.10 Summary and Conclusion / Utrikesdepartementet;2//RG|NOM//nummod//7 ]//PAD//punct//0
+
+5.10 Summary and Conclusion / Socialdepartementet;Omreglering//NN|UTR|SIN|IND|NOM//ROOT//0 av//PP//case//2 apoteksmarknaden//NN|UTR|SIN|DEF|NOM//nmod//0 .//MAD//punct//0 [//PAD//nmod//0
+5.10 Summary and Conclusion / Socialdepartementet;4//RG|NOM//nummod//4 ]//PAD//punct//0
+
+5.10 Summary and Conclusion / Finansdepartementet;Finansiella//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//1 sektorn//NN|UTR|SIN|DEF|NOM//nsubj//2 bär//VB|PRS|AKT//ROOT//2 frukt//NN|UTR|SIN|IND|NOM//obj//2 .//MAD//punct//2
+5.10 Summary and Conclusion / Finansdepartementet;Analys//NN|UTR|SIN|IND|NOM//ROOT//0 av//PP//case//3 finansiella//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//3 sektorn//NN|UTR|SIN|DEF|NOM//nmod//0 ur//PP//case//7 ett//DT|NEU|SIN|IND//det//7 svenskt//JJ|POS|NEU|SIN|IND|NOM//amod//7 perspektiv//NN|NEU|SIN|IND|NOM//nmod//0 .//MAD//punct//0 [//PAD//nmod//0
+5.10 Summary and Conclusion / Finansdepartementet;12//RG|NOM//nummod//9 ]//PAD//punct//0
+
+5.10 Summary and Conclusion / Utbildningsdepartementet;Världsklass//NN|UTR|SIN|IND|NOM//ROOT//0 !//MID//punct//2
+5.10 Summary and Conclusion / Utbildningsdepartementet;Åtgärdsplan//NN|UTR|SIN|IND|NOM//appos//0 för//PP//case//6 den//DT|UTR|SIN|DEF//det//6 kliniska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//6 forskningen//NN|UTR|SIN|DEF|NOM//nmod//2 .//MAD//punct//2 [//PAD//nmod//9
+5.10 Summary and Conclusion / Utbildningsdepartementet;7//RG|NOM//nmod//2 ]//PAD//punct//0
+5.10 Summary and Conclusion / Utbildningsdepartementet;Bidrag//NN|NEU|PLU|IND|NOM//ROOT//0 på//PP//case//3 lika//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//3 villkor//NN|NEU|PLU|IND|NOM//nmod//0 .//MAD//punct//0 [//PAD//nmod//6
+5.10 Summary and Conclusion / Utbildningsdepartementet;8//RG|NOM//nmod//0 ]//PAD//punct//0
+5.10 Summary and Conclusion / Utbildningsdepartementet;Frihet//NN|UTR|SIN|IND|NOM//ROOT//0 för//PP//case//2 studenter//NN|UTR|PLU|IND|NOM//nmod//0 –//PAD//punct//0 om//PP//mark//10 hur//HA//advmod//10 kår-//NN|UTR|-|-|SMS//nsubj:pass//10 och//KN//cc//8 nationsobligatoriet//NN|NEU|SIN|DEF|NOM//conj//6 kan//VB|PRS|AKT//aux//10 avskaffas//VB|INF|SFO//advcl//0 .//MAD//punct//0 [//PAD//nmod//13
+5.10 Summary and Conclusion / Utbildningsdepartementet;11//RG|NOM//nmod//0 ]//PAD//punct//0
+
+5.10 Summary and Conclusion / Näringsdepartementet;Barlastvattenkonventionen//NN|UTR|SIN|DEF|NOM//ROOT//0 –//PAD//punct//4 om//PP//case//4 Sveriges//PM|GEN//nmod:poss//4 anslutning//NN|UTR|SIN|IND|NOM//nmod//0 .//MAD//punct//4 [//PAD//nmod//7
+5.10 Summary and Conclusion / Näringsdepartementet;1//RG|NOM//nummod//4 ]//PAD//punct//0
+5.10 Summary and Conclusion / Näringsdepartementet;Könsdiskriminerande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//1 reklam//NN|UTR|SIN|IND|NOM//ROOT//1 .//MAD//punct//1
+5.10 Summary and Conclusion / Näringsdepartementet;Kränkande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//1 utformning//NN|UTR|SIN|IND|NOM//ROOT//1 av//PP//case//4 kommersiella//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//4 meddelanden//NN|NEU|PLU|IND|NOM//nmod//1 .//MAD//punct//1 [//PAD//nmod//7
+5.10 Summary and Conclusion / Näringsdepartementet;5//RG|NOM//nmod//1 ]//PAD//punct//1
+5.10 Summary and Conclusion / Näringsdepartementet;Transportinspektionen//NN|UTR|SIN|DEF|NOM//ROOT//0 .//MAD//punct//0
+5.10 Summary and Conclusion / Näringsdepartementet;En//DT|UTR|SIN|IND//det//3 myndighet//NN|UTR|SIN|IND|NOM//appos//0 för//PP//case//6 all//DT|UTR|SIN|IND/DEF//det//6 trafik//NN|UTR|SIN|IND|NOM//nmod//3 .//MAD//punct//3
+5.10 Summary and Conclusion / Näringsdepartementet;+//MID//cc//9 Bilagor//NN|UTR|PLU|IND|NOM//nmod//3 .//MAD//punct//3 [//PAD//nmod//12
+5.10 Summary and Conclusion / Näringsdepartementet;9//RG|NOM//nmod//3 ]//PAD//punct//0
+5.10 Summary and Conclusion / Näringsdepartementet;Bättre//JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//1 kontakt//NN|UTR|SIN|IND|NOM//ROOT//1 via//PP//case//3 nätet//NN|NEU|SIN|DEF|NOM//nmod//1 –//RG|NOM//punct//1 om//PP//case//6 anslutning//NN|UTR|SIN|IND|NOM//obl//1 av//PP//case//9 förnybar//JJ|POS|UTR|SIN|IND|NOM//amod//9 elproduktion//NN|UTR|SIN|IND|NOM//nmod//6 .//MAD//punct//1
+

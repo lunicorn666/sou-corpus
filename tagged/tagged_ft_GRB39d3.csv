@@ -1,0 +1,107 @@
+Remiss;2003-03-04//RG|NOM//nummod//1 Fi2003/1069//NN|UTR|PLU|IND|NOM//ROOT//1
+
+Finansdepartementet;Skatte-//NN|UTR|-|-|SMS//ROOT//0 och//KN//cc//2 tullavdelningen//NN|UTR|SIN|DEF|NOM//conj//0
+Finansdepartementet;Monica//PM|NOM//ROOT//0 Falck//PM|NOM//flat:name//0
+Finansdepartementet;Telefon//NN|UTR|SIN|IND|NOM//nmod//1 08-405//RG|NOM//ROOT//1 1664//RG|NOM//nummod//1
+
+Betänkande om skatt på handelsgödsel och bekämpningsmedel;(//PAD//punct//1 HOBS-utredningen//NN|UTR|SIN|DEF|NOM//ROOT//1 ,//MID//punct//1 SOU//PM|NOM//conj//1 2003:9//RG|NOM//nummod//3 )//PAD//punct//1
+
+Remissinstanser:;1//RG|NOM//discourse//2 .//MID//punct//0
+Remissinstanser:;Kammarrätten//NN|UTR|SIN|DEF|NOM//ROOT//2 i//PP//case//4 Sundsvall//PM|NOM//nmod//2
+Remissinstanser:;2//RG|NOM//discourse//2 .//MAD//punct//0
+Remissinstanser:;Länsrätten//NN|UTR|SIN|DEF|NOM//ROOT//2 i//PP//case//5 Dalarnas//NN|UTR|PLU|DEF|GEN//nmod:poss//5 län//NN|NEU|SIN|IND|NOM//nmod//2
+Remissinstanser:;3//RG|NOM//discourse//2 .//MAD//punct//0
+Remissinstanser:;Konsumentverket//NN|NEU|SIN|DEF|NOM//ROOT//2
+Remissinstanser:;4//RG|NOM//discourse//2 .//MAD//punct//0
+Remissinstanser:;Kommerskollegium//NN|NEU|SIN|DEF|NOM//ROOT//2
+Remissinstanser:;5//RG|NOM//discourse//2 .//MAD//punct//0
+Remissinstanser:;Tullverket//PM|NOM//ROOT//2
+Remissinstanser:;6//RG|NOM//discourse//2 .//MAD//punct//0
+Remissinstanser:;Riksskatteverket//NN|NEU|SIN|DEF|NOM//ROOT//2
+Remissinstanser:;7//RG|NOM//discourse//2 .//MAD//punct//0
+Remissinstanser:;Länsstyrelsen//NN|UTR|SIN|DEF|NOM//ROOT//2 i//PP//case//4 Skåne//PM|NOM//nmod//2 län//NN|NEU|SIN|IND|NOM//conj//2
+Remissinstanser:;8//RG|NOM//discourse//2 .//MAD//punct//0
+Remissinstanser:;Länsstyrelsen//NN|UTR|SIN|DEF|NOM//ROOT//2 i//PP//case//5 Västra//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//5 Götaland//PM|NOM//nmod//2
+Remissinstanser:;9//RG|NOM//discourse//2 .//MAD//punct//0
+Remissinstanser:;Länsstyrelsen//NN|UTR|SIN|DEF|NOM//ROOT//2 i//PP//case//4 Östergötland//PM|NOM//nmod//2
+Remissinstanser:;10//RG|NOM//discourse//3 .//MAD//punct//0
+Remissinstanser:;Statens//NN|UTR|SIN|DEF|GEN//nmod:poss//3 jordbruksverk//NN|NEU|SIN|IND|NOM//ROOT//3
+Remissinstanser:;11//RG|NOM//discourse//3 .//MAD//punct//0
+Remissinstanser:;Livsmedelsekonomiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//3 institutet//NN|NEU|SIN|DEF|NOM//ROOT//3
+Remissinstanser:;12//RG|NOM//discourse//3 .//MAD//punct//0
+Remissinstanser:;Statens//NN|UTR|SIN|DEF|GEN//nmod:poss//3 livsmedelsverk//NN|NEU|SIN|IND|NOM//ROOT//3
+Remissinstanser:;13//RG|NOM//discourse//3 .//MID//punct//0
+Remissinstanser:;Sveriges//PM|GEN//nmod:poss//3 lantbruksuniversitet//NN|NEU|SIN|IND|NOM//ROOT//3
+Remissinstanser:;14//RG|NOM//discourse//2 .//MAD//punct//0
+Remissinstanser:;Naturvårdsverket//NN|NEU|SIN|DEF|NOM//ROOT//2
+Remissinstanser:;15//RG|NOM//discourse//2 .//MID//punct//0
+Remissinstanser:;Kemikalieinspektionen//NN|UTR|SIN|DEF|NOM//ROOT//2
+Remissinstanser:;16//RG|NOM//discourse//2 .//MAD//punct//0
+Remissinstanser:;Stiftelsen//NN|UTR|SIN|DEF|NOM//ROOT//2 för//PP//case//5 miljöstrategisk//JJ|POS|UTR|SIN|IND|NOM//amod//5 forskning//NN|UTR|SIN|IND|NOM//nmod//2
+Remissinstanser:;17//RG|NOM//discourse//2 .//MID//punct//0
+Remissinstanser:;Konkurrensverket//NN|NEU|SIN|DEF|NOM//ROOT//2
+Remissinstanser:;18//RG|NOM//discourse//2 .//MAD//punct//0
+Remissinstanser:;Skogsstyrelsen//NN|UTR|SIN|DEF|NOM//ROOT//2
+Remissinstanser:;19//RG|NOM//discourse//2 .//MAD//punct//0
+Remissinstanser:;Centrum//NN|NEU|SIN|IND|NOM//ROOT//2 för//PP//case//5 biologisk//JJ|POS|UTR|SIN|IND|NOM//amod//5 mångfald//NN|UTR|SIN|IND|NOM//nmod//2
+Remissinstanser:;20//RG|NOM//discourse//3 .//MAD//punct//0
+Remissinstanser:;Ekologiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//3 lantbrukarna//NN|UTR|PLU|DEF|NOM//ROOT//3
+Remissinstanser:;21//RG|NOM//discourse//2 .//MID//punct//0
+Remissinstanser:;Frö-//NN|UTR|-|-|SMS//ROOT//2 och//KN//cc//4 oljeväxtodlarna//NN|UTR|PLU|DEF|NOM//conj//2
+Remissinstanser:;22//RG|NOM//discourse//4 .//MAD//punct//0
+Remissinstanser:;Föreningen//NN|UTR|SIN|DEF|NOM//nmod//4 Sveriges//PM|GEN//nmod:poss//4 spannmålsodlare//NN|UTR|PLU|IND|NOM//ROOT//4
+Remissinstanser:;23//RG|NOM//discourse//2 .//MAD//punct//0
+Remissinstanser:;Greenpeace//PM|NOM//ROOT//2
+Remissinstanser:;24//RG|NOM//discourse//4 .//MAD//punct//0
+Remissinstanser:;Gröna//JJ|POS|UTR/NEU|SIN|DEF|NOM//nmod:poss//4 Näringens//NN|UTR|SIN|DEF|GEN//nmod:poss//4 riksorganisation//NN|UTR|SIN|IND|NOM//ROOT//4
+Remissinstanser:;25//RG|NOM//discourse//3 .//MAD//punct//0
+Remissinstanser:;Hushållningssällskapens//NN|UTR|SIN|DEF|GEN//nmod:poss//3 Förbund//NN|NEU|SIN|IND|NOM//ROOT//3
+Remissinstanser:;26//RG|NOM//discourse//2 .//MID//punct//0
+Remissinstanser:;Hydro//PM|NOM//ROOT//2 Agri//PM|NOM//flat//2
+Remissinstanser:;27//RG|NOM//discourse//2 .//MAD//punct//0
+Remissinstanser:;Industrin//NN|UTR|SIN|DEF|NOM//ROOT//2 för//PP//case//4 Växt-//NN|UTR|-|-|SMS//nmod//2 och//KN//cc//6 träskyddsmedel//NN|NEU|PLU|IND|NOM//conj//4
+Remissinstanser:;28//RG|NOM//discourse//2 .//MID//punct//0
+Remissinstanser:;Kemikontoret//NN|NEU|SIN|DEF|NOM//ROOT//2
+Remissinstanser:;29//RG|NOM//discourse//2 .//MAD//punct//0
+Remissinstanser:;KRAV//NN|NEU|PLU|IND|NOM//ROOT//2
+Remissinstanser:;30//RG|NOM//discourse//3 .//MAD//punct//0
+Remissinstanser:;Kungliga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//3 Skogs-//PM|SMS//ROOT//3 och//KN//cc//5 lantbruksakademin//NN|NEU|PLU|DEF|NOM//conj//3
+Remissinstanser:;31//RG|NOM//discourse//3 .//MID//punct//0
+Remissinstanser:;Lantbrukarnas//NN|UTR|PLU|DEF|GEN//nmod:poss//3 riksförbund//NN|NEU|SIN|IND|NOM//ROOT//3
+Remissinstanser:;32//RG|NOM//discourse//2 .//MAD//punct//0
+Remissinstanser:;Lantmännen//NN|UTR|SIN|DEF|NOM//ROOT//2
+Remissinstanser:;33//RG|NOM//nummod//2 .//MAD//punct//0
+Remissinstanser:;LRF//PM|NOM//ROOT//2 Skogsägarna//NN|UTR|PLU|DEF|NOM//flat//2
+Remissinstanser:;34//RG|NOM//nummod//2 .//MAD//punct//0
+Remissinstanser:;SLA//PM|NOM//nmod//3 Skogs-//PM|SMS//ROOT//3 och//KN//cc//5 lantarbetsgivareförbundet//NN|NEU|SIN|DEF|NOM//conj//3
+Remissinstanser:;35//RG|NOM//discourse//2 .//MAD//punct//0
+Remissinstanser:;SkogForsk//PM|NOM//ROOT//2
+Remissinstanser:;36//RG|NOM//discourse//2 .//MAD//punct//0
+Remissinstanser:;Skogsindustrierna//NN|UTR|PLU|DEF|NOM//ROOT//2
+Remissinstanser:;37//RG|NOM//discourse//2 .//MID//punct//0
+Remissinstanser:;Skogs-//NN|UTR|-|-|SMS//ROOT//2 och//KN//cc//4 träfacket//NN|NEU|SIN|DEF|NOM//conj//2
+Remissinstanser:;38//RG|NOM//discourse//3 .//MAD//punct//0
+Remissinstanser:;Svenska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//3 Kommunalarbetareförbundet//NN|NEU|SIN|DEF|NOM//ROOT//3
+Remissinstanser:;39//RG|NOM//discourse//3 .//MAD//punct//0
+Remissinstanser:;Svenska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//3 naturskyddsföreningen//NN|UTR|SIN|DEF|NOM//ROOT//3
+Remissinstanser:;40//RG|NOM//discourse//3 .//MID//punct//0
+Remissinstanser:;Svenskt//JJ|POS|NEU|SIN|IND|NOM//amod//3 Näringsliv//NN|NEU|SIN|IND|NOM//ROOT//3
+Remissinstanser:;41//RG|NOM//discourse//3 .//MID//punct//0
+Remissinstanser:;Sveriges//PM|GEN//nmod:poss//3 Betodlare//NN|UTR|PLU|IND|NOM//ROOT//3
+Remissinstanser:;Remissvaren//NN|NEU|PLU|DEF|NOM//nsubj//6 i//PP//case//3 3//RG|NOM//nummod//3 exemplar//NN|NEU|PLU|IND|NOM//nmod//0 skall//VB|PRS|AKT//aux//6 vara//VB|INF|AKT//cop//6 inkomna//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//ROOT//6 till//PP//case//8 Finansdepartementet//NN|NEU|SIN|DEF|NOM//obl//6 senast//AB|SUV//case//12 den//DT|UTR|SIN|DEF//det//12 3//RO|NOM//nummod//12 juni//NN|UTR|SIN|IND|NOM//obl//6 2003//RG|NOM//nummod//12 .//MAD//punct//6
+Remissinstanser:;Skicka//VB|IMP|AKT//parataxis//6 också//AB//advmod//15 svaren//NN|NEU|PLU|DEF|NOM//obj//15 via//PP//case//19 e-post//NN|UTR|SIN|IND|NOM//obl//15 eller//KN//cc//22 på//PP//case//22 diskett//NN|UTR|SIN|IND|NOM//conj//19 till//PP//case//24 registrator@finance.ministry.se//NN|NEU|SIN|IND|NOM//nmod//22 .//MAD//punct//6
+Remissinstanser:;I//PP//case//1 remissen//NN|UTR|SIN|DEF|NOM//obl//2 ligger//VB|PRS|AKT//ROOT//2 att//SN//mark//6 regeringen//NN|UTR|SIN|DEF|NOM//nsubj//6 vill//VB|PRS|AKT//aux//6 ha//VB|INF|AKT//ccomp//2 synpunkter//NN|UTR|PLU|IND|NOM//obj//6 på//PP//case//9 förslagen//NN|NEU|PLU|DEF|NOM//obl//6 eller//KN//cc//11 materialet//NN|NEU|SIN|DEF|NOM//conj//9 i//PP//case//13 betänkandet//NN|NEU|SIN|DEF|NOM//nmod//11 .//MAD//punct//2
+Remissinstanser:;Myndigheter//NN|UTR|PLU|IND|NOM//nsubj//5 under//PP//case//2 regeringen//NN|UTR|SIN|DEF|NOM//nmod//0  //_SP////2 är//VB|PRS|AKT//cop//5 skyldiga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//ROOT//5 att//IE//mark//7 svara//VB|INF|AKT//advcl//5 på//PP//case//9 remissen//NN|UTR|SIN|DEF|NOM//obl//7 .//MAD//punct//5
+Remissinstanser:;En//DT|UTR|SIN|IND//det//12 myndighet//NN|UTR|SIN|IND|NOM//nsubj//13 avgör//VB|PRS|AKT//parataxis//5 dock//AB//advmod//13 på//PP//case//17 eget//JJ|POS|NEU|SIN|IND/DEF|NOM//amod//17 ansvar//NN|NEU|SIN|IND|NOM//obl//13 om//SN//mark//20 den//PN|UTR|SIN|DEF|SUB/OBJ//nsubj//20 har//VB|PRS|AKT//advcl//13 några//DT|UTR/NEU|PLU|IND//det//22 synpunkter//NN|UTR|PLU|IND|NOM//obj//20 att//IE//mark//24 redovisa//VB|INF|AKT//acl//22 i//PP//case//27 ett//DT|NEU|SIN|IND//det//27 svar//NN|NEU|SIN|IND|NOM//obl//24 .//MAD//punct//5
+Remissinstanser:;Om//SN//mark//32 myndigheten//NN|UTR|SIN|DEF|NOM//nsubj//32 inte//AB//advmod//32 har//VB|PRS|AKT//advcl//5 några//DT|UTR/NEU|PLU|IND//det//34 synpunkter//NN|UTR|PLU|IND|NOM//obj//32 ,//MID//punct//36 räcker//VB|PRS|AKT//conj//5 det//PN|NEU|SIN|DEF|SUB/OBJ//nsubj//36 att//SN//mark//40 svaret//NN|NEU|SIN|DEF|NOM//nsubj//40 ger//VB|PRS|AKT//ccomp//36 besked//NN|NEU|SIN|IND|NOM//obj//40 om//PP//case//43 detta//PN|NEU|SIN|DEF|SUB/OBJ//obl//40 .//MAD//punct//5
+Remissinstanser:;För//PP//case//2 andra//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//2 remissinstanser//NN|UTR|PLU|IND|NOM//obl//4  //_SP////2 innebär//VB|PRS|AKT//ROOT//4 remissen//NN|UTR|SIN|DEF|NOM//nsubj//4 en//DT|UTR|SIN|IND//det//7 inbjudan//NN|UTR|SIN|IND|NOM//obj//4 att//IE//mark//9 lämna//VB|INF|AKT//acl//7 synpunkter//NN|UTR|PLU|IND|NOM//obj//9 .//MAD//punct//4
+Remissinstanser:;"Råd//NN|NEU|PLU|IND|NOM//nsubj//5 om//PP//mark//4 hur//HA//advmod//4 remissyttranden//NN|NEU|PLU|IND|NOM//nsubj:pass//4 utformas//VB|PRS|SFO//acl//0 finns//VB|PRS|SFO//ROOT//5 i//PP//case//8 Statsrådsberedningens//NN|UTR|SIN|DEF|GEN//nmod:poss//8 broschyr//NN|UTR|SIN|IND|NOM//obl//5 ""//PAD//punct//8 Svara//PM|NOM//appos//8 på//PP//case//12 remiss//NN|UTR|SIN|IND|NOM//nmod//10 .//MAD//punct//8"
+Remissinstanser:;"Hur//HA//discourse//21 och//KN//cc//16 varför//HA//conj//14 ?//MID//punct//14 ""//PAD//punct//21"
+Remissinstanser:;Broschyren//NN|UTR|SIN|DEF|NOM//nsubj:pass//21 kan//VB|PRS|AKT//aux//21 beställas//VB|INF|SFO//conj//5 från//PP//case//24 Regeringskansliets//NN|NEU|SIN|DEF|GEN//nmod:poss//24 förvaltningsavdelning//NN|UTR|SIN|IND|NOM//obl//21 ,//MID//punct//24 Information//NN|UTR|SIN|IND|NOM//nmod//27 Rosenbad//PM|NOM//appos//24 ,//MID//punct//21 103//RG|NOM//nummod//30 33//RG|NOM//nummod//31 Stockholm//PM|NOM//parataxis//21 .//MID//punct//21
+Remissinstanser:;Den//PN|UTR|SIN|DEF|SUB/OBJ//nsubj:pass//36 kan//VB|PRS|AKT//aux//36 också//AB//advmod//36 hämtas//VB|INF|SFO//parataxis//21 på//PP//case//36 ://MID//punct//36
+Remissinstanser:;http//www.regeringen.se//RG|NOM//parataxis//36 ///MID//cc//41 propositioner//NN|UTR|PLU|IND|NOM//conj//39 ///MID//cc//43 sou//NN|NEU|SIN|IND|NOM//nmod//41 ///MID//cc//45 pdf//NN|AN//conj//39 ///MID//cc//47 remiss.pdf//PM|NOM//conj//39
+Remissinstanser:;Agneta//PM|NOM//ROOT//0 Bergqvist//PM|NOM//flat//0
+Remissinstanser:;Kopia//NN|UTR|SIN|IND|NOM//ROOT//0 till//PP//case//0
+Remissinstanser:;Fritzes//PM|NOM//amod//1 kundservice//NN|UTR|SIN|IND|NOM//ROOT//1 ,//MID//punct//1 106//RG|NOM//nummod//4 47//RG|NOM//nummod//5 Stockholm//PM|NOM//appos//1
+Remissinstanser:;Riksdagens//NN|UTR|SIN|DEF|GEN//nmod:poss//1 utredningstjänst//NN|UTR|SIN|IND|NOM//ROOT//1
+

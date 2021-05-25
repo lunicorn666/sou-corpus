@@ -1,0 +1,193 @@
+To the Minister and Head of the Ministry of Health and Social Affairs;Stockholm//PM|NOM//ROOT//0 in//PM|NOM//compound:prt//0 October//PM|NOM//obj//0 2000//RG|NOM//nummod//0
+
+
+2.1 Economic development;Agriculture//UO//ROOT//0 and//UO//cc//2 forestry//UO//conj//0
+2.1 Economic development;Construction//PM|NOM//ROOT//0
+2.1 Economic development;Trade//PM|NOM//ROOT//0
+2.1 Economic development;Transport//PM|NOM//ROOT//0 and//UO//cc//2 communication//UO//conj//0
+2.1 Economic development;Financing//NN|UTR|SIN|IND|NOM//ROOT//0 ,//MID//punct//0 insurances//UO//conj//0
+2.1 Economic development;Services//PM|NOM//ROOT//0
+2.1 Economic development;Source//PM|NOM//ROOT//0 ://MID//punct//0
+2.1 Economic development; //_SP////1 SCB//PM|NOM//appos//0 (//PAD//punct//3 Lundborg//PM|NOM//appos//3 2000//RG|NOM//nummod//5 )//PAD//punct//3 .//MAD//punct//0
+2.1 Economic development;Source//PM|NOM//ROOT//0 ://MID//punct//0
+2.1 Economic development;Labour//PM|NOM//nmod//3 Statistics//PM|NOM//appos//0 ,//MID//punct//3
+
+
+4.1 Social protection expenditure;Adaptation//NN|UTR|SIN|IND|NOM//ROOT//0 in//PM|NOM//case//2 Finland//PM|NOM//nmod//0
+4.1 Social protection expenditure;Adaptation//NN|UTR|SIN|IND|NOM//ROOT//0 in//PM|NOM//case//2 Sweden//PM|NOM//nmod//0
+4.1 Social protection expenditure;Sweden//PM|NOM//ROOT//0
+4.1 Social protection expenditure;Resources//UO//ROOT//0
+4.1 Social protection expenditure;Coverage//NN|NEU|SIN|IND|NOM//ROOT//0
+4.1 Social protection expenditure;Sweden//PM|NOM//ROOT//0 ,//MID//punct//0 total//JJ|POS|UTR|SIN|IND|NOM//conj//0
+4.1 Social protection expenditure;Finland//PM|NOM//ROOT//0 ,//MID//punct//2 total//JJ|POS|UTR|SIN|IND|NOM//conj//0
+4.1 Social protection expenditure;Sweden//PM|NOM//ROOT//0 ,//MID//punct//3 service//UO//amod//3 housing//UO//conj//0
+4.1 Social protection expenditure;Finland//PM|NOM//ROOT//0 ,//MID//punct//2 service//UO//conj//0 housing//UO//conj//0
+4.1 Social protection expenditure;Source//PM|NOM//ROOT//0 ://MID//punct//0
+4.1 Social protection expenditure; //_SP////1 Nososco//PM|NOM//appos//0 1999//RG|NOM//nummod//3 ://MID//punct//3
+4.1 Social protection expenditure;109//RG|NOM//nmod//3 .//MAD//punct//0
+4.1 Social protection expenditure;Source//PM|NOM//ROOT//0 ://MID//punct//0
+4.1 Social protection expenditure; //_SP////1 Stakes//UO//nmod//4 statistics//UO//appos//0 .//MAD//punct//0
+4.1 Social protection expenditure;Resources//UO//ROOT//0
+
+4.1 Social protection expenditure / Year;Coverage//NN|NEU|SIN|IND|NOM//ROOT//0
+4.1 Social protection expenditure / Year;Finland//PM|NOM//ROOT//0
+4.1 Social protection expenditure / Year;Sweden//PM|NOM//ROOT//0
+
+5 Economic welfare Unemployment rate, %;15-19//RG|NOM//nummod//2 20-24//RG|NOM//nummod//2 25-34//RG|NOM//nmod//3 55-59//RG|NOM//nmod//5  //_SP////3 60-64//RG|NOM//ROOT//5
+
+5.2 Income distribution;Source//PM|NOM//ROOT//0 ://MID//punct//0
+5.2 Income distribution; //_SP////1 Uusitalo//PM|NOM//appos//0 1999//RG|NOM//nummod//3 .//MAD//punct//0
+5.2 Income distribution;Source//PM|NOM//ROOT//0 ://MID//punct//0
+5.2 Income distribution; //_SP////1 Jansson//PM|NOM//appos//0 2000//RG|NOM//nummod//3 .//MAD//punct//0
+5.2 Income distribution;Source//PM|NOM//ROOT//0 ://MID//punct//0
+5.2 Income distribution; //_SP////1 Uusitalo//PM|NOM//appos//0 1999//RG|NOM//nummod//3 .//MAD//punct//0
+5.2 Income distribution;All//UO//det//1 households//UO//ROOT//1
+5.2 Income distribution;Self-employed//NN|UTR|SIN|IND|NOM//ROOT//0
+5.2 Income distribution;Upper//PM|NOM//amod//1 white//UO//nsubj//2 collar//UO//ROOT//2
+5.2 Income distribution;Lower//PM|NOM//nmod:poss//1 white//PM|NOM//nsubj//2 collar//UO//ROOT//2
+5.2 Income distribution;Workers//PM|NOM//ROOT//0
+5.2 Income distribution;Students//UO//ROOT//0
+5.2 Income distribution;Pensioners//NN|UTR|PLU|IND|GEN//ROOT//0
+5.2 Income distribution;Long-term//UO//amod//1 unemployed//UO//ROOT//1
+5.2 Income distribution;Others//PM|GEN//ROOT//0
+5.2 Income distribution;Source//PM|NOM//ROOT//0 ://MID//punct//0
+5.2 Income distribution; //_SP////1 Uusitalo//PM|NOM//appos//0 1999//RG|NOM//nummod//3 .//MAD//punct//0
+5.2 Income distribution;All//UO//det//1 households//UO//ROOT//1
+5.2 Income distribution;One-person//UO//discourse//1 households//UO//ROOT//1
+5.2 Income distribution;Single//UO//amod//1 parents//UO//ROOT//1
+5.2 Income distribution;Childless//UO//nmod:poss//1 couples//UO//ROOT//1
+5.2 Income distribution;Couples//UO//nsubj//1 with//UO//ROOT//1 children//UO//obj//1
+5.2 Income distribution;Others//PM|GEN//ROOT//0
+5.2 Income distribution;Source//PM|NOM//ROOT//0 ://MID//punct//0
+5.2 Income distribution;Uusitalo//PM|NOM//appos//0 1999//RG|NOM//nummod//2 .//MAD//punct//2
+5.2 Income distribution;<//MID//nummod//7 34//RG|NOM//nummod//7 years//NN|UTR|PLU|IND|NOM//conj//2
+
+5.2 Income distribution / Year;Source//PM|NOM//ROOT//0 ://MID//punct//0
+5.2 Income distribution / Year; //_SP////1 Jansson//PM|NOM//appos//0 2000//RG|NOM//nummod//3 .//MAD//punct//0
+
+5.3 Social assistance Index, 1990=100;Unemploy//NN|UTR|SIN|IND|NOM//nmod//1 ment//UO//nsubj//2 rate//PM|NOM//ROOT//2
+5.3 Social assistance Index, 1990=100;Unemploym//PM|NOM//amod//2 ent//UO//amod//2 rate//UO//ROOT//2
+
+6 Concluding remarks;…//UO//punct//1 with//UO//ROOT//1 national//UO//amod//3 peculiarities//UO//obj//1
+
+6 Concluding remarks / References;Andersson//PM|NOM//nsubj//39 ,//MID//punct//0 J.//PM|NOM//conj//0 O.//PM|NOM//flat:name//2 ,//MID//punct//2 P.//PM|NOM//conj//0 Kosonen//PM|NOM//flat:name//5 &//KN|AN//cc//5 J.//PM|NOM//flat:name//5 Vartiainen//PM|NOM//flat:name//5 ,//MID//punct//5 1993//RG|NOM//nummod//5 .//MAD//punct//0 ”//PM|NOM//punct//16
+6 Concluding remarks / References;The//PM|NOM//det//16 Finnish//PM|NOM//nmod//16 Model//PM|NOM//appos//0 of//PM|NOM//case//18 Economic//UO//amod//21 and//UO//cc//18 Social//UO//amod//21 Policy//UO//conj//0 –//PM|NOM//punct//24 From//UO//compound//24 Emulation//UO//nmod//21 to//UO//case//26 Crash//PM|NOM//nmod//24 ”//PM|NOM//punct//21 ,//MID//punct//29 Åbo//PM|NOM//conj//0 ://MID//punct//29
+6 Concluding remarks / References;Meddelanden//NN|NEU|PLU|IND|NOM//conj//0 från//PP//case//34 ekonomisk-statsvetenskapliga//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//34 fakulteten//NN|UTR|SIN|DEF|NOM//nmod//31 vid//PP//case//37 Åbo//PM|NOM//amod//37 Akademi//NN|UTR|SIN|IND|NOM//nmod//31 ,//MID//punct//31 Ser//VB|IMP|AKT//ROOT//39 .//MAD//punct//39
+6 Concluding remarks / References;A:401//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//parataxis//39 .//MAD//punct//41
+6 Concluding remarks / References;6//RG|NOM//discourse//2 (//PAD//punct//0 2):87–100//RG|NOM//ROOT//2 .//MAD//punct//2
+6 Concluding remarks / References;Baldersheim//PM|NOM//ROOT//0 ,//MID//punct//2 H.//PM|NOM//conj//0 &//KN|AN//cc//2 K.//PM|NOM//conj//0 Ståhlberg//PM|NOM//flat:name//4 ,//MID//punct//4 1998//RG|NOM//nummod//4 .//MID//punct//0
+6 Concluding remarks / References;Perspektiv//NN|NEU|SIN|IND|NOM//conj//0 på//PP//case//11 regioner//NN|UTR|PLU|IND|NOM//nmod//9 i//PP//case//13 Norden//PM|NOM//nmod//11  //_SP////13 (//PAD//punct//16 Perspective//UO//appos//9 on//UO//case//18 Regions//PM|NOM//nmod//16 in//PM|NOM//punct//16 the//PM|NOM//nummod//21 Nordic//PM|NOM//compound//22 Countries//PM|NOM//conj//16 )//PAD//punct//16 .//MID//punct//27
+6 Concluding remarks / References;Kommunenes//PM|GEN//nmod:poss//27 sentralforbund//JJ|POS|UTR|SIN|IND|NOM//amod//27 forskning//NN|UTR|SIN|IND|NOM//conj//9 .//MAD//punct//27
+6 Concluding remarks / References;Åbo//PM|NOM//discourse//33 ://MID//punct//29
+6 Concluding remarks / References;Åbo//PM|NOM//nmod:poss//33 Akademins//PM|GEN//nmod:poss//33 tryckeri//NN|NEU|SIN|IND|NOM//conj//9 .//MAD//punct//33
+6 Concluding remarks / References;Bergmark//PM|NOM//nsubj//7 ,//MID//punct//0 Å.//PM|NOM//conj//0 ,//MID//punct//2 2000//RG|NOM//conj//0 .//MAD//punct//0 ”//RG|NOM//punct//0
+6 Concluding remarks / References;Socialbidragen//NN|NEU|PLU|DEF|NOM//ROOT//7 under//PP//case//9 1990-talet//NN|NEU|SIN|DEF|NOM//nmod//7 ”//RG|NOM//flat//9 (//PAD//punct//13 Social//PM|NOM//amod//13 Assistance//PM|NOM//appos//7 in//PM|NOM//compound:prt//13 the//PM|NOM//nmod//13 1990s//RG|NOM//nummod//13 )//PAD//punct//13 ,//MID//punct//20 in//PM|NOM//advmod//20 Å.//PM|NOM//conj//7 Bergmark//PM|NOM//flat//20 (//PAD//punct//20 ed//NN|UTR|SIN|IND|NOM//nmod//20 )//PAD//punct//20 ,//MID//punct//26 Välfärd//NN|UTR|SIN|IND|NOM//conj//7 och//KN//cc//28 försörjning//NN|UTR|SIN|IND|NOM//conj//26 ,//MID//punct//30 SOU//PM|NOM//conj//7 2000:40//RG|NOM//conj//7 .//MAD//punct//7
+6 Concluding remarks / References;Stockholm//PM|NOM//conj//7 ://MID//punct//33
+6 Concluding remarks / References;Fritzes//PM|NOM//appos//33 .//MAD//punct//7
+6 Concluding remarks / References;Ds//NN|NEU|SIN|IND|NOM//obl//15 ,//MID//punct//2 1999:61//RG|NOM//conj//0 .//MID//punct//0
+6 Concluding remarks / References; //_SP////3 Samhällets//NN|NEU|SIN|DEF|GEN//nmod:poss//6 stöd//NN|NEU|SIN|IND|NOM//conj//0 till//PP//case//9 de//DT|UTR/NEU|PLU|DEF//det//9 äldre//JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM//nmod//6 i//PP//case//11 Europa//PM|NOM//nmod//9 (//PAD//punct//6 Public//PM|NOM//amod//14 Expenditure//PM|NOM//nsubj//15 for//PM|NOM//ROOT//15 the//PM|NOM//nsubj//15 Eldery//PM|NOM//obj//15 in//PM|NOM//case//19 Europe//PM|NOM//obl//15 )//PAD//punct//15 .//MAD//punct//15
+6 Concluding remarks / References;Report//PM|NOM//parataxis//15 to//PM|NOM//case//26 ESO//PM|NOM//nmod//26 by//PM|NOM//nmod//26 M.//PM|NOM//nmod//22 Medelberg//PM|NOM//flat:name//26 ,//MID//punct//29 Å.//PM|NOM//conj//22 Fossell//PM|NOM//flat//29 ,//MID//punct//32 M.//PM|NOM//conj//22 Axén//PM|NOM//flat:name//32 Andersson//PM|NOM//flat:name//33 &//KN|AN//cc//37 D.//PM|NOM//compound//37 Ljungberg//PM|NOM//conj//32 .//MAD//punct//32
+6 Concluding remarks / References;Stockholm//PM|NOM//conj//22 ://MID//punct//39
+6 Concluding remarks / References;Ministry//PM|NOM//appos//39 of//PM|NOM//case//43 Finance//PM|NOM//nmod//41 .//MAD//punct//15
+6 Concluding remarks / References;Cambridge//PM|NOM//ROOT//0 ://MID//punct//0
+6 Concluding remarks / References;Polity//PM|NOM//nmod//3 Press//PM|NOM//appos//0 .//MAD//punct//0
+6 Concluding remarks / References;Labour//PM|NOM//ROOT//0 .//MAD//punct//0
+6 Concluding remarks / References;Freeman//PM|NOM//nsubj//24 ,//MID//punct//0 R.//PM|NOM//conj//0 B.//PM|NOM//flat:name//2 ,//MID//punct//2 B.//PM|NOM//conj//0 Swedenborg//PM|NOM//flat:name//5 &//KN|AN//cc//5 R.//PM|NOM//flat:name//5 Topel//PM|NOM//flat:name//5 ,//MID//punct//5 1995//RG|NOM//nummod//5 .//MAD//punct//0
+6 Concluding remarks / References;Välfärdsstat//NN|NEU|SIN|IND|NOM//appos//0 i//PP//case//15 omvandling//NN|UTR|SIN|IND|NOM//nmod//13  //_SP////15 (//PAD//punct//20 The//PM|NOM//det//20 Changing//PM|NOM//compound//20 Welfare//PM|NOM//compound//21 State//PM|NOM//nmod//13 )//PAD//punct//13 .//MAD//punct//0
+6 Concluding remarks / References;Stockholm//PM|NOM//ROOT//24 ://MID//punct//24
+6 Concluding remarks / References;SNS//PM|NOM//nmod//27 Förlag//PM|NOM//appos//24 .//MAD//punct//24
+6 Concluding remarks / References;Halleröd//PM|NOM//ROOT//0 ,//MID//punct//0 B.//PM|NOM//conj//0 ,//MID//punct//2 1991//RG|NOM//nummod//0 .//MID//punct//0
+6 Concluding remarks / References; //_SP////5 Den//DT|UTR|SIN|DEF//det//9 svenska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//9 fattigdomen//NN|UTR|SIN|DEF|NOM//conj//0 ://MID//punct//9
+6 Concluding remarks / References;en//DT|UTR|SIN|IND//det//12 studie//NN|UTR|SIN|IND|NOM//conj//0 av//PP//case//14 fattigdom//NN|UTR|SIN|IND|NOM//nmod//12 och//KN//cc//16 socialbidragstagande//NN|NEU|SIN|IND|NOM//conj//14 (//PAD//punct//0 Poverty//PM|NOM//appos//0 in//PM|NOM//case//20 Sweden//PM|NOM//nmod//18 ://MID//punct//18
+6 Concluding remarks / References;A//PM|NOM//compound//23 Study//PM|NOM//obl//24 on//PM|NOM//punct//0 Poverty//PM|NOM//conj//0 and//PM|NOM//cc//25 Social//PM|NOM//amod//28 Assistance//PM|NOM//conj//0 )//PAD//punct//28 .//MID//punct//0
+6 Concluding remarks / References;Lund//PM|NOM//conj//0 ://MID//punct//31
+6 Concluding remarks / References;Arkiv//NN|NEU|SIN|IND|NOM//conj//0 .//MAD//punct//0
+6 Concluding remarks / References;Hoem//PM|NOM//nsubj//13 ,//MID//punct//0 B.//PM|NOM//conj//0 ,//MID//punct//2 2000//RG|NOM//nummod//2 .//MAD//punct//0 ”//NN|UTR|SIN|IND|NOM//punct//0
+6 Concluding remarks / References;Utan//PP//case//8 jobb//NN|NEU|SIN|IND|NOM//conj//0 –//PAD//punct//11 inga//DT|UTR/NEU|PLU|IND//det//11 barn//NN|NEU|PLU|IND|NOM//appos//8 ?//MID//punct//11
+6 Concluding remarks / References;Fruktsamhetsutvecklingen//NN|UTR|SIN|DEF|NOM//ROOT//13 under//PP//case//15 1990-talet//NN|NEU|SIN|DEF|NOM//nmod//13 ”//RG|NOM//nmod//13 (//PAD//punct//13 No//PM|NOM//nmod//19 Job//PM|NOM//appos//13 –//PM|NOM//punct//19 No//PM|NOM//nmod//22 Children//PM|NOM//appos//19 ?//MID//punct//24
+6 Concluding remarks / References;Fertility//PM|NOM//conj//19 in//PM|NOM//advmod//24 the//PM|NOM//nmod//24 1990s//RG|NOM//nummod//24 )//PAD//punct//24 in//PM|NOM//advmod//30 J.//PM|NOM//conj//19 Fritzell//PM|NOM//flat:name//30 ,//MID//punct//19 (//PAD//punct//34 ed//NN|UTR|SIN|IND|NOM//appos//19 )//PAD//punct//34 ,//MID//punct//38 Välfärdens//NN|UTR|SIN|DEF|GEN//nmod:poss//38 förutsättningar//NN|UTR|PLU|IND|NOM//conj//19 ,//MID//punct//40 Arbetsmarknad//NN|UTR|SIN|IND|NOM//conj//38 ,//MID//punct//42 demografi//NN|UTR|SIN|IND|NOM//conj//38 och//KN//cc//44 segregation//NN|UTR|SIN|IND|NOM//conj//38 ,//MID//punct//38  //_SP////45 SOU//PM|NOM//conj//19 2000:37//RG|NOM//conj//19 .//MID//punct//19
+6 Concluding remarks / References;Stockholm//PM|NOM//conj//19 ://MID//punct//50
+6 Concluding remarks / References;Fritzes//PM|NOM//conj//19 .//MAD//punct//13
+6 Concluding remarks / References;99/115//RG|NOM//ROOT//0 .//MAD//punct//0
+6 Concluding remarks / References;99/122//RG|NOM//ROOT//0 .//MAD//punct//0
+6 Concluding remarks / References;Jansson//PM|NOM//ROOT//0 ,//MID//punct//0 K.//PM|NOM//conj//0 ,//MID//punct//2 2000//RG|NOM//nummod//0 .//MAD//punct//0 ”//PAD//punct//7
+6 Concluding remarks / References;Inkomstfördelningen//NN|UTR|SIN|DEF|NOM//appos//0 under//PP//case//9 1990-talet//NN|NEU|SIN|DEF|NOM//nmod//7 ”//RG|NOM//flat//9 (//PAD//punct//12 Income//PM|NOM//appos//7 Distribution//PM|NOM//flat:name//12 in//PM|NOM//nmod//12 the//PM|NOM//conj//12 1990s//RG|NOM//nummod//12 )//PAD//punct//12 in//PM|NOM//case//19 Å.//PM|NOM//conj//12 Bergmark//PM|NOM//flat//19 (//PAD//punct//20 ed//NN|UTR|SIN|IND|NOM//conj//12 )//PAD//punct//12 ,//MID//punct//25 Välfärd//NN|UTR|SIN|IND|NOM//conj//12 och//KN//cc//27 försörjning//NN|UTR|SIN|IND|NOM//conj//25 ,//MID//punct//29 SOU//PM|NOM//conj//12 2000:40//RG|NOM//conj//12 .//MAD//punct//12
+6 Concluding remarks / References;Stockholm//PM|NOM//conj//12 ://MID//punct//32
+6 Concluding remarks / References;Fritzes//PM|NOM//conj//12 .//MAD//punct//12
+6 Concluding remarks / References;Johansson//PM|NOM//ROOT//0 ,//MID//punct//0 H.//PM|NOM//conj//0 ,//MID//punct//2 2000//RG|NOM//conj//0 .//MAD//punct//0 ”//RG|NOM//punct//7
+6 Concluding remarks / References;Ungdomar//NN|UTR|PLU|IND|NOM//appos//0 med//PP//case//9 socialbidrag//NN|NEU|PLU|IND|NOM//nmod//7 –//PAD//punct//13 ett//DT|NEU|SIN|IND//det//13 politiskt//JJ|POS|NEU|SIN|IND|NOM//amod//13 problem//NN|NEU|SIN|IND|NOM//appos//7 för//PP//case//15 1990-talet//NN|NEU|SIN|DEF|NOM//nmod//13 ”//RG|NOM//flat//15 (//PAD//punct//18 Youth//PM|NOM//appos//7 on//PM|NOM//punct//18 Social//PM|NOM//amod//21 Assistance//PM|NOM//conj//18 –//PAD//punct//25 a//PM|NOM//case//25 Political//PM|NOM//amod//25 Problem//NN|NEU|SIN|IND|NOM//conj//18 of//PM|NOM//case//28 the//PM|NOM//det//28 1990s//RG|NOM//nmod//25 )//PAD//punct//18 in//PM|NOM//case//31 Å.//PM|NOM//conj//18 Bergmark//PM|NOM//flat//31 (//PAD//punct//32 ed//NN|UTR|SIN|IND|NOM//conj//18 )//PAD//punct//18 ,//MID//punct//37 Välfärd//NN|UTR|SIN|IND|NOM//conj//7 och//KN//cc//39 försörjning//NN|UTR|SIN|IND|NOM//conj//37 ,//MID//punct//42  //_SP////40 SOU//PM|NOM//conj//7 2000:40//RG|NOM//punct//7 .//MAD//punct//7
+6 Concluding remarks / References;Stockholm//PM|NOM//appos//7 ://MID//punct//45
+6 Concluding remarks / References;Fritzes//PM|NOM//conj//7 .//MAD//punct//7
+6 Concluding remarks / References;"Karvonen//PM|NOM//nsubj//33 ,//MID//punct//0 L.//PM|NOM//conj//0 ,//MID//punct//2 1981//RG|NOM//nummod//0 .//MAD//punct//0 ""//PAD//punct//12"
+6 Concluding remarks / References;"Med//PP//case//10 vårt//PS|NEU|SIN|DEF//nmod:poss//10 västra//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//10 grannland//NN|NEU|SIN|IND|NOM//obl//12 som//KN//mark//12 förebild//NN|UTR|SIN|IND|NOM//appos//0 ""//PAD//punct//15 en//DT|UTR|SIN|IND//det//15 undersökning//NN|UTR|SIN|IND|NOM//conj//0 av//PP//case//17 policydiffusion//NN|UTR|SIN|IND|NOM//nmod//15 från//PP//case//19 Sverige//PM|NOM//nmod//17 till//PP//case//21 Finland//PM|NOM//nmod//15 (//PAD//punct//15 Our//PM|NOM//nmod//24 Western//PM|NOM//nmod//25 Neighbour//PM|NOM//appos//15 as//PM|NOM//fixed//25 an//UO//case//28 Example//PM|NOM//nmod//15 .//MID//punct//15"
+6 Concluding remarks / References;A//PM|NOM//case//31 Study//PM|NOM//nmod//15 on//PM|NOM//punct//15 Policy//UO//nmod//34 Diffusion//UO//ROOT//34 from//PM|NOM//case//36 Sweden//PM|NOM//nmod//34 to//PM|NOM//case//38 Finland//PM|NOM//nmod//36 )//PAD//punct//34 .//MAD//punct//34
+6 Concluding remarks / References;Akademisk//JJ|POS|UTR|SIN|IND|NOM//amod//42 avhandling//NN|UTR|SIN|IND|NOM//nsubj//50 ,//MID//punct//44 Meddelanden//NN|NEU|PLU|IND|NOM//conj//42 från//PP//case//46 stiftelsens//NN|UTR|SIN|DEF|GEN//nmod//44 för//PP//case//49 Åbo//PM|NOM//amod//49 Akademi//PM|GEN//nmod//46 forskningsinstitut//NN|NEU|SIN|IND|NOM//parataxis//34 nr//NN|AN//nmod//52 62//RG|NOM//obj//50 .//MAD//punct//34
+6 Concluding remarks / References;Kauppinen//PM|NOM//nsubj//20 ,//MID//punct//0 S.//PM|NOM//conj//0 ,//MID//punct//2 1999//RG|NOM//nummod//0 .//MAD//punct//0
+6 Concluding remarks / References;Den//DT|UTR|SIN|DEF//det//8 privata//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//8 socialservicen//NN|UTR|SIN|DEF|NOM//appos//0 1998//RG|NOM//nummod//8  //_SP////9 (//PAD//punct//14 Private//PM|NOM//nmod:poss//14 Social//PM|NOM//amod//14 Services//PM|NOM//appos//8 in//PM|NOM//case//16 Finland//PM|NOM//nmod//14 )//PAD//punct//14 .//MID//punct//20
+6 Concluding remarks / References;Stakes//UO//nmod//20 statistik-rapport//NN|UTR|SIN|IND|NOM//ROOT//20 .//MAD//punct//20
+6 Concluding remarks / References;Kiander//PM|NOM//ROOT//0 ,//MID//punct//0 J.//PM|NOM//conj//0 ,//MID//punct//2 1997//RG|NOM//nummod//0 .//MAD//punct//0 ”//PAD//punct//7
+6 Concluding remarks / References;Kysyntätekijät//PM|NOM//conj//0 ja//IN//punct//7 työttömyys//NN|NEU|SIN|IND|GEN//conj//7 1990-luvun//NN|NEU|SIN|DEF|NOM//amod//11 lamassa//NN|UTR|SIN|IND|NOM//conj//7 ”//PM|NOM//punct//7 (//PAD//punct//7 Demand//PM|NOM//nmod//15 Factors//PM|NOM//appos//7 and//PM|NOM//cc//15 Unemployment//PM|NOM//conj//15 in//PM|NOM//compound:prt//7 the//PM|NOM//conj//7 1990s//RG|NOM//nummod//7 Recession//PM|NOM//flat:name//7 )//PAD//punct//7 .//MAD//punct//7
+6 Concluding remarks / References;Lundborg//PM|NOM//ROOT//0 ,//MID//punct//2 P.//PM|NOM//conj//0 ,//MID//punct//2 2000//RG|NOM//conj//0 .//MAD//punct//0 ”//RG|NOM//punct//8
+6 Concluding remarks / References;Vilka//HP|UTR/NEU|PLU|IND//nsubj//8 förlorade//VB|PRT|AKT//parataxis//0 jobbet//NN|NEU|SIN|DEF|NOM//obj//8 under//PP//case//11 1990-talet//NN|NEU|SIN|DEF|NOM//obl//8 ?//MID//punct//8 ”//PM|NOM//punct//8
+6 Concluding remarks / References;(//PAD//punct//13 Who//PM|NOM//nmod//16 Lost//PM|NOM//appos//0 Jobs//PM|NOM//flat:name//16 in//PM|NOM//compound:prt//16 the//PM|NOM//nmod//16 1990s//RG|NOM//nummod//16 ?//MID//punct//16 )//PAD//punct//16
+6 Concluding remarks / References;in//PM|NOM//advmod//24 J.//PM|NOM//conj//16 Fritzell//PM|NOM//flat:name//24 (//PAD//punct//16 ed//NN|UTR|SIN|IND|NOM//appos//16 )//PAD//punct//16 ,//MID//punct//31 Välfärdens//NN|UTR|SIN|DEF|GEN//nmod:poss//31 förutsättningar//NN|UTR|PLU|IND|NOM//conj//0 ,//MID//punct//33 Arbetsmarknad//NN|UTR|SIN|IND|NOM//conj//31 ,//MID//punct//35 demografi//NN|UTR|SIN|IND|NOM//conj//31 och//KN//cc//37 segregation//NN|UTR|SIN|IND|NOM//conj//31 ,//MID//punct//31 SOU//PM|NOM//conj//0 2000:37//RG|NOM//conj//0 .//MID//punct//0
+6 Concluding remarks / References;Stockholm//PM|NOM//conj//0 ://MID//punct//42
+6 Concluding remarks / References;Fritzes//PM|NOM//conj//0 .//MAD//punct//0
+6 Concluding remarks / References;Finance//PM|NOM//ROOT//0 .//MAD//punct//0
+6 Concluding remarks / References;Palme//PM|NOM//ROOT//0 ,//MID//punct//0 J.//PM|NOM//conj//0 ,//MID//punct//2 2000//RG|NOM//conj//0 .//MAD//punct//0 ”//RG|NOM//punct//7
+6 Concluding remarks / References;Socialförsäkringar//NN|UTR|PLU|IND|NOM//appos//0 och//KN//cc//9 kontanta//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//conj//7 familjestöd//NN|NEU|PLU|IND|NOM//conj//7 ”//PAD//punct//7 (//PAD//punct//7 Social//PM|NOM//amod//14 Security//PM|NOM//appos//7 and//PM|NOM//cc//17 Family//PM|NOM//compound//17 Cash//PM|NOM//compound//18 Benefits//PM|NOM//conj//14 )//PAD//punct//7 in//PM|NOM//case//21 Å.//PM|NOM//conj//0 Bergmark//PM|NOM//flat:name//21 (//PAD//punct//22 ed//NN|UTR|SIN|IND|NOM//conj//0 )//PAD//punct//0 ,//MID//punct//27 Välfärd//NN|UTR|SIN|IND|NOM//conj//0 och//KN//cc//29 försörjning//NN|UTR|SIN|IND|NOM//conj//27 .//MAD//punct//0
+6 Concluding remarks / References;Stockholm//PM|NOM//conj//0 ://MID//punct//31
+6 Concluding remarks / References;Fritzes//PM|NOM//conj//0 .//MAD//punct//0
+6 Concluding remarks / References;Kansantaloudellinen//NN|UTR|SIN|DEF|NOM//nsubj//1 aikakauskirja//NN|UTR|SIN|IND|NOM//ROOT//1 91//RG|NOM//nummod//1 ://MID//punct//1
+6 Concluding remarks / References;4//RG|NOM//nummod//1 .//MAD//punct//1
+6 Concluding remarks / References;Regnér//PM|NOM//nsubj//14 ,//MID//punct//0 H.//PM|NOM//conj//0 ,//MID//punct//2 2000//RG|NOM//conj//0 .//MAD//punct//0
+6 Concluding remarks / References;Ändrade//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//amod//7 förutsättningar//NN|UTR|PLU|IND|NOM//conj//0 för//PP//case//9 arbetsmarknadspolitiken//NN|UTR|SIN|DEF|NOM//nmod//7 ?//MID//punct//7
+6 Concluding remarks / References;(//PAD//punct//0 Changing//PM|NOM//compound//13 Preconditions//PM|NOM//appos//0 for//PM|NOM//ROOT//14 Labour//PM|NOM//nsubj//14 Policies//UO//obj//14 ?//MID//punct//14 )//PAD//punct//14
+6 Concluding remarks / References;in//PM|NOM//case//20 Fritzell//PM|NOM//obl//14 ,//MID//punct//22 J.//PM|NOM//conj//20 (//PAD//punct//22 ed//NN|AN//conj//20 )//PAD//punct//20 ,//MID//punct//28 Välfärdens//NN|UTR|SIN|DEF|GEN//nmod:poss//28 förutsättningar//NN|UTR|PLU|IND|NOM//obl//14 ,//MID//punct//30 Arbetsmarknad//NN|UTR|SIN|IND|NOM//conj//28 ,//MID//punct//32 demografi//NN|UTR|SIN|IND|NOM//conj//28 och//KN//cc//34 segregation//NN|UTR|SIN|IND|NOM//conj//28 ,//MID//punct//28 SOU//PM|NOM//conj//28 2000:37//RG|NOM//conj//28 .//MID//punct//28
+6 Concluding remarks / References;Stockholm//PM|NOM//obj//14 ://MID//punct//39
+6 Concluding remarks / References;Fritzes//PM|NOM//appos//39 .//MAD//punct//14
+6 Concluding remarks / References;Sandberg//PM|NOM//ROOT//0 ,//MID//punct//0 S.//PM|NOM//conj//0 &//KN|AN//cc//2 K.//PM|NOM//conj//0 Ståhlberg//PM|NOM//flat:name//4 ,//MID//punct//4 2000//RG|NOM//conj//0 .//MAD//punct//0
+6 Concluding remarks / References;Nordisk//PM|NOM//amod//11  //_SP////9 regional-förvaltning//NN|UTR|SIN|IND|NOM//conj//0  //_SP////11 i//PP//case//14 förändring//NN|UTR|SIN|IND|NOM//nmod//11  //_SP////14 (//PAD//punct//20 Changing//PM|NOM//compound//18 Nordic//PM|NOM//compound//19 Regional//PM|NOM//compound//20 Governance//PM|NOM//appos//11 )//PAD//punct//20 .//MAD//punct//11
+6 Concluding remarks / References;Meddelanden//NN|NEU|PLU|IND|NOM//nsubj//31 från//PP//case//26 ekonomisk-statsveten-skapliga//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//26 fakulteten//NN|UTR|SIN|DEF|NOM//nmod//23 vid//PP//case//29 Åbo//PM|NOM//amod//29 Akademi//NN|UTR|SIN|IND|NOM//nmod//23 ,//MID//punct//23 Ser//VB|IMP|AKT//dep//33 .//MAD//punct//31
+6 Concluding remarks / References;A:513//NN|UTR|SIN|DEF|NOM//conj//0 ,//MID//punct//35 Institutet//NN|NEU|SIN|DEF|NOM//conj//0 för//PP//case//39 jämförande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//39 nordisk//JJ|POS|UTR|SIN|IND|NOM//amod//39 politik//NN|UTR|SIN|IND|NOM//nmod//35 och//KN//cc//41 förvaltning//NN|UTR|SIN|IND|NOM//conj//39 ,//MID//punct//43 rapport//NN|UTR|SIN|IND|NOM//conj//0 14//RG|NOM//nummod//43 ,//MID//punct//43 Åbo//PM|NOM//conj//0 ://MID//punct//46
+6 Concluding remarks / References;Åbo//PM|NOM//amod//50 Akademis//PM|GEN//nmod:poss//50 tryckeri//NN|NEU|SIN|IND|NOM//conj//0 .//MAD//punct//0
+6 Concluding remarks / References;Salonen//NN|UTR|SIN|DEF|NOM//ROOT//0 ,//MID//punct//0 T.//PM|NOM//appos//0 2000//RG|NOM//nummod//2 .//MAD//punct//0 ”//PAD//punct//7
+6 Concluding remarks / References;Ungdomars//NN|UTR|PLU|IND|GEN//nmod:poss//7 socialbidragstagande//NN|NEU|SIN|IND|NOM//conj//0 och//KN//cc//9 försörjningssvårigheter//NN|UTR|PLU|IND|NOM//conj//7 under//PP//case//11 1990-talet//NN|NEU|SIN|DEF|NOM//nmod//7 ”//RG|NOM//punct//7 (//PAD//punct//15 Social//PM|NOM//amod//15 Assistance//PM|NOM//conj//0 Among//PM|NOM//flat:name//15 the//PM|NOM//det//18 Youth//PM|NOM//obj//15 and//PM|NOM//punct//15 Subsistance//PM|NOM//conj//15 Problems//PM|NOM//conj//15 in//PM|NOM//compound:prt//15 the//PM|NOM//dep//15 1990s//RG|NOM//flat:name//15 )//PAD//punct//15 in//PM|NOM//case//27 Å.//PM|NOM//conj//0 Bergmark//PM|NOM//flat:name//27 (//PAD//punct//28 ed//NN|UTR|SIN|IND|NOM//conj//0 )//PAD//punct//30 ,//MID//punct//33 Välfärd//NN|UTR|SIN|IND|NOM//conj//0 och//KN//cc//35 försörjning//NN|UTR|SIN|IND|NOM//conj//33 ,//MID//punct//37 SOU//PM|NOM//conj//0 2000:40//RG|NOM//conj//0 .//MAD//punct//0
+6 Concluding remarks / References;Stockholm//PM|NOM//conj//0 ://MID//punct//40
+6 Concluding remarks / References;Fritzes//PM|NOM//conj//0 .//MAD//punct//0
+6 Concluding remarks / References;Socialdepartementet//NN|NEU|SIN|DEF|NOM//ROOT//0 ,//MID//punct//0 1999//RG|NOM//nummod//0 .//MID//punct//0
+6 Concluding remarks / References; //_SP////3 Välfärdsfakta//PC|PRF|UTR/NEU|SIN|DEF|NOM//amod//6 Social//PM|NOM//appos//0 –//RG|NOM//punct//9  //_SP////7 sammanställning//NN|UTR|SIN|IND|NOM//conj//0 av//PP//case//11 fakta//NN|NEU|PLU|IND|NOM//nmod//9 ///MID//cc//13 nyckeltal//NN|NEU|SIN|IND|NOM//conj//11 inom//PP//case//15 välfärdsområdet//NN|NEU|SIN|DEF|NOM//nmod//9 .//MAD//punct//9
+6 Concluding remarks / References;(//PAD//punct//19 Welfare//PM|NOM//nmod//19 Facts//PM|NOM//appos//0 –//PM|NOM//punct//19 A//PM|NOM//nmod//19 Compilation//PM|NOM//flat//21 of//PM|NOM//case//24 Key//PM|NOM//compound//25 Figures//PM|NOM//conj//19 in//PM|NOM//punct//19 the//PM|NOM//det//29 Social//PM|NOM//amod//29 Field//PM|NOM//obj//19 )//PAD//punct//19 ,//MID//punct//33  //_SP////31 1999-11-25//RG|NOM//conj//0 .//MID//punct//0
+6 Concluding remarks / References; //_SP////34 Stockholm//PM|NOM//conj//0 ://MID//punct//36
+6 Concluding remarks / References;Ministry//PM|NOM//appos//36 of//PM|NOM//case//40 Health//PM|NOM//nmod//38 and//PM|NOM//cc//40 Social//PM|NOM//amod//43 Affairs//PM|NOM//conj//40 .//MAD//punct//0
+6 Concluding remarks / References;Socialstyrelsen//NN|UTR|SIN|DEF|NOM//ROOT//0 ,//MID//punct//0 1998//RG|NOM//nummod//0 .//MAD//punct//0
+6 Concluding remarks / References;Socialbidrag//NN|NEU|SIN|IND|NOM//appos//0 1997//RG|NOM//nummod//4 .//MAD//punct//0
+6 Concluding remarks / References;Stockholm//PM|NOM//conj//0 ://MID//punct//7
+6 Concluding remarks / References;Nordstedts//PM|NOM//nmod//10 AB//NN|AN//appos//7 .//MAD//punct//0
+6 Concluding remarks / References;Socialstyrelsen//NN|UTR|SIN|DEF|NOM//ROOT//0 ,//MID//punct//0 1999//RG|NOM//nummod//0 .//MAD//punct//0
+6 Concluding remarks / References;Socialbidrag//NN|NEU|SIN|IND|NOM//appos//0 1998//RG|NOM//nummod//4 .//MID//punct//0
+6 Concluding remarks / References;Stockholm//PM|NOM//conj//0 ://MID//punct//7
+6 Concluding remarks / References;Nordstedts//PM|NOM//nmod//10 AB//NN|AN//appos//7 .//MAD//punct//0
+6 Concluding remarks / References;SOU//PM|NOM//ROOT//0 ,//MID//punct//0 2000:3//RG|NOM//nmod//0 .//MID//punct//0
+6 Concluding remarks / References; //_SP////3 Välfärd//NN|UTR|SIN|IND|NOM//conj//0 vid//PP//case//7 vägskäl//NN|NEU|SIN|IND|NOM//nmod//5 ,//MID//punct//9 utvecklingen//NN|UTR|SIN|DEF|NOM//conj//5 under//PP//case//11 1990-talet//NN|NEU|SIN|DEF|NOM//nmod//9
+6 Concluding remarks / References;Statistics//PM|NOM//ROOT//0 )//PAD//punct//0 .//MAD//punct//0
+6 Concluding remarks / References;SVT//PM|NOM//ROOT//0 ,//MID//punct//0 1998//RG|NOM//nummod//0 .//MID//punct//0
+6 Concluding remarks / References;Sosiaaliturva//PM|NOM//conj//0 Suomessa//PM|NOM//nsubj//4 1996//RG|NOM//nummod//4  //_SP////6 (//PAD//punct//4 Social//UO//amod//10 Protection//PM|NOM//appos//4 in//PM|NOM//case//12 Finland//PM|NOM//obl//4
+6 Concluding remarks / References;Helsinki//PM|NOM//ROOT//0 ://MID//punct//0
+6 Concluding remarks / References;Edita//PM|NOM//parataxis//0 .//MAD//punct//0
+6 Concluding remarks / References;Szebehely//PM|NOM//ROOT//0 ,//MID//punct//0 M.//PM|NOM//conj//0 ,//MID//punct//2 2000//RG|NOM//nummod//2 .//MAD//punct//0 ”//RO|NOM//punct//7
+6 Concluding remarks / References;Äldreomsorgen//NN|UTR|SIN|DEF|NOM//appos//0 i//PP//case//9 förändring//NN|UTR|SIN|IND|NOM//nmod//7 –//RG|NOM//punct//12 knappare//JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//12 resurser//NN|UTR|PLU|IND|NOM//conj//7 och//KN//cc//15 nya//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//15 organisationsformer//NN|UTR|PLU|IND|NOM//conj//7 ”//PAD//punct//7 (//PAD//punct//7 Eldery//PM|NOM//nmod//7 Care//PM|NOM//flat//18 –//PM|NOM//punct//21 Fewer//PM|NOM//conj//18 Reources//PM|NOM//flat//21 and//PM|NOM//cc//24 New//PM|NOM//conj//21 Forms//PM|NOM//flat//24 of//PM|NOM//case//27 Organisation//PM|NOM//nmod//21 )//PAD//punct//21 in//PM|NOM//case//30 M.//PM|NOM//conj//18 Szebehely//PM|NOM//flat//30 (//PAD//punct//31 ed//NN|UTR|SIN|IND|NOM//appos//31 )//PAD//punct//31 ,//MID//punct//36 Välfärd//NN|UTR|SIN|IND|NOM//conj//18 ,//MID//punct//38 vård//NN|UTR|SIN|IND|NOM//conj//36 och//KN//cc//40 omsorg//NN|UTR|SIN|IND|NOM//conj//36 ,//MID//punct//43  //_SP////41 SOU//PM|NOM//conj//18 2000//RG|NOM//nummod//43 ://MID//punct//18
+6 Concluding remarks / References;38//RG|NOM//conj//7 .//MID//punct//7
+6 Concluding remarks / References;Stockholm//PM|NOM//conj//7 ://MID//punct//48
+6 Concluding remarks / References;Fritzes//PM|NOM//conj//7 .//MAD//punct//7
+6 Concluding remarks / References;Kansantaloudellinen//NN|UTR|SIN|DEF|NOM//nsubj//1 aikakauskirja//NN|UTR|SIN|IND|NOM//ROOT//1 1:5–17//RG|NOM//nummod//1 .//MAD//punct//1
+6 Concluding remarks / References;Yhteiskuntapolitiikka//PM|NOM//amod//1 5-6:465–479//RG|NOM//ROOT//1 .//MAD//punct//1
+6 Concluding remarks / References;Wadensjö//PM|NOM//ROOT//0 ,//MID//punct//0 E.//PM|NOM//conj//0 ,//MID//punct//2 1999//RG|NOM//nummod//0 .//MID//punct//0
+6 Concluding remarks / References; //_SP////5 1990-talets//NN|NEU|SIN|DEF|GEN//nmod:poss//9 ekonomiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//9 utveckling//NN|UTR|SIN|IND|NOM//conj//0 och//KN//cc//11 arbetsmarknad//NN|UTR|SIN|IND|NOM//conj//9 (//PAD//punct//14 Economic//UO//amod//14 Development//UO//conj//0 and//PM|NOM//case//18 the//PM|NOM//det//18 Labour//PM|NOM//nmod//18 Market//PM|NOM//conj//0 in//PM|NOM//case//21 the//PM|NOM//fixed//19 1990s//RG|NOM//nmod//18 )//PAD//punct//0 .//MAD//punct//0
+6 Concluding remarks / References;Stockholm//PM|NOM//conj//0 ://MID//punct//24
+6 Concluding remarks / References;Stockholms//PM|GEN//nmod:poss//27 universitet//NN|NEU|SIN|IND|NOM//conj//0 ,//MID//punct//29 institutet//NN|NEU|SIN|DEF|NOM//conj//27 för//PP//case//32 social//JJ|POS|UTR|SIN|IND|NOM//amod//32 forskning//NN|UTR|SIN|IND|NOM//nmod//29 .//MAD//punct//0
+6 Concluding remarks / References;Åberg//PM|NOM//ROOT//0 ,//MID//punct//0 R.//PM|NOM//conj//0 &//KN|AN//cc//2 M.//PM|NOM//flat:name//2 Nordenmark//PM|NOM//flat:name//2 ,//MID//punct//2 2000//RG|NOM//nummod//2 .//MAD//punct//0 ”//PAD//punct//10
+6 Concluding remarks / References;Arbetslöshet//NN|UTR|SIN|IND|NOM//conj//0 och//KN//cc//12 levnadsvillkor//NN|NEU|SIN|IND|NOM//conj//10 under//PP//case//15 1990-talets//NN|NEU|SIN|DEF|GEN//nmod:poss//15 krisår//NN|NEU|SIN|IND|NOM//nmod//10 ”//RG|NOM//conj//10 (//PAD//punct//10 Unemployment//PM|NOM//appos//10 and//PM|NOM//cc//18 Living//PM|NOM//compound//21 Conditions//PM|NOM//conj//18 During//PM|NOM//conj//18 the//PM|NOM//det//24 Crisis//PM|NOM//conj//18 Years//PM|NOM//flat:name//24 of//PM|NOM//case//28 the//PM|NOM//det//28 1990s//RG|NOM//nmod//18 )//PAD//punct//10 in//PM|NOM//advmod//31 J.//PM|NOM//conj//0 Fritzell//PM|NOM//flat:name//31 (//PAD//punct//31 ed//NN|UTR|SIN|IND|NOM//conj//0 )//PAD//punct//34 ,//MID//punct//38 Välfärdens//NN|UTR|SIN|DEF|GEN//nmod:poss//38 förutsättningar//NN|UTR|PLU|IND|NOM//conj//0 ,//MID//punct//40 Arbetsmarknad//NN|UTR|SIN|IND|NOM//conj//38 ,//MID//punct//42 demografi//NN|UTR|SIN|IND|NOM//conj//38 och//KN//cc//44 segregation//NN|UTR|SIN|IND|NOM//conj//38 ,//MID//punct//38  //_SP////45 SOU//PM|NOM//conj//0 2000:37//RG|NOM//conj//0 .//MID//punct//0
+6 Concluding remarks / References;Stockholm//PM|NOM//conj//0 ://MID//punct//50
+6 Concluding remarks / References;Fritzes//PM|NOM//conj//0 .//MAD//punct//0
+

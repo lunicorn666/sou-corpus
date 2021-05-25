@@ -1,0 +1,11 @@
+
+Skadetyp (1);*//MID//punct//3  //_SP////0 Säkerställd//PC|PRF|UTR|SIN|IND|NOM//amod//3 förändring//NN|UTR|SIN|IND|NOM//ROOT//3 mellan//PP//case//6 år//NN|NEU|SIN|IND|NOM//nmod//6 1999//RG|NOM//nmod//3 och//KN//cc//6 2000//RG|NOM//nummod//6 med//PP//case//12 95//RG|NOM//nummod//11 %//NN|AN//nmod//12 signifikans//NN|UTR|SIN|IND|NOM//nmod//3
+
+Antal skadade per 1000 barn 0-20 år (samtliga skadetyper) fördelat på kön, kommun, län och riket, aktuell nivå 2000 samt procentuell förändring 1999-2000;*//MID//punct//3  //_SP////0 Säkerställd//PC|PRF|UTR|SIN|IND|NOM//amod//3 förändring//NN|UTR|SIN|IND|NOM//nsubj:pass//15 mellan//PP//case//6 år//NN|NEU|SIN|IND|NOM//nmod//6 1999//RG|NOM//nmod//3 och//KN//cc//6 2000//RG|NOM//nummod//6 med//PP//case//12 95//RG|NOM//nummod//11 %//NN|AN//nmod//12 signifikans//NN|UTR|SIN|DEF|GEN//nmod:poss//14 Ingen//DT|UTR|SIN|IND//det//14 trend//NN|UTR|SIN|IND|NOM//nsubj:pass//15 skattas//VB|PRS|SFO//ROOT//15 då//HA//mark//19 Nykvarn//PM|NOM//advmod//19 kommun//NN|UTR|SIN|IND|NOM//nsubj:pass//19 bildades//VB|PRT|SFO//advcl//15 1998//RG|NOM//nummod//19
+
+Antal skadade per 1000 barn 0-20 år (samtliga skadetyper) 1987-2000 fördelat på kön, kommun samt trend för kommun, län och riket Botkyrka kommun;*//MID//punct//3  //_SP////0 Säkerställd//PC|PRF|UTR|SIN|IND|NOM//amod//3 förändring//NN|UTR|SIN|IND|NOM//ROOT//3 mellan//PP//case//6 år//NN|NEU|SIN|IND|NOM//nmod//6 1999//RG|NOM//nmod//3 och//KN//cc//6 2000//RG|NOM//nummod//6 med//PP//case//12 95//RG|NOM//nummod//11 %//NN|AN//nmod//12 signifikans//NN|UTR|SIN|IND|NOM//nmod//3
+
+
+Skadetyp (2);*//MID//punct//3  //_SP////0 Säkerställd//PC|PRF|UTR|SIN|IND|NOM//amod//3 förändring//NN|UTR|SIN|IND|NOM//ROOT//3 mellan//PP//case//6 år//NN|NEU|SIN|IND|NOM//nmod//6 1999//RG|NOM//nmod//3 och//KN//cc//6 2000//RG|NOM//nummod//6 med//PP//case//12 95//RG|NOM//nummod//11 %//NN|AN//nmod//12 signifikans//NN|UTR|SIN|IND|NOM//nmod//3
+
+

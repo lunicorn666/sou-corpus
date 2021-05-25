@@ -1,0 +1,131 @@
+2003-10-08;Finansdepartementet//NN|NEU|SIN|DEF|NOM//ROOT//0
+2003-10-08;Kalle//PM|NOM//nmod//1 Sevilä//PM|NOM//ROOT//1
+2003-10-08;Telefon//NN|UTR|SIN|IND|NOM//nmod//1 08-405//RG|NOM//ROOT//1 13//RG|NOM//nmod//3 97//RG|NOM//obl//1
+2003-10-08;Betänkandet//NN|NEU|SIN|DEF|NOM//nmod//1 Översyn//NN|UTR|SIN|IND|NOM//ROOT//1 av//PP//case//3 försäkringsmodellen//NN|UTR|SIN|DEF|NOM//nmod//1 för//PP//case//7 de//DT|UTR/NEU|PLU|DEF//det//7 statliga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//7 avtalsförsäkringarna//NN|UTR|PLU|DEF|NOM//nmod//3 (//PAD//punct//7 SOU//PM|NOM//appos//7 2003:85//RG|NOM//punct//1 )//PAD//punct//1
+2003-10-08;Remissinstanser//NN|UTR|PLU|IND|NOM//ROOT//0 ://MAD//punct//0
+2003-10-08;1//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Riksrevisionen//NN|UTR|SIN|DEF|NOM//ROOT//2
+2003-10-08;2//RG|NOM//discourse//2 .//MAD//punct//2
+2003-10-08;Domstolsverket//NN|NEU|SIN|DEF|NOM//ROOT//2
+2003-10-08;3//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Riksåklagaren//NN|UTR|SIN|DEF|NOM//ROOT//2
+2003-10-08;4//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Ekobrottsmyndigheten//NN|UTR|SIN|DEF|NOM//ROOT//2
+2003-10-08;5//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Rikspolisstyrelsen//PM|NOM//ROOT//2
+2003-10-08;6//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Kriminalvårdsstyrelsen//NN|UTR|SIN|DEF|NOM//ROOT//2
+2003-10-08;7//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Inspektionen//NN|UTR|SIN|DEF|NOM//ROOT//2 för//PP//case//5 strategiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//5 produkter//NN|UTR|PLU|IND|NOM//nmod//2
+2003-10-08;8//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Försvarsmakten//NN|UTR|SIN|DEF|NOM//ROOT//2
+2003-10-08;9//RG|NOM//discourse//3 .//MID//punct//0
+2003-10-08;Försvarets//NN|NEU|SIN|DEF|GEN//nmod:poss//3 materielverk//NN|NEU|SIN|IND|NOM//ROOT//3
+2003-10-08;10//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Riksförsäkringsverket//NN|NEU|SIN|DEF|NOM//ROOT//2
+2003-10-08;11//RG|NOM//discourse//2 .//MID//punct//0
+2003-10-08;Riksgäldskontoret//PM|NOM//ROOT//2
+2003-10-08;12//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Tullverket//NN|NEU|SIN|DEF|NOM//ROOT//2
+2003-10-08;13//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Finansinspektionen//NN|UTR|SIN|DEF|NOM//ROOT//2
+2003-10-08;14//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Ekonomistyrningsverket//NN|NEU|SIN|DEF|NOM//ROOT//2
+2003-10-08;15//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Riksskatteverket//NN|NEU|SIN|DEF|NOM//ROOT//2
+2003-10-08;16//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Fortifikationsverket//NN|NEU|SIN|DEF|NOM//ROOT//2
+2003-10-08;17//RG|NOM//discourse//2 .//MID//punct//0
+2003-10-08;Arbetsgivarverket//PM|NOM//ROOT//2
+2003-10-08;18//RG|NOM//discourse//2 .//MID//punct//0
+2003-10-08;Premiepensionsmyndigheten//NN|UTR|SIN|DEF|NOM//ROOT//2
+2003-10-08;19//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Kammarkollegiet//NN|NEU|SIN|DEF|NOM//ROOT//2
+2003-10-08;20//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Statskontoret//NN|NEU|SIN|DEF|NOM//ROOT//2
+2003-10-08;21//RG|NOM//discourse//3 .//MAD//punct//0
+2003-10-08;Statens//NN|UTR|SIN|DEF|GEN//nmod:poss//3 pensionsverk//NN|NEU|SIN|IND|NOM//ROOT//3
+2003-10-08;22//RG|NOM//discourse//2 .//MID//punct//0
+2003-10-08;Nämnden//NN|UTR|SIN|DEF|NOM//ROOT//2 för//PP//case//5 statens//NN|UTR|SIN|DEF|GEN//nmod:poss//5 avtalsförsäkringar//NN|UTR|PLU|IND|NOM//nmod//2
+2003-10-08;23//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Länsstyrelsen//NN|UTR|SIN|DEF|NOM//ROOT//2 i//PP//case//5 Blekinge//PM|GEN//nmod:poss//5 län//NN|NEU|SIN|IND|NOM//nmod//2
+2003-10-08;24//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Länsstyrelsen//NN|UTR|SIN|DEF|NOM//ROOT//2 i//PP//case//6 Västra//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//5 Götalands//PM|GEN//nmod:poss//6 län//NN|NEU|SIN|IND|NOM//nmod//2
+2003-10-08;25//RG|NOM//discourse//3 .//MAD//punct//0
+2003-10-08;Centrala//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//3 studiestödsnämnden//NN|UTR|SIN|DEF|NOM//ROOT//3
+2003-10-08;26//RG|NOM//discourse//3 .//MAD//punct//0
+2003-10-08;Uppsala//PM|GEN//amod//3 universitet//NN|NEU|SIN|IND|NOM//ROOT//3
+2003-10-08;27//RG|NOM//discourse//3 .//MAD//punct//0
+2003-10-08;Linköpings//PM|GEN//nmod:poss//3 universitet//NN|NEU|SIN|IND|NOM//ROOT//3
+2003-10-08;28//RG|NOM//nummod//2 .//MID//punct//2
+2003-10-08;Malmö//PM|NOM//ROOT//2 universitet//NN|NEU|SIN|IND|NOM//obj//2
+2003-10-08;29//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Specialskolemyndigheten//NN|UTR|SIN|DEF|NOM//ROOT//2
+2003-10-08;30//RG|NOM//discourse//3 .//MAD//punct//0
+2003-10-08;Statens//NN|UTR|SIN|DEF|GEN//nmod:poss//3 jordbruksverk//NN|NEU|SIN|IND|NOM//ROOT//3
+2003-10-08;31//RG|NOM//discourse//2 .//MID//punct//0
+2003-10-08;Konsumentverket//NN|NEU|SIN|DEF|NOM//ROOT//2
+2003-10-08;32//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Fastighetsmäklarnämnden//NN|UTR|SIN|DEF|NOM//ROOT//2
+2003-10-08;33//RG|NOM//discourse//3 .//MAD//punct//0
+2003-10-08;Statens//NN|UTR|SIN|DEF|GEN//nmod:poss//3 kulturråd//NN|NEU|SIN|IND|NOM//ROOT//3
+2003-10-08;34//RG|NOM//discourse//2 .//MID//punct//0
+2003-10-08;Riksarkivet//NN|NEU|SIN|DEF|NOM//ROOT//2
+2003-10-08;35//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Naturvårdsverket//NN|NEU|SIN|DEF|NOM//ROOT//2
+2003-10-08;36//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Banverket//NN|NEU|SIN|DEF|NOM//ROOT//2
+2003-10-08;37//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Sjöfartsverket//NN|NEU|SIN|DEF|NOM//ROOT//2
+2003-10-08;38//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Luftfartsverket//NN|NEU|SIN|DEF|NOM//ROOT//2
+2003-10-08;39//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Arbetsmarknadsstyrelsen//NN|UTR|SIN|DEF|NOM//ROOT//2
+2003-10-08;40//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Skogsstyrelsen//NN|UTR|SIN|DEF|NOM//ROOT//2
+2003-10-08;41//RG|NOM//discourse//2 .//MID//punct//0
+2003-10-08;Patent-//NN|NEU|-|-|SMS//ROOT//2 och//KN//cc//4 registreringsverket//NN|NEU|SIN|DEF|NOM//conj//2
+2003-10-08;42//RG|NOM//discourse//2 .//MID//punct//0
+2003-10-08;Verket//NN|NEU|SIN|DEF|NOM//ROOT//2 för//PP//case//4 innovationssystem//NN|NEU|SIN|IND|NOM//nmod//2
+2003-10-08;43//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Försäkringskasseförbundet//NN|NEU|SIN|DEF|NOM//ROOT//2
+2003-10-08;44//RG|NOM//discourse//3 .//MAD//punct//0
+2003-10-08;Allmänna//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//3 barnhuset//NN|NEU|SIN|DEF|NOM//ROOT//3
+2003-10-08;45//RG|NOM//discourse//3 .//MAD//punct//0
+2003-10-08;Nordiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//3 museet//NN|NEU|SIN|DEF|NOM//ROOT//3
+2003-10-08;46//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;SJ//PM|NOM//ROOT//2 AB//PM|NOM//flat//2
+2003-10-08;47//RG|NOM//discourse//3 .//MID//punct//0
+2003-10-08;Göteborgs//PM|GEN//nmod:poss//3 stadsteater//NN|UTR|SIN|IND|NOM//ROOT//3
+2003-10-08;48//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;SACO-S//PM|NOM//ROOT//2
+2003-10-08;49//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;OFR//PM|NOM//ROOT//2
+2003-10-08;50//RG|NOM//discourse//2 .//MID//punct//0
+2003-10-08;SEKO//PM|NOM//ROOT//2
+2003-10-08;51//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Teaterförbundet//NN|NEU|SIN|DEF|NOM//ROOT//2
+2003-10-08;52//RG|NOM//discourse//3 .//MID//punct//0
+2003-10-08;Svensk//JJ|POS|UTR|SIN|IND|NOM//amod//3 scenkonst//NN|UTR|SIN|IND|NOM//ROOT//3
+2003-10-08;53//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Försäkringsförbundet//NN|NEU|SIN|DEF|NOM//ROOT//2
+2003-10-08;54//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;Alecta//NN|UTR|SIN|IND|NOM//ROOT//2
+2003-10-08;55//RG|NOM//discourse//2 .//MAD//punct//0
+2003-10-08;KPA//PM|NOM//ROOT//2
+2003-10-08;Remissvaren//NN|NEU|PLU|DEF|NOM//nsubj//21 i//PP//case//3 3//RG|NOM//nummod//3 exemplar//NN|NEU|PLU|IND|NOM//nmod//0 ,//MID//punct//6 ett//DT|NEU|SIN|IND//det//6 original//NN|NEU|SIN|IND|NOM//appos//3 och//KN//cc//9 2//RG|NOM//nummod//9 kopior//NN|UTR|PLU|IND|NOM//conj//3 ,//MID//punct//14 varav//HA//advmod//14 en//DT|UTR|SIN|IND//det//14 elektronisk//JJ|POS|UTR|SIN|IND|NOM//amod//14 kopia//NN|UTR|SIN|IND|NOM//appos//9 till//PP//case//16 e-postadress//NN|UTR|SIN|IND|NOM//nmod//14 ://MID//punct//9
+2003-10-08;registrator@finance.ministry.se//VB|IMP|AKT//nmod//0 skall//VB|PRS|AKT//aux//21 vara//VB|INF|AKT//cop//21 inkomna//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//ROOT//21 till//PP//case//23 Finansdepartementet//NN|NEU|SIN|DEF|NOM//obl//21 senast//AB|SUV//case//27 den//DT|UTR|SIN|DEF//det//27 9//RO|NOM//nummod//27 januari//NN|UTR|SIN|IND|NOM//obl//21 2004//RG|NOM//nummod//27 .//MAD//punct//21
+2003-10-08;I//PP//case//1 remissen//NN|UTR|SIN|DEF|NOM//obl//2 ligger//VB|PRS|AKT//ROOT//2 att//SN//mark//6 regeringen//NN|UTR|SIN|DEF|NOM//nsubj//6 vill//VB|PRS|AKT//aux//6 ha//VB|INF|AKT//ccomp//2 synpunkter//NN|UTR|PLU|IND|NOM//obj//6 på//PP//case//9 förslagen//NN|NEU|PLU|DEF|NOM//obl//6 eller//KN//cc//11 materialet//NN|NEU|SIN|DEF|NOM//conj//9 i//PP//case//13 betänkandet//NN|NEU|SIN|DEF|NOM//nmod//11 .//MAD//punct//2
+2003-10-08;Myndigheter//NN|UTR|PLU|IND|NOM//nsubj//4 under//PP//case//2 regeringen//NN|UTR|SIN|DEF|NOM//nmod//0 är//VB|PRS|AKT//cop//4 skyldiga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//ROOT//4 att//IE//mark//6 svara//VB|INF|AKT//advcl//4 på//PP//case//8 remissen//NN|UTR|SIN|DEF|NOM//obl//6 .//MAD//punct//4
+2003-10-08;En//DT|UTR|SIN|IND//det//11 myndighet//NN|UTR|SIN|IND|NOM//nsubj//12 avgör//VB|PRS|AKT//parataxis//4 dock//AB//advmod//12 på//PP//case//16 eget//JJ|POS|NEU|SIN|IND/DEF|NOM//amod//16 ansvar//NN|NEU|SIN|IND|NOM//obl//12 om//SN//mark//19 den//PN|UTR|SIN|DEF|SUB/OBJ//nsubj//19 har//VB|PRS|AKT//advcl//12 några//DT|UTR/NEU|PLU|IND//det//21 synpunkter//NN|UTR|PLU|IND|NOM//obj//19 att//IE//mark//23 redovisa//VB|INF|AKT//acl//21 i//PP//case//26 ett//DT|NEU|SIN|IND//det//26 svar//NN|NEU|SIN|IND|NOM//obl//23 .//MAD//punct//4
+2003-10-08;Om//SN//mark//31 myndigheten//NN|UTR|SIN|DEF|NOM//nsubj//31 inte//AB//advmod//31 har//VB|PRS|AKT//advcl//4 några//DT|UTR/NEU|PLU|IND//det//33 synpunkter//NN|UTR|PLU|IND|NOM//obj//31 ,//MID//punct//35 räcker//VB|PRS|AKT//conj//4 det//PN|NEU|SIN|DEF|SUB/OBJ//nsubj//35 att//SN//mark//39 svaret//NN|NEU|SIN|DEF|NOM//nsubj//39 ger//VB|PRS|AKT//ccomp//35 besked//NN|NEU|SIN|IND|NOM//obj//39 om//PP//case//42 detta//PN|NEU|SIN|DEF|SUB/OBJ//obl//39 .//MAD//punct//4
+2003-10-08;För//PP//case//2 andra//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//2 remissinstanser//NN|UTR|PLU|IND|NOM//obl//3 innebär//VB|PRS|AKT//ROOT//3 remissen//NN|UTR|SIN|DEF|NOM//nsubj//3 en//DT|UTR|SIN|IND//det//6 inbjudan//NN|UTR|SIN|IND|NOM//obj//3 att//IE//mark//8 lämna//VB|INF|AKT//acl//6 synpunkter//NN|UTR|PLU|IND|NOM//obj//8 .//MAD//punct//3
+2003-10-08;"Råd//NN|NEU|PLU|IND|NOM//nsubj//5 om//PP//mark//4 hur//HA//advmod//4 remissyttranden//NN|NEU|PLU|IND|NOM//nsubj:pass//4 utformas//VB|PRS|SFO//acl//0 finns//VB|PRS|SFO//ROOT//5 i//PP//case//8 Statsrådsberedningens//NN|UTR|SIN|DEF|GEN//nmod:poss//8 broschyr//NN|UTR|SIN|IND|NOM//obl//5 ""//PAD//punct//8 Svara//PM|NOM//appos//8 på//PP//case//12 remiss//NN|UTR|SIN|IND|NOM//nmod//10 .//MAD//punct//8"
+2003-10-08;"Hur//HA//discourse//21 och//KN//cc//16 varför//HA//conj//14 ?//MID//punct//14 ""//PAD//punct//21"
+2003-10-08;Broschyren//NN|UTR|SIN|DEF|NOM//nsubj:pass//21 kan//VB|PRS|AKT//aux//21 beställas//VB|INF|SFO//conj//5 från//PP//case//24 Regeringskansliets//NN|NEU|SIN|DEF|GEN//nmod:poss//24 förvaltningsavdelning//NN|UTR|SIN|IND|NOM//obl//21 ,//MID//punct//24 Information//NN|UTR|SIN|IND|NOM//nmod//27 Rosenbad//PM|NOM//appos//24 ,//MID//punct//21 103//RG|NOM//nummod//31 33//RG|NOM//nummod//31 Stockholm//PM|NOM//parataxis//21 .//MAD//punct//21
+2003-10-08;Margareta//PM|NOM//ROOT//0 Hammarberg//PM|NOM//flat:name//0
+2003-10-08;Departementsråd//NN|NEU|SIN|IND|NOM//ROOT//0
+2003-10-08;Kopia//NN|UTR|SIN|IND|NOM//ROOT//0 till//PP//case//0
+2003-10-08;Fritzes//PM|NOM//amod//1 kundservice//NN|UTR|SIN|IND|NOM//ROOT//1 ,//MID//punct//1 106//RG|NOM//nummod//4 47//RG|NOM//nummod//5 Stockholm//PM|NOM//appos//1
+2003-10-08;Riksdagens//NN|UTR|SIN|DEF|GEN//nmod:poss//1 utredningstjänst//NN|UTR|SIN|IND|NOM//ROOT//1
+

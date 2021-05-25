@@ -1,0 +1,655 @@
+Sammanfattning av uppdraget;En//DT|UTR|SIN|IND//det//2 särskild//PC|PRF|UTR|SIN|IND|NOM//amod//2 utredare//NN|UTR|SIN|IND|NOM//nsubj//4 skall//VB|PRS|AKT//aux//4 analysera//VB|INF|AKT//ROOT//4 svenskt//JJ|POS|NEU|SIN|IND|NOM//amod//7 säkerhetspolitiskt//JJ|POS|NEU|SIN|IND|NOM//amod//7 agerande//NN|NEU|SIN|IND|NOM//obj//4 ,//MID//punct//10 såväl//KN//advmod//10 politiskt//AB|POS//advmod//4 som//KN//mark//12 militärt//JJ|POS|NEU|SIN|IND|NOM//acl//10 ,//MID//punct//15 under//PP//case//15 perioden//NN|UTR|SIN|DEF|NOM//obl//4 1969//RG|NOM//nummod//15 1989//RG|NOM//nummod//15 .//MAD//punct//4
+
+Bakgrund;Regeringen//NN|UTR|SIN|DEF|NOM//nsubj//4 har//VB|PRS|AKT//aux//4 i//PP//advmod//4 dag//NN|UTR|SIN|IND|NOM//fixed//2 bemyndigat//VB|SUP|AKT//ROOT//4 chefen//NN|UTR|SIN|DEF|NOM//obj//4 för//PP//case//7 Försvarsdepartementet//NN|NEU|SIN|DEF|NOM//obl//4 att//IE//mark//9 tillkalla//VB|INF|AKT//acl//7 en//DT|UTR|SIN|IND//det//12 särskild//PC|PRF|UTR|SIN|IND|NOM//amod//12 utredare//NN|UTR|SIN|IND|NOM//obj//9 som//HP|-|-|-//nsubj//15 skall//VB|PRS|AKT//aux//15 analysera//VB|INF|AKT//acl:relcl//12 det//DT|NEU|SIN|DEF//det//20 politiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//20 och//KN//cc//19 militära//JJ|POS|UTR/NEU|SIN|DEF|NOM//conj//17 agerandet//NN|NEU|SIN|DEF|NOM//obj//15 i//PP//case//22 ubåtsfrågan//NN|UTR|SIN|DEF|NOM//nmod//20 från//PP//case//24 1980//RG|NOM//nummod//25 fram//AB//obl//15 till//PP//advmod//25 i//PP//advmod//25 dag//NN|UTR|SIN|IND|NOM//fixed//27 .//MAD//punct//4
+Bakgrund;Det//PN|NEU|SIN|DEF|SUB/OBJ//expl//7 har//VB|PRS|AKT//aux//7 i//PP//case//6 anslutning//NN|UTR|SIN|IND|NOM//fixed//2 till//PP//fixed//2 detta//DT|NEU|SIN|DEF//det//6 uppdrag//NN|NEU|SIN|IND|NOM//obl//7 ansetts//VB|SUP|SFO//ROOT//7 angeläget//JJ|POS|NEU|SIN|IND|NOM//xcomp//7 att//IE//mark//11 också//AB//advmod//11 få//VB|INF|AKT//xcomp//7 till//PP//compound:prt//11 stånd//NN|NEU|SIN|IND|NOM//fixed//12 en//DT|UTR|SIN|IND//det//17 allmän//JJ|POS|UTR|SIN|IND|NOM//amod//17 säkerhetspolitisk//JJ|POS|UTR|SIN|IND|NOM//amod//17 granskning//NN|UTR|SIN|IND|NOM//obj//11 av//PP//case//23 svenskt//JJ|POS|NEU|SIN|IND|NOM//amod//23 politiskt//JJ|POS|NEU|SIN|IND|NOM//amod//23 och//KN//cc//22 militärt//JJ|POS|NEU|SIN|IND|NOM//conj//20 agerande//NN|NEU|SIN|IND|NOM//nmod//17 under//PP//case//26 åren//NN|NEU|PLU|DEF|NOM//nmod//26 1969-1989//RG|NOM//nmod//23 ,//MID//punct//7 dvs.//AB|AN//advmod//31 de//DT|UTR/NEU|PLU|DEF//det//31 två//RG|NOM//nummod//31 decennierna//NN|NEU|PLU|DEF|NOM//appos//7 närmast//AB|SUV//advmod//31 före//PP//case//35 Berlinmurens//PM|GEN//nmod:poss//35 fall//NN|NEU|SIN|IND|NOM//obl//32 och//KN//cc//37 avvecklingen//NN|UTR|SIN|DEF|NOM//conj//35 av//PP//case//41 det//DT|NEU|SIN|DEF//det//41 kalla//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//41 kriget//NN|NEU|SIN|DEF|NOM//nmod//37 .//MAD//punct//7
+Bakgrund;Det//PN|NEU|SIN|DEF|SUB/OBJ//expl//2 är//VB|PRS|AKT//cop//2 lämpligt//JJ|POS|NEU|SIN|IND|NOM//ROOT//2 att//SN//mark//10 den//DT|UTR|SIN|DEF//det//6 särskilde//PC|PRF|MAS|SIN|DEF|NOM//amod//6 utredaren//NN|UTR|SIN|DEF|NOM//nsubj//10 av//PP//case//8 ubåtsfrågan//NN|UTR|SIN|DEF|NOM//nmod//6 även//AB//advmod//10 får//VB|PRS|AKT//csubj//2 uppdraget//NN|NEU|SIN|DEF|NOM//obj//10 att//IE//mark//13 göra//VB|INF|AKT//xcomp//10 denna//DT|UTR|SIN|DEF//det//17 allmänna//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//17 säkerhetspolitiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//17 granskning//NN|UTR|SIN|IND|NOM//obj//13 .//MAD//punct//2
+
+Uppdraget;Utredaren//NN|UTR|SIN|DEF|NOM//nsubj//5 skall//VB|PRS|AKT//aux//5 i//PP//case//4 denna//DT|UTR|SIN|DEF//det//4 del//NN|UTR|SIN|IND|NOM//obl//5 ha//VB|INF|AKT//ROOT//5 följande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//7 uppgifter//NN|UTR|PLU|IND|NOM//obj//5 ://MAD//punct//5
+Uppdraget;"•//NN|UTR|SIN|IND|NOM//nsubj//1 redovisa//VB|INF|AKT//ROOT//1 och//KN//cc//3 analysera//VB|INF|AKT//conj//1 den//DT|UTR|SIN|DEF//det//6 säkerhetspolitiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//6 miljö//NN|UTR|SIN|IND|NOM//obj//3 i//PP//case//8 vilken//HP|UTR|SIN|IND//obl//12 Sverige//PM|NOM//nsubj//12 hade//VB|PRT|AKT//aux//12 att//IE//mark//12 verka//VB|INF|AKT//advcl//3 under//PP//case//14 perioden//NN|UTR|SIN|DEF|NOM//obl//12  //_SP////14 1969-1989//RG|NOM//obl//12 ;//MID//punct//1"
+Uppdraget;•//NN|UTR|SIN|IND|NOM//nsubj//1 redovisa//VB|INF|AKT//ROOT//1 och//KN//cc//3 analysera//VB|INF|AKT//conj//1 det//DT|NEU|SIN|DEF//det//7 svenska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//7 säkerhetspolitiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//7 agerandet//NN|NEU|SIN|DEF|NOM//obj//3 ,//MID//punct//9 politiskt//AB|POS//conj//7 och//KN//cc//11 militärt//AB|POS//conj//9 ,//MID//punct//15 under//PP//case//15 samma//DT|UTR/NEU|SIN/PLU|IND//amod//15 period//NN|UTR|SIN|IND|NOM//conj//7 .//MAD//punct//1
+
+Arbetets bedrivande;Utredaren//NN|UTR|SIN|DEF|NOM//nsubj//5 skall//VB|PRS|AKT//aux//5 i//PP//case//4 nödvändig//JJ|POS|UTR|SIN|IND|NOM//amod//4 utsträckning//NN|UTR|SIN|IND|NOM//obl//5 ta//VB|INF|AKT//ROOT//5 del//NN|UTR|SIN|IND|NOM//obj//5 av//PP//case//12 tillgänglig//JJ|POS|UTR|SIN|IND|NOM//amod//12 skriftlig//JJ|POS|UTR|SIN|IND|NOM//amod//12 och//KN//cc//11 muntlig//JJ|POS|UTR|SIN|IND|NOM//conj//9 information//NN|UTR|SIN|IND|NOM//nmod//6 i//PP//case//14 ärendet//NN|NEU|SIN|DEF|NOM//nmod//12 .//MID//punct//5
+Arbetets bedrivande;Det//PN|NEU|SIN|DEF|SUB/OBJ//expl//17 gäller//VB|PRS|AKT//conj//5 information//NN|UTR|SIN|IND|NOM//obj//17 från//PP//case//21 såväl//KN//advmod//21 politiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//nmod//18 som//KN//mark//24 militära//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//24 källor//NN|UTR|PLU|IND|NOM//nmod//18 .//MAD//punct//5
+Arbetets bedrivande;Till//PP//case//1 utredningen//NN|UTR|SIN|DEF|NOM//obl//6 skall//VB|PRS|AKT//aux//6 en//DT|UTR|SIN|IND//det//4 grupp//NN|UTR|SIN|IND|NOM//nmod//5 experter//NN|UTR|PLU|IND|NOM//nsubj:pass//6 knytas//VB|INF|SFO//ROOT//6 .//MAD//punct//6
+Arbetets bedrivande;Riksdagens//NN|UTR|SIN|DEF|GEN//nmod:poss//1 partier//NN|NEU|PLU|IND|NOM//nsubj:pass//3 skall//VB|PRS|AKT//aux//3 ges//VB|INF|SFO//ROOT//3 möjlighet//NN|UTR|SIN|IND|NOM//obj//3 att//IE//mark//6 följa//VB|INF|AKT//acl//4 utredningsarbetet//NN|NEU|SIN|DEF|NOM//obj//6 .//MAD//punct//3
+Arbetets bedrivande;Uppdraget//NN|NEU|SIN|DEF|NOM//nsubj:pass//11 skall//VB|PRS|AKT//aux//11 redovisas//VB|INF|SFO//parataxis//3 senast//AB|SUV//case//15 den//DT|UTR|SIN|DEF//det//15 1//RO|NOM//nummod//15 januari//NN|UTR|SIN|IND|NOM//obl//11 2002//RG|NOM//nummod//15 .//MAD//punct//11
+
+
+Bilaga 2 / Svenska arkiv Riksarkivet;•//NN|UTR|SIN|IND|NOM//case//3 Alvar//PM|NOM//nmod:poss//3 Lindencronas//NN|UTR|PLU|DEF|GEN//flat:name//1 arkiv//NN|NEU|PLU|IND|NOM//ROOT//3
+Bilaga 2 / Svenska arkiv Riksarkivet;•//NN|UTR|SIN|IND|NOM//nmod//1 Ola//PM|NOM//ROOT//1 Ullstens//PM|GEN//nmod:poss//3 arkiv//NN|NEU|SIN|IND|NOM//nmod//1
+Bilaga 2 / Svenska arkiv Riksarkivet;•//PP//nmod//1 JK//PM|NOM//ROOT//1 ://MID//punct//1 s//NN|NEU|SIN|IND|GEN//nummod//4 utredning//NN|UTR|SIN|IND|NOM//appos//1 om//PP//case//8 den//DT|UTR|SIN|DEF//det//8 s.k.//AB|AN//amod//8 sjukhusaffären//NN|UTR|SIN|DEF|NOM//nmod//4 i//PP//case//10 Göteborg//PM|NOM//nmod//8
+Bilaga 2 / Svenska arkiv Riksarkivet;•//PM|NOM//case//2 Kommunikationsdepartementets//NN|NEU|SIN|DEF|GEN//nmod:poss//2 arkiv//NN|NEU|SIN|IND|NOM//ROOT//2
+Bilaga 2 / Svenska arkiv Riksarkivet;•//NN|UTR|SIN|IND|NOM//case//4 1974//RG|NOM//nummod//2 års//NN|NEU|SIN|IND|GEN//nmod:poss//3 underrättelseutrednings//NN|UTR|SIN|IND|GEN//nmod:poss//4 arkiv//NN|NEU|PLU|IND|NOM//ROOT//4
+Bilaga 2 / Svenska arkiv Riksarkivet;•//PP//case//2 Ubåtskyddskommissionens//NN|UTR|SIN|DEF|GEN//nmod:poss//2 arkiv//NN|NEU|SIN|IND|NOM//ROOT//2
+Bilaga 2 / Svenska arkiv Riksarkivet;•//NN|UTR|SIN|IND|NOM//case//2 Ubåtskommissionens//NN|UTR|SIN|DEF|GEN//nmod:poss//2 arkiv//NN|NEU|SIN|IND|NOM//ROOT//2
+Bilaga 2 / Svenska arkiv Riksarkivet;•//NN|UTR|SIN|IND|NOM//case//2 Ubåtsutredningens//NN|UTR|SIN|DEF|GEN//nmod:poss//2 arkiv//NN|NEU|SIN|IND|NOM//ROOT//2
+
+Bilaga 2 / Regeringskansliets centralarkiv;•//PP//case//2 Neutralitetspolitikkommissionens//NN|UTR|SIN|DEF|GEN//nmod:poss//2 arkiv//NN|NEU|PLU|IND|NOM//ROOT//2
+Bilaga 2 / Regeringskansliets centralarkiv;•//NN|UTR|SIN|IND|NOM//case//2 Statsrådsberedningens//NN|UTR|SIN|DEF|GEN//nmod:poss//2 arkiv//NN|NEU|SIN|IND|NOM//ROOT//2
+Bilaga 2 / Regeringskansliets centralarkiv;•//NN|UTR|SIN|IND|NOM//case//2 Justitiedepartementets//NN|NEU|SIN|DEF|GEN//nmod:poss//2 arkiv//NN|NEU|SIN|IND|NOM//ROOT//2
+Bilaga 2 / Regeringskansliets centralarkiv;•//PM|NOM//case//2 Civildepartementets//NN|NEU|SIN|DEF|GEN//nmod:poss//2 arkiv//NN|NEU|SIN|IND|NOM//ROOT//2
+Bilaga 2 / Regeringskansliets centralarkiv;•//PM|NOM//case//2 Kommunikationsdepartementets//NN|NEU|SIN|DEF|GEN//nmod:poss//2 arkiv//NN|NEU|SIN|IND|NOM//ROOT//2
+Bilaga 2 / Regeringskansliets centralarkiv;•//NN|UTR|SIN|IND|NOM//case//2 Förvaltningsavdelningens//NN|UTR|SIN|DEF|GEN//nmod:poss//2 arkiv//NN|NEU|SIN|IND|NOM//ROOT//2
+
+Bilaga 2 / Utrikesdepartementet;•//NN|UTR|SIN|IND|NOM//case//2 Utrikesnämndens//NN|UTR|SIN|DEF|GEN//nmod:poss//2 protokoll//NN|NEU|SIN|IND|NOM//ROOT//2
+Bilaga 2 / Utrikesdepartementet;För//PP//case//2 vidare//JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM//fixed//0 information//NN|UTR|SIN|IND|NOM//obl//11 om//PP//case//4 kategorier//NN|UTR|PLU|IND|NOM//nmod//2 i//PP//case//6 UD//PM|NOM//nmod//4 ://MID//punct//2 s//JJ|AN//case//9 arkiv//NN|NEU|SIN|IND|NOM//appos//2 ,//MID//punct//11 se//VB|IMP|AKT//ROOT//11 noter//NN|UTR|PLU|IND|NOM//obj//11 .//MAD//punct//11
+
+Bilaga 2 / Försvarsdepartementet;•//PM|NOM//case//6 Försvarsdepartementets//NN|NEU|SIN|DEF|GEN//nmod:poss//6 hemliga//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//6 och//KN//cc//4 kvalificerat//AB//conj//2 hemliga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//6 arkiv//NN|NEU|PLU|IND|NOM//ROOT//6
+
+Bilaga 2 / Krigsarkivet;•//NN|UTR|SIN|IND|NOM//case//1 Överbefälhavaren//NN|UTR|SIN|DEF|NOM//ROOT//1 (//PAD//punct//1 t.o.m.//AB|AN//advmod//4 1981/82//RG|NOM//appos//1 )//PAD//punct//1
+Bilaga 2 / Krigsarkivet;•//NN|UTR|SIN|IND|NOM//nmod//1 Chefen//NN|UTR|SIN|DEF|NOM//ROOT//1 för//PP//case//3 armén//NN|UTR|SIN|DEF|NOM//nmod//1 (//PAD//punct//6 t.o.m.//AB|AN//advmod//6 1981/82//RG|NOM//appos//3 )//PAD//punct//1
+Bilaga 2 / Krigsarkivet;•//NN|UTR|SIN|IND|NOM//nmod//1 Chefen//NN|UTR|SIN|DEF|NOM//ROOT//1 för//PP//case//3 marinen//NN|UTR|SIN|DEF|NOM//nmod//1 (//PAD//punct//1 t.o.m.//AB|AN//advmod//6 1981/82//RG|NOM//appos//1 )//PAD//punct//1
+Bilaga 2 / Krigsarkivet;•//NN|UTR|SIN|IND|NOM//nmod//1 Chefen//NN|UTR|SIN|DEF|NOM//ROOT//1 för//PP//case//3 flygvapnet//NN|NEU|SIN|DEF|NOM//nmod//1 (//PAD//punct//1 t.o.m.//AB|AN//advmod//6 1981/82//RG|NOM//appos//1 )//PAD//punct//1
+Bilaga 2 / Krigsarkivet;•//PP//case//4 Försvarets//NN|NEU|SIN|DEF|GEN//nmod:poss//4 materielverks//NN|NEU|SIN|IND|GEN//amod//4 hemliga//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//4 arkiv//NN|NEU|SIN|IND|NOM//ROOT//4 (//PAD//punct//4 t.o.m.//AB|AN//advmod//7 1982//RG|NOM//appos//4 )//PAD//punct//4
+Bilaga 2 / Krigsarkivet;•//NN|UTR|SIN|IND|NOM//case//1 Försvarsattachéarkiven//NN|UTR|SIN|DEF|NOM//ROOT//1 ,//MID//punct//1 Fst//PM|NOM//conj//1 ///MID//cc//5 Sekt//PM|NOM//conj//1 2//RG|NOM//nummod//1 (//PAD//punct//6 t.o.m.//AB|AN//advmod//9 1980/81//RG|NOM//nmod//1 )//PAD//punct//1
+Bilaga 2 / Krigsarkivet;•//NN|UTR|SIN|IND|NOM//case//1 Överstyrelsen//NN|UTR|SIN|DEF|NOM//ROOT//1 för//PP//case//5 Ekonomiskt//AB|POS//amod//4 Försvars//PM|GEN//nmod:poss//5 arkiv//NN|NEU|SIN|IND|NOM//nmod//1
+Bilaga 2 / Krigsarkivet;•//NN|UTR|SIN|IND|NOM//case//3 Lennart//PM|NOM//nmod:poss//3 Ljungs//PM|GEN//flat:name//1 dagböcker//NN|UTR|PLU|IND|NOM//ROOT//3
+Bilaga 2 / Krigsarkivet;•//NN|UTR|SIN|IND|NOM//case//3 Nils//PM|NOM//nmod:poss//3 Skölds//PM|GEN//flat:name//1 arkiv//NN|NEU|SIN|IND|NOM//ROOT//3
+Bilaga 2 / Krigsarkivet;•//NN|UTR|SIN|IND|NOM//nmod//1 Carl//PM|NOM//ROOT//1 Eric//PM|NOM//flat//1 Almgrens//PM|GEN//nmod:poss//4 arkiv//NN|NEU|SIN|IND|NOM//nmod//1
+
+Bilaga 2 / Högkvarteret;•//NN|UTR|SIN|IND|NOM//case//2 Högkvarterets//NN|NEU|SIN|DEF|GEN//nmod:poss//2 arkiv//NN|NEU|SIN|IND|NOM//ROOT//2
+Bilaga 2 / Högkvarteret;•//NN|UTR|SIN|IND|NOM//case//2 Försvarsstabens//NN|UTR|SIN|DEF|GEN//nmod:poss//2 arkiv//NN|NEU|SIN|IND|NOM//ROOT//2
+Bilaga 2 / Högkvarteret;•//NN|UTR|SIN|IND|NOM//case//2 Överbefälhavarens//NN|UTR|SIN|DEF|GEN//nmod:poss//2 arkiv//NN|NEU|SIN|IND|NOM//ROOT//2
+Bilaga 2 / Högkvarteret;•//NN|UTR|SIN|IND|NOM//nmod//1 Chefen//NN|UTR|SIN|DEF|NOM//ROOT//1 för//PP//case//3 armén//NN|UTR|SIN|DEF|NOM//nmod//1 ///MID//cc//6 Arméstabens//NN|UTR|SIN|DEF|GEN//nmod:poss//6 arkiv//NN|NEU|SIN|IND|NOM//conj//3
+Bilaga 2 / Högkvarteret;•//NN|UTR|SIN|IND|NOM//nmod//1 Chefen//NN|UTR|SIN|DEF|NOM//ROOT//1 för//PP//case//3 marinen//NN|UTR|SIN|DEF|NOM//nmod//1 ///MID//cc//6 Marinstabens//NN|UTR|SIN|DEF|GEN//nmod:poss//6 arkiv//NN|NEU|SIN|IND|NOM//nmod//1
+Bilaga 2 / Högkvarteret;•//NN|UTR|SIN|IND|NOM//nmod//1 Chefen//NN|UTR|SIN|DEF|NOM//ROOT//1 för//PP//case//3 flygvapnet//NN|NEU|SIN|DEF|NOM//nmod//1 ///MID//cc//6 Flygstabens//NN|UTR|SIN|DEF|GEN//nmod:poss//6 arkiv//NN|NEU|SIN|IND|NOM//conj//3
+Bilaga 2 / Högkvarteret;•//NN|UTR|SIN|IND|NOM//case//2 Försvarsavdelningarnas//NN|UTR|PLU|DEF|GEN//nmod:poss//2 arkiv//NN|NEU|PLU|IND|NOM//ROOT//2
+
+Bilaga 2 / Militära underrättelse- och säkerhetstjänstens arkiv;•//NN|UTR|SIN|IND|NOM//case//1 Underrättelseavdelningen//NN|UTR|SIN|DEF|NOM//ROOT//1
+Bilaga 2 / Militära underrättelse- och säkerhetstjänstens arkiv;•//PP//case//1 Säkerhetsavdelningen//NN|UTR|SIN|DEF|NOM//ROOT//1
+
+Bilaga 2 / Försvarets materielverk;•//NN|UTR|SIN|IND|NOM//nmod//1 FMV//PM|NOM//ROOT//1 ://MID//punct//1 s//NN|AN//nummod//4 hemliga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//appos//1 (//PAD//punct//4 1983//RG|NOM//nummod//4 1989//RG|NOM//nummod//6 )//PAD//punct//4 och//KN//cc//12 kvalificerat//VB|SUP|AKT//amod//12 hemliga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//12 arkiv//NN|NEU|PLU|IND|NOM//conj//4
+
+Bilaga 2 / Försvarets radioanstalt;•//NN|UTR|SIN|IND|NOM//case//1 FRA//PM|NOM//ROOT//1 ://MID//punct//1 s//NN|AN//nummod//8 hemliga//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//8 och//KN//cc//6 kvalificerat//AB//conj//4 hemliga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//8 arkiv//NN|NEU|PLU|IND|NOM//appos//1
+
+Bilaga 2 / Totalförsvarets forskningsinstitut;•//NN|UTR|SIN|IND|NOM//nmod//1 FOA//PM|NOM//ROOT//1 ://MID//punct//1 s//NN|AN//nummod//8 hemliga//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//8 och//KN//cc//6 kvalificerat//AB//conj//4 hemliga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//8 arkiv//NN|NEU|PLU|IND|NOM//appos//1
+
+Bilaga 2 / Luftfartsverket, Norrköping;•//PM|NOM//case//3 Luftfartsverkets//NN|NEU|SIN|DEF|GEN//nmod:poss//3 hemliga//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//3 arkiv//NN|NEU|SIN|IND|NOM//ROOT//3
+
+Bilaga 2 / Arbetarrörelsens Arkiv och Bibliotek;•//NN|UTR|SIN|IND|NOM//case//3 Verkställande//JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//2 utskottets//NN|NEU|SIN|DEF|GEN//nmod:poss//3 protokoll//NN|NEU|SIN|IND|NOM//ROOT//3 1969//RG|NOM//nummod//3 1982//RG|NOM//nummod//3
+Bilaga 2 / Arbetarrörelsens Arkiv och Bibliotek;•//NN|UTR|SIN|IND|NOM//case//3 Ingvar//PM|NOM//det//3 Carlssons//PM|GEN//flat:name//1 arkiv//NN|NEU|SIN|IND|NOM//ROOT//3
+
+Bilaga 2 / Socialdemokraterna;•//NN|UTR|SIN|IND|NOM//case//3 Verkställande//JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//2 utskottets//NN|NEU|SIN|DEF|GEN//nmod:poss//3 protokoll//NN|NEU|SIN|IND|NOM//ROOT//3 1982//RG|NOM//nummod//3 1989//RG|NOM//nummod//3
+
+Bilaga 2 / Svenskt Näringsliv;•//NN|UTR|SIN|IND|NOM//nmod//1 Bertil//PM|NOM//nmod//3 Kugelbergs//PM|GEN//amod//3 arkiv//NN|NEU|PLU|IND|NOM//ROOT//3
+
+Bilaga 2 / Utländska arkiv Förenta Staterna;-//MID//punct//3 Central//JJ|POS|UTR|SIN|IND|NOM//amod//2 Decimal//PM|NOM//compound//3 Files//PM|NOM//ROOT//3 -//MID//punct//3 Subject//UO//nmod//6 Numeric//UO//appos//3 Files//UO//flat//6 -//MID//punct//6 Lot//PM|NOM//appos//6 Files//PM|NOM//flat//9 -//MID//punct//6 Country//PM|NOM//nmod//13 File//PM|NOM//appos//6 -//MID//punct//13 National//PM|NOM//amod//16 Intelligence//PM|NOM//appos//13 Estimates//PM|NOM//flat:name//16 -//MID//punct//16 CO//NN|AN//nmod//20 277//RG|NOM//nmod//16 ,//MID//punct//16 Sweden//PM|NOM//conj//16 -//MID//punct//16 Confidential//PM|NOM//nmod//25 File//PM|NOM//nmod//16 -//MID//punct//16 Name//PM|NOM//appos//16 File//PM|NOM//conj//16
+Bilaga 2 / Utländska arkiv Förenta Staterna;Park//NN|UTR|SIN|IND|NOM//ROOT//0 ,//MID//punct//2 Maryland//PM|NOM//conj//0 -//MID//punct//2 Country//PM|NOM//nmod//5 File//PM|NOM//conj//0 -//MID//punct//5 Subject//PM|NOM//nmod//8 File//PM|NOM//appos//5 -//MID//punct//5 Subject//UO//nmod//11 Files//PM|NOM//appos//5
+Bilaga 2 / Utländska arkiv Förenta Staterna;•//NN|UTR|SIN|IND|NOM//nmod//1 Command//PM|NOM//ROOT//1 Histories//PM|NOM//flat:name//1
+Bilaga 2 / Utländska arkiv Förenta Staterna;•//NN|UTR|SIN|IND|NOM//nmod//1 Cruise//PM|NOM//ROOT//1 Books//PM|NOM//flat:name//1
+Bilaga 2 / Utländska arkiv Förenta Staterna;•//PM|NOM//nmod//1 Deck//PM|NOM//ROOT//1 Logs//PM|NOM//flat//1
+Bilaga 2 / Utländska arkiv Förenta Staterna;D.C.//PM|NOM//ROOT//0
+
+
+Bilaga 2 / Ryssland;(//PAD//punct//1 RGANI//PM|NOM//ROOT//1 )//PAD//punct//1 Ryska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//4 statens//NN|UTR|SIN|DEF|GEN//nmod:poss//5 arkiv//NN|NEU|SIN|IND|NOM//conj//1 för//PP//case//8 samtidshistoriska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//8 dokument//NN|NEU|PLU|IND|NOM//nmod//5 ,//MID//punct//10 Moskva//PM|NOM//conj//8
+
+
+Bilaga 2 / Internetarkiv;www.cia.gov/csi//PN|UTR|PLU|DEF|SUB//advmod//2 http://nsarchive.chadwyck.com//UO//nmod//2 www.fas.org//UO//compound//3 www.fas.harvard.edu/~hpcws/index2.htm//MAD//ROOT//3
+
+Bilaga 2 / NATO Archives;www.nato.int/archives//NN|UTR|SIN|IND|NOM//ROOT//0
+
+Bilaga 2 / Säkerhetspolitiska utredningens arkiv;•//NN|UTR|SIN|IND|NOM//nmod//1 Samtalsuppteckningar//NN|UTR|PLU|IND|NOM//ROOT//1
+Bilaga 2 / Säkerhetspolitiska utredningens arkiv;•//PP//case//1 Underlag//NN|NEU|SIN|IND|NOM//ROOT//1 för//PP//case//3 utredaren//NN|UTR|SIN|DEF|NOM//nmod//1
+Bilaga 2 / Säkerhetspolitiska utredningens arkiv;•//PP//nummod//1 Övrigt//JJ|POS|NEU|SIN|IND|NOM//ROOT//1
+
+
+Bilaga 3 / Förteckning över uppgiftslämnare;ministeriet//NN|NEU|SIN|DEF|NOM//ROOT//0 ,//MID//punct//2 sekreterare//NN|UTR|SIN|IND|NOM//conj//0 i//PP//case//4 försvarskommittén//NN|UTR|SIN|DEF|NOM//nmod//2
+
+Bilaga 3 / Övrigt;2001-05-08//RG|NOM//amod//1 Samtal//NN|NEU|PLU|IND|NOM//ROOT//1 med//PP//case//4 professor//NN|UTR|SIN|IND|NOM//nmod//4 George//PM|NOM//nmod//1 Baer//PM|NOM//flat:name//4 och//KN//cc//8 docent//NN|UTR|SIN|IND|NOM//nmod//8 Gunnar//PM|NOM//conj//4 Åselius//PM|NOM//flat:name//8 .//MAD//punct//4
+Bilaga 3 / Övrigt;2001-05-10//RG|NOM//amod//12 Minnesanteckningar//NN|UTR|PLU|IND|NOM//appos//4 från//PP//case//14 akademikerseminarium//NN|NEU|SIN|IND|NOM//nmod//12 .//MID//punct//4
+Bilaga 3 / Övrigt;Kim//PM|NOM//appos//1 Salomon//PM|NOM//flat//16 ,//MID//punct//19 Sverker//PM|NOM//conj//16 Oredsson//PM|NOM//flat:name//19 och//KN//cc//22 Magnus//PM|NOM//conj//20 Jerneck//PM|NOM//flat:name//22 .//MAD//punct//19
+Bilaga 3 / Övrigt;2001-05-11//RG|NOM//nummod//26 Minnesanteckningar//NN|UTR|PLU|IND|NOM//conj//16 från//PP//case//28 akademikerseminarium//NN|NEU|SIN|IND|NOM//nmod//26 .//MID//punct//26
+Bilaga 3 / Övrigt;Ulf//PM|NOM//nmod//26 Bjereld//PM|NOM//flat:name//30 ,//MID//punct//30 Ann-Marie//PM|NOM//nmod//34 Ekengren//PM|NOM//conj//30 ,//MID//punct//30 Marie//PM|NOM//conj//30 Demker//PM|NOM//flat//36 och//KN//cc//39 Per//PM|NOM//conj//36 Cramér//PM|NOM//flat//39 .//MAD//punct//26
+Bilaga 3 / Övrigt;2001-05-17//RG|NOM//nmod//43 Minnesanteckningar//NN|UTR|PLU|IND|NOM//appos//1 från//PP//case//45 akademikerseminarium//NN|NEU|SIN|IND|NOM//nmod//43 .//MAD//punct//43
+Bilaga 3 / Övrigt;Wilhelm//PM|NOM//conj//43 Agrell//PM|NOM//flat:name//47 .//MAD//punct//43
+Bilaga 3 / Övrigt;2001-05-28//RG|NOM//nummod//51 Minnesanteckningar//NN|UTR|PLU|IND|NOM//appos//43 från//PP//case//53 akademikerseminarium//NN|NEU|SIN|IND|NOM//nmod//51 .//MID//punct//43
+Bilaga 3 / Övrigt;Bengt//PM|NOM//conj//43 Sundelius//PM|NOM//flat:name//55 ,//MID//punct//58 Nils//PM|NOM//conj//43 Andrén//PM|NOM//flat:name//58 ,//MID//punct//61 Ingemar//PM|NOM//conj//43 Dörfer//PM|NOM//flat:name//61 och//KN//cc//64 Gunnar//PM|NOM//conj//43 Sjöstedt//PM|NOM//flat:name//64 .//MAD//punct//43
+Bilaga 3 / Övrigt;2001-10-22//RG|NOM//nummod//68 Akademikerseminarium//UO//appos//43 med//PP//case//70 experter//NN|UTR|PLU|IND|NOM//nmod//68 på//PP//case//72 Sovjetunionen//PM|NOM//nmod//70 .//MID//punct//43
+Bilaga 3 / Övrigt;Kristian//PM|NOM//nmod//75 Gerner//PM|NOM//conj//43 ,//MID//punct//75 Lena//PM|NOM//conj//75 Jonsson//PM|NOM//flat:name//77 ,//MID//punct//75 Jan//PM|NOM//conj//75 Leijonhielm//PM|NOM//flat:name//80 och//KN//cc//83 Ebba//PM|NOM//conj//80 Sävborg-Romare//PM|NOM//flat:name//80 .//MAD//punct//75
+Bilaga 3 / Övrigt;2002-05-22//RG|NOM//nummod//87 Samtalsuppteckningar//NN|UTR|PLU|IND|NOM//conj//43 från//PP//case//89 samtal//NN|NEU|PLU|IND|NOM//nmod//87 i//PP//case//91 Oslo//PM|NOM//nmod//89 .//MID//punct//43
+Bilaga 3 / Övrigt;Ronald//PM|NOM//nmod//43 Bye//PM|NOM//flat//93 ,//MID//punct//96 Thorvald//PM|NOM//conj//93 Stoltenberg//PM|NOM//flat//96 ,//MID//punct//99 Björn//PM|NOM//conj//93 Tore//PM|NOM//flat:name//99 Godal//PM|NOM//flat:name//99 ,//MID//punct//99 Fredrik//PM|NOM//conj//93 Bull//PM|NOM//flat:name//103 Hansen//PM|NOM//flat:name//103 ,//MID//punct//107 Gullow//PM|NOM//conj//93 Gjeseth//PM|NOM//flat:name//107 ,//MID//punct//110 Jacob//PM|NOM//conj//93 Börresen//NN|UTR|SIN|DEF|NOM//flat:name//110 ,//MID//punct//110 Kjell//PM|NOM//conj//93 Wiebe//PM|NOM//flat//113 ,//MID//punct//116 Grethe//PM|NOM//conj//93 Vaernoe//PM|NOM//flat//116 ,//MID//punct//116 Geir//PM|NOM//conj//93 Lundestad//PM|NOM//flat//119 och//KN//cc//122 Rolf//PM|NOM//conj//119 Tamnes//PM|NOM//flat//122 .//MAD//punct//43
+Bilaga 3 / Övrigt;2002-02-19//RG|NOM//nummod//126 Anteckningar//NN|UTR|PLU|IND|NOM//conj//43 från//PP//case//128 samtal//NN|NEU|PLU|IND|NOM//nmod//126 om//PP//case//131 Polens//PM|GEN//nmod:poss//131 syn//NN|UTR|SIN|IND|NOM//nmod//126 på//PP//case//133 Sverige//PM|NOM//nmod//131 under//PP//case//135 kommunisttiden//NN|UTR|SIN|DEF|NOM//nmod//43 .//MID//punct//43
+Bilaga 3 / Övrigt;Adam//PM|NOM//nmod//138 Daniel//PM|NOM//appos//43 Rotfeld//PM|NOM//flat:name//138 ,//MID//punct//141 Pawel//PM|NOM//conj//138 Cieslar//PM|NOM//flat//141 ,//MID//punct//145 Maciej//PM|NOM//nmod//145 Gorski//PM|NOM//conj//141 ,//MID//punct//145 Zygmunt//PM|NOM//conj//138 Broniarek//PM|NOM//flat:name//147 och//KN//cc//150 Slawomir//PM|NOM//conj//147 Petelicki//PM|NOM//flat//150 .//MAD//punct//1
+
+
+Bilaga 4 / Litteraturförteckning;Syftet//NN|NEU|SIN|DEF|NOM//nsubj//7 med//PP//case//3 denna//DT|UTR|SIN|DEF//det//3 sammanställning//NN|UTR|SIN|IND|NOM//nmod//0 är//VB|PRS|AKT//cop//0 att//IE//mark//6 hjälpa//VB|INF|AKT//csubj//0 intresserade//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//ROOT//7 läsare//NN|UTR|PLU|IND|NOM//obj//7 med//PP//case//10 uppslag//NN|NEU|PLU|IND|NOM//nmod//8 om//PP//case//13 offentligt//JJ|POS|NEU|SIN|IND|NOM//amod//13 tryck//NN|NEU|SIN|IND|NOM//obl//7 och//KN//cc//16 övrig//JJ|POS|UTR|SIN|IND|NOM//amod//16 litteratur//NN|UTR|SIN|IND|NOM//conj//13 relaterad//PC|PRF|UTR|SIN|IND|NOM//amod//13 till//PP//case//20 svensk//JJ|POS|UTR|SIN|IND|NOM//amod//20 säkerhetspolitik//NN|UTR|SIN|IND|NOM//obl//7 .//MAD//punct//7
+Bilaga 4 / Litteraturförteckning;I//PP//case//23 fotnoterna//NN|UTR|PLU|DEF|NOM//obl//24 redovisas//VB|PRS|SFO//conj//7 ytterligare//JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//26 litteratur//NN|UTR|SIN|IND|NOM//nsubj:pass//24 .//MAD//punct//24
+
+Bilaga 4 / Offentligt tryck;SOU//PM|NOM//ROOT//0 1968:10//RG|NOM//nmod//0 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck; //_SP////2 Säkerhetspolitik//NN|UTR|SIN|IND|NOM//conj//0 och//KN//cc//6 försvarsutgifter//NN|NEU|PLU|IND|NOM//conj//4 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck;Betänkande//NN|NEU|SIN|IND|NOM//appos//0 avgivet//PC|PRF|NEU|SIN|IND|NOM//obj//8 av//PP//case//13 1965//RG|NOM//nummod//12 års//NN|NEU|SIN|IND|GEN//nmod:poss//13 försvarsutredning//NN|UTR|SIN|IND|NOM//nmod//8 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck;SOU//PM|NOM//ROOT//0 1969:25//RG|NOM//nmod//0 .//MID//punct//0
+Bilaga 4 / Offentligt tryck; //_SP////2 Planering//NN|UTR|SIN|IND|NOM//conj//0 och//KN//cc//6 programbudgetering//NN|UTR|SIN|IND|NOM//conj//4 inom//PP//case//8 försvaret//NN|NEU|SIN|DEF|NOM//nmod//0 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck;Betänkande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//ROOT//0 avgivet//PC|PRF|NEU|SIN|IND|NOM//obj//0 av//PP//case//4 Försvarsdepartementets//NN|NEU|SIN|DEF|GEN//nmod:poss//4 programbudgetgrupp//NN|UTR|SIN|IND|NOM//nmod//0 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck;SOU//PM|NOM//nmod//1 1972:4//RG|NOM//ROOT//1 .//MID//punct//1
+Bilaga 4 / Offentligt tryck; //_SP////2 Säkerhets-//NN|UTR|-|-|SMS//conj//1 och//KN//cc//6 försvarspolitiken//NN|UTR|SIN|DEF|NOM//conj//4 .//MAD//punct//1
+Bilaga 4 / Offentligt tryck;Betänkande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//conj//1 avgivet//PC|PRF|NEU|SIN|IND|NOM//obj//8 av//PP//case//13 1970//RG|NOM//nummod//12 års//NN|NEU|SIN|IND|GEN//nmod:poss//13 försvarsutredning//NN|UTR|SIN|IND|NOM//nmod//8 .//MAD//punct//1
+Bilaga 4 / Offentligt tryck;SOU//PM|NOM//nmod//1 1972:8//RG|NOM//nsubj//7 .//MAD//punct//1
+Bilaga 4 / Offentligt tryck;Forskningen//NN|UTR|SIN|DEF|NOM//parataxis//1 inom//PP//case//5 försvaret//NN|NEU|SIN|DEF|NOM//nmod//3 .//MAD//punct//3
+Bilaga 4 / Offentligt tryck;Slutbetänkande//NN|NEU|SIN|IND|NOM//ROOT//7 avgivet//PC|PRF|NEU|SIN|IND|NOM//obj//7 av//PP//case//12 1969//RG|NOM//nummod//11 års//NN|NEU|SIN|IND|GEN//nmod:poss//12 försvarsforskningsutredning//NN|UTR|SIN|IND|NOM//obl//7 .//MAD//punct//7
+Bilaga 4 / Offentligt tryck;SOU//PM|NOM//ROOT//0 1972:48//RG|NOM//nmod//0 .//MID//punct//0
+Bilaga 4 / Offentligt tryck; //_SP////2 Riksdagen//NN|UTR|SIN|DEF|NOM//conj//0 och//KN//cc//6 försvarsplaneringen//NN|UTR|SIN|DEF|NOM//conj//4 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck;Betänkande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//parataxis//0 avgivet//PC|PRF|NEU|SIN|IND|NOM//obj//8 av//PP//case//13 1970//RG|NOM//nummod//12 års//NN|NEU|SIN|IND|GEN//nmod:poss//13 försvarsutredning//NN|UTR|SIN|IND|NOM//nmod//8 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck;SOU//PM|NOM//nmod//1 1976:5//RG|NOM//ROOT//1 .//MID//punct//1
+Bilaga 4 / Offentligt tryck; //_SP////2 Säkerhetspolitiken//NN|UTR|SIN|DEF|NOM//conj//1 och//KN//cc//6 totalförsvaret//NN|NEU|SIN|DEF|NOM//conj//4 .//MAD//punct//1
+Bilaga 4 / Offentligt tryck;Betänkande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//conj//1 avgivet//PC|PRF|NEU|SIN|IND|NOM//obj//8 av//PP//case//13 1974//RG|NOM//nummod//12 års//NN|NEU|SIN|IND|GEN//nmod:poss//13 försvarsutredning//NN|UTR|SIN|IND|NOM//nmod//8 .//MAD//punct//8
+Bilaga 4 / Offentligt tryck;SOU//PM|NOM//ROOT//0 1976:19//RG|NOM//nmod//0 .//MID//punct//0
+Bilaga 4 / Offentligt tryck; //_SP////2 Den//DT|UTR|SIN|DEF//det//6 militära//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//6 underrättelsetjänsten//NN|UTR|SIN|DEF|NOM//conj//0 .//MAD//punct//6
+Bilaga 4 / Offentligt tryck;Betänkande//NN|NEU|SIN|IND|NOM//appos//6 av//PP//case//12 1974//RG|NOM//nummod//11 års//NN|NEU|SIN|IND|GEN//nmod:poss//12 underrättelseutredning//NN|UTR|SIN|IND|NOM//nmod//8 .//MAD//punct//6
+Bilaga 4 / Offentligt tryck;SOU//PM|NOM//nmod//1 1977:1//RG|NOM//ROOT//1 .//MAD//punct//1
+Bilaga 4 / Offentligt tryck;Totalförsvaret//NN|NEU|SIN|DEF|NOM//appos//1 1977//RG|NOM//nummod//3 82//RG|NOM//nummod//3 .//MID//punct//3
+Bilaga 4 / Offentligt tryck; //_SP////6 Andra//RO|NOM//amod//10 delbetänkande//NN|NEU|SIN|IND|NOM//amod//10 avgivet//PC|PRF|NEU|SIN|IND|NOM//appos//3 av//PP//case//14 1974//RG|NOM//nummod//13 års//NN|NEU|SIN|IND|GEN//nmod:poss//14 försvarsutredning//NN|UTR|SIN|IND|NOM//nmod//10 .//MAD//punct//1
+Bilaga 4 / Offentligt tryck;SOU//PM|NOM//ROOT//0 1979:73//RG|NOM//nmod//0 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck;Vår//PS|UTR|SIN|DEF//nmod:poss//4 säkerhetspolitik//NN|UTR|SIN|IND|NOM//conj//0 .//MID//punct//4
+Bilaga 4 / Offentligt tryck; //_SP////5 Betänkande//NN|NEU|SIN|IND|NOM//conj//4 om//PP//case//10 svensk//JJ|POS|UTR|SIN|IND|NOM//amod//10 säkerhets-//NN|UTR|-|-|SMS//nmod//7 och//KN//cc//12 försvarspolitik//NN|UTR|SIN|IND|NOM//conj//10 av//PP//case//16 1978//RG|NOM//nummod//15 års//NN|NEU|SIN|IND|GEN//nmod:poss//16 försvarskommitté//NN|UTR|SIN|IND|NOM//nmod//12 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck;Ds//PM|NOM//advmod//1 1981:14//RG|NOM//ROOT//1 .//MAD//punct//3
+Bilaga 4 / Offentligt tryck;Totalförsvaret//NN|NEU|SIN|DEF|NOM//appos//1 1982/1987//RG|NOM//nummod//3 .//MAD//punct//3
+Bilaga 4 / Offentligt tryck; //_SP////5 Slutbetänkande//NN|NEU|SIN|IND|NOM//nmod//3 från//PP//case//11 1978//RG|NOM//nummod//10 års//NN|NEU|SIN|IND|GEN//nmod:poss//11 försvarskommitté//NN|UTR|SIN|IND|NOM//nmod//7 .//MAD//punct//3
+Bilaga 4 / Offentligt tryck;SOU//PM|NOM//ROOT//0 1983:13//RG|NOM//nmod//0 .//MID//punct//0
+Bilaga 4 / Offentligt tryck; //_SP////2 Att//IE//mark//5 möta//VB|INF|AKT//acl//0 ubåtshotet//NN|NEU|SIN|DEF|NOM//obj//5 ://MID//punct//5
+Bilaga 4 / Offentligt tryck;Ubåtskränkningarna//NN|UTR|PLU|DEF|NOM//obj//5 och//KN//cc//11 svensk//JJ|POS|UTR|SIN|IND|NOM//amod//11 säkerhetspolitik//NN|UTR|SIN|IND|NOM//conj//8 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck;Betänkande//NN|NEU|SIN|IND|NOM//appos//0 av//PP//case//15 Ubåtsskyddskommissionen//PM|NOM//nmod//13 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck;SOU//PM|NOM//ROOT//0 1985:23//RG|NOM//nmod//0 .//MID//punct//0
+Bilaga 4 / Offentligt tryck; //_SP////2 Svensk//JJ|POS|UTR|SIN|IND|NOM//amod//5 utrikespolitik//NN|UTR|SIN|IND|NOM//conj//0 inför//PP//case//7 90-talet//NN|NEU|SIN|DEF|NOM//nmod//5 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck;Rapport//NN|UTR|SIN|IND|NOM//conj//0 från//PP//case//13 1984//RG|NOM//nummod//12 års//NN|NEU|SIN|IND|GEN//nmod:poss//13 försvarskommitté//NN|UTR|SIN|IND|NOM//nmod//9 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck;SOU//PM|NOM//ROOT//0 1987:8//RG|NOM//nmod//0 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck; //_SP////2 Försvarsindustrins//NN|UTR|SIN|DEF|GEN//nmod:poss//5 utlandsverksamhet//NN|UTR|SIN|IND|NOM//conj//0 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck;Betänkande//NN|NEU|SIN|IND|NOM//appos//0 av//PP//case//9 Utredningen//NN|UTR|SIN|DEF|NOM//nmod//7 om//PP//case//12 svensk//JJ|POS|UTR|SIN|IND|NOM//amod//12 utlandsverksamhet//NN|UTR|SIN|IND|NOM//nmod//9 på//PP//case//14 krigsmaterielområdet//NN|NEU|SIN|DEF|NOM//nmod//12 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck;SOU//PM|NOM//nmod//1 1987:9//RG|NOM//ROOT//1 .//MID//punct//1
+Bilaga 4 / Offentligt tryck; //_SP////2 Det//DT|NEU|SIN|DEF//det//6 svenska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//6 totalförsvaret//NN|NEU|SIN|DEF|NOM//appos//1 inför//PP//case//8 90-talet//NN|NEU|SIN|DEF|NOM//nmod//6 .//MAD//punct//1
+Bilaga 4 / Offentligt tryck;Slutbetänkande//NN|NEU|SIN|IND|NOM//parataxis//1 av//PP//case//14 1984//RG|NOM//nummod//13 års//NN|NEU|SIN|IND|GEN//nmod:poss//14 försvarskommitté//NN|UTR|SIN|IND|NOM//nmod//10 .//MAD//punct//1
+Bilaga 4 / Offentligt tryck;SOU//PM|NOM//ROOT//0 1988:15//RG|NOM//nmod//0 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck; //_SP////2 Medborgarkommissionens//NN|UTR|SIN|DEF|GEN//nmod:poss//5 rapport//NN|UTR|SIN|IND|NOM//conj//0 om//PP//case//8 svensk//JJ|POS|UTR|SIN|IND|NOM//amod//8 vapenexport//NN|UTR|SIN|IND|NOM//nmod//5 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck;SOU//PM|NOM//nmod//1 1989:102//RG|NOM//ROOT//1 .//MID//punct//1
+Bilaga 4 / Offentligt tryck; //_SP////2 Utlandssamverkan//NN|UTR|SIN|DEF|NOM//appos//1 på//PP//case//6 krigsmaterielområdet//NN|NEU|SIN|DEF|NOM//nmod//4 .//MAD//punct//1
+Bilaga 4 / Offentligt tryck;Betänkande//NN|NEU|SIN|IND|NOM//appos//1 av//PP//case//12 1988//RG|NOM//nummod//11 års//NN|NEU|SIN|IND|GEN//nmod:poss//12 utredning//NN|UTR|SIN|IND|NOM//nmod//8 om//PP//case//14 krigsmaterielexporten//NN|UTR|SIN|DEF|NOM//nmod//12 .//MAD//punct//1
+Bilaga 4 / Offentligt tryck;SOU//PM|NOM//ROOT//0 1990:5//RG|NOM//nmod//0 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck; //_SP////2 Svensk//JJ|POS|UTR|SIN|IND|NOM//amod//5 säkerhetspolitik//NN|UTR|SIN|IND|NOM//appos//0 i//PP//case//9 en//DT|UTR|SIN|IND//det//9 föränderlig//JJ|POS|UTR|SIN|IND|NOM//amod//9 värld//NN|UTR|SIN|IND|NOM//nmod//5 .//MAD//punct//5
+Bilaga 4 / Offentligt tryck;Betänkande//NN|NEU|SIN|IND|NOM//conj//0 av//PP//case//15 1988//RG|NOM//nummod//14 års//NN|NEU|SIN|IND|GEN//nmod:poss//15 försvarskommitté//NN|UTR|SIN|IND|NOM//nmod//11 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck;Ds//PM|NOM//advmod//1 1990:41//RG|NOM//ROOT//1 .//MAD//punct//1
+Bilaga 4 / Offentligt tryck; //_SP////2 Sveriges//PM|GEN//nmod:poss//6 ekonomiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//6 zon//NN|UTR|SIN|IND|NOM//conj//1 .//MAD//punct//1
+Bilaga 4 / Offentligt tryck;SOU//PM|NOM//nmod//1 1990:108//RG|NOM//ROOT//1 .//MAD//punct//1
+Bilaga 4 / Offentligt tryck;Sjukvården//NN|UTR|SIN|DEF|NOM//parataxis//1 i//PP//case//5 kris//NN|UTR|SIN|IND|NOM//nmod//3 och//KN//cc//7 krig//NN|NEU|SIN|IND|NOM//conj//5 .//MAD//punct//3
+Bilaga 4 / Offentligt tryck; //_SP////8 Betänkande//NN|NEU|SIN|IND|NOM//nmod//3 av//PP//case//12 arbetsgrupp//NN|UTR|SIN|IND|NOM//nmod//10 inom//PP//case//14 FK//PM|NOM//nmod//15 88//RG|NOM//nmod//12 .//MAD//punct//1
+Bilaga 4 / Offentligt tryck;SOU//PM|NOM//ROOT//0 1992:62//RG|NOM//nmod//0 .//MID//punct//0
+Bilaga 4 / Offentligt tryck; //_SP////2 Forskning//NN|UTR|SIN|IND|NOM//conj//0 och//KN//cc//6 utveckling//NN|UTR|SIN|IND|NOM//conj//4 för//PP//case//8 totalförsvaret//NN|NEU|SIN|DEF|NOM//nmod//6 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck;Slutbetänkande//NN|NEU|SIN|IND|NOM//appos//0 av//PP//case//14 1991//RG|NOM//nummod//13 års//NN|NEU|SIN|IND|GEN//nmod:poss//14 försvarsforskningsutredning//NN|UTR|SIN|IND|NOM//nmod//10 .//MAD//punct//10
+Bilaga 4 / Offentligt tryck;SOU//PM|NOM//ROOT//0 1994:11//RG|NOM//nmod//0 .//MID//punct//0
+Bilaga 4 / Offentligt tryck;Om//SN//mark//5 kriget//NN|NEU|SIN|DEF|NOM//nsubj//5 kommit//VB|SUP|AKT//conj//0 …//RG|NOM//punct//7 Förberedelser//NN|UTR|PLU|IND|NOM//obj//5 för//PP//case//9 mottagande//NN|NEU|SIN|IND|NOM//nmod//7 av//PP//case//12 militärt//JJ|POS|NEU|SIN|IND|NOM//amod//12 bistånd//NN|NEU|SIN|IND|NOM//nmod//9 1949//RG|NOM//nummod//7 1969//RG|NOM//nummod//13 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck;Betänkande//NN|NEU|SIN|IND|NOM//appos//0 av//PP//case//18 Neutralitetspolitikkommissionen//NN|UTR|SIN|DEF|NOM//nmod//16 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck;SOU//PM|NOM//nmod//1 1995:135//RG|NOM//ROOT//1 .//MAD//punct//1
+Bilaga 4 / Offentligt tryck;Ubåtsfrågan//PM|NOM//appos//1 1981//RG|NOM//nummod//3 1994//RG|NOM//nummod//4 .//MAD//punct//1
+Bilaga 4 / Offentligt tryck;Betänkande//NN|NEU|SIN|IND|NOM//appos//1 av//PP//case//9 Ubåtskommissionen//NN|UTR|SIN|DEF|NOM//nmod//7 .//MAD//punct//1
+Bilaga 4 / Offentligt tryck;SOU//PM|NOM//nmod//1 1999:37//RG|NOM//ROOT//1 .//MAD//punct//1
+Bilaga 4 / Offentligt tryck; //_SP////2 Underrättelsetjänsten//NN|UTR|SIN|DEF|NOM//appos//1 –//RG|NOM//punct//7 en//DT|UTR|SIN|IND//det//7 översyn//NN|UTR|SIN|IND|NOM//appos//4 .//MID//punct//4
+Bilaga 4 / Offentligt tryck;Betänkande//NN|NEU|SIN|IND|NOM//appos//4 av//PP//case//11 Underrättelsekommittén//NN|UTR|SIN|DEF|NOM//nmod//9 .//MAD//punct//1
+Bilaga 4 / Offentligt tryck;SOU//PM|NOM//ROOT//0 2000:54//RG|NOM//nmod//0 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck; //_SP////2 Det//DT|NEU|SIN|DEF//det//6 militära//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//6 försvarets//NN|NEU|SIN|DEF|GEN//nmod:poss//7 materielförsörjning//NN|UTR|SIN|IND|NOM//conj//0 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck;Delbetänkande//NN|NEU|SIN|IND|NOM//appos//0 av//PP//case//11 Materielförsörjningsutredningen//PM|NOM//nmod//9 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck;SOU//PM|NOM//ROOT//0 2001:85//RG|NOM//advmod//0 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck; //_SP////2 Perspektiv//NN|NEU|SIN|IND|NOM//nmod//0 på//PP//case//6 ubåtsfrågan//NN|UTR|SIN|DEF|NOM//nmod//4 .//MAD//punct//0
+Bilaga 4 / Offentligt tryck;Hanteringen//NN|UTR|SIN|DEF|NOM//appos//0 av//PP//case//10 ubåtsfrågan//NN|UTR|SIN|DEF|NOM//nmod//8 politiskt//AB|POS//advmod//8 och//KN//cc//13 militärt//JJ|POS|NEU|SIN|IND|NOM//conj//11 .//MAD//punct//8
+Bilaga 4 / Offentligt tryck;Betänkande//NN|NEU|SIN|IND|NOM//conj//0 av//PP//case//17 Ubåtsutredningen//NN|UTR|SIN|DEF|NOM//nmod//15 .//MAD//punct//0
+
+Bilaga 4 / Böcker och artiklar;Adelsohn//PM|NOM//ROOT//0 ,//MID//punct//0 U.//PM|NOM//conj//0 1987//RG|NOM//nummod//2 .//MID//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Partiledare//NN|UTR|PLU|IND|NOM//conj//0 ://MID//punct//6
+Bilaga 4 / Böcker och artiklar;dagbok//NN|UTR|SIN|IND|NOM//conj//0 1981//RG|NOM//nummod//8 1986//RG|NOM//nummod//8 .//MAD//punct//8
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//conj//0 ://MID//punct//12
+Bilaga 4 / Böcker och artiklar;Gedin//PM|NOM//conj//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Agrell//PM|NOM//ROOT//0 ,//MID//punct//0 W.//PM|NOM//nmod//0 1985//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Alliansfrihet//NN|UTR|SIN|IND|NOM//conj//0 och//KN//cc//8 Atombomber//PM|NOM//conj//6 ://MID//punct//0
+Bilaga 4 / Böcker och artiklar;kontinuitet//NN|UTR|SIN|IND|NOM//appos//0 och//KN//cc//12 förändring//NN|UTR|SIN|IND|NOM//conj//10 i//PP//case//16 den//DT|UTR|SIN|DEF//det//16 svenska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//16 försvarsdoktrinen//NN|UTR|SIN|DEF|NOM//nmod//12 från//PP//case//18 1945//RG|NOM//nmod//16 till//PP//case//20 1982//RG|NOM//obl//10 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//ROOT//0 ://MID//punct//0
+Bilaga 4 / Böcker och artiklar;Liber//PM|NOM//appos//0 Förlag//NN|NEU|SIN|IND|NOM//obj//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Agrell//PM|NOM//nsubj//18 ,//MID//punct//0 W.//PM|NOM//conj//0 1986//RG|NOM//flat:name//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Bakom//PP//case//7 ubåtskrisen//NN|UTR|SIN|DEF|NOM//nmod//0 ://MID//punct//7
+Bilaga 4 / Böcker och artiklar;Militär//JJ|POS|UTR|SIN|IND|NOM//amod//10 verksamhet//NN|UTR|SIN|IND|NOM//appos//7 ,//MID//punct//12 krigsplanläggning//NN|UTR|SIN|IND|NOM//conj//10 och//KN//cc//14 diplomati//NN|UTR|SIN|IND|NOM//conj//10 i//PP//case//16 östersjöområdet//NN|NEU|SIN|DEF|NOM//nmod//14 .//MAD//punct//7
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//ROOT//18 ://MID//punct//18
+Bilaga 4 / Böcker och artiklar;Liber//PM|NOM//appos//18 .//MAD//punct//18
+Bilaga 4 / Böcker och artiklar;Agrell//PM|NOM//ROOT//0 ,//MID//punct//0 W.//PM|NOM//conj//0 1986//RG|NOM//flat:name//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Vetenskapen//NN|UTR|SIN|DEF|NOM//appos//0 i//PP//case//9 försvarets//NN|NEU|SIN|DEF|GEN//nmod:poss//9 tjänst//NN|UTR|SIN|IND|NOM//nmod//6 .//MID//punct//0
+Bilaga 4 / Böcker och artiklar;De//DT|UTR/NEU|PLU|DEF//det//13 nya//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//13 stridsmedlen//NN|NEU|PLU|DEF|NOM//appos//0 ,//MID//punct//15 försvarsforskningen//NN|UTR|SIN|DEF|NOM//conj//13 och//KN//cc//17 kampen//NN|UTR|SIN|DEF|NOM//conj//13 om//PP//case//22 det//DT|NEU|SIN|DEF//det//21 svenska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//21 försvarets//NN|NEU|SIN|DEF|GEN//nmod:poss//22 struktur//NN|UTR|SIN|IND|NOM//nmod//17 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Agrell//PM|NOM//nsubj//18 ,//MID//punct//0 W.//PM|NOM//nmod//0 1991//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Den//DT|UTR|SIN|DEF//det//8 stora//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//8 lögnen//NN|UTR|SIN|DEF|NOM//conj//0 ://MID//punct//8
+Bilaga 4 / Böcker och artiklar;ett//DT|NEU|SIN|IND//det//12 säkerhetspolitiskt//JJ|POS|NEU|SIN|IND|NOM//amod//12 dubbelspel//NN|NEU|SIN|IND|NOM//appos//8 i//PP//case//16 alltför//AB//advmod//15 många//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//16 akter//NN|UTR|PLU|IND|NOM//nmod//12 .//MAD//punct//8
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//ROOT//18 ://MID//punct//18
+Bilaga 4 / Böcker och artiklar;Ordfront//PM|NOM//appos//18 .//MAD//punct//18
+Bilaga 4 / Böcker och artiklar;Agrell//PM|NOM//nsubj//13 ,//MID//punct//0 W.//PM|NOM//nmod//0 2000//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Fred//PM|NOM//conj//0 och//KN//cc//8 Fruktan//PM|NOM//conj//6 ://MID//punct//6
+Bilaga 4 / Böcker och artiklar;Sveriges//PM|GEN//nmod:poss//12 säkerhetspolitiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//12 historia//NN|UTR|SIN|IND|NOM//nmod//13 1918–2000//RG|NOM//ROOT//13 .//MID//punct//13
+Bilaga 4 / Böcker och artiklar;Lund//PM|NOM//appos//13 ://MID//punct//15
+Bilaga 4 / Böcker och artiklar;Historiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//18 Media//NN|UTR|SIN|IND|NOM//appos//15 .//MAD//punct//13
+Bilaga 4 / Böcker och artiklar;Agrell//PM|NOM//ROOT//0 ,//MID//punct//0 W.//PM|NOM//nmod//0 2002//RG|NOM//nummod//2 .//MID//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Svenska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//7 Förintelsevapen//NN|UTR|SIN|DEF|NOM//appos//0 ://MID//punct//7
+Bilaga 4 / Böcker och artiklar;utvecklingen//NN|UTR|SIN|DEF|NOM//appos//7 av//PP//case//14 kemiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//14 och//KN//cc//13 nukleära//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//conj//11 stridsmedel//NN|NEU|PLU|IND|NOM//nmod//9 1928–1970//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//nummod//9 .//MID//punct//7
+Bilaga 4 / Böcker och artiklar;Lund//PM|NOM//conj//0 ://MID//punct//17
+Bilaga 4 / Böcker och artiklar;Historiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//20 Media//NN|UTR|SIN|IND|NOM//appos//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Ahlgren//PM|NOM//ROOT//0 ,//MID//punct//0 J.//PM|NOM//conj//0 1998//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Faktaboken//NN|UTR|SIN|DEF|NOM//conj//0 om//PP//case//7 Gripen//PM|NOM//nmod//5 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////8 (//PAD//punct//0 4.utg//RG|NOM//appos//0 .//MAD//punct//0 )//PAD//punct//14
+Bilaga 4 / Böcker och artiklar;Linköping//PM|NOM//conj//0 ://MID//punct//14
+Bilaga 4 / Böcker och artiklar;Industrigruppen//NN|UTR|SIN|DEF|NOM//nmod//17 JAS//PM|NOM//appos//14 .//MAD//punct//14
+Bilaga 4 / Böcker och artiklar;Ahlin//PM|NOM//ROOT//0 ,//MID//punct//0 P.//PM|NOM//nmod//0 1993//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Folkrätten//PM|NOM//conj//0 i//PP//case//9 svensk//JJ|POS|UTR|SIN|IND|NOM//amod//9 säkerhetspolitik//NN|UTR|SIN|IND|NOM//nmod//6 .//MAD//punct//6
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//nmod//6 ://MID//punct//11
+Bilaga 4 / Böcker och artiklar;Juristförlaget//PM|NOM//nmod//6 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Ahlström//PM|NOM//ROOT//0 ,//MID//punct//2 C.//PM|NOM//conj//0 1996//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Stockholmsöverenskommelsen//NN|UTR|SIN|DEF|NOM//conj//0 rörande//PP//case//10 den//DT|UTR|SIN|DEF//det//10 svenska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//10 öst-väst-handeln//NN|UTR|SIN|DEF|NOM//nmod//6 ://MID//punct//6
+Bilaga 4 / Böcker och artiklar;ett//DT|NEU|SIN|IND//det//15 folkrättsligt//JJ|POS|NEU|SIN|IND|NOM//advmod//14 bindande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//15 avtal//NN|NEU|SIN|IND|NOM//appos//6 ?//MID//punct//6
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//appos//6 ://MID//punct//17
+Bilaga 4 / Böcker och artiklar;Utrikespolitiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//20 institutet//NN|NEU|SIN|DEF|NOM//appos//6 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Andersson//PM|NOM//ROOT//0 ,//MID//punct//0 S.//PM|NOM//appos//0 1993//RG|NOM//flat:name//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;I//PP//case//8 de//DT|UTR/NEU|PLU|DEF//det//8 lugnaste//JJ|SUV|UTR/NEU|SIN/PLU|DEF|NOM//amod//8 vattnen//NN|NEU|PLU|DEF|NOM//conj//0 …//PM|NOM//punct//0  //_SP////9 Stockholm//PM|NOM//conj//0 ://MID//punct//11
+Bilaga 4 / Böcker och artiklar;Tidens//NN|UTR|SIN|DEF|GEN//nmod:poss//14 förlag//NN|NEU|SIN|IND|NOM//conj//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Andrén//PM|NOM//ROOT//0 ,//MID//punct//0 N.//PM|NOM//nmod//0 1976//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 The//PM|NOM//det//7 Security//PM|NOM//conj//0 and//PM|NOM//cc//7 Defence//PM|NOM//conj//7 of//PM|NOM//case//11 Sweden//PM|NOM//nmod//7 .//MID//punct//7
+Bilaga 4 / Böcker och artiklar;FOA//PM|NOM//conj//0 Reprints//PM|NOM//flat:name//13 ,//MID//punct//13 1976/77:14//RG|NOM//conj//13 .//MAD//punct//13
+Bilaga 4 / Böcker och artiklar;Försvarets//NN|NEU|SIN|DEF|GEN//nmod:poss//19 forskningsanstalt//NN|UTR|SIN|IND|NOM//conj//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Andrén//PM|NOM//ROOT//0 ,//MID//punct//0 N.//PM|NOM//nmod//0 1978//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Internationell//JJ|POS|UTR|SIN|IND|NOM//amod//7 utveckling//NN|UTR|SIN|IND|NOM//conj//0 och//KN//cc//10 svensk//JJ|POS|UTR|SIN|IND|NOM//amod//10 försvarsdoktrin//NN|UTR|SIN|IND|NOM//conj//7 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//conj//0 ://MID//punct//12
+Bilaga 4 / Böcker och artiklar;Centralförbundet//NN|NEU|SIN|DEF|NOM//amod//15 Folk//NN|NEU|SIN|IND|NOM//conj//0 och//KN//cc//17 försvar//NN|NEU|SIN|IND|NOM//conj//15 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Andrén//PM|NOM//nsubj//4 ,//MID//punct//0 N.//PM|NOM//conj//0 (//PAD//punct//0 red//PM|NOM//ROOT//4 .//MAD//punct//4 )//PAD//punct//4
+Bilaga 4 / Böcker och artiklar;1984//RG|NOM//nummod//4 .//MID//punct//4
+Bilaga 4 / Böcker och artiklar;Säkerhetspolitik//NN|UTR|SIN|IND|NOM//obj//4 i//PP//case//11 Norden//PM|NOM//nmod//9 .//MAD//punct//9
+Bilaga 4 / Böcker och artiklar; //_SP////12 Stockholm//PM|NOM//obl//4 ://MID//punct//14
+Bilaga 4 / Böcker och artiklar;Centralförbundet//NN|NEU|SIN|DEF|NOM//amod//17 Folk//NN|NEU|SIN|IND|NOM//parataxis//4 och//KN//cc//19 försvar//NN|NEU|SIN|IND|NOM//conj//17 .//MAD//punct//4
+Bilaga 4 / Böcker och artiklar;Andrén//PM|NOM//nsubj//15 ,//MID//punct//0 N.//PM|NOM//conj//0 &//KN|AN//cc//4 Möller//PM|NOM//conj//2 ,//MID//punct//2 Y.//PM|NOM//conj//0 1990//RG|NOM//nummod//6 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Från//PP//case//10 Undén//PM|NOM//nmod//0 till//PP//case//12 Palme//PM|NOM//nmod//10 ://MID//punct//10
+Bilaga 4 / Böcker och artiklar;Svensk//JJ|POS|UTR|SIN|IND|NOM//amod//15 utrikespolitik//NN|UTR|SIN|IND|NOM//ROOT//15 efter//PP//case//18 andra//RO|NOM//amod//18 världskriget//NN|NEU|SIN|DEF|NOM//nmod//15 .//MAD//punct//15
+Bilaga 4 / Böcker och artiklar; //_SP////19 Stockholm//PM|NOM//nmod//15 ://MID//punct//21
+Bilaga 4 / Böcker och artiklar;Nordstedts//PM|NOM//appos//21 .//MAD//punct//15
+Bilaga 4 / Böcker och artiklar;Andrén//PM|NOM//nsubj//15 ,//MID//punct//0 N.//PM|NOM//nmod//0 1996//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Maktbalans//NN|UTR|SIN|IND|NOM//conj//0 och//KN//cc//8 alliansfrihet//NN|UTR|SIN|IND|NOM//conj//6 ://MID//punct//6
+Bilaga 4 / Böcker och artiklar;Svensk//JJ|POS|UTR|SIN|IND|NOM//amod//11 utrikespolitik//NN|UTR|SIN|IND|NOM//conj//0 under//PP//case//13 1900-talet//NN|NEU|SIN|DEF|NOM//nmod//11 .//MAD//punct//11
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//ROOT//15 ://MID//punct//15
+Bilaga 4 / Böcker och artiklar;Nordstedts//PM|GEN//compound//18 Juridik//NN|UTR|SIN|IND|NOM//appos//15 .//MAD//punct//15
+Bilaga 4 / Böcker och artiklar;Andrén//PM|NOM//ROOT//0 ,//MID//punct//0 N.//PM|NOM//nmod//0 1997//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Säkerhetspolitik//NN|UTR|SIN|IND|NOM//conj//0 ://MID//punct//6
+Bilaga 4 / Böcker och artiklar;Analyser//NN|UTR|PLU|IND|NOM//conj//0 och//KN//cc//10 tillämpningar//NN|UTR|PLU|IND|NOM//conj//8 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//ROOT//0 ://MID//punct//0
+Bilaga 4 / Böcker och artiklar;Nordstedts//PM|GEN//compound//3 Juridik//NN|UTR|SIN|IND|NOM//appos//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Antman//PM|NOM//nsubj//19 ,//MID//punct//2 P//PM|NOM//conj//0 och//KN//cc//4 Schori//PM|NOM//conj//0 ,//MID//punct//0 P.//PM|NOM//appos//0 1996//RG|NOM//nummod//6 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Olof//PM|NOM//conj//0 Palme//PM|NOM//flat:name//9 –//RG|NOM//punct//14 Den//DT|UTR|SIN|DEF//det//14 gränslöse//JJ|POS|MAS|SIN|DEF|NOM//amod//14 reformisten//NN|UTR|SIN|DEF|NOM//nmod//9 .//MAD//punct//9
+Bilaga 4 / Böcker och artiklar; //_SP////15 Stockholm//PM|NOM//conj//0 ://MID//punct//17
+Bilaga 4 / Böcker och artiklar;Tiden//NN|UTR|SIN|DEF|NOM//ROOT//19 .//MAD//punct//19
+Bilaga 4 / Böcker och artiklar;Bjereld//PM|NOM//ROOT//0 ,//MID//punct//0 U.//PM|NOM//conj//0 1992//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Kritiker//NN|UTR|PLU|IND|NOM//conj//0 eller//KN//cc//8 medlare//NN|UTR|PLU|IND|NOM//conj//6 ?//MID//punct//6
+Bilaga 4 / Böcker och artiklar;Sveriges//PM|GEN//nmod:poss//12 utrikespolitiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//12 roller//NN|UTR|PLU|IND|NOM//conj//0 1945//RG|NOM//punct//12 1990//RG|NOM//nummod//12 .//MID//punct//12
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//appos//12 ://MID//punct//16
+Bilaga 4 / Böcker och artiklar;Nerenius//PM|NOM//appos//12 &//KN|AN//cc//20 Santérus//PM|NOM//conj//18 .//MAD//punct//12
+Bilaga 4 / Böcker och artiklar;Bjereld//PM|NOM//ROOT//0 ,//MID//punct//2 U.//PM|NOM//conj//0 &//KN|AN//cc//4 Demker//PM|NOM//conj//0 ,//MID//punct//0 M.//PM|NOM//conj//0 1995//RG|NOM//nummod//6 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////8 Utrikespolitiken//NN|UTR|SIN|DEF|NOM//conj//0 som//KN//mark//12 slagfält//NN|NEU|SIN|IND|NOM//nmod//10 ://MID//punct//10
+Bilaga 4 / Böcker och artiklar;De//DT|UTR/NEU|PLU|DEF//det//16 svenska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//16 partierna//NN|NEU|PLU|DEF|NOM//appos//10 och//KN//cc//18 utrikesfrågorna//NN|UTR|PLU|DEF|NOM//conj//16 .//MAD//punct//10
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//conj//0 ://MID//punct//20
+Bilaga 4 / Böcker och artiklar;Nerenius//PM|NOM//appos//20 &//KN|AN//cc//24 Santérus//PM|NOM//conj//22 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Björk//NN|UTR|SIN|IND|NOM//nsubj//7 ,//MID//punct//0 K.//PM|NOM//conj//0 2002//RG|NOM//nummod//2 .//MAD//punct//0 ”//PM|NOM//punct//7
+Bilaga 4 / Böcker och artiklar;Forskarslarv//PM|NOM//nsubj//7 kostade//VB|PRT|AKT//ROOT//7 Erlander//PM|NOM//obj//7 hans//PS|UTR/NEU|SIN/PLU|DEF//nmod:poss//10 heder//NN|UTR|SIN|IND|NOM//obj//7 ”//PAD//obl//7 i//PP//obl//7
+Bilaga 4 / Böcker och artiklar;Dagens//NN|UTR|SIN|DEF|GEN//nmod:poss//1 forskning//NN|UTR|SIN|IND|NOM//ROOT//1 18–19//RG|NOM//nummod//1  //_SP////2 februari//NN|UTR|SIN|IND|NOM//nmod//1 .//MAD//punct//1
+Bilaga 4 / Böcker och artiklar;Bergquist//PM|NOM//nsubj//17 ,//MID//punct//0 M.//PM|NOM//conj//0 ,//MID//punct//4 Johansson//PM|NOM//conj//0 A.W.//PM|NOM//flat:name//4 &//KN|AN//cc//7 Wahlbäck//PM|NOM//conj//0 ,//MID//punct//9 K.//PM|NOM//conj//0 1987//RG|NOM//nummod//9 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Utrikespolitik//NN|UTR|SIN|IND|NOM//conj//0 och//KN//cc//14 historia//NN|UTR|SIN|IND|NOM//conj//12 ://MID//punct//12
+Bilaga 4 / Böcker och artiklar;studier//NN|UTR|PLU|IND|NOM//conj//0 tillägnade//VB|PRT|AKT//ROOT//17 Wilhelm//PM|NOM//obj//17 M.//PM|NOM//flat:name//18 Carlgren//PM|NOM//flat//18 den//DT|UTR|SIN|DEF//det//23 6//RO|NOM//nummod//23 maj//NN|UTR|SIN|IND|NOM//obl//17 1987//RG|NOM//nummod//23 .//MAD//punct//17
+Bilaga 4 / Böcker och artiklar; //_SP////25 Stockholm//PM|NOM//obj//17 ://MID//punct//27
+Bilaga 4 / Böcker och artiklar;Militärhistoriska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//30 förlaget//NN|NEU|SIN|DEF|NOM//appos//27 .//MAD//punct//17
+Bilaga 4 / Böcker och artiklar;Berner//PM|NOM//ROOT//0 ,//MID//punct//2 Ö.//PM|NOM//conj//0 1985//RG|NOM//nummod//2 .//MID//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Sovjet//PM|NOM//conj//0 och//KN//cc//8 Norden//PM|NOM//conj//6 .//MAD//punct//10
+Bilaga 4 / Böcker och artiklar;Samarbete//NN|NEU|SIN|IND|NOM//conj//0 ,//MID//punct//12 säkerhet//NN|UTR|SIN|IND|NOM//conj//10 och//KN//cc//14 konflikter//NN|UTR|PLU|IND|NOM//conj//10 under//PP//case//17 femtio//RG|NOM//nummod//17 år//NN|NEU|PLU|IND|NOM//nmod//14 .//MAD//punct//10
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//conj//0 ://MID//punct//19
+Bilaga 4 / Böcker och artiklar;Bonnier//PM|NOM//nmod//22 fakta//NN|NEU|PLU|IND|NOM//conj//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Björklund//PM|NOM//nsubj//5 ,//MID//punct//0 F.//PM|NOM//appos//0 1992//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Samförstånd//NN|NEU|SIN|IND|NOM//ROOT//5 under//PP//case//7 oenighet//NN|UTR|SIN|IND|NOM//obl//5 .//MAD//punct//5
+Bilaga 4 / Böcker och artiklar;Svensk//JJ|POS|UTR|SIN|IND|NOM//det//11 säkerhetspolitisk//JJ|POS|UTR|SIN|IND|NOM//amod//11 debatt//NN|UTR|SIN|IND|NOM//conj//5 under//PP//case//15 det//DT|NEU|SIN|DEF//det//15 kalla//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//15 kriget//NN|NEU|SIN|DEF|NOM//nmod//11 .//MAD//punct//11
+Bilaga 4 / Böcker och artiklar;Uppsala//PM|NOM//conj//11 ://MID//punct//17
+Bilaga 4 / Böcker och artiklar;Skrifter//NN|UTR|PLU|IND|NOM//nsubj//20 utgivna//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//acl:relcl//11 av//PP//case//23 Statsvetenskapliga//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//23 föreningen//NN|UTR|SIN|DEF|NOM//obl//20 i//PP//case//25 Uppsala//PM|NOM//obl//20 .//MAD//punct//5
+Bilaga 4 / Böcker och artiklar;Bodström//PM|NOM//nsubj//10 ,//MID//punct//0 L.//PM|NOM//appos//0 2001//RG|NOM//flat:name//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Mitt//AB//nmod//0 i//PP//case//7 stormen//NN|UTR|SIN|DEF|NOM//nmod//5 .//MAD//punct//5
+Bilaga 4 / Böcker och artiklar; //_SP////8 Stockholm//PM|NOM//ROOT//10 ://MID//punct//10
+Bilaga 4 / Böcker och artiklar;Hjalmarson//PM|NOM//appos//10 &//KN|AN//cc//14 Högberg//PM|NOM//conj//12 .//MAD//punct//10
+Bilaga 4 / Böcker och artiklar;Bohman//PM|NOM//nsubj//10 ,//MID//punct//0 G.//PM|NOM//conj//0 1970//RG|NOM//nummod//2 .//MID//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Inrikes//PM|GEN//amod//7 utrikespolitik//NN|UTR|SIN|IND|NOM//conj//0 .//MID//punct//0
+Bilaga 4 / Böcker och artiklar;Det//PN|NEU|SIN|DEF|SUB/OBJ//nsubj//10 handlar//VB|PRS|AKT//ROOT//10 om//PP//case//12 Vietnam//PM|NOM//obl//10 .//MAD//punct//10
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//ROOT//0 ://MID//punct//0
+Bilaga 4 / Böcker och artiklar;Almqvist//PM|NOM//appos//0 &//KN|AN//cc//4 Wiksell//PM|NOM//conj//2 Förlag//PM|NOM//obj//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Bohman//PM|NOM//discourse//12 ,//MID//punct//0 G.//PM|NOM//conj//0 1983//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Så//KN//advmod//7 var//VB|PRT|AKT//parataxis//0 det//PN|NEU|SIN|DEF|SUB/OBJ//flat//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Gösta//PM|NOM//nsubj//12 Bohman//PM|NOM//flat:name//10 berättar//VB|PRS|AKT//ROOT//12 .//MAD//punct//12
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//obj//12 ://MID//punct//14
+Bilaga 4 / Böcker och artiklar;Bonniers//PM|GEN//appos//14 .//MAD//punct//12
+Bilaga 4 / Böcker och artiklar;Braconier//PM|NOM//ROOT//0 ,//MID//punct//0 F.//PM|NOM//conj//0 &//KN|AN//cc//2 Christiansson//PM|NOM//flat:name//2 ,//MID//punct//2 L.//PM|NOM//conj//0 1985//RG|NOM//nummod//6 .//MID//punct//0
+Bilaga 4 / Böcker och artiklar;Vem//HP|UTR|SIN|IND//nsubj//10 värnar//VB|PRS|AKT//parataxis//0 Sverige//PM|NOM//obj//10 ?//MID//punct//10
+Bilaga 4 / Böcker och artiklar;Striden//NN|UTR|SIN|DEF|NOM//appos//10 om//PP//case//15 säkerhetspolitiken//NN|UTR|SIN|DEF|NOM//nmod//13 .//MAD//punct//13
+Bilaga 4 / Böcker och artiklar; //_SP////16 Stockholm//PM|NOM//obj//10 ://MID//punct//18
+Bilaga 4 / Böcker och artiklar;Timbro//PM|NOM//appos//18 .//MAD//punct//10
+Bilaga 4 / Böcker och artiklar;Carlsson//PM|NOM//ROOT//0 ,//MID//punct//0 I.//PM|NOM//nmod//0 1999//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Ur//PP//case//6 skuggan//NN|UTR|SIN|DEF|NOM//nmod//0 av//PP//case//8 Olof//PM|NOM//nmod//6 Palme//PM|NOM//flat//8 .//MAD//punct//6
+Bilaga 4 / Böcker och artiklar; //_SP////10 Stockholm//PM|NOM//conj//0 ://MID//punct//12
+Bilaga 4 / Böcker och artiklar;Hjalmarson//PM|NOM//conj//0 &//KN|AN//cc//16 Högberg//PM|NOM//conj//14 ..//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Cars//PM|NOM//nsubj//13 ,//MID//punct//2 Skoglund//PM|NOM//conj//0 &//KN|AN//cc//4 Zetterberg//PM|NOM//conj//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;1986//RG|NOM//conj//0 .//MID//punct//0
+Bilaga 4 / Böcker och artiklar;Svensk//JJ|POS|UTR|SIN|IND|NOM//amod//9 försvarspolitik//NN|UTR|SIN|IND|NOM//conj//0 under//PP//case//11 efterkrigstiden//NN|UTR|SIN|DEF|NOM//nmod//9 .//MAD//punct//9
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//ROOT//13 ://MID//punct//13
+Bilaga 4 / Böcker och artiklar;Probus//PM|NOM//appos//13 .//MAD//punct//13
+Bilaga 4 / Böcker och artiklar;Cramér//PM|NOM//ROOT//0 ,//MID//punct//2 P.//PM|NOM//nmod//0 1989//RG|NOM//nummod//2 .//MAD//punct//2
+Bilaga 4 / Böcker och artiklar;Neutralitetsbegreppet//PM|NOM//conj//0 .//MID//punct//5
+Bilaga 4 / Böcker och artiklar; //_SP////6 Stockholm//PM|NOM//conj//0 ://MID//punct//8
+Bilaga 4 / Böcker och artiklar;Nordstedts//PM|NOM//appos//8 .//MID//punct//10
+Bilaga 4 / Böcker och artiklar;Cramér//PM|NOM//conj//8 ,//MID//punct//14 P.//PM|NOM//conj//8 1999//RG|NOM//nummod//14 .//MID//punct//17
+Bilaga 4 / Böcker och artiklar;Neutralitet//PM|NOM//conj//0 och//KN//cc//20 europeisk//JJ|POS|UTR|SIN|IND|NOM//amod//20 integration//NN|UTR|SIN|IND|NOM//conj//17 .//MAD//punct//17
+Bilaga 4 / Böcker och artiklar; //_SP////21 Stockholm//PM|NOM//conj//0 ://MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Nordstedts//PM|NOM//ROOT//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Dahl//PM|NOM//ROOT//0 ,//MID//punct//0 A-S.//PM|NOM//conj//0 1999//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Svenskarna//NN|UTR|PLU|DEF|NOM//appos//0 och//KN//cc//7 NATO//PM|NOM//conj//5 .//MAD//punct//5
+Bilaga 4 / Böcker och artiklar; //_SP////8 Stockholm//PM|NOM//conj//0 ://MID//punct//10
+Bilaga 4 / Böcker och artiklar;Timbro//PM|NOM//appos//10 .//MID//punct//10
+Bilaga 4 / Böcker och artiklar;Dalsjö//PM|NOM//conj//0 ,//MID//punct//16 R.//PM|NOM//nmod//14 2002//RG|NOM//nummod//16 .//MAD//punct//0 ”//RG|NOM//punct//20
+Bilaga 4 / Böcker och artiklar;Förhoppningar//NN|UTR|PLU|IND|NOM//appos//0 och//KN//cc//22 förbud//NN|NEU|PLU|IND|NOM//conj//20 ://MID//punct//20
+Bilaga 4 / Böcker och artiklar;en//DT|UTR|SIN|IND//det//25 uppdatering//NN|UTR|SIN|IND|NOM//conj//20 av//PP//case//27 bilden//NN|UTR|SIN|DEF|NOM//nmod//25 av//PP//case//31 statsmaktens//NN|UTR|SIN|DEF|GEN//nmod:poss//31 offentliga//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//31 linje//NN|UTR|SIN|IND|NOM//nmod//27 avseende//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//34 militär//JJ|POS|UTR|SIN|IND|NOM//amod//34 hjälp//NN|UTR|SIN|IND|NOM//nmod//25 utifrån//AB//case//25 under//PP//case//39 det//DT|NEU|SIN|DEF//det//39 kalla//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//39 kriget//NN|NEU|SIN|DEF|NOM//nmod//25 ”//PAD//punct//20 ,//MID//punct//44 Kungliga//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//43 Krigsvetenskapsakademiens//PM|GEN//nmod:poss//44 handlingar//NN|UTR|PLU|IND|NOM//conj//20 och//KN//cc//46 tidskrift//NN|UTR|SIN|IND|NOM//conj//44 ,//MID//punct//20  //_SP////47 4//RG|NOM//conj//20 .//MAD//punct//20
+Bilaga 4 / Böcker och artiklar;häftet//NN|NEU|SIN|DEF|NOM//conj//20 2002//RG|NOM//nummod//51 .//MAD//punct//20
+Bilaga 4 / Böcker och artiklar;Dörfer//PM|NOM//nsubj//11 ,//MID//punct//0 I.//PM|NOM//nmod//0 1989//RG|NOM//nummod//2 .//MAD//punct//0 ”//PM|NOM//punct//8
+Bilaga 4 / Böcker och artiklar;Östersjöns//PM|GEN//nmod:poss//8 geopolitiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//8 betydelse//NN|UTR|SIN|IND|NOM//appos//0 ”//PAD//punct//8 två//RG|NOM//nummod//11 artiklar//NN|UTR|PLU|IND|NOM//ROOT//11 i//PP//case//14 Svensk//JJ|POS|UTR|SIN|IND|NOM//amod//14 tidskrift//NN|UTR|SIN|IND|NOM//nmod//11  //_SP////14 1989:8-9//RG|NOM//nmod//11 samt//KN//cc//18 1990:1//RG|NOM//conj//16 .//MAD//punct//11
+Bilaga 4 / Böcker och artiklar;Dörfer//PM|NOM//ROOT//0 ,//MID//punct//0 I.//PM|NOM//nmod//0 1997//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Nollpunkten//NN|UTR|SIN|DEF|NOM//appos//0 .//MID//punct//5
+Bilaga 4 / Böcker och artiklar; //_SP////6 Stockholm//PM|NOM//conj//0 ://MID//punct//8
+Bilaga 4 / Böcker och artiklar;Timbro//PM|NOM//appos//8 .//MAD//punct//8
+Bilaga 4 / Böcker och artiklar;Ekengren//PM|NOM//ROOT//0 ,//MID//punct//0  //_SP////1 A-M.//PM|NOM//conj//0  //_SP////3 1999//RG|NOM//nmod//3 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////6 Av//PP//case//9 hänsyn//NN|UTR|SIN|IND|NOM//nmod//0 till//PP//case//11 folkrätten//NN|UTR|SIN|DEF|NOM//nmod//9 ?//MID//punct//0
+Bilaga 4 / Böcker och artiklar;Svensk//JJ|POS|UTR|SIN|IND|NOM//amod//14 erkännandepolitik//NN|UTR|SIN|IND|NOM//conj//0 1945//RG|NOM//nummod//14 1995//RG|NOM//nummod//15 .//MID//punct//14
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//conj//0 ://MID//punct//18
+Bilaga 4 / Böcker och artiklar;Nerenius//PM|NOM//conj//0 &//KN|AN//cc//22 Santérus//PM|NOM//conj//20 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Ekman//PM|NOM//ROOT//0 ,//MID//punct//2 Stig//PM|NOM//conj//0 .//MID//punct//2
+Bilaga 4 / Böcker och artiklar;2000//RG|NOM//conj//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////5 Den//DT|UTR|SIN|DEF//det//9 militära//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//9 underrättelsetjänsten//NN|UTR|SIN|DEF|NOM//conj//0 ://MID//punct//9
+Bilaga 4 / Böcker och artiklar;fem//RG|NOM//nummod//12 kriser//NN|UTR|PLU|IND|NOM//appos//9 under//PP//case//16 det//DT|NEU|SIN|DEF//det//16 kalla//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//16 kriget//NN|NEU|SIN|DEF|NOM//nmod//12 .//MID//punct//9
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//appos//9 ://MID//punct//18
+Bilaga 4 / Böcker och artiklar;Carlsson//PM|NOM//appos//9 .//MAD//punct//9
+Bilaga 4 / Böcker och artiklar;Elgström//PM|NOM//ROOT//0 ,//MID//punct//0 O.//PM|NOM//nmod//0 1982//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Aktiv//JJ|POS|UTR|SIN|IND|NOM//amod//7 utrikespolitik//NN|UTR|SIN|IND|NOM//conj//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;En//DT|UTR|SIN|IND//det//10 jämförelse//NN|UTR|SIN|IND|NOM//conj//0 mellan//PP//case//12 svensk//JJ|POS|UTR|SIN|IND|NOM//amod//15 och//KN//cc//14 dansk//JJ|POS|UTR|SIN|IND|NOM//conj//12 utrikesdebatt//NN|UTR|SIN|IND|NOM//nmod//10 1962//RG|NOM//nummod//17 78//RG|NOM//nmod//15 .//MID//punct//10
+Bilaga 4 / Böcker och artiklar;Lund//PM|NOM//nmod//10 ://MID//punct//19
+Bilaga 4 / Böcker och artiklar;Studentlitteratur//NN|UTR|SIN|IND|NOM//appos//19 .//MAD//punct//10
+Bilaga 4 / Böcker och artiklar;Elmbrant//PM|NOM//ROOT//0 ,//MID//punct//0 B.//PM|NOM//appos//0 1989//RG|NOM//nummod//2 .//MID//punct//0
+Bilaga 4 / Böcker och artiklar;Palme//PM|NOM//conj//0 .//MAD//punct//5
+Bilaga 4 / Böcker och artiklar; //_SP////6 Stockholm//PM|NOM//conj//0 ://MID//punct//8
+Bilaga 4 / Böcker och artiklar;Författarförl//PM|NOM//appos//8 .//MID//punct//12
+Bilaga 4 / Böcker och artiklar;Fischer//PM|NOM//conj//0 &//KN|AN//cc//14 Rye//PM|NOM//conj//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Elmbrant//PM|NOM//ROOT//0 ,//MID//punct//0 B.//PM|NOM//appos//0 1991//RG|NOM//nummod//2 .//MID//punct//0
+Bilaga 4 / Böcker och artiklar;Fälldin//PM|NOM//conj//0 .//MAD//punct//5
+Bilaga 4 / Böcker och artiklar; //_SP////6 Stockholm//PM|NOM//conj//0 ://MID//punct//8
+Bilaga 4 / Böcker och artiklar;Fischer//PM|NOM//appos//8 &//KN|AN//cc//12 Co//PM|NOM//conj//10 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Internationella//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//1 studier//NN|UTR|PLU|IND|NOM//nmod//3 nr//NN|AN//nmod//3 4//RG|NOM//ROOT//3 .//MAD//punct//3
+Bilaga 4 / Böcker och artiklar;Gemzell//PM|NOM//ROOT//0 ,//MID//punct//2 C-G.//PM|NOM//appos//0 1996//RG|NOM//nummod//2 .//MAD//punct//2 ”//PM|NOM//punct//6
+Bilaga 4 / Böcker och artiklar;Warszawapakten//PM|NOM//conj//0 ,//MID//punct//8 DDR//PM|NOM//conj//6 och//KN//cc//10 Danmark//PM|NOM//conj//6 ://MID//punct//6
+Bilaga 4 / Böcker och artiklar;kampen//NN|UTR|SIN|DEF|NOM//appos//6 för//PP//case//16 en//DT|UTR|SIN|IND//det//16 maritim//JJ|POS|UTR|SIN|IND|NOM//amod//16 operationsplan//NN|UTR|SIN|IND|NOM//nmod//12 ”//PAD//punct//6 i//PP//case//20 Historisk//JJ|POS|UTR|SIN|IND|NOM//amod//20 tidskrift//NN|UTR|SIN|IND|NOM//nmod//6  //_SP////20 1996:1//RG|NOM//conj//6 .//MAD//punct//6
+Bilaga 4 / Böcker och artiklar;Internationella//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//1 studier//NN|UTR|PLU|IND|NOM//nmod//2 1988//RG|NOM//ROOT//2 (//PAD//punct//2 4//RG|NOM//nummod//2 )//PAD//punct//2 .//MAD//punct//2
+Bilaga 4 / Böcker och artiklar;Oxford//PM|NOM//ROOT//0 ://MID//punct//0
+Bilaga 4 / Böcker och artiklar;Clarendon//PM|NOM//appos//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Holmström//PM|NOM//ROOT//0 ,//MID//punct//0 M.//PM|NOM//conj//0 &//KN|AN//cc//4 Sivers//PM|NOM//conj//0 ,//MID//punct//0 T//PM|NOM//nmod//7 von//PM|NOM//conj//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;1985//RG|NOM//nummod//0 .//MAD//punct//11
+Bilaga 4 / Böcker och artiklar;Tekniken//NN|UTR|SIN|DEF|NOM//parataxis//0 som//KN//mark//13 vapen//NN|NEU|SIN|IND|NOM//nmod//11 ://MID//punct//13
+Bilaga 4 / Böcker och artiklar;USAs//PM|GEN//nmod:poss//16 exportkontroll//NN|UTR|SIN|IND|NOM//conj//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////17 Stockholm//PM|NOM//conj//0 ://MID//punct//19
+Bilaga 4 / Böcker och artiklar;Ny//JJ|POS|UTR|SIN|IND|NOM//amod//22 teknik//NN|UTR|SIN|IND|NOM//conj//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Hugemark//PM|NOM//nsubj//4 ,//MID//punct//0 B.//PM|NOM//conj//0 (//PAD//punct//0 red//PM|NOM//ROOT//4 )//PAD//punct//4 1986//RG|NOM//nummod//4 .//MID//punct//4
+Bilaga 4 / Böcker och artiklar; //_SP////7 Neutralitet//PM|NOM//obl//4 och//KN//cc//11 försvar//NN|NEU|SIN|IND|NOM//conj//9 ://MID//punct//9
+Bilaga 4 / Böcker och artiklar;perspektiv//NN|NEU|SIN|IND|NOM//obl//4 på//PP//case//16 svensk//JJ|POS|UTR|SIN|IND|NOM//amod//16 säkerhetspolitik//NN|UTR|SIN|IND|NOM//nmod//13 1809//RG|NOM//nummod//13 1985//RG|NOM//nummod//17 .//MID//punct//4
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//obl//4 ://MID//punct//20
+Bilaga 4 / Böcker och artiklar;Militärhistoriska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//23 förlaget//NN|NEU|SIN|DEF|NOM//appos//20 .//MAD//punct//4
+Bilaga 4 / Böcker och artiklar;Hugemark//PM|NOM//ROOT//0 ,//MID//punct//0 B.//PM|NOM//conj//0 1997//RG|NOM//nummod//2 .//MAD//punct//0 ”//PAD//punct//7
+Bilaga 4 / Böcker och artiklar;Strategisk//JJ|POS|UTR|SIN|IND|NOM//amod//7 överfall//NN|NEU|SIN|IND|NOM//appos//0 mot//PP//case//9 Sverige//PM|NOM//nmod//7 ”//PAD//punct//7 i//PP//case//12 Brobyggare//NN|UTR|SIN|IND|NOM//nmod//7 ://MID//punct//7
+Bilaga 4 / Böcker och artiklar;en//DT|UTR|SIN|IND//det//15 vänbok//NN|UTR|SIN|IND|NOM//appos//7 till//PP//case//17 Nils//PM|NOM//nmod//15 Andrén//PM|NOM//flat//17 .//MAD//punct//7
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//conj//0 ://MID//punct//20
+Bilaga 4 / Böcker och artiklar;Nerenius//PM|NOM//conj//0 &//KN|AN//cc//24 Santérus//PM|NOM//conj//22 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Huldt//PM|NOM//nsubj//20 ,//MID//punct//0 B.//PM|NOM//conj//0 &//KN|AN//cc//4 Misgeld//PM|NOM//conj//0 ,//MID//punct//0 K.//PM|NOM//conj//0 1990//RG|NOM//nummod//6 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Socialdemokratin//NN|UTR|SIN|DEF|NOM//conj//0 och//KN//cc//12 svensk//JJ|POS|UTR|SIN|IND|NOM//amod//12 utrikespolitik//NN|UTR|SIN|IND|NOM//conj//9 ://MID//punct//9
+Bilaga 4 / Böcker och artiklar;från//PP//case//15 Branting//PM|NOM//nmod//0 till//PP//case//17 Palme//PM|NOM//nmod//15 .//MAD//punct//15
+Bilaga 4 / Böcker och artiklar; //_SP////18 Stockholm//PM|NOM//ROOT//20 ://MID//punct//20
+Bilaga 4 / Böcker och artiklar;Utrikespolitiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//23 institutet//NN|NEU|SIN|DEF|NOM//appos//20 .//MAD//punct//20
+Bilaga 4 / Böcker och artiklar;Hägglund//PM|NOM//ROOT//0 ,//MID//punct//0 G.//PM|NOM//conj//0 ”//PM|NOM//punct//0 Strategisk//JJ|POS|UTR|SIN|IND|NOM//amod//5 utveckling//NN|UTR|SIN|IND|NOM//conj//0 i//PP//case//7 Norden//PM|NOM//nmod//5 ”//PM|NOM//punct//0 ,//MID//punct//14 i//PP//case//11 Flådestrategier//PM|NOM//obl//12 og//UO//nmod:poss//14 nordisk//JJ|POS|UTR|SIN|IND|NOM//amod//14 sikkerhedspolitik//NN|UTR|SIN|IND|NOM//conj//0 ,//MID//punct//17  //_SP////15 Band//PM|NOM//conj//0 2//RG|NOM//nummod//17 (//PAD//punct//17 Köpenhamn//PM|NOM//appos//17 1986//RG|NOM//nummod//20 )//PAD//punct//17 ,//MID//punct//17 s.//NN|AN//nmod//25 41//RG|NOM//nmod//26 54//RG|NOM//nmod//17 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Jakobson//PM|NOM//nsubj//15 ,//MID//punct//0 M.//PM|NOM//appos//0 1983//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Trettioåttonde//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//7 våningen//NN|UTR|SIN|DEF|NOM//conj//0 ://MID//punct//7
+Bilaga 4 / Böcker och artiklar;hågkomster//NN|UTR|PLU|IND|NOM//appos//7 och//KN//cc//11 anteckningar//NN|UTR|PLU|IND|NOM//conj//9 1965//RG|NOM//conj//9 1971//RG|NOM//nummod//9 .//MAD//punct//7
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//ROOT//15 ://MID//punct//15
+Bilaga 4 / Böcker och artiklar;Norstedt//PM|NOM//appos//15 .//MAD//punct//15
+Bilaga 4 / Böcker och artiklar;Jakobson//PM|NOM//nsubj//14 ,//MID//punct//0 M.//PM|NOM//appos//0 1998//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Finland//PM|NOM//conj//0 in//PM|NOM//case//9 the//PM|NOM//det//9 new//PM|NOM//amod//9 Europe//PM|NOM//nmod//5 .//MID//punct//5
+Bilaga 4 / Böcker och artiklar; //_SP////10 Westport//PM|NOM//conj//0 ://MID//punct//12
+Bilaga 4 / Böcker och artiklar;Praeger//PM|NOM//ROOT//14 .//MID//punct//14
+Bilaga 4 / Böcker och artiklar;Jakobson//PM|NOM//nmod//14 ,//MID//punct//16 M.//PM|NOM//nmod//16 2002//RG|NOM//nummod//18 .//MAD//punct//16
+Bilaga 4 / Böcker och artiklar;År//NN|NEU|SIN|IND|NOM//conj//14 av//PP//case//23 fruktan//NN|UTR|SIN|IND|NOM//nmod//21 och//KN//cc//25 hopp//NN|NEU|SIN|IND|NOM//conj//23 .//MAD//punct//21
+Bilaga 4 / Böcker och artiklar; //_SP////26 Stockholm//PM|NOM//conj//14 ://MID//punct//28
+Bilaga 4 / Böcker och artiklar;Atlantis//PM|NOM//appos//28 .//MID//punct//28
+Bilaga 4 / Böcker och artiklar;Jerneck//PM|NOM//conj//14 ,//MID//punct//32 M.//PM|NOM//conj//32 1983//RG|NOM//nummod//34 .//MAD//punct//32
+Bilaga 4 / Böcker och artiklar;Kritik//NN|UTR|SIN|IND|NOM//conj//14 som//KN//mark//40 utrikespolitiskt//JJ|POS|NEU|SIN|IND|NOM//amod//40 medel//NN|NEU|SIN|IND|NOM//nmod//37 .//MAD//punct//37
+Bilaga 4 / Böcker och artiklar; //_SP////41 Lund//PM|NOM//conj//14 ://MID//punct//43
+Bilaga 4 / Böcker och artiklar;Dialogos//PM|NOM//appos//43 .//MAD//punct//43
+Bilaga 4 / Böcker och artiklar;Jervas//PM|NOM//conj//14 ,//MID//punct//49 G.//PM|NOM//conj//47 1987//RG|NOM//nummod//49 .//MAD//punct//47
+Bilaga 4 / Böcker och artiklar;USA//PM|NOM//conj//14 ://MID//punct//52 s//PM|NOM//nummod//56 maritima//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//56 strategi//NN|UTR|SIN|IND|NOM//appos//52 ://MID//punct//56
+Bilaga 4 / Böcker och artiklar;hot//NN|NEU|SIN|IND|NOM//appos//56 eller//KN//cc//60 möjlighet//NN|UTR|SIN|IND|NOM//conj//58 för//PP//case//52
+Bilaga 4 / Böcker och artiklar;Sverige//PM|NOM//ROOT//0 ?//MID//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////1 Stockholm//PM|NOM//appos//0 ://MID//punct//3
+Bilaga 4 / Böcker och artiklar;Centralförb//PM|NOM//appos//3 .//MAD//punct//5
+Bilaga 4 / Böcker och artiklar;Folk//NN|NEU|PLU|IND|NOM//conj//3 och//KN//cc//9 försvar//NN|NEU|SIN|IND|NOM//conj//7 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Joenniemi//PM|NOM//ROOT//0 ,//MID//punct//0 P.//PM|NOM//conj//0 &//KN|AN//cc//4 Vesa//PM|NOM//conj//0 ,//MID//punct//4 U.//PM|NOM//nummod//0 1988//RG|NOM//nummod//6 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Säkerhetsutveckling//NN|UTR|SIN|IND|NOM//parataxis//0 i//PP//case//11 Östersjöområdet//NN|NEU|SIN|DEF|NOM//nmod//9 ://MID//punct//9
+Bilaga 4 / Böcker och artiklar;tendenser//NN|UTR|PLU|IND|NOM//appos//9 ,//MID//punct//15 läge//NN|NEU|SIN|IND|NOM//conj//13 ,//MID//punct//17 framtidsperspektiv//NN|NEU|SIN|IND|NOM//conj//13 .//MAD//punct//9
+Bilaga 4 / Böcker och artiklar; //_SP////18 Tammerfors//PM|NOM//conj//0 ://MID//punct//20
+Bilaga 4 / Böcker och artiklar;Freds-//NN|NEU|-|-|SMS//conj//0 och//KN//cc//24 konfliktforskningsinstitutet//NN|NEU|SIN|DEF|NOM//conj//22 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Johnson//PM|NOM//ROOT//0 Theutenberg//PM|NOM//flat//0 ,//MID//punct//0 B.//PM|NOM//nmod//0 1986//RG|NOM//nummod//3 .//MID//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////5 Folkrätt//NN|UTR|SIN|IND|NOM//conj//0 och//KN//cc//9 Säkerhetspolitik//NN|UTR|SIN|IND|NOM//conj//7 .//MID//punct//0
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//appos//0 ://MID//punct//11
+Bilaga 4 / Böcker och artiklar;Nordstedts//PM|NOM//conj//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Jungar//NN|UTR|PLU|IND|NOM//nsubj//22 ,//MID//punct//0 S.//PM|NOM//conj//0 &//KN|AN//cc//4 Jensen//PM|NOM//conj//0 ,//MID//punct//4 B.//PM|NOM//conj//0 1997//RG|NOM//nummod//6 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Sovjetunionen//PM|NOM//conj//0 och//KN//cc//11 Norden//PM|NOM//conj//9 –//PAD//punct//13 konflikt//NN|UTR|SIN|IND|NOM//conj//9 ,//MID//punct//15 kontakt//NN|UTR|SIN|IND|NOM//conj//13 ,//MID//punct//17 influenser//NN|UTR|PLU|IND|NOM//conj//13 .//MAD//punct//9
+Bilaga 4 / Böcker och artiklar; //_SP////18 Helsingfors//PM|NOM//conj//0 ://MID//punct//20
+Bilaga 4 / Böcker och artiklar;FHS//PM|NOM//ROOT//22 .//MAD//punct//22
+Bilaga 4 / Böcker och artiklar;Kekkonen//PM|NOM//nsubj//8 ,//MID//punct//0 U.//PM|NOM//nmod//0 1981//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Ekudden//PM|NOM//appos//0 .//MAD//punct//5
+Bilaga 4 / Böcker och artiklar; //_SP////6 Stockholm//PM|NOM//ROOT//8 ://MID//punct//8
+Bilaga 4 / Böcker och artiklar;Rabén//PM|NOM//appos//8 &//KN|AN//cc//12 Sjögren//PM|NOM//conj//10 .//MID//punct//10
+Bilaga 4 / Böcker och artiklar;Kennedy//PM|NOM//conj//10 ,//MID//punct//14 P.//PM|NOM//nmod//14 1991//RG|NOM//nummod//16 .//MAD//punct//10
+Bilaga 4 / Böcker och artiklar;Grand//PM|NOM//conj//10 Strategies//PM|NOM//flat//19 in//PM|NOM//case//19 War//PM|NOM//nmod//19 and//PM|NOM//cc//22 Peace//PM|NOM//conj//19 .//MID//punct//10
+Bilaga 4 / Böcker och artiklar; //_SP////25 New//PM|NOM//conj//10 Haven//PM|NOM//flat//27 ://MAD//punct//8
+Bilaga 4 / Böcker och artiklar;Yale//PM|NOM//nmod//1 University//PM|NOM//nmod//2 Press//PM|NOM//ROOT//2 .//MID//punct//2
+Bilaga 4 / Böcker och artiklar;and//PM|NOM//cc//5 Nicolson//PM|NOM//conj//2 .//MAD//punct//2
+Bilaga 4 / Böcker och artiklar;Kokk//PM|NOM//nmod//17 ,//MID//punct//0 Enn//PM|NOM//conj//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;2001//RG|NOM//nummod//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////5 Vitbok//NN|UTR|SIN|IND|NOM//conj//0 .//MID//punct//7
+Bilaga 4 / Böcker och artiklar;Militärens//NN|UTR|SIN|DEF|GEN//nmod:poss//11 hemliga//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//11 nätverk//NN|NEU|SIN|IND|NOM//conj//0 i//PP//case//13 arbetarrörelsen//NN|UTR|SIN|DEF|NOM//nmod//11 .//MID//punct//11
+Bilaga 4 / Böcker och artiklar;Kungälv//PM|NOM//conj//0 ://MID//punct//15
+Bilaga 4 / Böcker och artiklar;Ordfront//PM|NOM//ROOT//17 .//MAD//punct//17
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//ROOT//0 ://MID//punct//0
+Bilaga 4 / Böcker och artiklar;Almqvist//PM|NOM//appos//0 &//KN|AN//cc//4 Wiksell//PM|NOM//conj//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Lagercrantz//PM|NOM//nsubj//9 ,//MID//punct//0 A.//PM|NOM//appos//0 1998//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 En//DT|UTR|SIN|IND//det//7 bonde//NN|UTR|SIN|IND|NOM//amod//9 blir//VB|PRS|AKT//amod//9 statsminister//NN|UTR|SIN|IND|NOM//ROOT//9 .//MAD//punct//9
+Bilaga 4 / Böcker och artiklar;Thorbjörn//PM|NOM//nsubj//13 Fälldin//PM|NOM//flat//11 samtalar//VB|PRS|AKT//conj//9 med//PP//case//15 Arvid//PM|NOM//obl//13 Lagercrantz//PM|NOM//flat//15 .//MID//punct//13
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//conj//9 ://MID//punct//18
+Bilaga 4 / Böcker och artiklar;Bonnier//PM|NOM//appos//18 .//MAD//punct//9
+Bilaga 4 / Böcker och artiklar;Leifland//PM|NOM//nsubj//4 ,//MID//punct//0 L.//PM|NOM//conj//0 (//PAD//punct//0 red//UO//ROOT//4 .//MAD//punct//4 )//PAD//punct//4
+Bilaga 4 / Böcker och artiklar;1997//RG|NOM//nummod//4 .//MID//punct//4
+Bilaga 4 / Böcker och artiklar; //_SP////8 Brobyggare//NN|UTR|PLU|IND|NOM//obl//4 ://MID//punct//10
+Bilaga 4 / Böcker och artiklar;en//DT|UTR|SIN|IND//det//13 vänbok//NN|UTR|SIN|IND|NOM//obj//4 till//PP//case//15 Nils//PM|NOM//nmod//13 Andrén//PM|NOM//flat//15 .//MAD//punct//4
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//ROOT//0 ://MID//punct//0
+Bilaga 4 / Böcker och artiklar;Nerenius//PM|NOM//appos//0 &//KN|AN//cc//4 Santérus//PM|NOM//conj//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Leifland//PM|NOM//ROOT//0 ,//MID//punct//0 L.//PM|NOM//conj//0 1997//RG|NOM//flat:name//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Frostens//NN|UTR|SIN|DEF|GEN//nmod:poss//7 år//NN|NEU|SIN|IND|NOM//nmod//0 –//PAD//punct//7 om//PP//case//10 USA//PM|NOM//nmod//0 ://MID//punct//10 s//NN|NEU|SIN|IND|GEN//nummod//14 diplomatiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//14 utfrysning//NN|UTR|SIN|IND|NOM//appos//10 av//PP//case//16 Sverige//PM|NOM//nmod//14 .//MAD//punct//14
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//conj//14 ://MID//punct//18
+Bilaga 4 / Böcker och artiklar;Nerenius//PM|NOM//conj//14 &//KN|AN//cc//22 Santérus//PM|NOM//conj//14 Förlag//PM|NOM//nmod//24 AB//PM|NOM//conj//14 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Littke//PM|NOM//nmod//17 ,//MID//punct//0 A.K.//PM|NOM//conj//0 &//KN|AN//cc//4 Sundström//PM|NOM//conj//0 ,//MID//punct//0 O.//PM|NOM//conj//0 1995//RG|NOM//nummod//6 .//MID//punct//0
+Bilaga 4 / Böcker och artiklar;Försvarets//NN|NEU|SIN|DEF|GEN//nmod:poss//10 forskningsanstalt//NN|UTR|SIN|IND|NOM//conj//0 1945//RG|NOM//nummod//10 1995//RG|NOM//nummod//10 .//MID//punct//10
+Bilaga 4 / Böcker och artiklar; //_SP////13 Stockholm//PM|NOM//conj//0 ://MID//punct//15
+Bilaga 4 / Böcker och artiklar;Probus//PM|NOM//ROOT//17 .//MAD//punct//17
+Bilaga 4 / Böcker och artiklar;Lödén//PM|NOM//nsubj//10 ,//MID//punct//2 H.//PM|NOM//conj//0 1999//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 För//PP//case//7 säkerhets//NN|UTR|SIN|IND|GEN//nmod//0 skull//NN|UTR|SIN|IND|NOM//fixed//7 ://MID//punct//7
+Bilaga 4 / Böcker och artiklar;Ideologi//NN|UTR|SIN|IND|NOM//ROOT//10 och//KN//cc//12 säkerhet//NN|UTR|SIN|IND|NOM//conj//10 i//PP//case//16 svensk//JJ|POS|UTR|SIN|IND|NOM//amod//16 aktiv//JJ|POS|UTR|SIN|IND|NOM//amod//16 utrikespolitik//NN|UTR|SIN|IND|NOM//obl//10 1950//RG|NOM//nummod//10 1975//RG|NOM//nummod//17 .//MID//punct//10
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//conj//10 ://MID//punct//20
+Bilaga 4 / Böcker och artiklar;Nerenius//PM|NOM//conj//10 &//KN|AN//cc//24 Santérus//PM|NOM//conj//22 .//MAD//punct//10
+Bilaga 4 / Böcker och artiklar;Malm-Andersson//PM|NOM//ROOT//0 ,//MID//punct//0 I.//PM|NOM//nmod//0 2001//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Olof//PM|NOM//conj//0 Palme//PM|NOM//flat:name//5 ://MID//punct//5
+Bilaga 4 / Böcker och artiklar;en//DT|UTR|SIN|IND//det//9 bibliografi//NN|UTR|SIN|IND|NOM//conj//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////10 Hedemora//PM|NOM//conj//0 och//KN//cc//14 Uppsala//PM|NOM//conj//12 ://MID//punct//12
+Bilaga 4 / Böcker och artiklar;Gidlund//PM|NOM//conj//0 i//PP//case//18 samarbete//NN|NEU|SIN|IND|NOM//nmod//16 med//PP//case//21 Arbetarrörelsens//NN|UTR|SIN|DEF|GEN//nmod:poss//21 arkiv//NN|NEU|PLU|IND|NOM//nmod//16 och//KN//cc//23 bibliotek//NN|NEU|SIN|IND|NOM//conj//21 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Basingstoke//PM|NOM//ROOT//0 ://MID//punct//0
+Bilaga 4 / Böcker och artiklar;Palgrave//PM|NOM//appos//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Möller//PM|NOM//nsubj//10 ,//MID//punct//0 Y.//PM|NOM//conj//0 1983//RG|NOM//nummod//2 .//MID//punct//0
+Bilaga 4 / Böcker och artiklar;Mina//PS|UTR/NEU|PLU|DEF//nmod:poss//7 tre//RG|NOM//nummod//7 liv//NN|NEU|PLU|IND|NOM//conj//0 .//MAD//punct//7
+Bilaga 4 / Böcker och artiklar; //_SP////8 Stockholm//PM|NOM//ROOT//10 ://MID//punct//10
+Bilaga 4 / Böcker och artiklar;Tiden//NN|UTR|SIN|DEF|NOM//appos//10 .//MAD//punct//10
+Bilaga 4 / Böcker och artiklar;Möller//PM|NOM//nsubj//17 ,//MID//punct//0 Y.//PM|NOM//conj//0 1992//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Sverige//PM|NOM//conj//0 och//KN//cc//8 Vietnamkriget//NN|NEU|SIN|DEF|NOM//conj//6 ://MID//punct//6
+Bilaga 4 / Böcker och artiklar;ett//DT|NEU|SIN|IND//det//12 unikt//JJ|POS|NEU|SIN|IND|NOM//amod//12 kapitel//NN|NEU|SIN|IND|NOM//conj//0 i//PP//case//15 svensk//JJ|POS|UTR|SIN|IND|NOM//amod//15 utrikespolitik//NN|UTR|SIN|IND|NOM//nmod//12 .//MAD//punct//12
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//ROOT//17 ://MID//punct//17
+Bilaga 4 / Böcker och artiklar;Tiden//NN|UTR|SIN|DEF|NOM//appos//17 .//MAD//punct//17
+Bilaga 4 / Böcker och artiklar;Mörth//PM|NOM//ROOT//0 ,//MID//punct//2 U.//PM|NOM//conj//0 &//KN|AN//cc//4 Sundelius//PM|NOM//conj//0 ,//MID//punct//0 B.//PM|NOM//appos//0 1998//RG|NOM//nummod//6 .//MID//punct//0
+Bilaga 4 / Böcker och artiklar;Interdependens//NN|UTR|SIN|DEF|GEN//conj//0 ,//MID//punct//11 konflikt//NN|UTR|SIN|IND|NOM//conj//9 och//KN//cc//13 säkerhetspolitik//NN|UTR|SIN|IND|NOM//conj//9 ://MID//punct//9
+Bilaga 4 / Böcker och artiklar;Sverige//PM|NOM//conj//0 och//KN//cc//19 den//DT|UTR|SIN|DEF//det//19 amerikanska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//19 teknikexportkontrollen//NN|UTR|SIN|DEF|NOM//conj//15 .//MAD//punct//15
+Bilaga 4 / Böcker och artiklar; //_SP////20 Stockholm//PM|NOM//conj//0 ://MID//punct//22
+Bilaga 4 / Böcker och artiklar;Nerenius//PM|NOM//appos//22 &//KN|AN//cc//26 Santérus//PM|NOM//conj//24 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;London//PM|NOM//ROOT//0 ://MID//punct//0
+Bilaga 4 / Böcker och artiklar;Joseph//PM|NOM//appos//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Nilsson//PM|NOM//ROOT//0 ,//MID//punct//0  //_SP////1 A-S.//PM|NOM//conj//0  //_SP////3 1991//RG|NOM//nummod//3 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////6 Den//DT|UTR|SIN|DEF//det//10 moraliska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//10 stormakten//NN|UTR|SIN|DEF|NOM//conj//0 ://MID//punct//10
+Bilaga 4 / Böcker och artiklar;en//DT|UTR|SIN|IND//det//13 studie//NN|UTR|SIN|IND|NOM//appos//10 av//PP//case//17 socialdemokratins//NN|UTR|SIN|DEF|GEN//nmod:poss//17 internationella//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//17 aktivism//NN|UTR|SIN|IND|NOM//nmod//13 .//MAD//punct//13
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//nmod//13 ://MID//punct//19
+Bilaga 4 / Böcker och artiklar;Timbro//PM|NOM//conj//19 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Nilsson//PM|NOM//ROOT//0 ,//MID//punct//0 T.//PM|NOM//conj//0 1981//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Åter//AB//nmod//7 Vietnam//PM|NOM//conj//0 ://MID//punct//7
+Bilaga 4 / Böcker och artiklar;memoarer//NN|UTR|PLU|IND|NOM//appos//7 och//KN//cc//11 reportage//NN|NEU|PLU|IND|NOM//conj//9 .//MAD//punct//7
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//conj//0 ://MID//punct//13
+Bilaga 4 / Böcker och artiklar;Tiden//NN|UTR|SIN|DEF|NOM//conj//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Nilsson//PM|NOM//ROOT//0 ,//MID//punct//0 T.//PM|NOM//conj//0 1986//RG|NOM//flat:name//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Utanför//PP//case//6 protokollet//NN|NEU|SIN|DEF|NOM//nmod//0 .//MID//punct//6
+Bilaga 4 / Böcker och artiklar; //_SP////7 Stockholm//PM|NOM//conj//0 ://MID//punct//9
+Bilaga 4 / Böcker och artiklar;Tiden//NN|UTR|SIN|DEF|NOM//conj//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Nyhlén//PM|NOM//nsubj//11 ,//MID//punct//2 M.//PM|NOM//conj//0 2001//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Facklig//JJ|POS|UTR|SIN|IND|NOM//amod//7 verksamhet//NN|UTR|SIN|IND|NOM//conj//0 för//PP//case//9 officerarna//NN|UTR|PLU|DEF|NOM//nmod//7 .//MAD//punct//7
+Bilaga 4 / Böcker och artiklar;SFHM//NN|NEU|SIN|DEF|NOM//ROOT//11 .//MAD//punct//11
+Bilaga 4 / Böcker och artiklar;Skrift//NN|UTR|SIN|IND|NOM//appos//11 nr//NN|AN//nmod//15 4//RG|NOM//nummod//13 .//MAD//punct//11
+Bilaga 4 / Böcker och artiklar;Pallin//PM|NOM//nsubj//19 ,//MID//punct//0 K.//PM|NOM//appos//0 1988//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Sveriges//PM|GEN//nmod:poss//8 militära//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//8 satsningar//NN|UTR|PLU|IND|NOM//conj//0 ://MID//punct//8
+Bilaga 4 / Böcker och artiklar;en//DT|UTR|SIN|IND//det//11 översikt//NN|UTR|SIN|IND|NOM//appos//8 med//PP//case//13 förklaringar//NN|UTR|PLU|IND|NOM//nmod//11 till//PP//case//15 perioden//NN|UTR|SIN|DEF|NOM//nmod//13 efter//PP//case//17 1945//RG|NOM//nmod//15 .//MAD//punct//8
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//ROOT//19 ://MID//punct//19
+Bilaga 4 / Böcker och artiklar;FOA//PM|NOM//appos//19 .//MAD//punct//19
+Bilaga 4 / Böcker och artiklar;Palm//PM|NOM//ROOT//0 ,//MID//punct//0 T.//PM|NOM//appos//0 1988//RG|NOM//flat:name//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Motstånd//NN|NEU|SIN|IND|NOM//conj//0 och//KN//cc//8 motståndsrörelser//NN|UTR|PLU|IND|NOM//conj//6 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//conj//0 ://MID//punct//10
+Bilaga 4 / Böcker och artiklar;Militärhistoriska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//13 förlaget//NN|NEU|SIN|DEF|NOM//conj//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Palm//PM|NOM//nsubj//12 ,//MID//punct//0 T.//PM|NOM//nmod//0 1999//RG|NOM//nummod//2 .//MID//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Några//DT|UTR/NEU|PLU|IND//det//7 studier//NN|UTR|PLU|IND|NOM//conj//0 till//PP//case//10 T-kontorets//NN|NEU|SIN|DEF|GEN//nmod:poss//10 historia//NN|UTR|SIN|IND|NOM//nmod//7 .//MAD//punct//7
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//ROOT//12 ://MID//punct//12
+Bilaga 4 / Böcker och artiklar;Kungl.//JJ|AN//amod//15 Samf//NN|AN//appos//12 .//MAD//punct//15
+Bilaga 4 / Böcker och artiklar;för//PP//advmod//18 utgivande//NN|NEU|SIN|IND|NOM//advcl//15 av//PP//case//20 handskrifter//NN|UTR|PLU|IND|NOM//nmod//18 rörande//PP//case//23 Skandinaviens//PM|GEN//nmod:poss//23 historia//NN|UTR|SIN|IND|NOM//nmod//18 .//MAD//punct//15
+Bilaga 4 / Böcker och artiklar;Palme//PM|NOM//ROOT//0 ,//MID//punct//0 O.//PM|NOM//appos//0 1984//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Sveriges//PM|GEN//nmod:poss//7 utrikespolitik//NN|UTR|SIN|IND|NOM//conj//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Anföranden//NN|UTR|SIN|DEF|NOM//appos//0 av//PP//case//11 Olof//PM|NOM//nmod//9 Palme//PM|NOM//flat//11 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//ROOT//0 ://MID//punct//0
+Bilaga 4 / Böcker och artiklar;Tiden//NN|UTR|SIN|DEF|NOM//appos//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Petersson//PM|NOM//nsubj//12 ,//MID//punct//2 M.//PM|NOM//conj//0 2002//RG|NOM//nummod//2 .//MAD//punct//0 ”//PM|NOM//punct//0 ’//PM|NOM//nmod//7
+Bilaga 4 / Böcker och artiklar;She//UO//nmod//8 would//UO//appos//0 not//UO//punct//0 fight//UO//conj//0 unless//UO//advmod//12 attacked//UO//ROOT//12 ’//UO//punct//12 ://MID//punct//12
+Bilaga 4 / Böcker och artiklar;några//DT|UTR/NEU|PLU|IND//det//16 kommentarer//NN|UTR|PLU|IND|NOM//appos//12 rörande//PP//case//18 NATO//PM|NOM//nmod//16 ://MID//punct//18 s//NN|NEU|SIN|IND|GEN//advmod//23 syn//NN|UTR|SIN|IND|NOM//fixed//20 på//PP//case//23 Sverige//PM|NOM//appos//18 1949–65//NN|NEU|SIN|IND|NOM//nummod//23 ”//PM|NOM//punct//16 i//PP//case//29 Kungl//JJ|AN//nmod//28 Krigsvetenskapakademiens//NN|UTR|SIN|DEF|GEN//nmod:poss//29 Handlingar//NN|UTR|PLU|IND|NOM//nmod//16 och//KN//cc//31 Tidskrift//NN|UTR|SIN|IND|NOM//conj//29 ,//MID//punct//29 3//RG|NOM//nummod//29 .//MAD//punct//16
+Bilaga 4 / Böcker och artiklar;häftet//NN|NEU|SIN|DEF|NOM//appos//16 .//MAD//punct//12
+Bilaga 4 / Böcker och artiklar;Peterson//PM|NOM//ROOT//0 ,//MID//punct//0 T.//PM|NOM//conj//0 G.//PM|NOM//flat:name//2 1999//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////5 Resan//NN|UTR|SIN|DEF|NOM//conj//0 mot//PP//case//9 Mars//PM|NOM//nmod//7 .//MAD//punct//7
+Bilaga 4 / Böcker och artiklar;Anteckningar//NN|UTR|PLU|IND|NOM//conj//0 och//KN//cc//13 minnen//NN|NEU|PLU|IND|NOM//conj//11 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//ROOT//0 ://MID//punct//0
+Bilaga 4 / Böcker och artiklar;Bonnier//PM|NOM//appos//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Peterson//PM|NOM//nsubj//14 ,//MID//punct//0 T.//PM|NOM//conj//0 G.//PM|NOM//flat:name//2 2002//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////5 Olof//PM|NOM//conj//0 Palme//PM|NOM//flat:name//7 som//HA//obj//11 jag//PN|UTR|SIN|DEF|SUB//nsubj//11 minns//VB|PRS|SFO//acl:relcl//7 honom//PN|UTR|SIN|DEF|OBJ//obj//11 .//MAD//punct//7
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//ROOT//14 ://MID//punct//14
+Bilaga 4 / Böcker och artiklar;Bonniers//PM|GEN//appos//14 .//MAD//punct//14
+Bilaga 4 / Böcker och artiklar;Petersson//PM|NOM//ROOT//0 ,//MID//punct//0 B.//PM|NOM//conj//0 1989//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Sovjetunionen//PM|NOM//conj//0 och//KN//cc//8 neutraliteten//NN|UTR|SIN|DEF|NOM//conj//6 i//PP//case//10 Europa//PM|NOM//nmod//6 .//MID//punct//6
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//conj//0 ://MID//punct//12
+Bilaga 4 / Böcker och artiklar;Utrikespolitiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//15 Institutet//NN|NEU|SIN|DEF|NOM//conj//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Petersson//PM|NOM//ROOT//0 ,//MID//punct//0 B.//PM|NOM//conj//0 1994//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Med//PP//case//8 Moskvas//PM|GEN//nmod:poss//8 ögon//NN|NEU|PLU|IND|NOM//nmod//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Bedömningen//NN|UTR|SIN|DEF|NOM//appos//0 av//PP//case//13 svensk//JJ|POS|UTR|SIN|IND|NOM//amod//13 säkerhetspolitik//NN|UTR|SIN|IND|NOM//nmod//10 under//PP//case//15 Stalin//PM|NOM//nmod//13 och//KN//cc//17 Chrustjov//PM|NOM//conj//15 .//MID//punct//10
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//nmod//10 ://MID//punct//19
+Bilaga 4 / Böcker och artiklar;Arena//PM|NOM//nmod//10 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Petri//PM|NOM//nsubj//11 ,//MID//punct//0 L.//PM|NOM//nmod//0 1996//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Sverige//PM|NOM//conj//0 i//PP//case//9 stora//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//9 världen//NN|UTR|SIN|DEF|NOM//nmod//6 .//MAD//punct//6
+Bilaga 4 / Böcker och artiklar;Minnen//NN|NEU|PLU|IND|NOM//ROOT//11 och//KN//cc//13 reflexioner//NN|UTR|PLU|IND|NOM//conj//11 från//PP//case//17 40//RG|NOM//nummod//16 års//NN|NEU|PLU|IND|GEN//nmod:poss//17 diplomattjänst//NN|UTR|SIN|IND|NOM//nmod//13 .//MAD//punct//11
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//conj//11 ://MID//punct//19
+Bilaga 4 / Böcker och artiklar;Atlantis//PM|NOM//conj//11 .//MAD//punct//11
+Bilaga 4 / Böcker och artiklar;Schori//PM|NOM//nsubj//18 ,//MID//punct//0 P.//PM|NOM//appos//0 1992//RG|NOM//nummod//2 .//MID//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Dokument//NN|NEU|PLU|IND|NOM//conj//0 inifrån//AB//punct//0 ://MID//punct//0
+Bilaga 4 / Böcker och artiklar;Sverige//PM|NOM//appos//0 och//KN//cc//11 storpolitiken//NN|UTR|SIN|DEF|NOM//conj//0 i//PP//case//14 omvälvningarnas//NN|UTR|PLU|DEF|GEN//nmod:poss//14 tid//NN|UTR|SIN|IND|NOM//nmod//11 .//MAD//punct//11
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//nmod//11 ://MID//punct//16
+Bilaga 4 / Böcker och artiklar;Tiden//NN|UTR|SIN|DEF|NOM//ROOT//18 .//MAD//punct//18
+Bilaga 4 / Böcker och artiklar;frågor//NN|UTR|PLU|IND|NOM//nmod//18  //_SP////20 1983:10//RG|NOM//nmod//20 .//MID//punct//20
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//nmod//20 ://MID//punct//24
+Bilaga 4 / Böcker och artiklar;Utrikespolitiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//27 Institutet//NN|NEU|SIN|DEF|NOM//appos//24 .//MID//punct//27
+Bilaga 4 / Böcker och artiklar;Skogrand//PM|NOM//conj//27 ,//MID//punct//31 K//PM|NOM//conj//29 &//KN|AN//cc//33 Tamnes//PM|NOM//conj//29 ,//MID//punct//35 R.//PM|NOM//conj//29 2001//RG|NOM//nummod//35 .//MAD//punct//27
+Bilaga 4 / Böcker och artiklar;Fryktens//NN|UTR|SIN|DEF|GEN//nmod:poss//39 likevekt//NN|NEU|PLU|IND|NOM//conj//27 .//MAD//punct//27
+Bilaga 4 / Böcker och artiklar;Atombomben//PM|NOM//conj//20 ,//MID//punct//20
+Bilaga 4 / Böcker och artiklar;Norge//PM|NOM//ROOT//0 och//KN//cc//2 verden//NN|UTR|SIN|IND|NOM//conj//0 1945//RG|NOM//nummod//2 1970//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////5 Oslo//PM|NOM//conj//0 ://MID//punct//0
+Bilaga 4 / Böcker och artiklar;Tiden//NN|UTR|SIN|DEF|NOM//nmod//11 Norsk//PM|NOM//amod//11 Forlag//PM|NOM//appos//0 .//MID//punct//11
+Bilaga 4 / Böcker och artiklar;Sobéus//PM|NOM//conj//11 ,//MID//punct//13 U.//PM|NOM//nmod//13 2002//RG|NOM//nummod//15 .//MAD//punct//11
+Bilaga 4 / Böcker och artiklar;Kustförsvar//NN|NEU|SIN|IND|NOM//conj//11 .//MAD//punct//11
+Bilaga 4 / Böcker och artiklar;Från//PP//case//21 kustbefästningar//NN|UTR|PLU|IND|NOM//conj//0 till//PP//case//23 amfibiekår//NN|UTR|SIN|IND|NOM//nmod//21 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//ROOT//0 ://MID//punct//0
+Bilaga 4 / Böcker och artiklar;Kustartilleriet//NN|NEU|SIN|DEF|NOM//appos//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Boulder//PM|NOM//ROOT//0 ://MID//punct//0
+Bilaga 4 / Böcker och artiklar;Westview//PM|NOM//appos//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Sundelius//PM|NOM//nsubj//16 ,//MID//punct//0 B.//PM|NOM//conj//0 &//KN|AN//cc//4 Wiklund//PM|NOM//conj//0 ,//MID//punct//6 C.//PM|NOM//conj//0 2000//RG|NOM//nummod//6 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Norden//PM|NOM//appos//0 i//PP//case//11 sicksack//NN|UTR|SIN|IND|NOM//nmod//9 .//MID//punct//9
+Bilaga 4 / Böcker och artiklar; //_SP////12 Stockholm//PM|NOM//conj//0 ://MID//punct//0
+Bilaga 4 / Böcker och artiklar;Santérus//PM|NOM//ROOT//16 förlag//NN|NEU|SIN|IND|NOM//obj//16 .//MAD//punct//16
+Bilaga 4 / Böcker och artiklar;Suominen//PM|NOM//nsubj//8 ,//MID//punct//0 T.//PM|NOM//conj//0 &//KN|AN//cc//4 Björnsson//PM|NOM//conj//0 ,//MID//punct//4 A.//PM|NOM//conj//0 (//PAD//punct//0 red//PM|NOM//ROOT//8 .//MAD//punct//8 )//PAD//punct//8
+Bilaga 4 / Böcker och artiklar;1999//RG|NOM//nummod//8 .//MID//punct//8
+Bilaga 4 / Böcker och artiklar;Det//DT|NEU|SIN|DEF//det//15 hotade//PC|PRF|UTR/NEU|SIN|DEF|NOM//amod//15 landet//NN|NEU|SIN|DEF|NOM//parataxis//8 &//KN|AN//cc//18 det//DT|NEU|SIN|DEF//det//18 skyddade//PC|PRF|UTR/NEU|SIN|DEF|NOM//conj//8 ://MID//punct//18
+Bilaga 4 / Böcker och artiklar;Sverige//PM|NOM//parataxis//18 och//KN//cc//22 Finland//PM|NOM//conj//20 från//PP//case//25  //_SP////23 1500-talet//NN|NEU|SIN|DEF|NOM//obl//8  //_SP////25 till//PP//case//29 våra//PS|UTR/NEU|PLU|DEF//nmod:poss//29 dagar//NN|UTR|PLU|IND|NOM//obl//8 .//MAD//punct//8
+Bilaga 4 / Böcker och artiklar;Historiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//34 och//KN//cc//33 säkerhetspolitiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//conj//31 betraktelser//NN|UTR|PLU|IND|NOM//conj//8 .//MAD//punct//8
+Bilaga 4 / Böcker och artiklar; //_SP////35 Stockholm//PM|NOM//obj//8 ://MID//punct//37
+Bilaga 4 / Böcker och artiklar;Atlantis//PM|NOM//obl//8 .//MAD//punct//8
+Bilaga 4 / Böcker och artiklar;Suominen//PM|NOM//ROOT//0 ,//MID//punct//0 T.//PM|NOM//appos//0 2002//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Sverige//PM|NOM//appos//0 i//PP//case//8 fred//NN|UTR|SIN|IND|NOM//nmod//6 ://MID//punct//6
+Bilaga 4 / Böcker och artiklar;statsmannakonst//NN|UTR|SIN|IND|NOM//conj//0 eller//KN//cc//12 opportunism//NN|UTR|SIN|IND|NOM//conj//10 ?//MID//punct//0
+Bilaga 4 / Böcker och artiklar;En//DT|UTR|SIN|IND//det//15 antologi//NN|UTR|SIN|IND|NOM//appos//0 om//PP//case//19 1812//RG|NOM//nummod//18 års//NN|NEU|SIN|IND|GEN//nmod:poss//19 politik//NN|UTR|SIN|IND|NOM//nmod//15 .//MAD//punct//15
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//nmod//15 ://MID//punct//21
+Bilaga 4 / Böcker och artiklar;Atlantis//PM|NOM//nmod//15 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Svensson//PM|NOM//nsubj//7 ,//MID//punct//0 O.//PM|NOM//conj//0 1993//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Maktspel//NN|NEU|PLU|IND|NOM//nsubj//7 synat//VB|SUP|AKT//ROOT//7 .//MAD//punct//7
+Bilaga 4 / Böcker och artiklar;På//PP//case//10 Erlanders//PM|GEN//nmod:poss//15 ,//MID//punct//10 Palmes//PM|GEN//conj//10 och//KN//cc//14 Carlssons//PM|GEN//conj//10 tid//NN|UTR|SIN|IND|NOM//obl//7 .//MAD//punct//15
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//appos//15 ://MID//punct//17
+Bilaga 4 / Böcker och artiklar;Nordstedts//PM|NOM//conj//15 .//MAD//punct//7
+Bilaga 4 / Böcker och artiklar;Thorsson//PM|NOM//ROOT//0 ,//MID//punct//0 I.//PM|NOM//nmod//0 1985//RG|NOM//nummod//2 .//MID//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Tio//RG|NOM//nummod//7 debattinlägg//NN|NEU|PLU|IND|NOM//conj//0 om//PP//case//10 svensk//JJ|POS|UTR|SIN|IND|NOM//amod//10 säkerhetspolitik//NN|UTR|SIN|IND|NOM//nmod//7 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//ROOT//0 ://MID//punct//0
+Bilaga 4 / Böcker och artiklar;Folk//NN|NEU|PLU|IND|NOM//appos//0 och//KN//cc//4 försvar//NN|NEU|SIN|IND|NOM//conj//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Wachtmeister//PM|NOM//ROOT//0 ,//MID//punct//0 W.//PM|NOM//nmod//0 1996//RG|NOM//nummod//2 .//MID//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Som//HP|-|-|-//mark//8 jag//PN|UTR|SIN|DEF|SUB//nsubj//8 såg//VB|PRT|AKT//acl:relcl//0 det//PN|NEU|SIN|DEF|SUB/OBJ//obj//8 ://MID//punct//0
+Bilaga 4 / Böcker och artiklar;händelser//NN|UTR|PLU|IND|NOM//appos//0 och//KN//cc//13 människor//NN|UTR|PLU|IND|NOM//conj//11 på//PP//case//15 världsscenen//NN|UTR|SIN|DEF|NOM//nmod//11 .//MAD//punct//11
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//conj//0 ://MID//punct//17
+Bilaga 4 / Böcker och artiklar;Nordstedts//PM|NOM//conj//0 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Wallerfelt//PM|NOM//ROOT//0 ,//MID//punct//0 B.//PM|NOM//conj//0 1999//RG|NOM//nummod//2 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar; //_SP////4 Si//UO//nummod//7 vis//UO//nmod//13 pacem//UO//acl//7 para//UO//xcomp//8 bellum//UO//obj//9 ://MID//punct//8
+Bilaga 4 / Böcker och artiklar;svensk//JJ|POS|UTR|SIN|IND|NOM//amod//13 säkerhetspolitik//NN|UTR|SIN|IND|NOM//conj//0 och//KN//cc//15 krigsplanering//NN|UTR|SIN|IND|NOM//conj//13 1945//RG|NOM//nummod//15 1975//RG|NOM//nummod//15 .//MID//punct//13
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//conj//0 ://MID//punct//19
+Bilaga 4 / Böcker och artiklar;Probus//PM|NOM//appos//19 .//MAD//punct//0
+Bilaga 4 / Böcker och artiklar;Wallroth//PM|NOM//ROOT//0 ,//MID//punct//0 B.//PM|NOM//conj//0 1987//RG|NOM//nummod//2 .//MAD//punct//0 ”//PAD//punct//6
+Bilaga 4 / Böcker och artiklar;Underrättelsetjänst//NN|UTR|SIN|IND|NOM//conj//0 och//KN//cc//8 Beredskap//NN|UTR|SIN|IND|NOM//conj//6 ”//PAD//punct//6 i//PP//case//13 Kungl//JJ|AN//nmod//12 Krigsvetenskapsakademiens//PM|GEN//nmod:poss//13 handlingar//NN|UTR|PLU|IND|NOM//nmod//6 .//MAD//punct//6
+Bilaga 4 / Böcker och artiklar;191//RG|NOM//conj//6 .//MAD//punct//6
+Bilaga 4 / Böcker och artiklar;årgången//NN|UTR|SIN|DEF|NOM//conj//6 .//MAD//punct//6
+Bilaga 4 / Böcker och artiklar;Zetterberg//PM|NOM//nsubj//4 ,//MID//punct//0 K.//PM|NOM//conj//0 (//PAD//punct//2 red//PM|NOM//ROOT//4 .//MAD//punct//4 )//PAD//punct//4
+Bilaga 4 / Böcker och artiklar;1997//RG|NOM//nummod//4 .//MAD//punct//4
+Bilaga 4 / Böcker och artiklar; //_SP////8 Hotet//NN|NEU|SIN|DEF|NOM//obj//4 från//PP//case//12 öster//NN|UTR|SIN|IND|NOM//nmod//10 ://MID//punct//4
+Bilaga 4 / Böcker och artiklar;tre//RG|NOM//nummod//15 studier//NN|UTR|PLU|IND|NOM//parataxis//4 om//PP//case//18 svensk//JJ|POS|UTR|SIN|IND|NOM//amod//18 säkerhetspolitik//NN|UTR|SIN|IND|NOM//nmod//15 ,//MID//punct//20 krigsplanering//NN|UTR|SIN|IND|NOM//conj//18 och//KN//cc//22 strategi//NN|UTR|SIN|IND|NOM//conj//18 i//PP//case//28 det//DT|NEU|SIN|DEF//det//26 kalla//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//26 krigets//NN|NEU|SIN|DEF|GEN//nmod:poss//28 första//RO|NOM//amod//28 fas//NN|UTR|SIN|IND|NOM//nmod//22 1945//RG|NOM//nummod//15 1958//RG|NOM//nummod//29 .//MAD//punct//15
+Bilaga 4 / Böcker och artiklar;Stockholm//PM|NOM//appos//15 ://MID//punct//32
+Bilaga 4 / Böcker och artiklar;Försvarshögskolan//NN|UTR|SIN|DEF|NOM//appos//15 .//MAD//punct//4
+Bilaga 4 / Böcker och artiklar;Åsard//PM|NOM//nsubj//4 ,//MID//punct//0 E//PM|NOM//conj//0 (//PAD//punct//2 red//UO//ROOT//4 .//MAD//punct//4 )//PAD//punct//4 .//MAD//punct//4
+Bilaga 4 / Böcker och artiklar;2002//RG|NOM//nummod//4 .//MAD//punct//4
+Bilaga 4 / Böcker och artiklar;Politikern//NN|UTR|SIN|DEF|NOM//nmod//11 Olof//PM|NOM//parataxis//4 Palme//PM|NOM//flat:name//11 .//MAD//punct//4
+Bilaga 4 / Böcker och artiklar; //_SP////13 Stockholm//PM|NOM//obl//4 ://MID//punct//15
+Bilaga 4 / Böcker och artiklar;Hjalmarson//PM|NOM//appos//15 &//KN|AN//cc//19 Högberg//PM|NOM//conj//17 .//MAD//punct//4
+Bilaga 4 / Böcker och artiklar;Åström//PM|NOM//ROOT//0 ,//MID//punct//0 S.//PM|NOM//conj//0 1992//RG|NOM//nummod//2 .//MID//punct//0
+Bilaga 4 / Böcker och artiklar;Ögonblick//NN|NEU|SIN|IND|NOM//conj//0 .//MID//punct//5
+Bilaga 4 / Böcker och artiklar; //_SP////6 Stockholm//PM|NOM//conj//0 ://MID//punct//8
+Bilaga 4 / Böcker och artiklar;Bokförlaget//NN|NEU|SIN|DEF|NOM//nmod//11 Bonnier//PM|NOM//appos//8 Alba//PM|NOM//flat:name//11 .//MAD//punct//11
+Bilaga 4 / Böcker och artiklar;Öberg//PM|NOM//conj//11 ,//MID//punct//16 J-C.//PM|NOM//conj//11 1985//RG|NOM//nummod//16 .//MAD//punct//11
+Bilaga 4 / Böcker och artiklar;Varför//HA//advmod//20 Vietnam//PM|NOM//appos//11 ?//MID//punct//11 ://MID//punct//24
+Bilaga 4 / Böcker och artiklar;ett//DT|NEU|SIN|IND//det//24 kapitel//NN|NEU|SIN|IND|NOM//appos//8 i//PP//case//27 svensk//JJ|POS|UTR|SIN|IND|NOM//amod//27 utrikespolitik//NN|UTR|SIN|IND|NOM//nmod//24 1965//RG|NOM//nummod//24 1970//RG|NOM//nummod//28 .//MAD//punct//24
+Bilaga 4 / Böcker och artiklar; //_SP////30 Stockholm//PM|NOM//nmod//24 ://MID//punct//24
+Bilaga 4 / Böcker och artiklar;Rabén//PM|NOM//appos//24 &//KN|AN//cc//36 Sjögren//PM|NOM//conj//34 .//MAD//punct//8
+
+

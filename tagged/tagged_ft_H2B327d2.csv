@@ -1,0 +1,10 @@
+Svensk veteranpolitik;Ett//DT|NEU|SIN|IND//det//1 ansvar//NN|NEU|SIN|IND|NOM//ROOT//1 för//PP//case//4 hela//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//4 samhället//NN|NEU|SIN|DEF|NOM//nmod//1
+Svensk veteranpolitik;Bilagor//NN|UTR|PLU|IND|NOM//ROOT//0 till//PP//case//2 slutbetänkande//NN|NEU|SIN|IND|NOM//nmod//0 av//PP//case//4 Veteranutredningen//PM|NOM//nmod//2
+Svensk veteranpolitik;Stockholm//PM|NOM//ROOT//0 2014//RG|NOM//nummod//0
+Svensk veteranpolitik;Nothing//NN|UTR|SIN|IND|NOM//ROOT//0 .//MAD//punct//0
+
+Insatsrelaterad stress hos militära veteraner – en vetenskaplig litteraturöversikt Per-Olof Michel, leg läkare, docent;Den//DT|UTR|SIN|DEF//det//2 vetenskapliga//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//2 litteraturöversikten//NN|UTR|SIN|DEF|NOM//nsubj//4 är//VB|PRS|AKT//cop//4 framtagen//PC|PRF|UTR|SIN|IND|NOM//ROOT//4 på//PP//case//6 uppdrag//NN|NEU|SIN|IND|NOM//obl//4 av//PP//case//8 Veteranutredningen//PM|NOM//nmod//6 och//KN//cc//10 Försvarshögskolan//NN|UTR|SIN|DEF|NOM//conj//8 .//MAD//punct//4
+
+
+EN LITTERATURÖVERSIKT;Per-Olof//PM|NOM//nmod//1 Michel//PM|NOM//ROOT//1 ,//MID//punct//1 Försvarshögskolan//NN|UTR|SIN|DEF|NOM//conj//1
+

@@ -1,0 +1,28 @@
+Omfattningsstudier och bedömningar av felaktiga utbetalningar från vissa välfärdssystem;Bilagedel//NN|NEU|SIN|IND|NOM//ROOT//0
+
+Läckaget i välfärdssystemen, del 1;Bilagedel//NN|NEU|SIN|IND|NOM//ROOT//0
+Läckaget i välfärdssystemen, del 1;Rapport//NN|UTR|SIN|IND|NOM//ROOT//0 4//RG|NOM//nummod//0
+Läckaget i välfärdssystemen, del 1;Delegationen//NN|UTR|SIN|DEF|NOM//ROOT//0 för//PP//case//3 korrekta//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//3 utbetalningar//NN|UTR|PLU|IND|NOM//nmod//0 från//PP//case//5 välfärdssystemen//NN|NEU|PLU|DEF|NOM//nmod//3
+Läckaget i välfärdssystemen, del 1;Juni//NN|UTR|SIN|IND|NOM//ROOT//0 2019//RG|NOM//nummod//0
+Läckaget i välfärdssystemen, del 1;Rapportserien//NN|UTR|SIN|DEF|NOM//nsubj:pass//2 kan//VB|PRS|AKT//aux//2 köpas//VB|INF|SFO//ROOT//2 från//PP//case//6 Norstedts//PM|GEN//amod//5 Juridiks//PM|GEN//nmod:poss//6 kundservice//NN|UTR|SIN|IND|NOM//obl//2 .//MAD//punct//2
+Läckaget i välfärdssystemen, del 1;Beställningsadress//NN|UTR|SIN|IND|NOM//obl//2 ://MID//punct//8
+Läckaget i välfärdssystemen, del 1;Norstedts//PM|GEN//amod//11 Juridik//NN|UTR|SIN|IND|NOM//appos//8 ,//MID//punct//11 Kundservice//NN|UTR|SIN|IND|NOM//conj//11 ,//MID//punct//13 106//RG|NOM//nummod//17 47//RG|NOM//nummod//17 Stockholm//PM|NOM//nmod//18 Ordertelefon//NN|UTR|SIN|IND|NOM//conj//11 ://MID//punct//11
+Läckaget i välfärdssystemen, del 1;08-598//RG|NOM//conj//2  //_SP////20 191//RG|NOM//nummod//24  //_SP////22 90//RG|NOM//obj//20
+Läckaget i välfärdssystemen, del 1;E-post//NN|UTR|SIN|IND|NOM//ROOT//0 ://MAD//punct//0
+Läckaget i välfärdssystemen, del 1;kundservice@nj.se//RG|NOM//parataxis//0
+Läckaget i välfärdssystemen, del 1;Webbadress//NN|UTR|SIN|IND|NOM//ROOT//0 ://MID//punct//0
+Läckaget i välfärdssystemen, del 1;www.nj.se/offentligapublikationer//NN|UTR|SIN|IND|NOM//appos//0
+Läckaget i välfärdssystemen, del 1;Layout//NN|UTR|SIN|IND|NOM//ROOT//0 ://MID//punct//0
+Läckaget i välfärdssystemen, del 1;Kommittéservice//PM|NOM//appos//0 ,//MID//punct//2 Regeringskansliet//NN|NEU|SIN|DEF|NOM//conj//2
+Läckaget i välfärdssystemen, del 1;Omslag//NN|NEU|SIN|IND|NOM//ROOT//0 ://MID//punct//0
+Läckaget i välfärdssystemen, del 1;Elanders//PM|NOM//nmod:poss//3 Sverige//PM|NOM//appos//0 AB//PM|NOM//flat:name//3
+Läckaget i välfärdssystemen, del 1;Tryck//NN|NEU|SIN|IND|NOM//ROOT//0 ://MID//punct//0
+Läckaget i välfärdssystemen, del 1;Elanders//PM|NOM//nmod:poss//3 Sverige//PM|NOM//appos//0 AB//PM|NOM//flat:name//3 ,//MID//punct//3 Stockholm//PM|NOM//amod//7 juni//NN|UTR|SIN|IND|NOM//appos//3 2019//RG|NOM//nummod//7
+Läckaget i välfärdssystemen, del 1;ISBN//NN|UTR|SIN|IND|NOM//nsubj//1 978-91-38-24934-5//RG|NOM//ROOT//1
+
+
+Bilaga 1 / IAF:s omfattningsstudier inom arbetslöshetsförsäkringen;Inspektionen//NN|UTR|SIN|DEF|NOM//ROOT//0 för//PP//case//2 arbetslöshetsförsäkringen//NN|UTR|SIN|DEF|NOM//nmod//0
+
+Bilaga 1 / Dnr: 2018/96;Promemoria//NN|UTR|SIN|IND|NOM//ROOT//0 till//PP//case//2 Delegationen//NN|UTR|SIN|DEF|NOM//nmod//0 för//PP//case//5 korrekta//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//5 utbetalningar//NN|UTR|PLU|IND|NOM//nmod//2
+
+

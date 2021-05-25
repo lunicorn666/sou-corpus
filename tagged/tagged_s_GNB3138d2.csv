@@ -1,0 +1,491 @@
+IT-problem inför 2000-skiftet, SOU 1997:12;Referat//NN|NEU|PLU|IND|NOM//nsubj:pass//18 och//KN//cc//2 slutsatser//NN|UTR|PLU|IND|NOM//conj//0 från//PP//case//5 en//DT|UTR|SIN|IND//det//5 hearing//NN|UTR|SIN|IND|NOM//obl//0 anordnad//PC|PRF|UTR|SIN|IND|NOM//conj//0 av//PP//case//8 IT-kommissionen//NN|UTR|SIN|DEF|NOM//nmod//6 den//DT|UTR|SIN|DEF//det//11 18//RG|NOM//nummod//11 december//NN|UTR|SIN|IND|NOM//obl//0 1996//RG|NOM//nummod//11 .//MAD//punct//0
+IT-problem inför 2000-skiftet, SOU 1997:12;Rapport//NN|UTR|SIN|IND|NOM//parataxis//0 1/97//RG|NOM//nummod//14 .//MAD//punct//0
+IT-problem inför 2000-skiftet, SOU 1997:12;Kan//VB|PRS|AKT//aux//18 beställas//VB|INF|SFO//ROOT//18 hos//PP//case//21 Fritzes//PM|GEN//nmod:poss//21 kundtjänst//NN|UTR|SIN|IND|NOM//obl//18 .//MID//punct//18
+IT-problem inför 2000-skiftet, SOU 1997:12;Fax//PM|NOM//discourse//25 ://MID//punct//23
+IT-problem inför 2000-skiftet, SOU 1997:12;08-690//RG|NOM//parataxis//18 91//RG|NOM//nummod//27 91//RG|NOM//nummod//25 .//MAD//punct//25
+IT-problem inför 2000-skiftet, SOU 1997:12;Telefon//NN|UTR|SIN|IND|NOM//conj//25 ://MID//punct//29
+IT-problem inför 2000-skiftet, SOU 1997:12;08-690//RG|NOM//obl//33 91//RG|NOM//nummod//33 90//RG|NOM//conj//25 .//MAD//punct//18
+IT-problem inför 2000-skiftet, SOU 1997:12;Ett//DT|NEU|SIN|IND//det//1 seminarium//NN|NEU|SIN|IND|NOM//nsubj//12 om//PP//case//3 Teknik//NN|UTR|SIN|IND|NOM//nmod//1 ,//MID//punct//5 demokrati//NN|UTR|SIN|IND|NOM//conj//3 och//KN//cc//7 delaktighet//NN|UTR|SIN|IND|NOM//conj//3 den//DT|UTR|SIN|DEF//det//10 8//RO|NOM//nummod//10 november//NN|UTR|SIN|IND|NOM//nmod//1 1996//RG|NOM//nummod//10 anordnat//VB|SUP|AKT//ROOT//12 av//PP//case//14 Folkomröstningsutredningen//NN|UTR|SIN|DEF|NOM//nmod//12 ,//MID//punct//16 IT-kommissionen//NN|UTR|SIN|DEF|NOM//conj//14 och//KN//cc//18 Kommunikationsforskningsberedningen//NN|UTR|SIN|DEF|NOM//conj//14 .//MAD//punct//20
+IT-problem inför 2000-skiftet, SOU 1997:12;Rapport//NN|UTR|SIN|IND|NOM//parataxis//12 2/97//RG|NOM//nummod//20 .//MAD//punct//12
+IT-problem inför 2000-skiftet, SOU 1997:12;Kan//VB|PRS|AKT//aux//1 beställas//VB|INF|SFO//ROOT//1 hos//PP//case//4 Fritzes//PM|GEN//nmod:poss//4 kundtjänst//NN|UTR|SIN|IND|NOM//obl//1 .//MAD//punct//1
+
+Kristallkulan - 13 röster om framtiden, SOU 1997:31;Rapport//NN|UTR|SIN|IND|NOM//nsubj:pass//4 3/97//RG|NOM//nummod//0 .//MAD//punct//0
+Kristallkulan - 13 röster om framtiden, SOU 1997:31;Kan//VB|PRS|AKT//aux//4 beställas//VB|INF|SFO//ROOT//4 hos//PP//case//7 Fritzes//PM|GEN//nmod:poss//7 kundtjänst//NN|UTR|SIN|IND|NOM//obl//4 .//MID//punct//4
+Kristallkulan - 13 röster om framtiden, SOU 1997:31;Fax//PM|NOM//discourse//11 ://MID//punct//9
+Kristallkulan - 13 röster om framtiden, SOU 1997:31;08-690//RG|NOM//parataxis//4 91//RG|NOM//nummod//13 91//RG|NOM//nummod//11 .//MAD//punct//11
+Kristallkulan - 13 röster om framtiden, SOU 1997:31;Telefon//NN|UTR|SIN|IND|NOM//conj//11 ://MID//punct//15
+Kristallkulan - 13 röster om framtiden, SOU 1997:31;08-690//RG|NOM//obl//19 91//RG|NOM//nummod//19 90//RG|NOM//conj//11 .//MAD//punct//4
+
+IT och miljön - en samling goda exempel, SOU 1996: 178;Rapport//NN|UTR|SIN|IND|NOM//nsubj:pass//4 4/97//RG|NOM//nummod//0 .//MAD//punct//0
+IT och miljön - en samling goda exempel, SOU 1996: 178;Kan//VB|PRS|AKT//aux//4 beställas//VB|INF|SFO//ROOT//4 hos//PP//case//7 Fritzes//PM|GEN//nmod:poss//7 kundtjänst//NN|UTR|SIN|IND|NOM//obl//4 .//MID//punct//4
+IT och miljön - en samling goda exempel, SOU 1996: 178;Fax//PM|NOM//discourse//11 ://MID//punct//9
+IT och miljön - en samling goda exempel, SOU 1996: 178;08-690//RG|NOM//parataxis//4 91//RG|NOM//nummod//13 91//RG|NOM//nummod//11 .//MAD//punct//11
+IT och miljön - en samling goda exempel, SOU 1996: 178;Telefon//NN|UTR|SIN|IND|NOM//conj//11 ://MID//punct//15
+IT och miljön - en samling goda exempel, SOU 1996: 178;08-690//RG|NOM//obl//19 91//RG|NOM//nummod//19 90//RG|NOM//conj//11 .//MAD//punct//4
+
+Sverige inför epokskiftet, SOU 1997:63;Rapport//NN|UTR|SIN|IND|NOM//nsubj:pass//4 5/97//RG|NOM//nummod//0 .//MAD//punct//0
+Sverige inför epokskiftet, SOU 1997:63;Kan//VB|PRS|AKT//aux//4 beställas//VB|INF|SFO//ROOT//4 hos//PP//case//7 Fritzes//PM|GEN//nmod:poss//7 kundtjänst//NN|UTR|SIN|IND|NOM//obl//4 .//MID//punct//4
+Sverige inför epokskiftet, SOU 1997:63;Fax//PM|NOM//discourse//11 ://MID//punct//9
+Sverige inför epokskiftet, SOU 1997:63;08-690//RG|NOM//parataxis//4 91//RG|NOM//nummod//13 91//RG|NOM//nummod//11 .//MAD//punct//11
+Sverige inför epokskiftet, SOU 1997:63;Telefon//NN|UTR|SIN|IND|NOM//conj//11 ://MID//punct//15
+Sverige inför epokskiftet, SOU 1997:63;08-690//RG|NOM//obl//19 91//RG|NOM//nummod//19 90//RG|NOM//conj//11 .//MAD//punct//4
+
+Säker elektronisk kommunikation, SOU 1997:73;Referat//PC|PRF|NEU|SIN|IND|NOM//nsubj:pass//22 från//PP//case//4 ett//DT|NEU|SIN|IND//det//4 seminarium//NN|NEU|SIN|IND|NOM//amod//4 anordnat//PC|PRF|NEU|SIN|IND|NOM//obl//0 av//PP//case//6 IT-kommissionen//NN|UTR|SIN|DEF|NOM//nmod//4 ,//MID//punct//8 Närings-//NN|UTR|-|-|SMS//conj//6 och//KN//cc//10 handelsdepartementet//NN|NEU|SIN|DEF|NOM//conj//6 och//KN//cc//12 SEIS//PM|NOM//conj//0 den//DT|UTR|SIN|DEF//det//15 11//RG|NOM//nummod//15 december//NN|UTR|SIN|IND|NOM//obj//12 1996//RG|NOM//nummod//15 .//MAD//punct//0
+Säker elektronisk kommunikation, SOU 1997:73;Rapport//NN|UTR|SIN|IND|NOM//parataxis//0 6/97//RG|NOM//nummod//18 .//MAD//punct//0
+Säker elektronisk kommunikation, SOU 1997:73;Kan//VB|PRS|AKT//aux//22 beställas//VB|INF|SFO//ROOT//22 hos//PP//case//25 Fritzes//PM|GEN//nmod:poss//25 kundtjänst//NN|UTR|SIN|IND|NOM//obl//22 .//MAD//punct//22
+
+IT-kommissionens hearing om den nya medie- och programvaruindustrin, SOU 1997:124;Andrakammarsalen//NN|UTR|SIN|DEF|NOM//nsubj//4 ,//MID//punct//0 Riksdagen//NN|UTR|SIN|DEF|NOM//conj//0 .//MID//punct//0
+IT-kommissionens hearing om den nya medie- och programvaruindustrin, SOU 1997:124;Rapport//NN|UTR|SIN|IND|NOM//ROOT//4 7/97//RG|NOM//obj//4 .//MAD//punct//4
+IT-kommissionens hearing om den nya medie- och programvaruindustrin, SOU 1997:124;Kan//VB|PRS|AKT//aux//1 beställas//VB|INF|SFO//ROOT//1 hos//PP//case//4 Fritzes//PM|GEN//nmod:poss//4 kundtjänst//NN|UTR|SIN|IND|NOM//obl//1 .//MID//punct//1
+IT-kommissionens hearing om den nya medie- och programvaruindustrin, SOU 1997:124;Fax//PM|NOM//discourse//8 ://MID//punct//6
+IT-kommissionens hearing om den nya medie- och programvaruindustrin, SOU 1997:124;08-690//RG|NOM//parataxis//1 91//RG|NOM//nummod//10 91//RG|NOM//nummod//8 .//MAD//punct//8
+IT-kommissionens hearing om den nya medie- och programvaruindustrin, SOU 1997:124;Telefon//NN|UTR|SIN|IND|NOM//conj//8 ://MID//punct//12
+IT-kommissionens hearing om den nya medie- och programvaruindustrin, SOU 1997:124;08-690//RG|NOM//obl//16 91//RG|NOM//nummod//16 90//RG|NOM//conj//8 .//MAD//punct//1
+
+IT och regional utveckling - 120 exempel från Sveriges län, SOU 1998:19;Rapport//NN|UTR|SIN|IND|NOM//nsubj:pass//4 1/98//RG|NOM//nummod//0 .//MAD//punct//0
+IT och regional utveckling - 120 exempel från Sveriges län, SOU 1998:19;Kan//VB|PRS|AKT//aux//4 beställas//VB|INF|SFO//ROOT//4 hos//PP//case//7 Fritzes//PM|GEN//nmod:poss//7 kundtjänst//NN|UTR|SIN|IND|NOM//obl//4 .//MID//punct//4
+IT och regional utveckling - 120 exempel från Sveriges län, SOU 1998:19;Fax//PM|NOM//discourse//11 ://MID//punct//9
+IT och regional utveckling - 120 exempel från Sveriges län, SOU 1998:19;08-690//RG|NOM//parataxis//4 91//RG|NOM//nummod//13 91//RG|NOM//nummod//11 .//MAD//punct//11
+IT och regional utveckling - 120 exempel från Sveriges län, SOU 1998:19;Telefon//NN|UTR|SIN|IND|NOM//conj//11 ://MID//punct//15
+IT och regional utveckling - 120 exempel från Sveriges län, SOU 1998:19;08-690//RG|NOM//obl//19 91//RG|NOM//nummod//19 90//RG|NOM//conj//11 .//MAD//punct//4
+
+IT-kommissionens hearing om infrastrukturen för digitala medier, SOU 1998:20;Referat//PC|PRF|NEU|SIN|IND|NOM//nsubj:pass//16 från//PP//case//3 en//DT|UTR|SIN|IND//det//3 hearing//NN|UTR|SIN|IND|NOM//obl//0 anordnad//PC|PRF|UTR|SIN|IND|NOM//xcomp//0 av//PP//case//6 IT-kommissionen//NN|UTR|SIN|DEF|NOM//nmod//4 den//DT|UTR|SIN|DEF//det//9 24//RG|NOM//nummod//9 oktober//NN|UTR|SIN|IND|NOM//obl//0 1997//RG|NOM//nummod//9 .//MAD//punct//0
+IT-kommissionens hearing om infrastrukturen för digitala medier, SOU 1998:20;Rapport//NN|UTR|SIN|IND|NOM//parataxis//0 2/98//RG|NOM//nummod//12 .//MAD//punct//0
+IT-kommissionens hearing om infrastrukturen för digitala medier, SOU 1998:20;Kan//VB|PRS|AKT//aux//16 beställas//VB|INF|SFO//ROOT//16 hos//PP//case//19 Fritzes//PM|GEN//nmod:poss//19 kundtjänst//NN|UTR|SIN|IND|NOM//obl//16 .//MID//punct//16
+IT-kommissionens hearing om infrastrukturen för digitala medier, SOU 1998:20;Fax//PM|NOM//discourse//23 ://MID//punct//21
+IT-kommissionens hearing om infrastrukturen för digitala medier, SOU 1998:20;08-690//RG|NOM//parataxis//16 91//RG|NOM//nummod//25 91//RG|NOM//nummod//23 .//MAD//punct//23
+IT-kommissionens hearing om infrastrukturen för digitala medier, SOU 1998:20;Telefon//NN|UTR|SIN|IND|NOM//conj//23 ://MID//punct//27
+IT-kommissionens hearing om infrastrukturen för digitala medier, SOU 1998:20;08-690//RG|NOM//obl//31 91//RG|NOM//nummod//31 90//RG|NOM//conj//23 .//MAD//punct//16
+
+Problem med inbäddade system inför 2000-skiftet, SOU 1998:21;Hearing//NN|UTR|SIN|IND|NOM//nsubj:pass//1 anordnad//PC|PRF|UTR|SIN|IND|NOM//ROOT//1 av//PP//case//3 IT-kommissionen//NN|UTR|SIN|DEF|NOM//obl:agent//1 i//PP//case//5 samverkan//NN|UTR|SIN|IND|NOM//obl//1 med//PP//case//1
+Problem med inbäddade system inför 2000-skiftet, SOU 1998:21;Industriförbundet//PM|NOM//nsubj:pass//9 och//KN//cc//2 Statskontoret//NN|NEU|SIN|DEF|NOM//conj//0 1997-11-14//RG|NOM//conj//0 .//MAD//punct//0
+Problem med inbäddade system inför 2000-skiftet, SOU 1998:21;Rapport//NN|UTR|SIN|IND|NOM//conj//0 3/98//RG|NOM//punct//0 .//MAD//punct//0
+Problem med inbäddade system inför 2000-skiftet, SOU 1998:21;Kan//VB|PRS|AKT//aux//9 beställas//VB|INF|SFO//ROOT//9 hos//PP//case//12 Fritzes//PM|GEN//nmod:poss//12 kundtjänst//NN|UTR|SIN|IND|NOM//obl//9 .//MID//punct//9
+Problem med inbäddade system inför 2000-skiftet, SOU 1998:21;Fax//PM|NOM//discourse//16 ://MID//punct//14
+Problem med inbäddade system inför 2000-skiftet, SOU 1998:21;08-690//RG|NOM//parataxis//9 91//RG|NOM//nummod//18 91//RG|NOM//nummod//16 .//MAD//punct//9
+Problem med inbäddade system inför 2000-skiftet, SOU 1998:21;Telefon//NN|UTR|SIN|IND|NOM//ROOT//0 ://MID//punct//0
+Problem med inbäddade system inför 2000-skiftet, SOU 1998:21;08-690//RG|NOM//parataxis//0 91//RG|NOM//nummod//4 90//RG|NOM//obl//2 .//MAD//punct//0
+
+Identifiering och identitet i digitala miljöer, SOU 1998:36;Referat//PC|PRF|NEU|SIN|IND|NOM//nsubj:pass//13 från//PP//case//3 en//DT|UTR|SIN|IND//det//3 hearing//NN|UTR|SIN|IND|NOM//obl//0 den//DT|UTR|SIN|DEF//det//6 12//RG|NOM//nummod//6 november//NN|UTR|SIN|IND|NOM//nmod//3 1997//RG|NOM//nummod//6 .//MAD//punct//0
+Identifiering och identitet i digitala miljöer, SOU 1998:36;Rapport//NN|UTR|SIN|IND|NOM//parataxis//0 4/98//RG|NOM//nummod//9 .//MAD//punct//0
+Identifiering och identitet i digitala miljöer, SOU 1998:36;Kan//VB|PRS|AKT//aux//13 beställas//VB|INF|SFO//ROOT//13 hos//PP//case//16 Fritzes//PM|GEN//nmod:poss//16 kundtjänst//NN|UTR|SIN|IND|NOM//obl//13 .//MID//punct//13
+Identifiering och identitet i digitala miljöer, SOU 1998:36;Fax//PM|NOM//discourse//20 ://MID//punct//18
+Identifiering och identitet i digitala miljöer, SOU 1998:36;08-690//RG|NOM//parataxis//13 91//RG|NOM//nummod//22 91//RG|NOM//nummod//20 .//MAD//punct//20
+Identifiering och identitet i digitala miljöer, SOU 1998:36;Telefon//NN|UTR|SIN|IND|NOM//conj//20 ://MID//punct//24
+Identifiering och identitet i digitala miljöer, SOU 1998:36;08-690//RG|NOM//obl//28 91//RG|NOM//nummod//28 90//RG|NOM//conj//20 .//MAD//punct//13
+
+Hur offensiv IT-användning kan skapa tillväxt för mindre företag, SOU 1998:54;Ett//DT|NEU|SIN|IND//det//1 rådslag//NN|NEU|SIN|IND|NOM//nsubj//2 anordnat//PC|PRF|NEU|SIN|IND|NOM//nsubj:pass//21 av//PP//case//4 IT-kommissionen//NN|UTR|SIN|DEF|NOM//nmod//2 på//PP//case//6 uppdrag//NN|NEU|SIN|IND|NOM//obl//2 av//PP//case//8 Kommunikationsdepartementet//NN|NEU|SIN|DEF|NOM//nmod//6 ,//MID//punct//10 Närings-//NN|UTR|-|-|SMS//conj//8 och//KN//cc//12 handelsdepartementet//NN|NEU|SIN|DEF|NOM//conj//8 och//KN//cc//14 Industriförbundet//PM|NOM//conj//8 1997-11-18//RG|NOM//conj//8 .//MAD//punct//17
+Hur offensiv IT-användning kan skapa tillväxt för mindre företag, SOU 1998:54;Rapport//NN|UTR|SIN|IND|NOM//parataxis//2 5/98//RG|NOM//nummod//17 .//MAD//punct//2
+Hur offensiv IT-användning kan skapa tillväxt för mindre företag, SOU 1998:54;Kan//VB|PRS|AKT//aux//21 beställas//VB|INF|SFO//ROOT//21 hos//PP//case//24 Fritzes//PM|GEN//nmod:poss//24 kundtjänst//NN|UTR|SIN|IND|NOM//obl//21 .//MID//punct//21
+Hur offensiv IT-användning kan skapa tillväxt för mindre företag, SOU 1998:54;Fax//PM|NOM//discourse//28 ://MID//punct//26
+Hur offensiv IT-användning kan skapa tillväxt för mindre företag, SOU 1998:54;08-690//RG|NOM//parataxis//21 91//RG|NOM//nummod//30 91//RG|NOM//nummod//28 .//MAD//punct//28
+Hur offensiv IT-användning kan skapa tillväxt för mindre företag, SOU 1998:54;Telefon//NN|UTR|SIN|IND|NOM//conj//28 ://MID//punct//32
+Hur offensiv IT-användning kan skapa tillväxt för mindre företag, SOU 1998:54;08-690//RG|NOM//obl//36 91//RG|NOM//nummod//36 90//RG|NOM//conj//28 .//MAD//punct//21
+
+IT och nationalstaten, SOU 1998:58;Fyra//RG|NOM//nummod//1 framtidsscenarier//NN|UTR|PLU|IND|NOM//nsubj:pass//7 .//MAD//punct//1
+IT och nationalstaten, SOU 1998:58;Rapport//NN|UTR|SIN|IND|NOM//appos//1 6/98//RG|NOM//nummod//3 .//MAD//punct//1
+IT och nationalstaten, SOU 1998:58;Kan//VB|PRS|AKT//aux//7 beställas//VB|INF|SFO//ROOT//7 hos//PP//case//10 Fritzes//PM|GEN//nmod:poss//10 kundtjänst//NN|UTR|SIN|IND|NOM//obl//7 .//MID//punct//7
+IT och nationalstaten, SOU 1998:58;Fax//PM|NOM//discourse//14 ://MID//punct//12
+IT och nationalstaten, SOU 1998:58;08-690//RG|NOM//parataxis//7 91//RG|NOM//nummod//16 91//RG|NOM//nummod//14 .//MAD//punct//14
+IT och nationalstaten, SOU 1998:58;Telefon//NN|UTR|SIN|IND|NOM//conj//14 ://MID//punct//18
+IT och nationalstaten, SOU 1998:58;08-690//RG|NOM//obl//22 91//RG|NOM//nummod//22 90//RG|NOM//conj//14 .//MAD//punct//7
+
+Skolan, IT och det livslånga lärandet, SOU 1998:70;Hearing//NN|UTR|SIN|IND|NOM//nsubj:pass//1 anordnad//PC|PRF|UTR|SIN|IND|NOM//nsubj:pass//12 av//PP//case//3 Utbildningsdepartementet//NN|NEU|SIN|DEF|NOM//obl:agent//1 och//KN//cc//5 IT-kommissionen//NN|UTR|SIN|DEF|NOM//conj//3 1997-12-04//RG|NOM//conj//1 .//MAD//punct//8
+Skolan, IT och det livslånga lärandet, SOU 1998:70;Rapport//NN|UTR|SIN|IND|NOM//parataxis//1 7/98//RG|NOM//punct//8 .//MID//punct//1
+Skolan, IT och det livslånga lärandet, SOU 1998:70;Kan//VB|PRS|AKT//aux//12 beställas//VB|INF|SFO//ROOT//12 hos//PP//case//15 Fritzes//PM|GEN//nmod:poss//15 kundtjänst//NN|UTR|SIN|IND|NOM//obl//12 .//MAD//punct//12
+
+Nya tider, nya förutsättningar..., SOU 1998:65;Rapport//NN|UTR|SIN|IND|NOM//nsubj:pass//4 8/98//RG|NOM//advmod//0 .//MAD//punct//0
+Nya tider, nya förutsättningar..., SOU 1998:65;Kan//VB|PRS|AKT//aux//4 beställas//VB|INF|SFO//ROOT//4 hos//PP//case//7 Fritzes//PM|GEN//nmod:poss//7 kundtjänst//NN|UTR|SIN|IND|NOM//obl//4 .//MID//punct//4
+Nya tider, nya förutsättningar..., SOU 1998:65;Fax//PM|NOM//discourse//11 ://MID//punct//9
+Nya tider, nya förutsättningar..., SOU 1998:65;08-690//RG|NOM//parataxis//4 91//RG|NOM//nummod//13 91//RG|NOM//nummod//11 .//MAD//punct//11
+Nya tider, nya förutsättningar..., SOU 1998:65;Telefon//NN|UTR|SIN|IND|NOM//conj//11 ://MID//punct//15
+Nya tider, nya förutsättningar..., SOU 1998:65;08-690//RG|NOM//obl//19 91//RG|NOM//nummod//19 90//RG|NOM//conj//11 .//MAD//punct//4
+
+
+Rättsinformation och IT, SOU 1998:109;Rapport//NN|UTR|SIN|IND|NOM//nsubj//7 från//PP//case//3 två//RG|NOM//nummod//3 seminarier//NN|NEU|PLU|IND|NOM//nmod//0 1996//RG|NOM//nummod//3 och//KN//cc//3 1998//RG|NOM//nummod//3 anordnade//VB|PRT|AKT//ROOT//7 av//PP//case//9 IT-kommissionen//NN|UTR|SIN|DEF|NOM//obl//7 och//KN//cc//11 Stiftelsen//NN|UTR|SIN|DEF|NOM//conj//9 för//PP//case//13 rättsinformation//NN|UTR|SIN|IND|NOM//nmod//14 Rapport//NN|UTR|SIN|IND|NOM//nmod//11 10/98//RG|NOM//advmod//11 .//MAD//punct//7
+Rättsinformation och IT, SOU 1998:109;Kan//VB|PRS|AKT//aux//18 beställas//VB|INF|SFO//conj//7 hos//PP//case//21 Fritzes//PM|GEN//nmod:poss//21 kundtjänst//NN|UTR|SIN|IND|NOM//obl//18 .//MID//punct//18
+Rättsinformation och IT, SOU 1998:109;Fax//PM|NOM//discourse//25 ://MID//punct//23
+Rättsinformation och IT, SOU 1998:109;08-690//RG|NOM//punct//7 91//RG|NOM//nummod//27 91//RG|NOM//nummod//25 .//MAD//punct//25
+Rättsinformation och IT, SOU 1998:109;Telefon//NN|UTR|SIN|IND|NOM//conj//25 ://MID//punct//29
+Rättsinformation och IT, SOU 1998:109;08-690//RG|NOM//nmod//33 91//RG|NOM//nummod//33 90//RG|NOM//conj//25 .//MAD//punct//7
+
+God etik på nätet, SOU 1998:133;Hearing//NN|UTR|SIN|IND|NOM//nsubj:pass//1 anordnad//PC|PRF|UTR|SIN|IND|NOM//ROOT//1 av//PP//case//3 IT-kommissionen//NN|UTR|SIN|DEF|NOM//obl:agent//1 i//PP//case//5 samarbete//NN|NEU|SIN|IND|NOM//nmod//3 med//PP//case//7 Stiftelsen//NN|UTR|SIN|DEF|NOM//nmod//5 för//PP//case//9 Kunskaps-//NN|UTR|-|-|SMS//nmod//7 och//KN//cc//11 Kompetensutveckling//NN|UTR|SIN|IND|NOM//conj//9 ,//MID//punct//9 Röda//JJ|POS|UTR/NEU|SIN|DEF|NOM//conj//9
+God etik på nätet, SOU 1998:133;Korsets//NN|NEU|SIN|DEF|GEN//nmod:poss//1 Idé-//NN|UTR|-|-|SMS//ROOT//1 och//KN//cc//3 utbildningscenter//NN|UTR|PLU|IND|NOM//conj//1 ,//MID//punct//1 ISOC-SE//NN|NEU|PLU|IND|NOM//conj//1 ,//MID//punct//7 SUNET//PM|NOM//conj//1 ,//MID//punct//9 Telenordia//PM|NOM//conj//1 ,//MID//punct//11 Telia//PM|NOM//conj//1 ,//MID//punct//13 Tele2//PM|NOM//conj//1 ,//MID//punct//13 IT-Företagen//PM|NOM//conj//1 och//KN//cc//17 BitoS.//PM|NOM//conj//1
+God etik på nätet, SOU 1998:133;Rapport//NN|UTR|SIN|IND|NOM//nsubj:pass//4 11/98//RG|NOM//nmod//0 .//MAD//punct//0
+God etik på nätet, SOU 1998:133;Kan//VB|PRS|AKT//aux//4 beställas//VB|INF|SFO//ROOT//4 hos//PP//case//7 Fritzes//PM|GEN//nmod:poss//7 kundtjänst//NN|UTR|SIN|IND|NOM//obl//4 .//MID//punct//4
+God etik på nätet, SOU 1998:133;Fax//PM|NOM//discourse//11 ://MID//punct//9
+God etik på nätet, SOU 1998:133;08-690//RG|NOM//parataxis//4 91//RG|NOM//nummod//13 91//RG|NOM//nummod//11 .//MAD//punct//11
+God etik på nätet, SOU 1998:133;Telefon//NN|UTR|SIN|IND|NOM//conj//11 ://MID//punct//15
+God etik på nätet, SOU 1998:133;08-690//RG|NOM//obl//19 91//RG|NOM//nummod//19 90//RG|NOM//conj//11 .//MAD//punct//4
+
+Hur skall man finansiera välfärden i det globaliserade IT-samhället? SOU 1998:153;Ett//DT|NEU|SIN|IND//det//1 samtal//NN|NEU|SIN|IND|NOM//nsubj:pass//15 om//PP//case//3 IT-utveckling//NN|UTR|SIN|IND|NOM//nmod//1 och//KN//cc//7 offentlig//JJ|POS|UTR|SIN|IND|NOM//amod//6 ekonomi//NN|UTR|SIN|IND|NOM//nmod//7 anordnat//VB|SUP|AKT//conj//3 av//PP//case//9 IT-kommissionen//NN|UTR|SIN|DEF|NOM//nmod//7 och//KN//cc//11 ESO.Rapport//NN|UTR|SIN|IND|NOM//conj//3 12/98//RG|NOM//nummod//11 .//MAD//punct//1
+Hur skall man finansiera välfärden i det globaliserade IT-samhället? SOU 1998:153;Kan//VB|PRS|AKT//aux//15 beställas//VB|INF|SFO//ROOT//15 hos//PP//case//18 Fritzes//PM|GEN//nmod:poss//18 kundtjänst//NN|UTR|SIN|IND|NOM//obl//15 .//MID//punct//15
+Hur skall man finansiera välfärden i det globaliserade IT-samhället? SOU 1998:153;Fax//PM|NOM//discourse//22 ://MID//punct//20
+Hur skall man finansiera välfärden i det globaliserade IT-samhället? SOU 1998:153;08-690//RG|NOM//parataxis//15 91//RG|NOM//nummod//24 91//RG|NOM//nummod//22 .//MAD//punct//22
+Hur skall man finansiera välfärden i det globaliserade IT-samhället? SOU 1998:153;Telefon//NN|UTR|SIN|IND|NOM//conj//22 ://MID//punct//26
+Hur skall man finansiera välfärden i det globaliserade IT-samhället? SOU 1998:153;08-690//RG|NOM//obl//30 91//RG|NOM//nummod//30 90//RG|NOM//conj//22 .//MAD//punct//15
+
+
+- nya möjligheter för Sverige, SOU 1999:86;"En//DT|UTR|SIN|IND//det//1 rapport//NN|UTR|SIN|IND|NOM//ROOT//1 från//PP//case//3 hearingen//NN|UTR|SIN|DEF|NOM//nmod//1 ""//PAD//punct//6 Efter//PP//case//6 PC//NN|AN//nmod//1 ://MID//punct//6 n//NN|NEU|SIN|IND|NOM//nummod//10 ""//PAD//punct//10 anordnad//PC|PRF|UTR|SIN|IND|NOM//parataxis//6 av//PP//case//12 IT-kommissionen//NN|UTR|SIN|DEF|NOM//nmod//10 i//PP//case//14 juni//NN|UTR|SIN|IND|NOM//nmod//10 1999//RG|NOM//nummod//14 .//MAD//punct//10"
+- nya möjligheter för Sverige, SOU 1999:86;Rapport//NN|UTR|SIN|IND|NOM//nmod//10 1/99//RG|NOM//nummod//17 .//MAD//punct//10
+- nya möjligheter för Sverige, SOU 1999:86;Kan//VB|PRS|AKT//aux//1 beställas//VB|INF|SFO//ROOT//1 från//PP//case//4 Fakta//NN|NEU|SIN|IND|NOM//nmod//4 Info//PM|NOM//obl//1 Direkt//AB|POS//advmod//1 .//MID//punct//1
+- nya möjligheter för Sverige, SOU 1999:86;Fax//PM|NOM//obl//1 ://MID//punct//7
+- nya möjligheter för Sverige, SOU 1999:86;08-587//RG|NOM//parataxis//7 671//RG|NOM//nummod//11 71//RG|NOM//nummod//9 .//MAD//punct//7
+- nya möjligheter för Sverige, SOU 1999:86;Telefon//NN|UTR|SIN|IND|NOM//parataxis//1 ://MID//punct//13
+- nya möjligheter för Sverige, SOU 1999:86;08-587//RG|NOM//appos//13 671//RG|NOM//nummod//17 00//RG|NOM//obl//15 .//MAD//punct//13
+- nya möjligheter för Sverige, SOU 1999:86;E-post//NN|UTR|SIN|IND|NOM//parataxis//1 ://MAD//punct//19
+- nya möjligheter för Sverige, SOU 1999:86;order@faktainfo.se//PAD//appos//19
+- nya möjligheter för Sverige, SOU 1999:86;Webbplats//NN|UTR|SIN|IND|NOM//ROOT//0 ://MID//punct//0
+- nya möjligheter för Sverige, SOU 1999:86;www.faktainfo.se//NN|UTR|PLU|IND|NOM//punct//0
+
+Framtidssäker IT-infrastruktur för Sverige, SOU 1999:134;En//DT|UTR|SIN|IND//det//1 rapport//NN|UTR|SIN|IND|NOM//ROOT//1 från//PP//case//3 hearingen//NN|UTR|SIN|DEF|NOM//nmod//1 ”//PM|NOM//punct//5 Kommunikation//NN|UTR|SIN|IND|NOM//nmod//1 till//PP//case//9 alla//DT|UTR/NEU|PLU|IND/DEF//det//9 alltid//AB//advmod//9 Visioner//NN|UTR|PLU|IND|NOM//nmod//5 och//KN//cc//11 strategier//NN|UTR|PLU|IND|NOM//conj//9 om//PP//case//16 en//DT|UTR|SIN|IND//det//16 ny//JJ|POS|UTR|SIN|IND|NOM//amod//16 svensk//JJ|POS|UTR|SIN|IND|NOM//amod//16 infrastruktur//NN|UTR|SIN|IND|NOM//nmod//11 ”//PAD//punct//5 .//MAD//punct//19
+Framtidssäker IT-infrastruktur för Sverige, SOU 1999:134;Rapport//NN|UTR|SIN|IND|NOM//appos//1 2/99//RG|NOM//nummod//19 .//MAD//punct//1
+Framtidssäker IT-infrastruktur för Sverige, SOU 1999:134;Kan//VB|PRS|AKT//aux//1 beställas//VB|INF|SFO//ROOT//1 från//PP//case//4 Fakta//NN|NEU|SIN|IND|NOM//nmod//4 Info//PM|NOM//obl//1 Direkt//AB|POS//advmod//1 .//MID//punct//1
+Framtidssäker IT-infrastruktur för Sverige, SOU 1999:134;Fax//PM|NOM//obl//1 ://MID//punct//7
+Framtidssäker IT-infrastruktur för Sverige, SOU 1999:134;08-587//RG|NOM//parataxis//7 671//RG|NOM//nummod//11 71//RG|NOM//nummod//9 .//MAD//punct//7
+Framtidssäker IT-infrastruktur för Sverige, SOU 1999:134;Telefon//NN|UTR|SIN|IND|NOM//parataxis//1 ://MID//punct//13
+Framtidssäker IT-infrastruktur för Sverige, SOU 1999:134;08-587//RG|NOM//appos//13 671//RG|NOM//nummod//17 00//RG|NOM//obl//15 .//MAD//punct//13
+Framtidssäker IT-infrastruktur för Sverige, SOU 1999:134;E-post//NN|UTR|SIN|IND|NOM//parataxis//1 ://MAD//punct//19
+Framtidssäker IT-infrastruktur för Sverige, SOU 1999:134;order@faktainfo.se//PAD//appos//19
+Framtidssäker IT-infrastruktur för Sverige, SOU 1999:134;Webbplats//NN|UTR|SIN|IND|NOM//ROOT//0 ://MID//punct//0
+Framtidssäker IT-infrastruktur för Sverige, SOU 1999:134;www.faktainfo.se//NN|UTR|PLU|IND|NOM//punct//0
+Framtidssäker IT-infrastruktur för Sverige, SOU 1999:134;Trender//NN|UTR|PLU|IND|NOM//ROOT//0 ,//MID//punct//2 möjligheter//NN|UTR|PLU|IND|NOM//conj//0 och//KN//cc//4 problem//NN|NEU|PLU|IND|NOM//conj//0
+Framtidssäker IT-infrastruktur för Sverige, SOU 1999:134;En//DT|UTR|SIN|IND//det//1 rapport//NN|UTR|SIN|IND|NOM//ROOT//1 från//PP//case//3 hearingen//NN|UTR|SIN|DEF|NOM//nmod//1 ”//PM|NOM//punct//1 ”//PAD//punct//1 Hemma//AB//advmod//7 bra//JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM//advmod//1 men//KN//cc//9 borta//AB//conj//7 bäst//AB|SUV//advmod//9 ?//MAD//punct//1 ”//PAD//punct//1 .//MAD//punct//14
+Framtidssäker IT-infrastruktur för Sverige, SOU 1999:134;Rapport//NN|UTR|SIN|IND|NOM//appos//1 3/99//RG|NOM//nummod//14 .//MAD//punct//1
+Framtidssäker IT-infrastruktur för Sverige, SOU 1999:134;Kan//VB|PRS|AKT//aux//1 beställas//VB|INF|SFO//ROOT//1 från//PP//case//4 Fakta//NN|NEU|SIN|IND|NOM//nmod//4 Info//PM|NOM//obl//1 Direkt//AB|POS//advmod//1 .//MID//punct//1
+Framtidssäker IT-infrastruktur för Sverige, SOU 1999:134;Fax//PM|NOM//obl//1 ://MID//punct//7
+Framtidssäker IT-infrastruktur för Sverige, SOU 1999:134;08-587//RG|NOM//parataxis//7 671//RG|NOM//nummod//11 71//RG|NOM//nummod//9 .//MAD//punct//7
+Framtidssäker IT-infrastruktur för Sverige, SOU 1999:134;Telefon//NN|UTR|SIN|IND|NOM//parataxis//1 ://MID//punct//13
+Framtidssäker IT-infrastruktur för Sverige, SOU 1999:134;08-587//RG|NOM//appos//13 671//RG|NOM//nummod//17 00//RG|NOM//obl//15 .//MAD//punct//13
+Framtidssäker IT-infrastruktur för Sverige, SOU 1999:134;E-post//NN|UTR|SIN|IND|NOM//parataxis//1 ://MAD//punct//19
+Framtidssäker IT-infrastruktur för Sverige, SOU 1999:134;order@faktainfo.se//PAD//appos//19
+Framtidssäker IT-infrastruktur för Sverige, SOU 1999:134;Webbplats//NN|UTR|SIN|IND|NOM//ROOT//0 ://MID//punct//0
+Framtidssäker IT-infrastruktur för Sverige, SOU 1999:134; //_SP////1 www.faktainfo.se//NN|UTR|PLU|IND|NOM//punct//0
+Framtidssäker IT-infrastruktur för Sverige, SOU 1999:134;Rapporter//NN|UTR|PLU|IND|NOM//nsubj//1 utgivna//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//ROOT//1 på//PP//case//3 uppdrag//NN|NEU|SIN|IND|NOM//obl//1 av//PP//case//9 eller//KN//cc//6 i//PP//case//9 samarbete//NN|NEU|SIN|IND|NOM//fixed//6 med//PP//fixed//6 IT-kommissionen//NN|UTR|SIN|DEF|NOM//nmod//3
+
+Data om IT i Sverige;Statistisk//JJ|POS|UTR|SIN|IND|NOM//amod//1 sammanställning//NN|UTR|SIN|IND|NOM//nsubj//4 om//PP//case//3 IT//NN|AN//nmod//1 gjord//PC|PRF|UTR|SIN|IND|NOM//ROOT//4 av//PP//case//7 Statistiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//7 Centralbyrån//NN|UTR|SIN|DEF|NOM//obl//4 på//PP//case//9 uppdrag//NN|NEU|SIN|IND|NOM//obl//4 av//PP//case//11 IT-kommissionen//NN|UTR|SIN|DEF|NOM//nmod//9 .//MAD//punct//4
+Data om IT i Sverige;Kan//VB|PRS|AKT//aux//1 beställas//VB|INF|SFO//ROOT//1 från//PP//case//4 SCB//PM|NOM//nmod//4 Förlag//NN|NEU|SIN|IND|NOM//obl//1 ,//MID//punct//4 701//RG|NOM//nummod//7 89//RG|NOM//nummod//8 Örebro//PM|NOM//appos//4 .//MID//punct//1
+Data om IT i Sverige;Fax//PM|NOM//discourse//12 ://MID//punct//10
+Data om IT i Sverige;019-17//RG|NOM//discourse//16 69//RG|NOM//nummod//14 32//RG|NOM//nummod//12 .//MAD//punct//12
+Data om IT i Sverige;Telefon//NN|UTR|SIN|IND|NOM//parataxis//1 ://MID//punct//16
+Data om IT i Sverige;019-17//RG|NOM//parataxis//16 68//RG|NOM//nummod//20 00//RG|NOM//obl//18 .//MAD//punct//1
+
+Datorvanor 1995;Undersökning//NN|UTR|SIN|IND|NOM//nsubj:pass//5 av//PP//case//4 svenska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//3 folkets//NN|NEU|SIN|DEF|GEN//nmod:poss//4 datorvanor//NN|UTR|PLU|IND|NOM//nmod//0 utförd//PC|PRF|UTR|SIN|IND|NOM//ROOT//5 av//PP//case//8 Statistiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//8 Centralbyrån//NN|UTR|SIN|DEF|NOM//obl:agent//5 på//PP//case//10 uppdrag//NN|NEU|SIN|IND|NOM//obl//5 av//PP//case//12 IT-kommissionen//NN|UTR|SIN|DEF|NOM//nmod//10 .//MAD//punct//5
+Datorvanor 1995;102//RG|NOM//nummod//15 sidor//NN|UTR|PLU|IND|NOM//appos//5 .//MAD//punct//5
+Datorvanor 1995;Kan//VB|PRS|AKT//aux//18 beställas//VB|INF|SFO//conj//5 från//PP//case//21 SCB//PM|NOM//nmod//21 Förlag//NN|NEU|SIN|IND|NOM//obl//18 ,//MID//punct//21 701//RG|NOM//nummod//24 89//RG|NOM//nummod//25 Örebro//PM|NOM//appos//21 .//MID//punct//18
+Datorvanor 1995;Fax//PM|NOM//obl//18 ://MID//punct//18
+Datorvanor 1995;019-17//RG|NOM//parataxis//18 69//RG|NOM//nummod//31 32//RG|NOM//obl//29 .//MAD//punct//18
+Datorvanor 1995;Telefon//NN|UTR|SIN|IND|NOM//obl//18 ://MID//punct//33
+Datorvanor 1995;019-17//RG|NOM//parataxis//33 68//RG|NOM//nummod//37 00//RG|NOM//obl//35 .//MAD//punct//5
+
+IT världen runt - Nationella initiativ;Undersökning//NN|UTR|SIN|IND|NOM//ROOT//0 av//PP//case//4 Sveriges//PM|GEN//nmod:poss//4 Tekniska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//4 Attachéer//NN|UTR|PLU|IND|NOM//nmod//0 på//PP//case//6 uppdrag//NN|NEU|SIN|IND|NOM//nmod//0 av//PP//case//8 IT-kommissionen//NN|UTR|SIN|DEF|NOM//nmod//6 och//KN//cc//10 Näringsdepartementet//NN|NEU|SIN|DEF|NOM//conj//8 .//MAD//punct//0
+IT världen runt - Nationella initiativ;Kan//VB|PRS|AKT//aux//1 beställas//VB|INF|SFO//ROOT//1 från//PP//case//3 STATT//PM|NOM//obl//1 ,//MID//punct//5 Box//PM|NOM//conj//1 5282//RG|NOM//nummod//5 ,//MID//punct//1 102//RG|NOM//nummod//10 46//RG|NOM//nummod//10 Stockholm//PM|NOM//parataxis//1 .//MAD//punct//1
+
+IT världen runt - Regionala initiativ;Undersökning//NN|UTR|SIN|IND|NOM//ROOT//0 av//PP//case//4 Sveriges//PM|GEN//nmod:poss//4 Tekniska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//4 Attachéer//NN|UTR|PLU|IND|NOM//nmod//0 på//PP//case//6 uppdrag//NN|NEU|SIN|IND|NOM//nmod//0 av//PP//case//8 IT-kommissionen//NN|UTR|SIN|DEF|NOM//nmod//6 och//KN//cc//10 Näringsdepartementet//NN|NEU|SIN|DEF|NOM//conj//8 .//MID//punct//0
+IT världen runt - Regionala initiativ;Stencil//PM|NOM//nmod//0 .//MAD//punct//0
+
+IT världen runt - Statligt stöd till mjukvaruindustrin;Undersökning//NN|UTR|SIN|IND|NOM//ROOT//0 av//PP//case//4 Sveriges//PM|GEN//nmod:poss//4 Tekniska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//4 Attachéer//NN|UTR|PLU|IND|NOM//nmod//0 på//PP//case//6 uppdrag//NN|NEU|SIN|IND|NOM//nmod//0 av//PP//case//8 IT-kommissionen//NN|UTR|SIN|DEF|NOM//nmod//6 och//KN//cc//10 Näringsdepartementet//NN|NEU|SIN|DEF|NOM//conj//8 .//MID//punct//0
+IT världen runt - Statligt stöd till mjukvaruindustrin;Stencil//PM|NOM//nmod//0 .//MAD//punct//0
+
+
+- IT, telekommunikation och nya medier;En//DT|UTR|SIN|IND//det//1 kartläggning//NN|UTR|SIN|IND|NOM//nsubj//4 och//KN//cc//3 analys//NN|UTR|SIN|IND|NOM//conj//1 gjord//PC|PRF|UTR|SIN|IND|NOM//ROOT//4 av//PP//case//6 Statskontoret//NN|NEU|SIN|DEF|NOM//obl:agent//4 på//PP//case//8 uppdrag//NN|NEU|SIN|IND|NOM//obl//4 av//PP//case//10 IT-kommissionen//NN|UTR|SIN|DEF|NOM//nmod//8 .//MAD//punct//4
+- IT, telekommunikation och nya medier;111//RG|NOM//nummod//13 sidor//NN|UTR|PLU|IND|NOM//appos//4 .//MAD//punct//4
+
+
+Kronologisk fˆrteckning;"En//DT|UTR|SIN|IND//det//1 rapport//NN|UTR|SIN|IND|NOM//ROOT//1 frÂn//NN|NEU|SIN|IND|NOM//cop//1 hearingen//NN|UTR|SIN|DEF|NOM//appos//1 ""//PAD//punct//1 Efter//PP//case//6 PC//NN|AN//nmod//1 ://MID//punct//6 n//NN|NEU|SIN|IND|NOM//nummod//10 ""//PAD//punct//10 anordnad//PC|PRF|UTR|SIN|IND|NOM//appos//6 av//PP//case//13 IT-kommissionen//NN|UTR|SIN|DEF|NOM//nmod//13 juni//NN|UTR|SIN|IND|NOM//nmod//10 1999//RG|NOM//nummod//13 .//MAD//punct//10"
+Kronologisk fˆrteckning;N.//PM|NOM//nmod//10
+Kronologisk fˆrteckning;Till‰gg//NN|UTR|SIN|IND|NOM//nsubj//20 till//PP//case//3 Gamla//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//3 testamentet//NN|NEU|SIN|DEF|NOM//nmod//0 .//MID//punct//0
+Kronologisk fˆrteckning;De//DT|UTR/NEU|PLU|DEF//det//9 apokryfa//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//fixed//5 eller//KN//cc//8 deuterokanoniska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//9 skrifterna//NN|UTR|PLU|DEF|NOM//appos//0 .//MAD//punct//9
+Kronologisk fˆrteckning;Volym//NN|UTR|SIN|IND|NOM//conj//9 3//RG|NOM//nummod//11 .//MAD//punct//9
+Kronologisk fˆrteckning;Nya//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//15 testamentet//NN|NEU|SIN|DEF|NOM//conj//9 .//MAD//punct//15
+Kronologisk fˆrteckning;Volym//NN|UTR|SIN|IND|NOM//nmod//18 4//RG|NOM//conj//9 .//MAD//punct//18
+Kronologisk fˆrteckning;Ku//PM|NOM//ROOT//20 .//MAD//punct//20
+Kronologisk fˆrteckning;lokalt//JJ|POS|NEU|SIN|IND|NOM//amod//23 partiarbete//NN|NEU|SIN|IND|NOM//nmod//24 fˆrr//NN|NEU|SIN|IND|NOM//conj//20 och//KN//cc//26 nu//AB//conj//20 .//MAD//punct//20
+Kronologisk fˆrteckning;Forskarvolym//PM|NOM//amod//29 X.//PM|NOM//appos//20 Demokratiutredningen//NN|UTR|SIN|DEF|NOM//flat:name//29 .//MAD//punct//29
+Kronologisk fˆrteckning;Ju//KN//advmod//35 .//MAD//punct//35
+Kronologisk fˆrteckning;nationella//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//35 folkh‰lsomÂl//AB|AN//advcl//29 .//MAD//punct//35
+Kronologisk fˆrteckning;S.//PM|NOM//nummod//39 138.FrÂn//RG|NOM//nummod//39 callcenter//NN|NEU|SIN|IND|NOM//parataxis//35 till//PP//case//41 kontaktcenter//NN|NEU|SIN|IND|NOM//obl//39 .//MAD//punct//35
+Kronologisk fˆrteckning;Trender//NN|UTR|PLU|IND|NOM//ROOT//0 ,//MID//punct//2 mˆjligheter//NN|UTR|PLU|IND|NOM//conj//0 och//KN//cc//4 problem//NN|NEU|PLU|IND|NOM//conj//0 .//MAD//punct//0
+Kronologisk fˆrteckning;N.//PM|NOM//conj//0
+
+Systematisk fˆrteckning;Justitiedepartementet//NN|NEU|SIN|DEF|NOM//ROOT//0
+Systematisk fˆrteckning;Nya//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//1 fˆrmÂnsr‰ttsregler//NN|UTR|PLU|IND|NOM//ROOT//1 +//MID//cc//3 Bilagor//NN|UTR|PLU|IND|NOM//conj//1 .//MAD//punct//1 [//PAD//nmod//6
+Systematisk fˆrteckning;1//RG|NOM//nmod//1 ]//PAD//punct//6 Invandrarskap//NN|UTR|SIN|IND|NOM//conj//1 och//KN//cc//10 medborgarskap//NN|NEU|SIN|IND|NOM//conj//8 .//MAD//punct//1
+Systematisk fˆrteckning;Demokratiutredningens//NN|UTR|SIN|DEF|GEN//nmod:poss//13 skriftserie//NN|UTR|SIN|IND|NOM//conj//1 .//MAD//punct//13 [//PAD//nmod//16
+Systematisk fˆrteckning;8//RG|NOM//nmod//13 ]//PAD//punct//1
+Systematisk fˆrteckning;Att//IE//mark//1 slakta//VB|INF|AKT//csubj//20 ett//DT|NEU|SIN|IND//det//3 fÂr//NN|NEU|SIN|IND|NOM//obj//1 i//PP//case//6 Guds//PM|GEN//nmod:poss//6 namn//NN|NEU|SIN|IND|NOM//obl//1 .//MAD//punct//1
+Systematisk fˆrteckning;Om//SN//case//9 religionsfrihet//NN|UTR|SIN|IND|NOM//obl//1 och//KN//cc//11 demokrati//NN|UTR|SIN|IND|NOM//conj//9 .//MAD//punct//1
+Systematisk fˆrteckning;Demokratiutredningens//NN|UTR|SIN|DEF|GEN//nmod:poss//14 skriftserie//NN|UTR|SIN|IND|NOM//obj//1 .//MAD//punct//14 [//PAD//nmod//17
+Systematisk fˆrteckning;9//RG|NOM//nummod//20 ]//PAD//punct//20 Demoktatins//NN|UTR|SIN|DEF|GEN//nmod:poss//20 fˆrgˆrare//NN|UTR|PLU|IND|NOM//ROOT//20 .//MAD//punct//20
+Systematisk fˆrteckning;Demokratiutredningens//NN|UTR|SIN|DEF|GEN//nmod:poss//1 skriftserie//NN|UTR|SIN|IND|NOM//ROOT//1 .//MAD//punct//1 [//PAD//nmod//4
+Systematisk fˆrteckning;10//RG|NOM//nmod//1 ]//PAD//punct//4 Bˆr//VB|IMP|AKT//advmod//8 demokratin//NN|UTR|SIN|DEF|NOM//flat//6 avnationaliseras//VB|PRS|SFO//appos//4 ?//MID//punct//8
+Systematisk fˆrteckning;Demokratiutredningens//NN|UTR|SIN|DEF|GEN//nmod:poss//11 skriftserie//NN|UTR|SIN|IND|NOM//conj//8 .//MAD//punct//4 [//PAD//nmod//14
+Systematisk fˆrteckning;11//RG|NOM//nmod//4 ]//PAD//punct//1
+Systematisk fˆrteckning;Elektronisk//JJ|POS|UTR|SIN|IND|NOM//amod//1 demokrati//NN|UTR|SIN|IND|NOM//ROOT//1 .//MAD//punct//1
+Systematisk fˆrteckning;Demokratiutredningens//NN|UTR|SIN|DEF|GEN//nmod:poss//4 skriftserie//NN|UTR|SIN|IND|NOM//conj//1 .//MAD//punct//4 [//PAD//nmod//7
+Systematisk fˆrteckning;12//RG|NOM//nmod//4 ]//PAD//punct//1
+Systematisk fˆrteckning;Etik//NN|UTR|SIN|IND|NOM//ROOT//0 och//KN//cc//3 demokratisk//JJ|POS|UTR|SIN|IND|NOM//amod//3 statskonst//NN|UTR|SIN|IND|NOM//conj//0 .//MAD//punct//0
+Systematisk fˆrteckning;Demokratiutredningens//NN|UTR|SIN|DEF|GEN//nmod:poss//6 skriftserie//NN|UTR|SIN|IND|NOM//conj//0 .//MAD//punct//6 [//PAD//nmod//9
+Systematisk fˆrteckning;13//RG|NOM//nmod//6 ]//PAD//punct//0
+Systematisk fˆrteckning;Nytt//JJ|POS|NEU|SIN|IND|NOM//amod//1 system//NN|NEU|SIN|IND|NOM//ROOT//1 fˆr//UO//nmod//3 prˆvning//NN|UTR|SIN|IND|NOM//nmod//1 av//PP//case//5 hyres-//NN|NEU|-|-|SMS//nmod//3 och//KN//cc//7 arrendemÂl//PM|NOM//conj//3 .//MAD//punct//1 [//PAD//nmod//10
+Systematisk fˆrteckning;15//RG|NOM//nmod//1 ]//PAD//punct//10 Artikel//NN|UTR|SIN|IND|NOM//nmod//13 7//RG|NOM//nummod//10 i//PP//case//15 EG//PM|NOM//nmod//13 ://MID//punct//13 s//NN|AN//case//18 varum‰rkesdirektiv//RG|NOM//nmod//1 .//MAD//punct//1
+Systematisk fˆrteckning;ƒndringar//NN|UTR|PLU|IND|NOM//ROOT//0 i//PP//case//2 varum‰rkeslagen//NN|UTR|SIN|DEF|NOM//nmod//0 .//MAD//punct//0 [//PAD//nmod//5
+Systematisk fˆrteckning;19//RG|NOM//nmod//0 ]//PAD//punct//0
+Systematisk fˆrteckning;Den//DT|UTR|SIN|DEF//det//2 skyddade//PC|PRF|UTR/NEU|SIN|DEF|NOM//amod//2 provinsen//NN|UTR|SIN|DEF|NOM//ROOT//2 .//MAD//punct//2
+Systematisk fˆrteckning;En//PN|UTR|SIN|IND|SUB/OBJ//nmod//2 ess‰//RG|NOM//punct//4 om//PP//case//8 demokratins//NN|UTR|SIN|DEF|GEN//nmod:poss//8 v‰rde//NN|NEU|SIN|IND|NOM//nmod//4 och//KN//cc//10 v‰rdighet//PM|NOM//conj//8 .//MAD//punct//2
+Systematisk fˆrteckning;Demokratiutredningens//NN|UTR|SIN|DEF|GEN//nmod:poss//13 skriftserie//NN|UTR|SIN|IND|NOM//appos//2 [//PAD//nmod//15 22//RG|NOM//nmod//13 ]//PAD//punct//2
+Systematisk fˆrteckning;Tillsyn//NN|UTR|SIN|IND|NOM//ROOT//0 ˆver//VB|PRS|AKT//fixed//0 advokater//NN|UTR|PLU|IND|NOM//obj//0 m//PM|NOM//nmod//4 m//NN|AN//nmod//2 .//MAD//punct//0 [//PAD//nmod//7
+Systematisk fˆrteckning;31//RG|NOM//nummod//9 ]//PAD//punct//9 Utvecklingssamarbete//NN|NEU|SIN|IND|NOM//parataxis//0 pÂ//NN|UTR|SIN|IND|NOM//nsubj//9 r‰ttsomrÂdet//RG|NOM//conj//9 .//MAD//punct//9 [//PAD//nmod//14
+Systematisk fˆrteckning;32//RG|NOM//nummod//16 ]//PAD//punct//14 Likvidation//NN|UTR|SIN|IND|NOM//appos//9 av//PP//case//18 aktiebolag//NN|NEU|PLU|IND|NOM//nmod//16 .//MAD//punct//16 [//PAD//nmod//21
+Systematisk fˆrteckning;36//RG|NOM//nmod//16 ]//PAD//punct//9
+Systematisk fˆrteckning;Demokratin//NN|UTR|SIN|DEF|NOM//ROOT//0 i//PP//case//5 den//DT|UTR|SIN|DEF//det//4 offentliga//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//4 sektorns//NN|UTR|SIN|DEF|GEN//nmod:poss//5 fˆr‰ndring//NN|AN//nmod//0 .//MAD//punct//0
+Systematisk fˆrteckning;Demokratiutredningens//NN|UTR|SIN|DEF|GEN//nmod:poss//8 skriftserie//NN|UTR|SIN|IND|NOM//nmod//0 .//MAD//punct//8 [//PAD//nmod//11
+Systematisk fˆrteckning;40//RG|NOM//nmod//0 ]//PAD//punct//0
+Systematisk fˆrteckning;Oberoende//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//advmod//9 ,//MID//punct//0 ‰gande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//conj//0 och//KN//cc//4 tillsyn//NN|UTR|SIN|IND|NOM//conj//2 i//PP//case//6 revisionsverksamhet//NN|UTR|SIN|IND|NOM//obl//0 .//MAD//punct//0 [//PAD//nmod//9
+Systematisk fˆrteckning;43//RG|NOM//nummod//12 ]//PAD//punct//9 Ekonomisk//JJ|POS|UTR|SIN|IND|NOM//amod//12 brottslighet//NN|UTR|SIN|IND|NOM//ROOT//12 och//KN//cc//14 sekretess//NN|UTR|SIN|IND|NOM//conj//12 .//MAD//punct//12 [//PAD//nmod//17
+Systematisk fˆrteckning;53//RG|NOM//conj//12 ]//PAD//punct//17 Globaliseringen//NN|UTR|SIN|DEF|NOM//conj//12 och//KN//cc//21 demokratin//NN|UTR|SIN|DEF|NOM//conj//19 .//MAD//punct//12
+Systematisk fˆrteckning;Demokratiutredningens//NN|UTR|SIN|DEF|GEN//nmod:poss//1 skriftserie//NN|UTR|SIN|IND|NOM//ROOT//1 .//MAD//punct//1 [//PAD//nmod//4
+Systematisk fˆrteckning;56//RG|NOM//nmod//1 ]//PAD//punct//4 Lˆser//NN|UTR|PLU|IND|NOM//amod//7 juridiken//NN|UTR|SIN|DEF|NOM//appos//4 demokratins//NN|UTR|SIN|DEF|GEN//nmod:poss//9 problem//NN|NEU|SIN|IND|NOM//conj//4 ?//MID//punct//4
+Systematisk fˆrteckning;Demokratiutredningens//NN|UTR|SIN|DEF|GEN//nmod:poss//12 skriftserie//NN|UTR|SIN|IND|NOM//conj//4 .//MAD//punct//4 [//PAD//nmod//15
+Systematisk fˆrteckning;58//RG|NOM//nummod//4 ]//PAD//punct//1
+Systematisk fˆrteckning;Demokratin//NN|UTR|SIN|DEF|NOM//nsubj//10 och//KN//cc//4 det//DT|NEU|SIN|DEF//det//4 gemensamma//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//4 b‰sta//NN|NEU|SIN|IND|NOM//conj//0 .//MAD//punct//4
+Systematisk fˆrteckning;Demokratiutredningens//NN|UTR|SIN|DEF|GEN//nmod:poss//7 skriftserie//NN|UTR|SIN|IND|NOM//conj//0 .//MAD//punct//7 [//PAD//nmod//10
+Systematisk fˆrteckning;74//RG|NOM//ROOT//10 ]//PAD//punct//10
+Systematisk fˆrteckning;Maktdelning//NN|UTR|SIN|IND|NOM//ROOT//0 .//MAD//punct//0
+Systematisk fˆrteckning;Forskarvolym//PM|NOM//conj//0 I.//PM|NOM//nmod//2 Demokratiutredningen//NN|UTR|SIN|DEF|NOM//conj//2 .//MAD//punct//2 [//PAD//nmod//7
+Systematisk fˆrteckning;76//RG|NOM//conj//0 ]//PAD//punct//0
+Systematisk fˆrteckning;Demokratiteori//NN|UTR|SIN|IND|NOM//ROOT//0 och//KN//cc//2 medborgarskap//NN|NEU|SIN|IND|NOM//conj//0 .//MAD//punct//0
+Systematisk fˆrteckning;Forskarvolym//PM|NOM//conj//0 II//RG|NOM//nummod//4 .//MAD//punct//0
+Systematisk fˆrteckning;Demokratiutredningen//NN|UTR|SIN|DEF|NOM//conj//0 .//MAD//punct//7 [//PAD//nmod//10
+Systematisk fˆrteckning;77//RG|NOM//conj//0 ]//PAD//punct//0
+Systematisk fˆrteckning;Demokratiopinioner//NN|UTR|PLU|IND|NOM//ROOT//0 .//MAD//punct//0
+Systematisk fˆrteckning;Demokratiutredningens//NN|UTR|SIN|DEF|GEN//nmod:poss//3 skriftserie//NN|UTR|SIN|IND|NOM//conj//0 .//MAD//punct//3 [//PAD//nmod//6
+Systematisk fˆrteckning;80//RG|NOM//nmod//3 ]//PAD//punct//0
+Systematisk fˆrteckning;Fˆrhandlingsers‰ttning//NN|UTR|SIN|IND|NOM//ROOT//0 till//PP//case//2 hyresg‰storganisation//RG|NOM//nmod//0 .//MAD//punct//0 [//PAD//nmod//5
+Systematisk fˆrteckning;81//RG|NOM//nmod//0 ]//PAD//punct//5 Globalisering//NN|UTR|SIN|IND|NOM//conj//5 .//MAD//punct//5
+Systematisk fˆrteckning;Forskarvolym//PM|NOM//nmod//10 IX//RG|NOM//nmod//5 .//MAD//punct//5
+Systematisk fˆrteckning;Demokratiutredningen//NN|UTR|SIN|DEF|NOM//nmod//0 .//MAD//punct//12 [//PAD//nmod//15
+Systematisk fˆrteckning;83//RG|NOM//nmod//0 ]//PAD//punct//0
+Systematisk fˆrteckning;Civilsamh‰llet//NN|NEU|SIN|DEF|NOM//ROOT//0 .//MAD//punct//0
+Systematisk fˆrteckning;Forskarvolym//PM|NOM//amod//3 VIII//RG|NOM//appos//0 .//MAD//punct//3
+Systematisk fˆrteckning;Demokratiutredningen//NN|UTR|SIN|DEF|NOM//conj//3 .//MAD//punct//3 [//PAD//nmod//8
+Systematisk fˆrteckning;84//RG|NOM//nmod//0 ]//PAD//punct//8
+Systematisk fˆrteckning;Granskningskommissionens//NN|UTR|SIN|DEF|GEN//nmod:poss//1 bet‰nkande//NN|NEU|SIN|IND|NOM//ROOT//1 i//PP//case//3 anledning//NN|UTR|SIN|IND|NOM//nmod//1 av//PP//case//5 Brottsutredningen//NN|UTR|SIN|DEF|NOM//nmod//3 efter//PP//case//9 mordet//NN|NEU|SIN|DEF|NOM//nmod//9 pÂ//NN|AN//nmod//9 statsminister//NN|UTR|SIN|IND|NOM//nmod//3
+Systematisk fˆrteckning;Olof//PM|NOM//ROOT//0 Palme//PM|NOM//flat:name//0 .//MAD//punct//0 [//PAD//nmod//4
+Systematisk fˆrteckning;88//RG|NOM//nmod//0 ]//PAD//punct//0
+Systematisk fˆrteckning;Statistikreformen//NN|UTR|SIN|DEF|NOM//ROOT//0 .//MAD//punct//0
+Systematisk fˆrteckning;ñ//NN|NEU|SIN|IND|NOM//case//3 Utv‰rdering//NN|UTR|SIN|IND|NOM//parataxis//0 och//KN//cc//5 fˆrslag//NN|NEU|PLU|IND|NOM//conj//3 till//PP//case//7 utveckling//NN|UTR|SIN|IND|NOM//nmod//5 .//MAD//punct//3
+Systematisk fˆrteckning;Bilaga//NN|UTR|SIN|IND|NOM//conj//3 ://MID//punct//9
+Systematisk fˆrteckning;Uppsatser//NN|UTR|PLU|IND|NOM//obl//12 skrivna//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//amod//13 fˆr//UO//appos//9 utv‰rderingen//RG|NOM//punct//13 av//PP//case//16 reformen//NN|UTR|SIN|DEF|NOM//nmod//13 .//MAD//punct//9 [//PAD//nmod//19
+Systematisk fˆrteckning;96//RG|NOM//conj//3 ]//PAD//punct//0
+Systematisk fˆrteckning;Olydiga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//1 medborgare//NN|UTR|PLU|IND|NOM//ROOT//1 .//MAD//punct//1
+Systematisk fˆrteckning;Om//SN//mark//30 flyktinggˆmmare//NN|UTR|PLU|IND|NOM//nsubj//30 och//KN//cc//6 djurr‰ttsaktivister//RG|NOM//conj//4 .//MAD//punct//4
+Systematisk fˆrteckning;Demokratiutredningens//NN|UTR|SIN|DEF|GEN//nmod:poss//9 skriftserie//NN|UTR|SIN|IND|NOM//conj//4 .//MAD//punct//9 [//PAD//nmod//12
+Systematisk fˆrteckning;101//RG|NOM//nmod//9 ]//PAD//punct//12 Regionreform//NN|UTR|SIN|IND|NOM//obl//15 pÂ//NN|AN//conj//4 fˆrsˆk//NN|UTR|SIN|IND|NOM//conj//4 ñ//NN|NEU|SIN|IND|NOM//nmod//4 fˆrsta//JJ|SUV|UTR/NEU|SIN/PLU|DEF|NOM//conj//4 stegen//NN|NEU|PLU|DEF|NOM//conj//4 mot//PP//case//24 en//DT|UTR|SIN|IND//det//24 ny//JJ|POS|UTR|SIN|IND|NOM//amod//24 regional//JJ|POS|UTR|SIN|IND|NOM//amod//24 samh‰llsorganisation//RG|NOM//nmod//4 .//MAD//punct//4 [//PAD//nmod//27
+Systematisk fˆrteckning;103//RG|NOM//nummod//30 ]//PAD//punct//27 Nya//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//30 samboregler//NN|UTR|PLU|IND|NOM//conj//1 .//MAD//punct//30 [//PAD//nmod//33
+Systematisk fˆrteckning;104//RG|NOM//obl//30 ]//PAD//punct//1
+Systematisk fˆrteckning;Civilsamh‰llet//NN|NEU|SIN|DEF|NOM//ROOT//0 som//KN//case//3 demokratins//NN|UTR|SIN|DEF|GEN//nmod:poss//3 arena//NN|UTR|SIN|IND|NOM//nmod//0 .//MAD//punct//0
+Systematisk fˆrteckning;NÂgra//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//7 kritiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//7 reflektioner//NN|UTR|PLU|IND|NOM//appos//0 .//MAD//punct//7
+Systematisk fˆrteckning;Demokratiutredningens//NN|UTR|SIN|DEF|GEN//nmod:poss//10 skriftserie//NN|UTR|SIN|IND|NOM//conj//7 .//MAD//punct//10 [//PAD//nmod//13
+Systematisk fˆrteckning;112//RG|NOM//nmod//10 ]//PAD//punct//13 Medborgarnas//NN|UTR|PLU|DEF|GEN//nmod:poss//16 erfarenheter//NN|UTR|PLU|IND|NOM//conj//13 .//MAD//punct//13
+Systematisk fˆrteckning;Forskarvolym//PM|NOM//nmod//19 V.//PM|NOM//nmod//13
+Systematisk fˆrteckning;Demokratiutredningen//NN|UTR|SIN|DEF|NOM//ROOT//0 .//MAD//punct//0 [//PAD//nmod//3
+Systematisk fˆrteckning;113//RG|NOM//nmod//0 ]//PAD//punct//0
+Systematisk fˆrteckning;Den//DT|UTR|SIN|DEF//det//2 regionala//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//2 samh‰llsorganisationen//NN|UTR|SIN|DEF|NOM//ROOT//2 i//PP//case//6 vissa//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//6 europeiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//6 stater//NN|UTR|PLU|IND|NOM//nmod//2 .//MAD//punct//2
+Systematisk fˆrteckning;En//DT|UTR|SIN|IND//det//9 ˆvers‰ttning//NN|UTR|SIN|IND|NOM//appos//2 i//PP//case//11 urval//NN|NEU|SIN|IND|NOM//nmod//9 av//PP//case//13 antologin//NN|UTR|SIN|DEF|NOM//nmod//11 The//PM|NOM//det//16 Intermediate//PM|NOM//amod//16 Level//PM|NOM//flat//13 of//PM|NOM//case//18 Government//PM|NOM//nmod//13 in//PM|NOM//advmod//9 European//PM|NOM//nmod:poss//21 States//PM|NOM//nmod//9 .//MAD//punct//9
+Systematisk fˆrteckning;Complexity//UO//nmod//9 versus//UO//conj//23 democracy//UO//conj//23 .//MAD//punct//23 [//PAD//nmod//28
+Systematisk fˆrteckning;116//RG|NOM//nmod//23 ]//PAD//punct//9
+Systematisk fˆrteckning;IT//NN|AN//ROOT//0 i//PP//case//3 demokratins//NN|UTR|SIN|DEF|GEN//nmod:poss//3 tj‰nst//NN|AN//nmod//0 .//MAD//punct//0
+Systematisk fˆrteckning;Forskarvolym//PM|NOM//amod//6 VII//RG|NOM//nmod//0 .//MAD//punct//6
+Systematisk fˆrteckning;Demokratiutredningen//NN|UTR|SIN|DEF|NOM//nmod//0 .//MAD//punct//8 [//PAD//nmod//11
+Systematisk fˆrteckning;117//RG|NOM//nmod//0 ]//PAD//punct//0
+Systematisk fˆrteckning;Kommunal//JJ|POS|UTR|SIN|IND|NOM//amod//1 uppdragsverksamhet//NN|UTR|SIN|IND|NOM//ROOT//1 inom//PP//case//3 kollektivtrafiken//NN|UTR|SIN|DEF|NOM//nmod//1 ñ//NN|NEU|SIN|IND|NOM//case//5 utv‰rdering//NN|AN//nmod//3 av//PP//case//7 fˆrsˆksverksamheten//NN|UTR|SIN|DEF|NOM//nmod//5 .//MAD//punct//1 [//PAD//nmod//10
+Systematisk fˆrteckning;118//RG|NOM//nmod//1 ]//PAD//punct//10 Avkorporativisering//NN|UTR|SIN|IND|NOM//conj//1 och//KN//cc//14 lobbyism//NN|UTR|SIN|IND|NOM//conj//12 .//MAD//punct//1
+Systematisk fˆrteckning;Forskarvolym//PM|NOM//amod//17 XIII//RG|NOM//conj//1 .//MAD//punct//1
+Systematisk fˆrteckning;Demokratiutredningen//NN|UTR|SIN|DEF|NOM//conj//1 .//MAD//punct//1 [//PAD//nmod//22
+Systematisk fˆrteckning;121//RG|NOM//nmod//1 ]//PAD//punct//1
+Systematisk fˆrteckning;Konsumentprisindex//NN|NEU|SIN|IND|NOM//ROOT//0 .//MAD//punct//0 [//PAD//nmod//3
+Systematisk fˆrteckning;124//RG|NOM//nmod//0 ]//PAD//punct//0
+Systematisk fˆrteckning;Politikens//NN|UTR|SIN|DEF|GEN//nmod:poss//1 medialisering//NN|UTR|SIN|IND|NOM//ROOT//1 .//MAD//punct//1
+Systematisk fˆrteckning;Forskarvolym//PM|NOM//nmod//4 III//RG|NOM//nmod//1 .//MAD//punct//1
+Systematisk fˆrteckning;Demokratiutredningen//NN|UTR|SIN|DEF|NOM//nmod//1 .//MAD//punct//1 [//PAD//nmod//9
+Systematisk fˆrteckning;126//RG|NOM//nmod//1 ]//PAD//punct//9 Demokratins//NN|UTR|SIN|DEF|GEN//nmod:poss//12 estetik//NN|UTR|SIN|IND|NOM//conj//9 .//MAD//punct//9
+Systematisk fˆrteckning;Forskarvolym//PM|NOM//nmod//15 IV//RG|NOM//conj//9 .//MAD//punct//9
+Systematisk fˆrteckning;Demokratiutredningen//NN|UTR|SIN|DEF|NOM//nmod//1 .//MAD//punct//1 [//PAD//nmod//20
+Systematisk fˆrteckning;129//RG|NOM//nmod//1 ]//PAD//punct//1
+Systematisk fˆrteckning;Demokratins//NN|UTR|SIN|DEF|GEN//nmod:poss//1 trotj‰nare//RG|NOM//nsubj//5 ñ//NN|AN//nummod//4 lokalt//JJ|POS|NEU|SIN|IND|NOM//amod//4 partiarbete//NN|NEU|SIN|IND|NOM//nmod//5 fˆrr//NN|NEU|SIN|IND|NOM//ROOT//5 och//KN//cc//7 nu//AB//conj//5 .//MAD//punct//5
+Systematisk fˆrteckning;Forskarvolym//PM|NOM//amod//10 X.//PM|NOM//conj//5 Demokratiutredningen//NN|UTR|SIN|DEF|NOM//flat:name//10 .//MAD//punct//10 [//PAD//nmod//14
+Systematisk fˆrteckning;130//RG|NOM//conj//5 ]//PAD//punct//5
+Systematisk fˆrteckning;N‰r//PM|NOM//amod//1 marknaden//NN|UTR|SIN|DEF|NOM//ROOT//1 best‰mmer//VB|PRS|AKT//nmod//1 .//MAD//punct//1
+Systematisk fˆrteckning;Forskarvolym//PM|NOM//amod//5 XI//RG|NOM//appos//1 .//MAD//punct//5
+Systematisk fˆrteckning;Demokratiutredningen//NN|UTR|SIN|DEF|NOM//conj//5 .//MAD//punct//5 [//PAD//nmod//10
+Systematisk fˆrteckning;131//RG|NOM//nmod//1 ]//PAD//punct//1
+Systematisk fˆrteckning;Personval//NN|NEU|SIN|IND|NOM//nmod//1 1998//RG|NOM//ROOT//1 .//MAD//punct//1
+Systematisk fˆrteckning;Utrikesdepartementet//NN|NEU|SIN|DEF|NOM//ROOT//0
+Systematisk fˆrteckning;÷kad//PC|PRF|UTR|SIN|IND|NOM//ROOT//0 r‰ttss‰kerhet//NN|UTR|SIN|IND|NOM//compound:prt//0 i//PP//case//3 asyl‰renden//NN|UTR|SIN|DEF|NOM//obl//0 .//MAD//punct//0 [//PAD//nmod//6
+Systematisk fˆrteckning;16//RG|NOM//appos//0 ]//PAD//punct//8 Sverige//PM|NOM//appos//6 och//KN//cc//10 judarnas//NN|UTR|PLU|DEF|GEN//conj//6 tillgÂngar//NN|UTR|PLU|IND|NOM//nummod//6 .//MAD//punct//0 [//PAD//nmod//14
+Systematisk fˆrteckning;20//RG|NOM//appos//0 ]//PAD//punct//0
+Systematisk fˆrteckning;Fˆljdleveranser//NN|UTR|PLU|IND|NOM//ROOT//0 i//PP//case//4 samband//NN|NEU|SIN|IND|NOM//fixed//1 med//PP//fixed//1 export//NN|UTR|SIN|IND|NOM//nmod//0 av//PP//case//6 krigsmateriel//NN|UTR|SIN|IND|NOM//nmod//4 .//MAD//punct//0 [//PAD//nmod//9
+Systematisk fˆrteckning;38//RG|NOM//nmod//0 ]//PAD//punct//0
+Systematisk fˆrteckning;Fˆrsvarsdepartementet//NN|NEU|SIN|DEF|NOM//ROOT//0
+Systematisk fˆrteckning;Effektivare//JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//1 Totalfˆrsvarsstˆd//NN|NEU|SIN|IND|NOM//ROOT//1 i//PP//case//3 ÷stersjˆomrÂdet//NN|NEU|SIN|DEF|NOM//nmod//1 .//MAD//punct//1 [//PAD//nmod//6
+Systematisk fˆrteckning;6//RG|NOM//nummod//9 ]//PAD//punct//6 Internationell//JJ|POS|UTR|SIN|IND|NOM//amod//9 konflikthantering//NN|UTR|SIN|IND|NOM//nmod//1 ñ//NN|NEU|SIN|IND|NOM//mark//12 att//IE//mark//12 fˆrbereda//VB|INF|AKT//acl//9 sig//PN|UTR/NEU|SIN/PLU|DEF|OBJ//obj//12 tillsammans//AB//advmod//12 .//MAD//punct//9 [//PAD//nmod//17
+Systematisk fˆrteckning;29//RG|NOM//nmod//9 ]//PAD//punct//1
+Systematisk fˆrteckning;Socialdepartementet//NN|NEU|SIN|DEF|NOM//ROOT//0
+Systematisk fˆrteckning;Garantipension//NN|UTR|SIN|IND|NOM//nsubj//5 och//KN//cc//2 Bos‰ttningstill‰gg//NN|UTR|SIN|IND|NOM//conj//0 fˆr//PP//nmod//4 personer//NN|UTR|PLU|IND|NOM//conj//0 fˆdda//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//ROOT//5 Âr//PM|NOM//obj//5 1937//RG|NOM//nummod//6 eller//KN//cc//9 tidigare//AB|KOM//conj//7 .//MAD//punct//5 [//PAD//nmod//12
+Systematisk fˆrteckning;17//RG|NOM//obl//5 ]//PAD//punct//5
+Systematisk fˆrteckning;Lindqvists//PM|GEN//ROOT//0 nia//NN|UTR|SIN|IND|NOM//obj//0 ñ//NN|NEU|SIN|IND|NOM//case//4 nio//RG|NOM//nummod//4 v‰gar//NN|UTR|PLU|IND|NOM//obl//0 att//IE//mark//6 utveckla//VB|INF|AKT//acl//4 bemˆtandet//NN|NEU|SIN|DEF|NOM//obj//6 av//PP//case//9 personer//NN|UTR|PLU|IND|NOM//obl//6 med//PP//case//11 funktionshinder//NN|NEU|PLU|IND|NOM//nmod//9 .//MAD//punct//0 [//PAD//nmod//14
+Systematisk fˆrteckning;21//RG|NOM//nmod//0 ]//PAD//punct//0
+Systematisk fˆrteckning;Bo//PM|NOM//case//2 tryggt//AB|POS//amod//2 ñ//NN|NEU|SIN|IND|NOM//obl//3 Betala//VB|INF|AKT//ROOT//3 r‰tt//NN|NEU|PLU|IND|NOM//compound:prt//3 .//MAD//punct//3
+Systematisk fˆrteckning;S‰rskilda//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//amod//7 boendeformer//NN|UTR|PLU|IND|NOM//amod//8 fˆr//PP//parataxis//3 ‰ldre//NN|UTR|PLU|IND|NOM//nsubj:pass//12 samt//KN//cc//11 avgifter//NN|UTR|PLU|IND|NOM//conj//9 fˆr//UO//conj//8 ‰ldre-//UO//nmod//8 och//KN//cc//15 handikappomsorg//NN|UTR|SIN|IND|NOM//conj//13 .//MAD//punct//8 [//PAD//nmod//18
+Systematisk fˆrteckning;33//RG|NOM//nummod//21 ]//PAD//punct//18 ÷kade//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//amod//21 socialbidrag//NN|NEU|PLU|IND|NOM//appos//8 .//MAD//punct//8
+Systematisk fˆrteckning;En//DT|UTR|SIN|IND//det//24 studie//NN|UTR|SIN|IND|NOM//appos//8 om//PP//case//26 inkomster//NN|UTR|PLU|IND|NOM//nmod//24 och//KN//cc//28 socialbidrag//NN|NEU|PLU|IND|NOM//conj//26 Âren//NN|NEU|PLU|DEF|NOM//nmod//24 1990//RG|NOM//nummod//29 till//PP//case//32 1996//RG|NOM//obl//24 .//MAD//punct//8 [//PAD//nmod//35
+Systematisk fˆrteckning;46//RG|NOM//nummod//8 ]//PAD//punct//3
+Systematisk fˆrteckning;Smittskydd//NN|NEU|SIN|IND|NOM//ROOT//0 ,//MID//punct//2 samh‰lle//NN|AN//conj//0 och//KN//cc//4 individ//NN|UTR|SIN|IND|NOM//conj//0 .//MAD//punct//0
+Systematisk fˆrteckning;Del//NN|UTR|SIN|IND|NOM//nmod//7 A+B.//PM|NOM//appos//0 [//PAD//nmod//9 51//RG|NOM//nummod//7 ]//PAD//punct//0 Inkomstprˆvning//NN|UTR|SIN|IND|NOM//conj//0 av//PP//case//13 bostadstill‰gg//RG|NOM//nmod//11 till//PP//case//15 pension‰rer//PM|NOM//nmod//11 .//MAD//punct//11 [//PAD//nmod//18
+Systematisk fˆrteckning;52//RG|NOM//nummod//20 ]//PAD//punct//18 Barnombudsmannen//NN|UTR|SIN|DEF|NOM//nmod//11 ñ//NN|NEU|SIN|IND|NOM//punct//20 fˆretr‰dare//NN|UTR|PLU|IND|NOM//amod//23 fˆr//PP//nmod//24 barn//NN|NEU|PLU|IND|NOM//appos//20 och//KN//cc//26 ungdomar.[65//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//conj//24 ]//PAD//punct//11
+Systematisk fˆrteckning;God//JJ|POS|UTR|SIN|IND|NOM//amod//1 vÂrd//NN|UTR|SIN|IND|NOM//nsubj//2 pÂ//AB|AN//nsubj//27 lika//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//4 villkor//NN|NEU|PLU|IND|NOM//obj//2 ?//MID//punct//2
+Systematisk fˆrteckning;ñ//NN|NEU|SIN|IND|NOM//punct//2 om//SN//case//9 statens//NN|UTR|SIN|DEF|GEN//nmod:poss//9 styrning//NN|UTR|SIN|IND|NOM//obl//2 av//PP//case//11 h‰lso-//NN|NEU|SIN|IND|NOM//nmod//9 och//KN//cc//9 sjukvÂrden//AB|AN//conj//9 +//MID//cc//16 2//RG|NOM//nummod//16 bilagor//NN|UTR|PLU|IND|NOM//conj//9 .//MAD//punct//2 [//PAD//nmod//19
+Systematisk fˆrteckning;66//RG|NOM//nmod//2 ]//PAD//punct//19 Oseriˆsa//NN|UTR|SIN|IND|NOM//nmod:poss//22 bostadsfˆrmedlare//NN|UTR|PLU|IND|NOM//conj//2 .//MAD//punct//22 [//PAD//nmod//25
+Systematisk fˆrteckning;71//RG|NOM//nummod//2 ]//PAD//punct//27 Boendesociala//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//ROOT//27 effekter//NN|UTR|PLU|IND|NOM//obj//27 av//PP//case//30 konkurser//NN|UTR|PLU|IND|NOM//nmod//28 och//KN//cc//32 rekonstruktioner//NN|UTR|PLU|IND|NOM//conj//30 ñ//NN|NEU|SIN|IND|NOM//case//34 bostadsr‰ttsfˆreningar//NN|UTR|PLU|IND|NOM//obl//27 och//KN//cc//36 egnahem//NN|NEU|PLU|IND|NOM//conj//34 .//MAD//punct//27 [//PAD//nmod//39
+Systematisk fˆrteckning;72//RG|NOM//obl//27 ]//PAD//punct//27
+Systematisk fˆrteckning;Handikappombudsmannens//NN|UTR|SIN|DEF|GEN//nmod:poss//2 framtida//JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//2 fˆruts‰ttningar//NN|UTR|PLU|IND|NOM//ROOT//2 och//KN//cc//4 arbetsuppgifter//NN|UTR|PLU|IND|NOM//conj//2 .//MAD//punct//2 [//PAD//nmod//7
+Systematisk fˆrteckning;73//RG|NOM//nmod//2 ]//PAD//punct//2
+Systematisk fˆrteckning;Statsbidrag//NN|NEU|SIN|IND|NOM//ROOT//0 till//PP//case//2 handikapporganisationer//NN|UTR|PLU|IND|NOM//nmod//0 .//MAD//punct//0 [//PAD//nmod//5
+Systematisk fˆrteckning;89//RG|NOM//nmod//0 ]//PAD//punct//7 Narkotikastatistik//NN|UTR|SIN|IND|NOM//appos//5 .//MID//punct//7
+Systematisk fˆrteckning;Om//PP//case//11 samh‰llets//NN|NEU|SIN|DEF|GEN//nmod:poss//11 behov//NN|NEU|SIN|IND|NOM//conj//5 av//PP//case//13 information//NN|UTR|SIN|IND|NOM//nmod//11 om//PP//case//15 narkotikautveckling//NN|UTR|SIN|IND|NOM//nmod//13 .//MAD//punct//11 [//PAD//nmod//18
+Systematisk fˆrteckning;90//RG|NOM//nummod//5 ]//PAD//punct//0
+Systematisk fˆrteckning;Socialtj‰nst//NN|AN//ROOT//0 i//PP//case//2 utveckling//NN|UTR|SIN|IND|NOM//nmod//0 .//MAD//punct//0
+Systematisk fˆrteckning;Del//PM|NOM//nmod//5 A//PM|NOM//nmod//0 och//KN//cc//7 B//PM|NOM//conj//5 ñ//PM|NOM//case//9 Bilagor//NN|UTR|PLU|IND|NOM//conj//5 .//MAD//punct//5 [//PAD//nmod//12
+Systematisk fˆrteckning;97//RG|NOM//nmod//0 ]//PAD//punct//12 ÷versyn//NN|UTR|SIN|IND|NOM//nmod//0 av//PP//case//17 stiftelsen//NN|UTR|SIN|DEF|NOM//nmod:poss//17 fˆr//UO//nmod//14 internationell//JJ|POS|UTR|SIN|IND|NOM//amod//19 rapportering//NN|UTR|SIN|IND|NOM//nmod//14 av//PP//case//21 l‰kemedelsbiverkningar//NN|UTR|PLU|IND|NOM//nmod//19 .//MAD//punct//14 [//PAD//nmod//24
+Systematisk fˆrteckning;99//RG|NOM//nummod//0 ]//PAD//punct//0
+Systematisk fˆrteckning;Behandling//NN|UTR|SIN|IND|NOM//ROOT//0 av//PP//case//2 personuppgifter//NN|UTR|PLU|IND|NOM//nmod//0 inom//PP//case//4 socialtj‰nsten//RG|NOM//nmod//0 .//MAD//punct//0 [//PAD//nmod//7
+Systematisk fˆrteckning;109//RG|NOM//nmod//0 ]//PAD//punct//0
+Systematisk fˆrteckning;Mat//NN|UTR|SIN|IND|NOM//ROOT//0 som//KN//case//2 medicin//NN|UTR|SIN|IND|NOM//nmod//0 .//MAD//punct//0 [//PAD//nmod//5
+Systematisk fˆrteckning;114//RG|NOM//nmod//0 ]//PAD//punct//0
+Systematisk fˆrteckning;FrÂn//NN|AN//ROOT//0 en//DT|UTR|SIN|IND//det//2 art//NN|UTR|SIN|IND|NOM//obj//0 till//PP//case//7 en//DT|UTR|SIN|IND//det//7 annan//JJ|POS|UTR|SIN|IND|NOM//amod//7 ñ//JJ|AN//nummod//7 transplantation//NN|UTR|SIN|IND|NOM//nmod//2 frÂn//NN|NEU|SIN|IND|NOM//compound:prt//0 djur//NN|NEU|PLU|IND|NOM//obj//0 till//PP//case//11 m‰nniska//PM|NOM//obl//0 .//MAD//punct//0 [//PAD//nmod//14
+Systematisk fˆrteckning;120//RG|NOM//appos//0 ]//PAD//punct//0
+Systematisk fˆrteckning;H‰lsa//PC|PRF|NEU|SIN|IND|NOM//nmod//1 pÂ//PP//ROOT//1 lika//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//3 villkor//NN|NEU|PLU|IND|NOM//nsubj//1 ñ//NN|NEU|SIN|IND|NOM//case//6 andra//RO|NOM//amod//6 steget//NN|NEU|SIN|DEF|NOM//nmod//1 mot//PP//case//9 nationella//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//9 folkh‰lsomÂl//AB|AN//nmod//6 .//MAD//punct//6 [//PAD//nmod//12
+Systematisk fˆrteckning;137//RG|NOM//obl//1 ]//PAD//punct//1
+Systematisk fˆrteckning;Finansdepartementet//NN|NEU|SIN|DEF|NOM//ROOT//0
+Systematisk fˆrteckning;M‰rk//NN|UTR|PLU|IND|NOM//nmod//1 v‰l//MID//ROOT//1 !//MAD//punct//1 [//PAD//nmod//4
+Systematisk fˆrteckning;7//RG|NOM//nmod//1 ]//PAD//punct//1
+Systematisk fˆrteckning;Infˆrsel//NN|UTR|SIN|IND|NOM//ROOT//0 av//PP//case//3 beskattade//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//amod//3 varor//NN|UTR|PLU|IND|NOM//nmod//0 .//MAD//punct//0 [//PAD//nmod//6
+Systematisk fˆrteckning;26//RG|NOM//nmod//0 ]//PAD//punct//0
+Systematisk fˆrteckning;Kontantmetod//NN|UTR|SIN|IND|NOM//ROOT//0 fˆr//UO//nmod//2 smÂfˆretagare//NN|UTR|PLU|IND|NOM//nsubj//0 .//MAD//punct//2 [//PAD//nmod//5
+Systematisk fˆrteckning;28//RG|NOM//nmod//2 ]//PAD//punct//0
+Systematisk fˆrteckning;Fastighetsm‰klarn‰mnden//PM|NOM//ROOT//0 ñ//NN|AN//case//3 effektivare//JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//3 tillsyn//NN|UTR|SIN|IND|NOM//nmod//0 .//MAD//punct//0 [//PAD//nmod//6
+Systematisk fˆrteckning;35//RG|NOM//nmod//0 ]//PAD//punct//6 Merv‰rdesskatt//UO//nmod//0 ñ//NN|NEU|SIN|IND|NOM//nummod//11 Frivillig//JJ|POS|UTR|SIN|IND|NOM//amod//11 skattskyldighet//NN|UTR|SIN|IND|NOM//nmod//8 .//MAD//punct//8 [//PAD//nmod//14
+Systematisk fˆrteckning;47//RG|NOM//nummod//0 ]//PAD//punct//0
+Systematisk fˆrteckning;Begr‰nsad//PC|PRF|UTR|SIN|IND|NOM//amod//1 fastighetsskatt//NN|UTR|SIN|IND|NOM//ROOT//1 .//MAD//punct//1 [//PAD//nmod//4
+Systematisk fˆrteckning;59//RG|NOM//nummod//1 ]//PAD//punct//4 Bilen//NN|UTR|SIN|DEF|NOM//appos//4 ,//MID//punct//8 miljˆn//NN|NEU|SIN|IND|NOM//conj//6 och//KN//cc//10 s‰kerheten//PM|NOM//conj//6 .//MAD//punct//4 [//PAD//nmod//13
+Systematisk fˆrteckning;62//RG|NOM//nummod//4 ]//PAD//punct//1
+Systematisk fˆrteckning;K‰llskatt//AB//ROOT//0 pÂ//PP|AN//amod//2 utdelning//NN|UTR|SIN|IND|NOM//nsubj//0 och//KN//cc//4 royalty//NN|UTR|SIN|IND|NOM//conj//2 till//PP//case//7 begr‰nsat//RG|NOM//amod//7 skattskyldiga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//nmod//4 .//MAD//punct//2 [//PAD//nmod//10
+Systematisk fˆrteckning;79//RG|NOM//nummod//0 ]//PAD//punct//10
+Systematisk fˆrteckning;VÂrdslˆs//JJ|POS|UTR|SIN|IND|NOM//amod//1 kreditgivning//NN|UTR|SIN|IND|NOM//nsubj//10 samt//KN//cc//3 sekretess//NN|UTR|SIN|IND|NOM//conj//1 i//PP//case//5 banker//NN|UTR|PLU|IND|NOM//nmod//3 m.m.//AB|AN//conj//1 [//PAD//nmod//8 82//RG|NOM//nmod//1 ]//PAD//punct//8 FˆrmÂner//NN|UTR|PLU|IND|NOM//ROOT//10 och//KN//cc//13 ˆkade//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//amod//13 levnadskostnader//NN|UTR|PLU|IND|NOM//conj//10 .//MAD//punct//10 [//PAD//nmod//16
+Systematisk fˆrteckning;94//RG|NOM//nmod//10 ]//PAD//punct//10
+Systematisk fˆrteckning;Skatt//NN|UTR|SIN|IND|NOM//nmod//8 ñ//NN|NEU|SIN|IND|NOM//case//2 Tull//PM|NOM//nmod//0 ñ//JJ|AN//punct//0 Exekution//NN|UTR|SIN|IND|NOM//conj//0 ñ//PM|NOM//punct//0 Normer//NN|UTR|PLU|IND|NOM//conj//0 fˆr//UO//conj//0 behandling//NN|UTR|SIN|IND|NOM//ROOT//8 av//PP//case//10 personuppgifter//NN|UTR|PLU|IND|NOM//nmod//8 .//MAD//punct//8 [//PAD//nmod//13
+Systematisk fˆrteckning;105//RG|NOM//nmod//8 ]//PAD//punct//8
+Systematisk fˆrteckning;Konsumenterna//NN|UTR|PLU|DEF|NOM//nsubj//4 och//KN//cc//2 ITñ//PM|GEN//conj//0 en//DT|UTR|SIN|IND//det//4 utredning//NN|UTR|SIN|IND|NOM//ROOT//4 om//PP//case//6 datorer//NN|UTR|PLU|IND|NOM//nmod//4 ,//MID//punct//8 handel//NN|UTR|SIN|IND|NOM//conj//6 och//KN//cc//10 marknadsfˆring//NN|UTR|SIN|IND|NOM//conj//6 .//MAD//punct//4 [//PAD//nmod//13
+Systematisk fˆrteckning;106//RG|NOM//nmod//4 ]//PAD//punct//13 Kommunkontosystemet//NN|NEU|SIN|DEF|NOM//appos//13 och//KN//cc//17 r‰ttvisan//PM|NOM//conj//15 ñ//RG|NOM//nummod//13
+Systematisk fˆrteckning;momsen//NN|UTR|SIN|DEF|NOM//ROOT//0 ,//MID//punct//2 kommunerna//NN|UTR|PLU|DEF|NOM//conj//0 och//KN//cc//4 konkurrensen//NN|UTR|SIN|DEF|NOM//conj//0 .//MAD//punct//0 [//PAD//nmod//7
+Systematisk fˆrteckning;133//RG|NOM//nmod//0 ]//PAD//punct//7 Effektivare//JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//11 offentlig//JJ|POS|UTR|SIN|IND|NOM//amod//11 upphandling//NN|UTR|SIN|IND|NOM//conj//0 .//MAD//punct//0
+Systematisk fˆrteckning;Utbildningsdepartementet//NN|NEU|SIN|DEF|NOM//ROOT//0
+Systematisk fˆrteckning;God//JJ|POS|UTR|SIN|IND|NOM//amod//1 sed//NN|UTR|SIN|IND|NOM//ROOT//1 i//PP//case//3 forskningen//NN|UTR|SIN|DEF|NOM//nmod//1 .//MAD//punct//1 [//PAD//nmod//6
+Systematisk fˆrteckning;4//RG|NOM//nummod//8 ]//PAD//punct//8 Vuxenutbildning//NN|UTR|SIN|IND|NOM//nmod:poss//9 fˆr//PP//nmod//1 alla//PN|UTR/NEU|PLU|IND|SUB/OBJ//nmod//9 ?//MID//punct//10
+Systematisk fˆrteckning;Andra//RO|NOM//amod//13 Âret//NN|NEU|SIN|DEF|NOM//appos//10 med//PP//case//15 Kunskapslyftet//NN|NEU|SIN|DEF|NOM//nmod//13 .//MAD//punct//13 [//PAD//nmod//18
+Systematisk fˆrteckning;39//RG|NOM//nummod//9 ]//PAD//punct//1
+Systematisk fˆrteckning;Att//IE//mark//1 l‰ra//VB|INF|AKT//ROOT//1 och//KN//cc//3 leda//VB|INF|AKT//conj//1 ñ//NN|NEU|SIN|IND|NOM//case//8 En//DT|UTR|SIN|IND//det//6 l‰rarutbildning//UO//nmod//8 fˆr//PP//nmod//8 samverkan//NN|UTR|SIN|IND|NOM//conj//1 och//KN//cc//10 utveckling//NN|UTR|SIN|IND|NOM//conj//8 .//MAD//punct//1 [//PAD//nmod//13
+Systematisk fˆrteckning;63//RG|NOM//conj//1 ]//PAD//punct//1
+Systematisk fˆrteckning;Genteknikn‰mnden//NN|UTR|SIN|DEF|NOM//ROOT//0 .//MAD//punct//0 [//PAD//nmod//3
+Systematisk fˆrteckning;70//RG|NOM//nummod//6 ]//PAD//punct//3 Likv‰rdiga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//6 villkor//NN|NEU|PLU|IND|NOM//appos//0 .//MAD//punct//6 [//PAD//nmod//9
+Systematisk fˆrteckning;98//RG|NOM//nummod//0 ]//PAD//punct//0
+Systematisk fˆrteckning;Ansvarsfˆrdelning//NN|UTR|SIN|IND|NOM//amod//1 fˆr//PP//nsubj//12 internationella//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//3 program//NN|NEU|PLU|IND|NOM//nmod//1 pÂ//PP|AN//nmod//5 utbildnings-//NN|UTR|-|-|SMS//appos//1 och//KN//cc//7 ungdomsomrÂdet//RG|NOM//conj//5 .//MAD//punct//1 [//PAD//nmod//10
+Systematisk fˆrteckning;102//RG|NOM//nummod//12 ]//PAD//punct//10 Utv‰rderingen//NN|UTR|SIN|DEF|NOM//ROOT//12 av//PP//case//14 KY//PM|NOM//obl//12 .//MAD//punct//12 [//PAD//nmod//17
+Systematisk fˆrteckning;119//RG|NOM//obl//12 ]//PAD//punct//12
+Systematisk fˆrteckning;KY//PM|NOM//ROOT//0 ñ//NN|NEU|SIN|IND|NOM//case//3 Kvalificerad//PC|PRF|UTR|SIN|IND|NOM//amod//3 yrkesutbildning//NN|UTR|SIN|IND|NOM//nmod//0 .//MAD//punct//0 [//PAD//nmod//6
+Systematisk fˆrteckning;122//RG|NOM//nmod//0 ]//PAD//punct//0
+Systematisk fˆrteckning;Stˆd//AB//ROOT//0 till//PP//case//3 ÷rebro//NN|NEU|PLU|IND|GEN//amod//3 universitet//NN|NEU|SIN|IND|NOM//nmod//0 och//KN//cc//5 Sˆdertˆrns//NN|UTR|SIN|DEF|GEN//nmod:poss//7 hˆgskola//NN|UTR|SIN|IND|NOM//amod//7 fˆr//NN|NEU|SIN|DEF|NOM//conj//3 fˆrb‰ttring//RG|NOM//nmod//0 av//PP//case//10 ledning//NN|UTR|SIN|IND|NOM//nmod//8 ,//MID//punct//12 kontroll//NN|UTR|SIN|IND|NOM//conj//10 och//KN//cc//14 ekonomiadministrativafunktioner.[135//NN|UTR|SIN|IND|NOM//conj//10 ]//PAD//punct//0
+Systematisk fˆrteckning;FrÂn//PM|NOM//amod//1 kunskapslyftet//NN|NEU|SIN|DEF|NOM//ROOT//1 till//PP//case//5 en//DT|UTR|SIN|IND//det//5 strategi//NN|UTR|SIN|IND|NOM//amod//5 fˆr//NN|UTR|SIN|IND|NOM//nmod//6 livslÂngt//RG|NOM//nmod//1 l‰rande//PM|NOM//fixed//6 .//MAD//punct//1
+Systematisk fˆrteckning;Jordbruksdepartementet//NN|NEU|SIN|DEF|NOM//ROOT//0
+Systematisk fˆrteckning;Yrkesfiskets//PM|GEN//nmod:poss//1 konkurrenssituation//NN|UTR|SIN|IND|NOM//ROOT//1 .//MAD//punct//1 [//PAD//nmod//4
+Systematisk fˆrteckning;3//RG|NOM//nummod//6 ]//PAD//punct//4 Samerna//NN|UTR|PLU|DEF|NOM//appos//1 ñ//NN|NEU|SIN|IND|NOM//case//9 ett//DT|NEU|SIN|IND//det//9 ursprungsfolk//NN|NEU|SIN|IND|NOM//nmod//6 i//PP//case//11 Sverige//PM|NOM//nmod//9 .//MAD//punct//6 [//PAD//nmod//14
+Systematisk fˆrteckning;25//RG|NOM//nmod//6 ]//PAD//punct//1
+Systematisk fˆrteckning;Jordbruk//NN|NEU|SIN|IND|NOM//nsubj//7 och//KN//cc//2 miljˆnytta//NN|UTR|SIN|IND|NOM//conj//0 ñ//NN|NEU|SIN|IND|NOM//advmod//0 nytt//JJ|POS|NEU|SIN|IND|NOM//amod//5 miljˆprogram//NN|NEU|SIN|IND|NOM//conj//0 fˆr//UO//conj//0 jordbruket.[78//UO//ROOT//7 ]//PAD//punct//7
+Systematisk fˆrteckning;Kulturdepartementet//NN|NEU|SIN|DEF|NOM//ROOT//0
+Systematisk fˆrteckning;Den//DT|UTR|SIN|DEF//det//3 framtida//JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//3 kommersiella//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//3 lokalradion//NN|UTR|SIN|DEF|NOM//ROOT//3 .//MAD//punct//3 [//PAD//nmod//6
+Systematisk fˆrteckning;14//RG|NOM//nmod//3 ]//PAD//punct//6 FrÂgor//NN|UTR|PLU|IND|NOM//appos//6 till//PP//case//12 det//DT|NEU|SIN|DEF//det//12 industriella//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//12 samh‰llet//NN|NEU|SIN|DEF|NOM//nmod//8 .//MAD//punct//6 [//PAD//nmod//15
+Systematisk fˆrteckning;18//RG|NOM//nummod//6 ]//PAD//punct//15 Yttrandefriheten//NN|UTR|SIN|DEF|NOM//conj//6 och//KN//cc//19 konkurrensen//NN|UTR|SIN|DEF|NOM//conj//17 ñ//PM|NOM//case//21 Fˆrslag//PM|NOM//nmod//6 till//PP//case//23 mediekoncentrationslagm.m//PM|NOM//nmod//21 .//MAD//punct//6 [//PAD//nmod//26
+Systematisk fˆrteckning;30//RG|NOM//nummod//6 ]//PAD//punct//3
+Systematisk fˆrteckning;Svenskt//JJ|POS|NEU|SIN|IND|NOM//amod//1 medborgarskap//NN|NEU|SIN|IND|NOM//ROOT//1 .//MAD//punct//1 [//PAD//nmod//4
+Systematisk fˆrteckning;34//RG|NOM//nummod//1 ]//PAD//punct//1
+Systematisk fˆrteckning;Bevara//VB|INF|AKT//ROOT//0 dokument‰rfilmens//NN|UTR|SIN|DEF|GEN//nmod:poss//2 kulturarv//NN|NEU|SIN|IND|NOM//obj//0 .//MAD//punct//4
+Systematisk fˆrteckning;tg‰rdsfˆrslag//RG|NOM//obj//0 samt//KN//cc//6 fˆrslag//NN|NEU|PLU|IND|NOM//conj//4 till//PP//case//9 ett//DT|NEU|SIN|IND//det//9 centrum//NN|NEU|SIN|IND|NOM//nmod//6 fˆr//NN|NEU|SIN|DEF|NOM//nmod//11 dokument‰rfilm//RG|NOM//nmod//9 och//KN//cc//14 en//DT|UTR|SIN|IND//nummod//14 filmvÂrdscentral.[41//PM|NOM//conj//11 ]//PAD//punct//0
+Systematisk fˆrteckning;Invandrare//NN|UTR|PLU|IND|NOM//ROOT//0 som//KN//mark//2 fˆretagare//NN|UTR|PLU|IND|NOM//xcomp//0 .//MAD//punct//0 [//PAD//nmod//5
+Systematisk fˆrteckning;49//RG|NOM//appos//0 ]//PAD//punct//0
+Systematisk fˆrteckning;Konvergens//NN|UTR|SIN|IND|NOM//nmod:poss//15 och//KN//cc//2 fˆr‰ndring//NN|UTR|SIN|IND|NOM//conj//0 .//MAD//punct//0
+Systematisk fˆrteckning;Samordning//NN|UTR|SIN|IND|NOM//conj//0 av//PP//case//6 lagstiftningen//NN|UTR|SIN|DEF|NOM//nmod//4 fˆr//VB|PRS|AKT//nmod//8 medie-//NN|UTR|-|-|SMS//nmod//4 och//KN//cc//10 telesektorerna//NN|UTR|PLU|DEF|NOM//conj//8 .//MAD//punct//4 [//PAD//nmod//13
+Systematisk fˆrteckning;55//RG|NOM//conj//0 ]//PAD//punct//13 Brandkatastrofen//NN|UTR|SIN|DEF|NOM//ROOT//15 i//PP//case//17 Gˆteborg//PM|NOM//nmod//15 .//MAD//punct//15
+Systematisk fˆrteckning;Drabbade//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//amod//1 Medier//NN|NEU|PLU|IND|NOM//nmod//2 Myndigheter//NN|UTR|PLU|IND|NOM//ROOT//2 .//MAD//punct//2 [//PAD//nmod//5
+Systematisk fˆrteckning;68//RG|NOM//nmod//2 ]//PAD//punct//5 Bibeln//NN|UTR|SIN|DEF|NOM//conj//2 ñ//NN|NEU|SIN|IND|NOM//case//9 texterna//NN|UTR|PLU|DEF|NOM//nmod//7 .//MAD//punct//2
+Systematisk fˆrteckning;Till‰gg//NN|UTR|SIN|IND|NOM//ROOT//0 till//PP//case//3 Gamla//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//3 testamentet//NN|NEU|SIN|DEF|NOM//nmod//0 .//MID//punct//0
+Systematisk fˆrteckning;De//DT|UTR/NEU|PLU|DEF//det//9 apokryfa//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//fixed//5 eller//KN//cc//8 deuterokanoniska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//9 skrifterna//NN|UTR|PLU|DEF|NOM//appos//0 .//MAD//punct//9
+Systematisk fˆrteckning;Volym//NN|UTR|SIN|IND|NOM//conj//9 3//RG|NOM//nummod//11 .//MAD//punct//9
+Systematisk fˆrteckning;Nya//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//1 testamentet//NN|NEU|SIN|DEF|NOM//ROOT//1 .//MAD//punct//1
+Systematisk fˆrteckning;Volym//NN|UTR|SIN|IND|NOM//nmod//4 4//RG|NOM//nmod//1 .//MAD//punct//1 [//PAD//nmod//7
+Systematisk fˆrteckning;100//RG|NOM//nummod//11 ]//PAD//punct//7 Mˆtesplats//UO//nmod:poss//10 fˆr//UO//nmod//11 design//NN|UTR|SIN|IND|NOM//appos//1 och//KN//cc//13 konsthantverk//NN|NEU|SIN|IND|NOM//conj//11 .//MAD//punct//1 [//PAD//nmod//16
+Systematisk fˆrteckning;123//RG|NOM//nmod//1 ]//PAD//punct//1
+Systematisk fˆrteckning;Miljˆdepartementet//NN|NEU|SIN|DEF|NOM//ROOT//0
+Systematisk fˆrteckning;Slutfˆrvaring//NN|UTR|SIN|IND|NOM//ROOT//0 av//PP//case//2 k‰rnavfall//NN|AN//nmod//0 .//MAD//punct//0
+Systematisk fˆrteckning;Kommunerna//NN|UTR|PLU|DEF|NOM//appos//0 och//KN//cc//6 platsvalsprocessen//NN|UTR|SIN|DEF|NOM//conj//4 .//MAD//punct//0 [//PAD//nmod//9
+Systematisk fˆrteckning;45//RG|NOM//nmod//0 ]//PAD//punct//0
+Systematisk fˆrteckning;Skyddsjakt//NN|UTR|SIN|IND|NOM//nsubj//1 pÂ//PP|AN//ROOT//1 varg//NN|UTR|SIN|IND|NOM//obj//1 .//MAD//punct//1 [//PAD//nmod//5
+Systematisk fˆrteckning;50//RG|NOM//nmod//1 ]//PAD//punct//1
+Systematisk fˆrteckning;KƒRNAVFALL//RG|NOM//nsubj//2 ñ//JJ|AN//nummod//2 metod//NN|UTR|SIN|IND|NOM//nsubj//38 ñ//NN|NEU|SIN|IND|NOM//case//6 plats//NN|UTR|SIN|IND|NOM//fixed//3 ñ//NN|NEU|SIN|IND|NOM//amod//6 miljˆkonsekvens//NN|UTR|SIN|DEF|GEN//nmod//2 .//MAD//punct//2
+Systematisk fˆrteckning;KASAMs//PM|GEN//nsubj//9 yttrande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//33 ˆver//PP//det//12 SKBs//PM|GEN//amod//12 FUD-program//NN|NEU|SIN|IND|NOM//nmod//13 98//RG|NOM//nummod//9 .//MAD//punct//9 [//PAD//nmod//16
+Systematisk fˆrteckning;67//RG|NOM//obl//9 ]//PAD//punct//9 R‰tt//AB|AN//case//21 plats//NN|UTR|SIN|IND|NOM//nmod:poss//20 fˆr//PP//nmod//21 vindkraften//NN|UTR|SIN|DEF|NOM//appos//9 .//MAD//punct//9
+Systematisk fˆrteckning;Del//NN|UTR|SIN|IND|NOM//nmod//24 1//RG|NOM//nmod//9 och//KN//cc//26 Del//NN|UTR|SIN|IND|NOM//conj//24 2//RG|NOM//nummod//24 .//MAD//punct//9 [//PAD//nmod//30
+Systematisk fˆrteckning;75//RG|NOM//nmod//9 ]//PAD//punct//9 Grˆna//NN|UTR|SIN|DEF|NOM//nmod:poss//33 nyckeltal//NN|NEU|SIN|IND|NOM//nmod//2 ñ//KN|AN//case//35 fˆlj//NN|NEU|SIN|IND|NOM//nmod//33 den//DT|UTR|SIN|DEF//det//38 ekologiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//38 omst‰llningen//NN|UTR|SIN|DEF|NOM//ROOT//38 .//MAD//punct//38 [//PAD//nmod//41
+Systematisk fˆrteckning;127//RG|NOM//nmod//38 ]//PAD//punct//38
+Systematisk fˆrteckning;N‰ringsdepartementet//NN|NEU|SIN|DEF|NOM//ROOT//0
+Systematisk fˆrteckning;Effektiva//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//1 v‰rme-//NN|NEU|PLU|IND|NOM//ROOT//1 och//KN//cc//3 miljˆlˆsningar//NN|UTR|PLU|IND|NOM//conj//1 .//MAD//punct//1 [//PAD//nmod//6
+Systematisk fˆrteckning;5//RG|NOM//nummod//8 ]//PAD//punct//6 Utveckling//NN|UTR|SIN|IND|NOM//appos//1 av//PP//case//11 m‰nskliga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//11 resurser//NN|UTR|PLU|IND|NOM//nmod//8 i//PP//case//13 arbetslivet//NN|NEU|SIN|DEF|NOM//nmod//8 .//MAD//punct//8
+Systematisk fˆrteckning;Fˆrslag//NN|NEU|PLU|IND|NOM//ROOT//0 till//PP//case//2 inriktning//NN|UTR|SIN|IND|NOM//nmod//0 av//PP//case//5 nya//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//5 mÂl//NN|UTR|SIN|IND|NOM//nmod//2 3//RG|NOM//nummod//2 inom//PP//case//8 EG//PM|NOM//nmod//2 ://MID//punct//2 s//NN|AN//nummod//11 strukturfonder//NN|UTR|PLU|IND|NOM//nmod//2 .//MAD//punct//0 [//PAD//nmod//14
+Systematisk fˆrteckning;23//RG|NOM//nmod//0 ]//PAD//punct//0
+Systematisk fˆrteckning;EG//PM|NOM//ROOT//0 ://MID//punct//0 s//NN|NEU|SIN|IND|GEN//nummod//3 strukturstˆd//NN|UTR|SIN|IND|NOM//appos//0 .//MAD//punct//3
+Systematisk fˆrteckning;Ny//JJ|POS|UTR|SIN|IND|NOM//amod//6 organisation//NN|UTR|SIN|IND|NOM//nmod:poss//7 fˆr//PP//conj//3 de//DT|UTR/NEU|PLU|DEF//det//11 geografiskt//AB|POS//advmod//10 avgr‰nsade//RG|NOM//amod//11 strukturfondsprogrammen//NN|NEU|PLU|DEF|NOM//conj//3 .//MAD//punct//3 [//PAD//nmod//14
+Systematisk fˆrteckning;24//RG|NOM//nmod//3 ]//PAD//punct//0
+Systematisk fˆrteckning;Delta//VB|IMP|AKT//ROOT//0 ñ//NN|NEU|SIN|IND|NOM//nummod//2 Utredningen//NN|UTR|SIN|DEF|NOM//obj//0 om//PP//case//4 deltidsarbete//NN|NEU|SIN|IND|NOM//nmod//2 ,//MID//punct//7 tillf‰lliga//RG|NOM//amod//7 jobb//NN|NEU|PLU|IND|NOM//conj//4 och//KN//cc//9 arbetslˆshetsers‰ttningen//RG|NOM//conj//4 .//MAD//punct//0 [//PAD//nmod//12
+Systematisk fˆrteckning;27//RG|NOM//obl//0 ]//PAD//punct//0
+Systematisk fˆrteckning;Ny//JJ|POS|UTR|SIN|IND|NOM//amod//1 luftfartslag//NN|NEU|SIN|IND|NOM//ROOT//1 .//MAD//punct//1 [//PAD//nmod//4
+Systematisk fˆrteckning;42//RG|NOM//nmod//1 ]//PAD//punct//4 ÷ppen//NN|UTR|SIN|DEF|NOM//nmod//7 elmarknad//NN|UTR|SIN|IND|NOM//appos//4 .//MAD//punct//7 [//PAD//nmod//10
+Systematisk fˆrteckning;44//RG|NOM//conj//1 ]//PAD//punct//1
+Systematisk fˆrteckning;L‰ra//NN|UTR|SIN|IND|NOM//ROOT//0 av//PP//case//2 Estonia//PM|NOM//nmod//0 .//MAD//punct//0
+Systematisk fˆrteckning;Den//DT|UTR|SIN|DEF//det//6 andra//RO|NOM//amod//6 delrapporten//NN|UTR|SIN|DEF|NOM//conj//0 och//KN//cc//8 slutredovisning//NN|UTR|SIN|IND|NOM//conj//6 .//MAD//punct//6 [//PAD//nmod//11
+Systematisk fˆrteckning;48//RG|NOM//nummod//0 ]//PAD//punct//0
+Systematisk fˆrteckning;Rikstrafiken//NN|UTR|SIN|DEF|NOM//ROOT//0 ñ//NN|NEU|SIN|IND|NOM//case//4 En//DT|UTR|SIN|IND//det//4 ny//JJ|POS|UTR|SIN|IND|NOM//amod//4 myndighet//NN|UTR|SIN|IND|NOM//nmod//0 .//MAD//punct//4 [//PAD//nmod//7
+Systematisk fˆrteckning;57//RG|NOM//nummod//0 ]//PAD//punct//7 Kundv‰nligare//JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//10 taxi//NN|UTR|SIN|IND|NOM//appos//7 .//MAD//punct//7 [//PAD//nmod//13
+Systematisk fˆrteckning;60//RG|NOM//nmod//0 ]//PAD//punct//0
+Systematisk fˆrteckning;Individen//NN|UTR|SIN|DEF|NOM//ROOT//0 och//KN//cc//2 arbetslivet//NN|NEU|SIN|DEF|NOM//conj//0 .//MAD//punct//0
+Systematisk fˆrteckning;Perspektiv//NN|NEU|SIN|IND|NOM//nmod:poss//5 pÂ//PP|AN//conj//0 det//DT|NEU|SIN|DEF//det//8 samtida//JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//8 arbetslivet//NN|NEU|SIN|DEF|NOM//nsubj//5 kring//PP//case//10 sekelskiftet//NN|NEU|SIN|DEF|NOM//obl//5 2000//RG|NOM//nummod//10 .//MAD//punct//5 [//PAD//nmod//14
+Systematisk fˆrteckning;69//RG|NOM//conj//0 ]//PAD//punct//0
+Systematisk fˆrteckning;Bredband//NN|NEU|SIN|IND|NOM//det//1 fˆr//NN|UTR|SIN|IND|NOM//nmod//2 tillv‰xt//RG|NOM//ROOT//2 i//PP//case//5 hela//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//5 landet//NN|NEU|SIN|DEF|NOM//nmod//2 .//MID//punct//2
+Systematisk fˆrteckning;N‰rings-//PM|NOM//amod//12 ,//MID//punct//9 regional-//JJ|POS|UTR|-|-|SMS//conj//7 och//KN//cc//11 v‰lf‰rdspolitiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//conj//7 aspekter//NN|UTR|PLU|IND|NOM//nmod//14 pÂ//NN|AN//nmod//14 IT-infrastrukturen//NN|UTR|SIN|DEF|NOM//nmod//2 .//MAD//punct//14 [//PAD//nmod//17
+Systematisk fˆrteckning;85//RG|NOM//nmod//2 ]//PAD//punct//17
+Systematisk fˆrteckning;PC//NN|AN//ROOT//0 ://MID//punct//0 n//PM|NOM//nummod//3 ‰r//PM|NOM//obl//7 dˆd//NN|NEU|SIN|IND|NOM//det//6 ñ//UO//nummod//6 l‰nge//UO//dep//3 leve//VB|IMP|AKT//parataxis//0 PC//NN|AN//nsubj//7 ://MID//punct//7
+Systematisk fˆrteckning;n//NN|NEU|SIN|IND|NOM//nummod//13 !//MID//punct//10
+Systematisk fˆrteckning;Nya//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//13 mˆjligheter//NN|UTR|PLU|IND|NOM//nmod//14 fˆr//PP//nmod//15 Sverige//PM|NOM//appos//7 .//MAD//punct//7
+Systematisk fˆrteckning;"En//DT|UTR|SIN|IND//det//18 rapport//NN|UTR|SIN|IND|NOM//appos//7 frÂn//NN|NEU|SIN|IND|NOM//amod//18 hearingen//NN|UTR|SIN|DEF|NOM//conj//18 ""//PAD//punct//18 Efter//PP//case//23 PC//NN|AN//obl//7 ://MID//punct//23 n//NN|NEU|SIN|IND|NOM//nummod//27 ""//PAD//punct//27 anordnad//PC|PRF|UTR|SIN|IND|NOM//appos//23 av//PP//case//30 IT-kommissionen//NN|UTR|SIN|DEF|NOM//nmod//30 juni//NN|UTR|SIN|IND|NOM//nmod//27 1999.[86//RG|NOM//nummod//27 ]//PAD//punct//27 Vagnbolag//PM|NOM//amod//34 fˆr//UO//nmod//35 j‰rnv‰gen//NN|AN//appos//27 .//MAD//punct//27 [//PAD//nmod//38"
+Systematisk fˆrteckning;87//RG|NOM//nmod//27 ]//PAD//punct//7
+Systematisk fˆrteckning;SmÂskalig//JJ|POS|UTR|SIN|IND|NOM//amod//1 elproduktion//NN|UTR|SIN|IND|NOM//ROOT//1 samt//KN//cc//3 m‰tning//PM|NOM//conj//1 och//KN//cc//5 debitering//NN|UTR|SIN|IND|NOM//conj//3 av//PP//case//7 elfˆrbrukning//NN|UTR|SIN|IND|NOM//nmod//5 .//MAD//punct//1 [//PAD//nmod//10
+Systematisk fˆrteckning;95//RG|NOM//nmod//1 ]//PAD//punct//1
+Systematisk fˆrteckning;Nya//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//1 mÂl//PM|NOM//ROOT//1 3//RG|NOM//nummod//3 fˆr//NN|UTR|SIN|IND|NOM//nmod//4 utveckling//NN|UTR|SIN|IND|NOM//nmod//1 av//PP//case//7 m‰nskliga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//7 resurser//NN|UTR|PLU|IND|NOM//nmod//4 i//PP//case//9 arbetslivet//NN|NEU|SIN|DEF|NOM//nmod//4 .//MAD//punct//1 [//PAD//nmod//12
+Systematisk fˆrteckning;107//RG|NOM//appos//1 ]//PAD//punct//1
+Systematisk fˆrteckning;Att//SN//mark//1 sˆka//NN|UTR|SIN|IND|NOM//ROOT//1 kostnadseffektiva//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//3 lˆsningar//NN|UTR|PLU|IND|NOM//nmod//1 inom//PP//case//5 klimatomrÂdet//PM|NOM//nmod//1 .//MAD//punct//1 [//PAD//nmod//8
+Systematisk fˆrteckning;111//RG|NOM//nmod//1 ]//PAD//punct//1
+Systematisk fˆrteckning;Handel//NN|UTR|SIN|IND|NOM//nsubj//17 med//PP//case//2 gas//NN|UTR|SIN|IND|NOM//nmod//0 i//PP//case//4 konkurrens//NN|UTR|SIN|IND|NOM//nmod//2 .//MAD//punct//0 [//PAD//nmod//7
+Systematisk fˆrteckning;115//RG|NOM//nmod//0 ]//PAD//punct//7 Framtidss‰ker//NN|UTR|PLU|IND|NOM//nmod//10 IT-infrastruktur//NN|UTR|SIN|IND|NOM//nmod//12 fˆr//PP//nmod//12 Sverige//PM|NOM//appos//7 .//MAD//punct//7 [//PAD//nmod//15
+Systematisk fˆrteckning;134//RG|NOM//nmod//0 ]//PAD//punct//0 FrÂn//JJ|AN//ROOT//17 callcenter//NN|NEU|SIN|IND|NOM//obj//17 till//PP//case//20 kontaktcenter//NN|NEU|SIN|IND|NOM//obl//17 .//MAD//punct//17
+Systematisk fˆrteckning;Trender//NN|UTR|PLU|IND|NOM//ROOT//0 ,//MID//punct//2 mˆjligheter//NN|UTR|PLU|IND|NOM//conj//0 och//KN//cc//4 problem//NN|NEU|PLU|IND|NOM//conj//0 .//MAD//punct//0 [//PAD//nmod//7
+Systematisk fˆrteckning;138//RG|NOM//nmod//0 ]//PAD//punct//0
+

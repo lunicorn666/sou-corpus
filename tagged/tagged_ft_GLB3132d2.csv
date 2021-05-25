@@ -1,0 +1,125 @@
+5.1 Introduction;5.4.1//RG|NOM//compound//1 Exposure//UO//nsubj//3 to//UO//case//3 residues//UO//ROOT//3
+5.1 Introduction;Spiramycin//NN|UTR|SIN|IND|NOM//ROOT//0
+5.1 Introduction;Tylosin//NN|UTR|SIN|IND|NOM//ROOT//0
+5.1 Introduction;Carbadox//NN|UTR|SIN|IND|NOM//ROOT//0
+5.1 Introduction;Olaquindox//NN|UTR|SIN|IND|NOM//ROOT//0
+5.1 Introduction;Avilamycin//NN|UTR|SIN|IND|NOM//ROOT//0
+5.1 Introduction;Ardacin//NN|UTR|SIN|IND|NOM//nmod//1 5.4.2//RG|NOM//ROOT//1 Allergy//PM|NOM//flat:name//1
+
+
+5.6 Summary comments;References//NN|UTR|SIN|IND|NOM//ROOT//0 3UPPL//RG|NOM//nummod//0  //_SP////1 288-292//RG|NOM//nummod//1 .//MID//punct//1
+5.6 Summary comments;240-244//RG|NOM//nummod//0 .//MAD//punct//0
+5.6 Summary comments;WHO//PM|NOM//nmod//39 ,//MID//punct//0 Geneva//PM|NOM//conj//0 .//MAD//punct//2
+5.6 Summary comments;647//RG|NOM//conj//0 .//MAD//punct//4
+5.6 Summary comments;23//RG|NOM//nummod//0 ,//MID//punct//8 Noordwijkerhout//PM|NOM//conj//0 .//MAD//punct//0
+5.6 Summary comments;pp//NN|AN//nmod//0 .//MAD//punct//0
+5.6 Summary comments;235-239//RG|NOM//nummod//0 .//MAD//punct//12
+5.6 Summary comments;7IENER//MID//case//15 4IER¤RZTLICHE//RG|NOM//conj//0 -ONATSSCHRIFT//MID//punct//15 135-137//RG|NOM//nummod//15 .//MAD//punct//15
+5.6 Summary comments;203-209//RG|NOM//conj//0 .//MAD//punct//0
+5.6 Summary comments;6ETERINARY//AB|AN//case//23 2ECORD//NN|AN//nmod//23 367-370//RG|NOM//conj//0 .//MID//punct//23
+5.6 Summary comments;16//RG|NOM//nummod//0 ,//MID//punct//27 New//PM|NOM//conj//0 Orleans//PM|NOM//flat//27 .//MAD//punct//27
+5.6 Summary comments;pp//NN|AN//conj//0 .//MAD//punct//0
+5.6 Summary comments;78-80//RG|NOM//conj//0 .//MAD//punct//32
+5.6 Summary comments;4OXICOLOGY//AB|AN//nummod//35 IN//AB//conj//0 6ITRO//AB|AN//case//37 141-143//RG|NOM//conj//0 .//MID//punct//0
+5.6 Summary comments;410-413//RG|NOM//ROOT//39 .//MAD//punct//39
+
+6.1 Introduction;6.3.1//RG|NOM//ROOT//0 Disruption//NN|UTR|SIN|IND|NOM//nsubj//0 of//UO//case//4 microecology//NN|UTR|SIN|IND|NOM//amod//4 6.3.2//RG|NOM//nmod//6 Decreased//UO//amod//6 nutrient//UO//nsubj:pass//7 losses//UO//conj//0
+
+6.5 Summary comments;References//PM|NOM//ROOT//0 972-978//RG|NOM//nummod//0 .//MAD//punct//0
+6.5 Summary comments;-ICROBIOLOGY//MID//punct//4 27-33//RG|NOM//conj//0 .//MID//punct//4 !//MID//punct//7
+6.5 Summary comments;GRIBIOLOGICAL//NN|UTR|SIN|IND|NOM//conj//0 2ESEARCH//PAD//nummod//9 147-155//RG|NOM//nummod//7 .//MAD//punct//7
+6.5 Summary comments;"3//RG|NOM//nummod//12 #//MID//nmod//7 ""//PAD//punct//12 ,//MID//punct//12 1997//RG|NOM//nummod//12 .//MAD//punct//7"
+6.5 Summary comments;Jordbruksstatistisk//JJ|POS|UTR|SIN|IND|NOM//amod//18 årsbok//NN|UTR|SIN|IND|NOM//conj//7 1996//RG|NOM//nummod//18 .//MAD//punct//7
+6.5 Summary comments;pp//NN|AN//conj//0 .//MAD//punct//0
+6.5 Summary comments;244//RG|NOM//nummod//0 .//MAD//punct//0
+6.5 Summary comments;Statistiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//26 centralbyrån//NN|UTR|SIN|DEF|NOM//appos//0 ,//MID//punct//28 Örebro//PM|NOM//conj//26 ,//MID//punct//30 Sweden//PM|NOM//conj//26 .//MAD//punct//26
+6.5 Summary comments;7IERUP//AB|AN//punct//0  //_SP////32 -//MID//punct//32 ,//MID//punct//32 1996//RG|NOM//nummod//32 .//MID//punct//0
+6.5 Summary comments;Sverige//PM|NOM//nsubj//39 förbjöd//VB|PRT|AKT//parataxis//0 antibiotika//NN|NEU|PLU|IND|NOM//obj//39 i//PP//case//43 tillväxtbefrämjande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//43 syfte//NN|NEU|SIN|IND|NOM//nmod//44 1986//RG|NOM//obl//39 -//MID//punct//0 vad//HP|NEU|SIN|IND//nsubj//47 hände//VB|PRT|AKT//appos//0 med//PP//case//49 djurhälsan//NN|UTR|SIN|DEF|NOM//obl//47 och//KN//cc//52 hur//HA//advmod//52 löstes//VB|PRT|SFO//conj//47 problemen//NN|NEU|PLU|DEF|NOM//obj//52 ?//MAD//punct//0
+6.5 Summary comments;+//MID//cc//56 UNGLIGA//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//conj//0 3KOGS//AB|AN//nummod//58 OCH//KN//nmod//56 ,//MID//punct//60 ANTBRUKSAKADEMIENS//NN|UTR|SIN|DEF|GEN//conj//56 4IDSKRIFT//MID//nmod//0  //_SP////61 69-78//RG|NOM//nmod//0 .//MAD//punct//0
+
+
+7.1 Introduction;7.1.2//RG|NOM//amod//1 Prevention//PM|NOM//ROOT//1 and//PM|NOM//cc//1 chemoprophylaxis//NN|UTR|SIN|DEF|NOM//conj//1
+
+7.1 Introduction / - 1930 -;sulphur//UO//amod//12 nitrofurazone//UO//advmod//0 nitrophenide//UO//nsubj//0 nicarbazine//NN|UTR|SIN|DEF|NOM//advmod//0 furazolidone//AB//nsubj//5 nitromide//UO//conj//0 amprolium//UO//advmod//0 dinitolmide//UO//det//8 aklomide//UO//nsubj//0 buquinolate//AB//nmod:poss//10 metylbenzoquate//NN|UTR|SIN|IND|GEN//nmod:poss//11 maduramicin//NN|UTR|SIN|IND|NOM//nmod//0 diclazuril//NN|UTR|SIN|DEF|NOM//ROOT//12 semduramicin//NN|UTR|SIN|IND|NOM//xcomp//12
+
+7.2 Microbiological aspects;7.2.1//RG|NOM//amod//3 Parasitological//PM|NOM//nmod//3 aspects//PM|NOM//amod//3 7.2.2//RG|NOM//nmod//5 Bacteriological//PM|NOM//amod//5 aspects//PM|NOM//ROOT//5
+
+7.3 Toxicological aspects;7.3.1//RG|NOM//nmod//1 Toxicity//PM|NOM//ROOT//1 of//UO//case//3 ionophores//NN|UTR|SIN|IND|NOM//nmod//1
+7.3 Toxicological aspects;"AV//PP//case//2 MONENSIN//NN|UTR|SIN|DEF|NOM//nmod//2 OCH//KN//ROOT//2 LASALOCID//PM|GEN//case//6 MG//PM|NOM//nmod//5 KG//PM|NOM//nmod//6 KROPPSVIKT//NN|UTR|SIN|IND|NOM//nmod//2 (//PAD//punct//6 från//PP//case//10 Galitzer//PM|NOM//advmod//10 and//PM|NOM//appos//6 W.//PM|NOM//nummod//10 ,//MID//punct//6 1984//RG|NOM//nummod//6 ;//MID//punct//2"
+7.3 Toxicological aspects;Fowler//PM|NOM//discourse//6 ,//MID//punct//0  //_SP////1 1995//RG|NOM//nummod//0 )//PAD//punct//0 7.3.3//RG|NOM//nmod//6 Residues//NN|UTR|SIN|IND|NOM//ROOT//6
+7.3 Toxicological aspects;Ionophores//NN|UTR|SIN|IND|NOM//ROOT//0
+7.3 Toxicological aspects;Other//UO//amod//1 substances//UO//nmod//2 7.3.4//RG|NOM//ROOT//2 Allergy//PM|NOM//flat:name//2
+
+
+7.5 Alternatives to coccidiostats;7.5.1//RG|NOM//nmod//6 Improved//UO//fixed//0 hygiene//UO//nmod//3 7.5.3//RG|NOM//conj//0 Immunoprophylaxis//PM|NOM//advmod//5 7.7.1//RG|NOM//nmod//6 Introduction//PM|NOM//ROOT//6 (//PAD//punct//6 ETERAKIS//PM|GEN//amod//9 GALLINARUM//PM|NOM//appos//6 (//PAD//punct//9 McDougald//PM|NOM//appos//9 ,//MID//punct//9 1991//RG|NOM//nummod//9 )//PAD//punct//6 .//MAD//punct//6
+7.5 Alternatives to coccidiostats;Pharmacokinetics//NN|UTR|SIN|IND|NOM//ROOT//0
+7.5 Alternatives to coccidiostats;Toxic//UO//amod//1 effects//UO//ROOT//1
+7.5 Alternatives to coccidiostats;References//PM|NOM//ROOT//0 296-298//RG|NOM//nummod//0 .//MAD//punct//3
+7.5 Alternatives to coccidiostats;513//RG|NOM//conj//0 .//MAD//punct//3
+7.5 Alternatives to coccidiostats;120-125//RG|NOM//conj//0 .//MAD//punct//0
+7.5 Alternatives to coccidiostats;0OULTRY//RG|NOM//nummod//9 3CIENCE//NN|AN//nmod//9 224-235//RG|NOM//conj//0 .//MID//punct//9 )//PAD//punct//12
+7.5 Alternatives to coccidiostats;MMUNOGENETICS//PM|NOM//appos//0 593-599//RG|NOM//nummod//12 .//MAD//punct//12 !//MID//punct//12
+7.5 Alternatives to coccidiostats;VIAN//NN|UTR|SIN|IND|NOM//conj//12 0ATHOLOGY//AB|AN//punct//12 355-368//RG|NOM//nummod//12 .//MAD//punct//12
+7.5 Alternatives to coccidiostats;-UTATION//MAD//punct//12 2ESEARCH//NN|AN//nummod//22 75-80//RG|NOM//conj//12 .//MID//punct//12 !//MID//punct//26
+7.5 Alternatives to coccidiostats;RCHIV//PM|NOM//advmod//26 FUR//PM|NOM//conj//12 '//PAD//punct//28 EFLUGELKUNDE//PM|NOM//appos//26 213-220//RG|NOM//nummod//28 .//MAD//punct//12
+7.5 Alternatives to coccidiostats;Press//NN|UTR|SIN|IND|NOM//nsubj//6 ,//MID//punct//0 London//PM|NOM//conj//0 .//MAD//punct//0
+7.5 Alternatives to coccidiostats;pp//NN|AN//nmod//0 .//MAD//punct//0
+7.5 Alternatives to coccidiostats;68-104//RG|NOM//ROOT//6 .//MID//punct//6
+7.5 Alternatives to coccidiostats;252//RG|NOM//nummod//6 .//MAD//punct//8
+7.5 Alternatives to coccidiostats;4IJDSCHRIFT//AB|AN//det//11 VOOR//JJ|POS|UTR|SIN|IND|NOM//nmod//12 $//NN|UTR|SIN|IND|NOM//nmod//14 IERGENEESKUNDE//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//advmod//14 76-82//RG|NOM//conj//6 .//MAD//punct//16
+7.5 Alternatives to coccidiostats;4IER¤RZTLICHE//RG|NOM//conj//6 5MSCHAU//AB|AN//nsubj//16 3116-324//NN|UTR|SIN|IND|NOM//nummod//16 .//MAD//punct//16
+7.5 Alternatives to coccidiostats;359//RG|NOM//nummod//16 .//MAD//punct//16
+7.5 Alternatives to coccidiostats;Edinburgh//PM|NOM//ROOT//0 .//MAD//punct//0
+7.5 Alternatives to coccidiostats;pp//NN|AN//punct//0 .//MAD//punct//2
+7.5 Alternatives to coccidiostats;465-494//RG|NOM//conj//0 .//MID//punct//4
+7.5 Alternatives to coccidiostats;256-261//RG|NOM//discourse//8 .//MAD//punct//6
+7.5 Alternatives to coccidiostats;1625//RG|NOM//discourse//10 .//MAD//punct//8
+7.5 Alternatives to coccidiostats;499-507//RG|NOM//discourse//34 .//MAD//punct//10
+7.5 Alternatives to coccidiostats;/STROSKY//MAD//case//13 7EGMAN//NN|AN//nmod//34 0//RG|NOM//nummod//13 ,//MID//punct//16 ARES//PM|NOM//conj//14 !//MID//punct//18
+7.5 Alternatives to coccidiostats;SSEF//PM|NOM//conj//14 )//PAD//punct//18 3ANTIAGO//NN|AN//nmod//23 0//RG|NOM//nummod//22 %//NN|AN//nmod//23 LIZONDO//PM|NOM//conj//14 '//PAD//punct//25 AND//PM|NOM//appos//23 -ONTERO//MID//punct//25 2//RG|NOM//nummod//25 ,//MID//punct//25 593//RG|NOM//conj//23 .//MAD//punct//13
+7.5 Alternatives to coccidiostats;-ARCH//MID//case//32 20//RG|NOM//nmod//13 .//MAD//punct//32
+7.5 Alternatives to coccidiostats;1518-1527//RG|NOM//conj//0 .//MAD//punct//34
+7.5 Alternatives to coccidiostats;670-675//RG|NOM//discourse//38 .//MAD//punct//36
+7.5 Alternatives to coccidiostats;287//RG|NOM//nummod//34 .//MAD//punct//38
+7.5 Alternatives to coccidiostats;232-238//RG|NOM//nummod//38 .//MID//punct//38 !//MID//punct//34
+7.5 Alternatives to coccidiostats;DVANCES//PM|NOM//case//50 IN//AB//case//45 0ARASITOLOGY//AB|AN//nmod//43 219-308//RG|NOM//nummod//45 .//MID//punct//43
+7.5 Alternatives to coccidiostats;210-219//RG|NOM//nummod//43 .//MAD//punct//43
+7.5 Alternatives to coccidiostats;267-270//RG|NOM//appos//34 .//MAD//punct//50
+7.5 Alternatives to coccidiostats;6ETERINARY//AB|AN//case//54 2ECORD//NN|AN//nmod//54 323//RG|NOM//conj//50 .//MAD//punct//54
+
+8.1 Introduction;understanding//UO//nsubj//5 and//UO//cc//0 better//UO//conj//0 risk//UO//amod//5 management//UO//amod//5 decisions//UO//ROOT//5 .//MAD//punct//5
+8.1 Introduction;8.3.1//RG|NOM//nmod//9 Increased//UO//amod//9 resistance//UO//appos//5
+
+8.1 Introduction / P IG S;A//PM|NOM//ROOT//0  //_SP////0 B//PM|NOM//amod//3 feed//PM|NOM//conj//0  //_SP////3 w//UO//nummod//7 ater//UO//nmod//7 pasture//UO//conj//0
+
+8.1 Introduction / S O IL;w//UO//nummod//1 ater//UO//nsubj//6 sew//UO//case//4 age//UO//nmod//4 contact//UO//appos//1 and//UO//nummod//1 treated//UO//ROOT//6 3HORT//AB|AN//nummod//8 TIME//PM|NOM//nmod//9 EFFECTS//PM|NOM//xcomp//6
+8.1 Introduction / S O IL;Patient//JJ|POS|UTR|SIN|IND|NOM//amod//1 suffering//NN|UTR|SIN|IND|NOM//ROOT//1 ,//MID//punct//1 ONG//PM|NOM//conj//1 TERM//PM|NOM//conj//1 EFFECTS//PM|NOM//conj//1 3HORT//PM|NOM//nummod//7 TIME//PM|NOM//nmod//8 EFFECTS//PM|NOM//nmod//1
+8.1 Introduction / S O IL;Animal//UO//amod//1 suffering//UO//ROOT//1 ,//MID//punct//1 ONG//PM|NOM//conj//1 TERM//PM|NOM//conj//1 EFFECTS//PM|NOM//amod//6 8.3.2//RG|NOM//compound//7 Suppression//UO//appos//1 of//UO//case//9 pathogens//UO//nmod//7
+8.1 Introduction / S O IL;N=//UO//amod//1 population//UO//nmod//2 size//UO//ROOT//2 ,//MID//punct//2 100//RG|NOM//nummod//5 000//RG|NOM//nmod//6 8.3.4//RG|NOM//obl//7 Toxicological//PM|NOM//appos//2 aspects//PM|NOM//conj//2
+8.1 Introduction / S O IL;Target//UO//nsubj//1 species//UO//ROOT//1
+8.1 Introduction / S O IL;Residues//NN|UTR|SIN|IND|NOM//ROOT//0
+8.1 Introduction / S O IL;Occupational//UO//amod//1 hazards//UO//ROOT//1
+8.1 Introduction / S O IL;8.6.1//RG|NOM//nmod//2 The//PM|NOM//det//2 benefits//UO//ROOT//2
+8.1 Introduction / S O IL;8.6.3//RG|NOM//nsubj//2 The//PM|NOM//det//2 risks//UO//ROOT//2
+8.1 Introduction / S O IL;%//NN|AN//nmod//1 XPOSURE//PM|NOM//ROOT//1
+8.1 Introduction / S O IL;4RANSMISSION//RG|NOM//nummod//1 EPIDEMIOLOGY//PM|NOM//ROOT//1
+8.1 Introduction / S O IL;#//MID//nmod//1 ONSEQUENCES//NN|UTR|SIN|IND|NOM//ROOT//1
+8.1 Introduction / S O IL;8.6.4//RG|NOM//nmod//1 Conclusions//PM|NOM//ROOT//1
+8.1 Introduction / S O IL;8.6.5//RG|NOM//amod//1 Considerations//PM|GEN//nsubj//2 for//PM|NOM//ROOT//2 risk//UO//amod//5 management//UO//amod//5 decisions//UO//nsubj:pass//2
+8.1 Introduction / S O IL;References//NN|UTR|SIN|IND|NOM//ROOT//0
+8.1 Introduction / S O IL;!//MID//punct//1
+8.1 Introduction / S O IL;POTEKSBOLAGET//NN|NEU|SIN|DEF|NOM//ROOT//1  //_SP////1 1996//RG|NOM//nummod//1 .//MAD//punct//1
+8.1 Introduction / S O IL; //_SP////4 3VENSK//RG|NOM//obl//1 ,//MID//punct//6 ¤KEMEDELSSTATISTIK//NN|UTR|SIN|IND|NOM//nmod//9 Apoteksbolaget//NN|NEU|SIN|DEF|NOM//appos//6 AB//PM|NOM//flat//9 ,//MID//punct//12 Stockholm//PM|NOM//conj//9 .//MAD//punct//9
+8.1 Introduction / S O IL;pp//NN|AN//conj//6 .//MAD//punct//1
+8.1 Introduction / S O IL; //_SP////15 pp.141-145//RG|NOM//conj//1 .//MAD//punct//1
+8.1 Introduction / S O IL;%//NN|AN//nmod//2 PIDEMIOLOGY//PM|NOM//amod//2 AND//PM|NOM//ROOT//2 )//PAD//punct//2 NFECTION//PM|NOM//nmod//2 239-252//RG|NOM//nummod//4 .//MAD//punct//2
+8.1 Introduction / S O IL;811//RG|NOM//ROOT//0 .//MAD//punct//0
+8.1 Introduction / S O IL;680-685//RG|NOM//ROOT//0 .//MAD//punct//0
+8.1 Introduction / S O IL;0HARMACOTHERAPY//AB|AN//nmod//1 302-307//RG|NOM//ROOT//1 .//MAD//punct//1
+8.1 Introduction / S O IL;150//RG|NOM//ROOT//0 .//MAD//punct//0
+8.1 Introduction / S O IL;SUPPL//PM|NOM//ROOT//0  //_SP////0 483-493//RG|NOM//obl//0 .//MAD//punct//0
+8.1 Introduction / S O IL;1136//RG|NOM//ROOT//0 .//MAD//punct//0
+8.1 Introduction / S O IL;7IERUP//MID//discourse//7  //_SP////0 -//MID//punct//0 ,//MID//punct//2 1996//RG|NOM//nummod//0 .//MID//punct//0
+8.1 Introduction / S O IL;Sverige//PM|NOM//nsubj//7 förbjöd//VB|PRT|AKT//ROOT//7 antibiotika//NN|NEU|PLU|IND|NOM//obj//7 i//PP//case//11 tillväxtbefrämjande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//11 syfte//NN|NEU|SIN|IND|NOM//nmod//12 1986//RG|NOM//obl//7 -//MID//punct//7 vad//HP|NEU|SIN|IND//nsubj//15 hände//VB|PRT|AKT//appos//7 med//PP//case//17 djurhälsan//NN|UTR|SIN|DEF|NOM//obl//15 och//KN//cc//20 hur//HA//advmod//20 löstes//VB|PRT|SFO//conj//15 problemen//NN|NEU|PLU|DEF|NOM//obj//20 ?//MAD//punct//7
+8.1 Introduction / S O IL;+//MID//cc//24 UNGLIGA//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//conj//7 3KOGS//AB|AN//nummod//26 OCH//KN//nmod//24 ,//MID//punct//28 ANTBRUKSAKADEMIENS//NN|UTR|SIN|DEF|GEN//conj//24 4IDSKRIFT//MID//case//31  //_SP////29 69-78//RG|NOM//nmod//28 .//MAD//punct//7
+

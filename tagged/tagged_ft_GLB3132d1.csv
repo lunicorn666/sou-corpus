@@ -1,0 +1,217 @@
+Executive summary;"%//NN|AN//nmod//1 XECUTIVE//PM|NOM//ROOT//1 SUMMARY//PM|NOM//flat:name//1 )//PAD//punct//4 NTRODUCTION//PM|NOM//conj//1 ""//PAD//punct//6 ACKGROUND//PM|NOM//conj//1 #//MID//punct//8 OCCIDIOSTATS//NN|UTR|SIN|IND|NOM//nsubj//6 !//MID//punct//8"
+Executive summary;NNEX//PM|NOM//obl//6 !//MID//punct//6
+Executive summary; //_SP////11 !//MID//punct//14
+Executive summary;VILAMYCIN//PM|NOM//conj//1 !//MID//punct//14
+Executive summary;"NNEX//PM|NOM//conj//14 ""//PAD//punct//20  //_SP////17 ""//PAD//punct//20 ACITRACIN//AB//conj//14 !//MID//punct//20"
+Executive summary;NNEX//PM|NOM//nmod//23 #//PM|NOM//punct//14  //_SP////23 &//KN|AN//cc//26 LAVOMYCIN//PM|NOM//conj//23 !//MID//punct//23
+Executive summary;NNEX$!RDACIN//PM|NOM//amod//30 AND//PM|NOM//nmod//30 AVOPARCIN//PM|NOM//conj//14
+
+
+2.4 Current Swedish legislation;2.4.5//RG|NOM//nmod//1 Control//PM|NOM//ROOT//1
+
+2.5. The Swedish ban;2.5.1//RG|NOM//discourse//2 The//PM|NOM//det//2 preambles//PM|NOM//ROOT//2
+2.5. The Swedish ban;Calves//PM|NOM//ROOT//0
+2.5. The Swedish ban;Chickens//PM|GEN//ROOT//0
+2.5. The Swedish ban;Egg//UO//nmod:poss//1 production//UO//ROOT//1
+2.5. The Swedish ban;Turkeys//PM|NOM//ROOT//0
+2.5. The Swedish ban;Weaner//UO//nsubj//1 pigs//UO//ROOT//1
+2.5. The Swedish ban;Slaughter//PM|NOM//nsubj//1 pigs//PM|NOM//ROOT//1 2.6.1//RG|NOM//nmod//3 Materials//PM|NOM//nmod:poss//8 and//PM|NOM//cc//3 methods//PM|NOM//nmod//6 2.6.2//RG|NOM//conj//3 Total//JJ|POS|UTR|SIN|IND|NOM//amod//8 consumption//NN|UTR|SIN|IND|NOM//obj//1 2.6.3//RG|NOM//flat:name//8 Flock//PM|NOM//amod//11 treatment//UO//conj//8
+2.5. The Swedish ban;Olaquindox//PM|NOM//nmod//1 2.6.4//RG|NOM//amod//4 Coccidiostats//PM|NOM//flat//1 2.7.1//RG|NOM//flat:name//1 Zoonotic//PM|NOM//ROOT//4 pathogens//NN|UTR|SIN|IND|NOM//flat:name//4
+2.5. The Swedish ban;Salmonella//NN|UTR|SIN|IND|NOM//ROOT//0
+2.5. The Swedish ban;Campylobacter//NN|UTR|PLU|IND|NOM//ROOT//0
+2.5. The Swedish ban;Sweden//PM|NOM//nmod//1 2.7.2//RG|NOM//amod//3 Animal//UO//amod//3 pathogens//UO//ROOT//3
+2.5. The Swedish ban;Escherichia//PM|NOM//nmod:poss//1 coli//PM|NOM//nsubj//4 -ELIN//MID//punct//1 ET//PM|NOM//nmod//1 AL//PM|NOM//ROOT//4 determined//NN|UTR|SIN|IND|NOM//obj//4
+2.5. The Swedish ban;Staphylococcus//UO//amod//1 aureus//UO//ROOT//1 .ILSSON//MAD//punct//1
+2.5. The Swedish ban;Serpulina//PM|NOM//nsubj//1 hyodysenteriae//PM|NOM//ROOT//1 2.7.3//RG|NOM//nummod//4 Animal//UO//amod//4 commensals//UO//obj//1 to//UO//case//7 this//UO//nmod//7 drug//UO//obl//1 .//MID//punct//1
+2.5. The Swedish ban;of//UO//case//10 isolates//UO//parataxis//1 of//UO//fixed//10 isolates//NN|UTR|SIN|IND|NOM//obl//10
+
+2.8 Summary comments;"References//UO//dislocated//17 ""//PAD//punct//2 J¶RNEROT//PM|NOM//conj//0 ,//MID//punct//2  //_SP////3 ,//MID//punct//2 1996//RG|NOM//nummod//2 .//MID//punct//2"
+2.8 Summary comments;Sverige//PM|NOM//nsubj//9 förbjöd//VB|PRT|AKT//parataxis//0 antibiotika//NN|NEU|PLU|IND|NOM//obj//9 i//PP//case//13 tillväxtstimulerande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//13 syfte//NN|NEU|SIN|IND|NOM//obl//9 1986//RG|NOM//obl//9 -//MID//punct//9 vad//HP|NEU|SIN|IND//nsubj//17 hände//VB|PRT|AKT//ROOT//17 med//PP//case//19 förbrukningen//NN|UTR|SIN|DEF|NOM//obl//17 ?//MAD//punct//17
+2.8 Summary comments;+//MID//cc//22 UNGLIGA//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//nmod//24 3KOGS//AB|AN//nummod//24 OCH//KN//obl//17 ,//MID//punct//26 ANTBRUKSAKADEMIENS//NN|UTR|SIN|DEF|GEN//conj//24 4IDSKRIFT//MID//nummod//29  //_SP////27 57-68//RG|NOM//conj//24 .//MAD//punct//17
+2.8 Summary comments;New//PM|NOM//amod//1 Delhi//PM|NOM//ROOT//1 .//MAD//punct//1
+2.8 Summary comments;p.//NN|UTR|SIN|IND|NOM//nmod//4 219//RG|NOM//nmod//1 .//MAD//punct//4 &//KN|AN//cc//7
+2.8 Summary comments;RANKLIN//PM|NOM//conj//4 !//MID//punct//4
+2.8 Summary comments; //_SP////8 ,//MID//punct//4 1995//RG|NOM//nummod//4 .//MID//punct//1
+2.8 Summary comments;Antibiotikaresistens//NN|UTR|SIN|DEF|GEN//nsubj//16 hos//PP//case//15 salmonellastammar//NN|UTR|PLU|IND|NOM//nmod//13 isolerade//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//conj//1 på//PP//case//18 SVA//PM|NOM//obl//16 1992-1994//RG|NOM//nummod//18 ,//MID//punct//21 rapport//NN|UTR|SIN|IND|NOM//conj//16 till//PP//case//24 Statens//NN|UTR|SIN|DEF|GEN//nmod:poss//24 Jordbruksverk//NN|NEU|SIN|IND|NOM//nmod//21 .//MAD//punct//16
+2.8 Summary comments;Statens//NN|UTR|SIN|DEF|GEN//nmod:poss//28 Veterinärmedicinska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//28 Anstalt//PM|NOM//conj//16 .//MID//punct//16 &//KN|AN//cc//31
+2.8 Summary comments;RANKLIN//PM|NOM//conj//16 !//MID//punct//31
+2.8 Summary comments;AND//PM|NOM//nmod//34 7IERUP//PAD//punct//1  //_SP////34 -//MID//punct//34 ,//MID//punct//34 1987//RG|NOM//nummod//34 .//MAD//punct//1
+2.8 Summary comments;Antibiotikaresistens//NN|UTR|SIN|DEF|GEN//nsubj//43 hos//PP//case//42 salmonellastammar//NN|UTR|PLU|IND|NOM//nmod//40 isolerade//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//conj//1 från//PP//case//47 nötkreatur//NN|NEU|SIN|IND|NOM//nmod//47 åren//NN|NEU|PLU|DEF|NOM//nmod//47 1978-1986//RG|NOM//obl//43 ,//MID//punct//49 Rapport//NN|UTR|SIN|IND|NOM//conj//43 till//PP//case//51 Lantbruksstyrelsen//PM|NOM//nmod//49 .//MAD//punct//43
+2.8 Summary comments;Statens//NN|UTR|SIN|DEF|GEN//nmod:poss//55 Veterinärmedicinska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//55 Anstalt//PM|NOM//conj//43 .//MID//punct//43 '//PAD//punct//58
+2.8 Summary comments;REKO//JJ|POS|UTR|SIN|IND|NOM//conj//43 #//NN|UTR|SIN|IND|NOM//nummod//58  //_SP////59 ,//MID//punct//58 1996//RG|NOM//nummod//58 .//MAD//punct//43
+2.8 Summary comments;Inventering//NN|UTR|SIN|IND|NOM//conj//43 av//PP//case//66 resistens//NN|UTR|SIN|IND|NOM//nmod//64 mot//PP//case//69 antibakteriella//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//69 medel//NN|NEU|PLU|IND|NOM//nmod//66 hos//PP//case//71 enterokocker//NN|UTR|PLU|IND|NOM//nmod//69 från//PP//case//73 kyckling//NN|UTR|SIN|IND|NOM//nmod//71 (//PAD//punct//75 rapport//NN|UTR|SIN|IND|NOM//appos//73 )//PAD//punct//75 .//MAD//punct//1
+2.8 Summary comments;Statens//NN|UTR|SIN|DEF|GEN//nmod:poss//80 Veterinärmedicinska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//80 Anstalt//PM|NOM//appos//1 ,//MID//punct//82 Uppsala//PM|NOM//conj//80 .//MAD//punct//1
+2.8 Summary comments;Resistensundersökning//NN|UTR|SIN|IND|NOM//nsubj//3 av//PP//case//2 svenska//NN|UTR|SIN|IND|NOM//nmod//0 isolat//NN|NEU|PLU|IND|NOM//ROOT//3 av//PP//case//6 Treponema//UO//amod//6 hyodysenteriae//UO//obl:agent//3 .//MAD//punct//3
+2.8 Summary comments;3VENSK//AB|AN//nummod//9 6ETERIN¤RTIDNING//RG|NOM//appos//3  //_SP////9 349-352//RG|NOM//nmod//9 .//MAD//punct//3
+2.8 Summary comments;(//PAD//punct//3 YOLOGISK//PM|NOM//nsubj//31 4IDSKRIFT//RG|NOM//obj//14 (//PAD//punct//17 OLMGREN//PM|NOM//appos//14 .//MAD//punct//14
+2.8 Summary comments; //_SP////18 ,//MID//punct//21 1994a//RG|NOM//conj//14 .//MAD//punct//14
+2.8 Summary comments;Djurhälsomässiga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//24 behobet//NN|NEU|SIN|DEF|NOM//appos//14 av//PP//case//26 fodermedelsantibiotika//NN|NEU|PLU|IND|NOM//nmod//24 i//PP//case//29 smågrisproducerande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//29 besättningar//NN|UTR|PLU|IND|NOM//nmod//26 .//MAD//punct//24
+2.8 Summary comments;3VENSK//AB|AN//nummod//32 6ETERIN¤RTIDNING//RG|NOM//appos//3  //_SP////32 57-65//RG|NOM//nummod//32 .//MAD//punct//3
+2.8 Summary comments;(//PAD//punct//37 OLMGREN//PM|NOM//parataxis//3 .//MAD//punct//37
+2.8 Summary comments; //_SP////38 ,//MID//punct//41 1994b//RG|NOM//conj//37 .//MAD//punct//37
+2.8 Summary comments;Profylaktiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//44 effekter//NN|UTR|PLU|IND|NOM//conj//37 av//PP//case//46 zinkoxid//NN|UTR|SIN|IND|NOM//nmod//44 eller//KN//cc//48 olaquindox//NN|UTR|SIN|IND|NOM//conj//46 mot//PP//case//50 avvänjningsdiarré//NN|UTR|SIN|IND|NOM//nmod//44 hos//PP//case//52 svin//NN|NEU|SIN|IND|NOM//nmod//50 .//MAD//punct//44
+2.8 Summary comments;3VENSK//AB|AN//nummod//55 6ETERIN¤RTIDNING//RG|NOM//conj//37  //_SP////55 217-222//RG|NOM//nummod//55 .//MAD//punct//37 *//MID//punct//60
+2.8 Summary comments;ONSON//PM|NOM//nmod//62 '//PAD//punct//62 AND//PM|NOM//conj//37 *//MID//punct//64 ACOBSSON//PM|NOM//conj//62 3//RG|NOM//nummod//66 %//NN|AN//conj//62  //_SP////66 ,//MID//punct//66 1973//RG|NOM//nummod//62 .//MAD//punct//62
+2.8 Summary comments;Foderantibiotikas//PM|GEN//nmod:poss//72 inverkan//NN|UTR|SIN|IND|NOM//conj//37 på//PP//case//74 kalvdödlighet//NN|UTR|SIN|IND|NOM//nmod//72 .//MAD//punct//72
+2.8 Summary comments;"3VENSK//AB|AN//nummod//77 6ETERIN¤RTIDNING//RG|NOM//appos//72  //_SP////77 17-22//RG|NOM//nmod//77 .//MAD//punct//72 ,//MID//punct//72 ""//PAD//punct//83"
+2.8 Summary comments;3//RG|NOM//nummod//72 ,//MID//punct//83 1977//RG|NOM//nummod//83 .//MAD//punct//72
+2.8 Summary comments;Utredning//NN|UTR|SIN|IND|NOM//nmod:poss//89 avseende//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//89 utnyttjandet//NN|NEU|SIN|DEF|NOM//nmod//72 av//PP//case//91 specialämnen//NN|NEU|PLU|IND|NOM//nmod//89 såsom//KN//mark//93 antibiotika//NN|NEU|PLU|IND|NOM//acl//89 ///MID//cc//95 kemoterapeutika//NN|NEU|PLU|IND|NOM//conj//93 ,//MID//punct//101 vilka//HP|UTR/NEU|PLU|IND//nsubj:pass//101 i//PP//case//100 tillväxtbefrämjande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//100 syfte//NN|NEU|SIN|IND|NOM//obl//101 inblandas//VB|INF|SFO//acl:relcl//89 i//PP//case//103 foder//NN|NEU|SIN|IND|NOM//obl//101 .//MAD//punct//105
+2.8 Summary comments;Lantbruksstyrelsen//NN|UTR|SIN|DEF|NOM//conj//72 ,//MID//punct//107 Jönköping//PM|NOM//conj//105 .//MAD//punct//105
+2.8 Summary comments;.ILSSON//MID//punct//72 ,//MID//punct//72  //_SP////110 ,//MID//punct//110 1996//RG|NOM//nummod//72 .//MID//punct//72
+2.8 Summary comments;Mastiter//NN|UTR|PLU|IND|NOM//nmod//72 -//MID//punct//115 infektionspanorama//NN|UTR|SIN|IND|NOM//conj//115 och//KN//cc//119 antibiotikaresistens//NN|UTR|SIN|IND|NOM//conj//117 (//PAD//punct//115 att//IE//mark//122 publiceras//VB|INF|SFO//acl//115 )//PAD//punct//72 .//MAD//punct//37
+2.8 Summary comments;/DENSVIK//MID//cc//126 +//MID//conj//37  //_SP////126 ,//MID//punct//126 1997//RG|NOM//nummod//126 .//MID//punct//37
+2.8 Summary comments;Sammanställning//NN|UTR|SIN|IND|NOM//parataxis//37 över//PP//case//133 foderläkemedel//NN|NEU|SIN|IND|NOM//nmod//131 1995//RG|NOM//nummod//133 och//KN//cc//136 1996//RG|NOM//conj//131 .//MAD//punct//37
+2.8 Summary comments;3VENSK//AB|AN//nummod//139 6ETERIN¤RTIDNING//RG|NOM//conj//37  //_SP////139 386-389//RG|NOM//nummod//139 .//MAD//punct//143
+2.8 Summary comments;foderantibiotika//PN|UTR/NEU|PLU|IND|SUB/OBJ//conj//37 på//PP//case//145 antibiotikaresistens//NN|UTR|SIN|DEF|GEN//nmod//143 ,//MID//punct//148 överförbar//JJ|POS|UTR|SIN|IND|NOM//amod//148 antibiotikaresistens//NN|UTR|SIN|IND|NOM//conj//143 ,//MID//punct//150 morbiditet//NN|UTR|SIN|IND|NOM//conj//143 och//KN//cc//152 tillväxt//NN|UTR|SIN|IND|NOM//conj//143 hos//PP//case//154 mellankalv//JJ|POS|UTR|SIN|IND|NOM//obl//143 .//MAD//punct//143
+2.8 Summary comments;.ORDISK//MAD//punct//157 6ETERIN¤RMEDICIN//RG|NOM//conj//37  //_SP////157 253-265//RG|NOM//nummod//157 .//MAD//punct//157
+
+3.1 Mode of action;3.1.1//RG|NOM//ROOT//0 Effects//PM|NOM//obj//0 .UTRITIONAL//RG|NOM//punct//0 EFFECTS//PM|NOM//appos//0 -ETABOLIC//MID//case//5 EFFECTS//PM|NOM//nmod//3 significantly//UO//advmod//0 (//PAD//punct//6 p<0.05//NN|NEU|SIN|IND|NOM//appos//6 )//PAD//punct//8 .//MAD//punct//6
+3.1 Mode of action;3.2.1//RG|NOM//parataxis//0 Introduction//PM|NOM//cc//11 3.2.3//RG|NOM//obl//14 Swine//PM|NOM//nmod//11 dysentery//UO//cc//11 #//MID//nummod//17 %//NN|AN//appos//11 #//RG|NOM//nummod//11
+
+3.4 Alternatives to AFA;3.4.1//RG|NOM//ROOT//0 Enzymes//PM|NOM//nsubj//0 1996//RG|NOM//nummod//1 )//PAD//punct//0 .//MAD//punct//0
+3.4 Alternatives to AFA;3.4.2//RG|NOM//nmod//6 Probiotics//PM|NOM//nmod//7 3.5.1//RG|NOM//appos//0 Executive//PM|NOM//cc//7 Summary//PM|NOM//conj//7 3.5.2//RG|NOM//nmod//11 Introductory//UO//conj//7 comments//UO//conj//7
+3.4 Alternatives to AFA;Simulation//NN|UTR|SIN|IND|NOM//ROOT//0 of//UO//case//2 outcomes//UO//nmod//0
+3.4 Alternatives to AFA;Results//PM|NOM//ROOT//0 3.5.4//RG|NOM//det//4 The//PM|NOM//det//3 pig//UO//nmod//4 industry//UO//nsubj:pass//0
+3.4 Alternatives to AFA;Piglet//NN|NEU|SIN|DEF|NOM//nmod//1 production//UO//compound//2 assumptions//UO//ROOT//2
+3.4 Alternatives to AFA;Slaughter//PM|NOM//ROOT//0 pig//UO//flat:name//0 assumptions//UO//nmod:poss//5 3.5.5//RG|NOM//compound//5 Egg//PM|NOM//flat//3 production//UO//obj//0
+3.4 Alternatives to AFA;Assumptions//PM|NOM//ROOT//0
+3.4 Alternatives to AFA;Results//NN|UTR|SIN|IND|NOM//ROOT//0
+3.4 Alternatives to AFA;Assumptions//PM|NOM//ROOT//0
+3.4 Alternatives to AFA;Results//NN|UTR|SIN|IND|NOM//ROOT//0
+3.4 Alternatives to AFA;References//NN|UTR|SIN|IND|NOM//ROOT//0 69//RG|NOM//nummod//0 .//MAD//punct//0
+3.4 Alternatives to AFA;397-407//RG|NOM//nmod//0 .//MAD//punct//3
+3.4 Alternatives to AFA;124//RG|NOM//conj//0 .//MAD//punct//8 %//NN|AN//nmod//8
+3.4 Alternatives to AFA;LWINGER//NN|UTR|PLU|IND|NOM//nmod//5 +//MID//cc//5  //_SP////9 ,//MID//punct//9 1976//RG|NOM//nummod//5 .//MID//punct//0
+3.4 Alternatives to AFA;Sammanställning//NN|UTR|SIN|IND|NOM//appos//0 över//PP//case//19 danska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//19 och//KN//cc//18 svenska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//conj//16 försök//NN|NEU|PLU|IND|NOM//nmod//14 med//PP//case//22 tillväxtstimulerande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//22 ämnen//NN|NEU|PLU|IND|NOM//nmod//19 (//PAD//punct//14 främst//AB|SUV//advmod//25 zinkbacitracin//UO//appos//14 och//KN//cc//27 payzone//AB//conj//25 i//PP//case//29 foder//NN|NEU|SIN|IND|NOM//nmod//27 till//PP//case//31 fjäderfä//NN|NEU|SIN|IND|NOM//nmod//25 (//PAD//punct//33 report//NN|UTR|SIN|IND|NOM//conj//25 )//PAD//punct//33 .//MAD//punct//14
+3.4 Alternatives to AFA;Swedish//PM|NOM//nmod//37 University//PM|NOM//nmod//14 of//PM|NOM//case//40 Agricultural//PM|NOM//nmod//40 Sciences//PM|NOM//nmod//37 ,//MID//punct//42 Uppsala//PM|NOM//conj//40 .//MID//punct//37
+3.4 Alternatives to AFA;323-333//RG|NOM//nmod//37 .//MID//punct//37
+3.4 Alternatives to AFA;(//PAD//punct//47 OLMGREN//PM|NOM//appos//37 .//MAD//punct//37
+3.4 Alternatives to AFA; //_SP////48 ,//MID//punct//37 1994//RG|NOM//nummod//37 .//MID//punct//37
+3.4 Alternatives to AFA;Profylaktiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//54 effekter//NN|UTR|PLU|IND|NOM//conj//37 av//PP//case//56 zinkoxid//NN|UTR|SIN|IND|NOM//nmod//54 eller//KN//cc//58 olaquindox//NN|UTR|SIN|IND|NOM//conj//56 mot//PP//case//60 avvänjningsdiarré//NN|UTR|SIN|IND|NOM//nmod//54 hos//PP//case//62 svin//NN|NEU|SIN|IND|NOM//nmod//60 .//MAD//punct//54
+3.4 Alternatives to AFA;3VENSK//AB|AN//nummod//65 6ETERIN¤RTIDNING//RG|NOM//conj//37  //_SP////65 217-222//RG|NOM//nmod//65 .//MAD//punct//37 *//MID//punct//70
+3.4 Alternatives to AFA;ONASSON//PM|NOM//conj//37 ,//MID//punct//70 AND//PM|NOM//nmod//70 !//MID//punct//74
+3.4 Alternatives to AFA;NDERSSON//PM|NOM//conj//70 (//PAD//punct//74  //_SP////75 ,//MID//punct//74 1996//RG|NOM//punct//70 .//MID//punct//70
+3.4 Alternatives to AFA;Kartläggning//NN|UTR|SIN|IND|NOM//nmod//70 av//PP//case//84 den//DT|UTR|SIN|DEF//det//84 svenska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//84 modellen//NN|UTR|SIN|DEF|NOM//nmod//80 -//MID//punct//80 hävstång//NN|UTR|SIN|IND|NOM//conj//70 eller//KN//cc//88 ok//NN|NEU|SIN|IND|NOM//conj//70 för//PP//case//91 svensk//JJ|POS|UTR|SIN|IND|NOM//amod//91 svinproduktion//NN|UTR|SIN|IND|NOM//obl//88 .//MAD//punct//70
+3.4 Alternatives to AFA;Swedish//PM|NOM//nmod//94 University//PM|NOM//nmod//70 of//PM|NOM//case//97 Agricultural//PM|NOM//nmod//97 Sciences//PM|NOM//nmod//94 ,//MID//punct//99 Uppsala//PM|NOM//conj//97 .//MAD//punct//94
+3.4 Alternatives to AFA;139//RG|NOM//conj//70 .//MAD//punct//70
+3.4 Alternatives to AFA;1246-1248//RG|NOM//nmod//70 .//MAD//punct//37
+3.4 Alternatives to AFA;Bologna//PM|NOM//ROOT//0 .//MAD//punct//0
+3.4 Alternatives to AFA;p.//NN|UTR|SIN|IND|NOM//nmod//3 263//RG|NOM//nmod//0 .//MAD//punct//3
+3.4 Alternatives to AFA;1349-1356//RG|NOM//nmod//0 .//MAD//punct//0
+3.4 Alternatives to AFA;July//PM|NOM//ROOT//0 3//RG|NOM//nummod//0 ,//MID//punct//1 Copenhagen//PM|NOM//conj//0 .//MAD//punct//3
+3.4 Alternatives to AFA;375-392//RG|NOM//conj//0 .//MAD//punct//0
+3.4 Alternatives to AFA;Copenhagen//NN|UTR|SIN|DEF|NOM//ROOT//0 .//MAD//punct//0
+3.4 Alternatives to AFA;p.//NN|UTR|SIN|IND|NOM//nmod//3 248//RG|NOM//nmod//0 .//MAD//punct//0
+3.4 Alternatives to AFA;Copenhagen//NN|UTR|SIN|DEF|NOM//ROOT//0 .//MAD//punct//0
+3.4 Alternatives to AFA;p.//NN|UTR|SIN|IND|NOM//nmod//3 249//RG|NOM//nmod//0 .//MAD//punct//3
+3.4 Alternatives to AFA;"3//RG|NOM//nummod//6 #//MID//nmod//3 ""//PAD//punct//6 ,//MID//punct//6 1997//RG|NOM//nummod//6 .//MAD//punct//3"
+3.4 Alternatives to AFA;Jordbruksstatistisk//JJ|POS|UTR|SIN|IND|NOM//amod//12 årsbok//NN|UTR|SIN|IND|NOM//appos//3 1996//RG|NOM//nummod//12 .//MAD//punct//3
+3.4 Alternatives to AFA;pp//NN|AN//punct//0 .//MAD//case//17
+3.4 Alternatives to AFA;244//RG|NOM//discourse//20 .//MAD//punct//17
+3.4 Alternatives to AFA;Statistiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//20 centralbyrån//NN|UTR|SIN|DEF|NOM//appos//0 ,//MID//punct//22 Örebro//PM|NOM//conj//20 ,//MID//punct//24 Sweden//PM|NOM//conj//20 .//MID//punct//20
+3.4 Alternatives to AFA;3,5//RG|NOM//conj//0 +//MID//case//28 ONTAKT//PM|NOM//conj//26 ,//MID//punct//26 1996//RG|NOM//nummod//26 .//MAD//punct//0
+3.4 Alternatives to AFA;Områdeskalkyler//NN|UTR|PLU|IND|NOM//appos//0 för//PP//case//34 slaktsvin//NN|NEU|SIN|IND|NOM//nmod//32 ,//MID//punct//36 smågrisproduktion//NN|UTR|SIN|IND|NOM//conj//34 ,//MID//punct//38 värphöns//NN|NEU|PLU|IND|NOM//conj//34 och//KN//cc//40 slaktkyckling//NN|UTR|SIN|IND|NOM//conj//34 .//MID//punct//32
+3.4 Alternatives to AFA;Swedish//PM|NOM//nmod:poss//43 University//PM|NOM//appos//32 of//PM|NOM//case//46 Agricultural//PM|NOM//nmod//46 Sciences//PM|NOM//nmod//43 ,//MID//punct//48 Uppsala//PM|NOM//conj//46 .//MAD//punct//0
+3.4 Alternatives to AFA;Butterworths//PM|NOM//ROOT//0 ,//MID//punct//2 London//PM|NOM//conj//0 .//MAD//punct//0
+3.4 Alternatives to AFA;pp//NN|AN//punct//0 .//MAD//punct//4
+3.4 Alternatives to AFA;197-206//RG|NOM//conj//0 .//MAD//punct//0
+3.4 Alternatives to AFA;7ALLGREN//NN|AN//conj//0 0//RG|NOM//nummod//12  //_SP////9 ,//MID//punct//9 1993b//RG|NOM//conj//0 .//MID//punct//0
+3.4 Alternatives to AFA;Infektioners//PM|GEN//nmod:poss//15 inflytande//NN|NEU|SIN|IND|NOM//conj//0 på//PP//case//17 tillväxthastigheten//NN|UTR|SIN|DEF|NOM//nmod//15 hos//PP//case//19 svin//NN|NEU|SIN|IND|NOM//nmod//17 .//MAD//punct//15
+3.4 Alternatives to AFA;3VENSK//AB|AN//nummod//22 6ETERIN¤RTIDNING//RG|NOM//appos//15  //_SP////22 727-732//RG|NOM//nummod//22 .//MAD//punct//15
+3.4 Alternatives to AFA;7IERUP//PAD//punct//0  //_SP////26 -//MID//punct//26 ,//MID//punct//26 1996//RG|NOM//nummod//26 .//MID//punct//0
+3.4 Alternatives to AFA;Sverige//PM|NOM//nsubj//33 förbjöd//VB|PRT|AKT//parataxis//0 antibiotika//NN|NEU|PLU|IND|NOM//obj//33 i//PP//case//37 tillväxtbefrämjande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//37 syfte//NN|NEU|SIN|IND|NOM//nmod//38 1986//RG|NOM//obl//33 -//MID//punct//33 vad//HP|NEU|SIN|IND//nsubj//41 hände//VB|PRT|AKT//conj//0 med//PP//case//43 djurhälsan//NN|UTR|SIN|DEF|NOM//obl//41 och//KN//cc//46 hur//HA//advmod//46 löstes//VB|PRT|SFO//conj//41 problemen//NN|NEU|PLU|DEF|NOM//obj//46 ?//MAD//punct//0
+3.4 Alternatives to AFA;+//MID//cc//50 UNGLIGA//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//conj//0 3KOGS//AB|AN//nummod//52 OCH//KN//nmod//50 ,//MID//punct//54 ANTBRUKSAKADEMIENS//NN|UTR|SIN|DEF|GEN//conj//0 4IDSKRIFT//MID//conj//0  //_SP////55 69-78//RG|NOM//conj//0 .//MAD//punct//0
+3.4 Alternatives to AFA;432-433//RG|NOM//discourse//61 ,//MID//punct//59 436//RG|NOM//conj//0 .//MAD//punct//61
+3.4 Alternatives to AFA;349-351//RG|NOM//conj//0 .//MAD//punct//0
+
+4.1 Introduction;4.3.1//RG|NOM//nmod//2 Prospective//PM|GEN//nmod:poss//2 studies//NN|UTR|SIN|IND|GEN//ROOT//2
+4.1 Introduction;Experimental//PM|NOM//nmod:poss//1 studies//NN|UTR|SIN|IND|GEN//ROOT//1
+4.1 Introduction;"Field//PM|NOM//nmod:poss//2 studies//NN|UTR|SIN|IND|GEN//amod//2 4.3.2//RG|NOM//compound//3 Retrospective//PM|GEN//nmod:poss//5 studies//NN|UTR|SIN|IND|GEN//flat//3 4.3.3//RG|NOM//nmod//6 Point-prevalence//NN|UTR|SIN|IND|NOM//amod//7 studies//NN|UTR|SIN|IND|GEN//ROOT//7 1//RG|NOM//nummod//9 Data//PM|NOM//nmod//7 sammanställda//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//amod//7 från//PP//case//12 Leclercq//PM|NOM//nmod//7 and//PM|NOM//flat//12 Courvalin//PM|NOM//conj//12 ,//MID//punct//12 1991a;1991b//RG|NOM//conj//12 ;//MID//punct//7"
+4.1 Introduction;"Brisson//PM|NOM//appos//7 Noel//PM|NOM//nsubj//18 et//PM|NOM//punct//18 al//PM|NOM//obl//18 ,//MID//punct//18 1988//RG|NOM//nummod//18 ;//MID//punct//7"
+4.1 Introduction;"Arthur//PM|NOM//appos//7 et//PM|NOM//punct//25 al//PM|NOM//nmod//25 ,//MID//punct//25 1987//RG|NOM//nummod//25 ;//MID//punct//25"
+4.1 Introduction;"Eady//PM|NOM//appos//7 et//PM|NOM//nummod//31 al//PM|NOM//nmod//31 ,//MID//punct//33 1993//RG|NOM//conj//31 ;//MID//punct//31"
+4.1 Introduction;"Weisblum//PM|NOM//appos//7 ,//MID//punct//37 1995//RG|NOM//nummod//37 ;//MID//punct//7"
+4.1 Introduction;"Mullany//PM|NOM//appos//7 et//PM|NOM//punct//41 al//PM|NOM//obl//41 ,//MID//punct//41 1995//RG|NOM//conj//41 ;//MID//punct//7"
+4.1 Introduction;"Allignet//NN|NEU|SIN|DEF|NOM//appos//7 et//UO//nmod//47 al//PM|NOM//nmod//47 ,//MID//punct//47 1996//RG|NOM//nummod//47 ;//MID//punct//47"
+4.1 Introduction;"Tauch//PM|NOM//nmod//47 et//PM|NOM//punct//53 al//PM|NOM//obl//53 ,//MID//punct//53 1995//RG|NOM//nummod//59 2//RG|NOM//nummod//59 Resistensfenotyp//PM|NOM//nmod//53 ;//MID//punct//53"
+4.1 Introduction;"MLS//PM|NOM//nmod//62 B//PM|NOM//appos//47  //_SP////62 =//MID//punct//65 makrolid-linkosamid-streptogramin//NN|UTR|SIN|DEF|NOM//nmod//66 B//PM|NOM//appos//7 ;//MID//punct//66"
+4.1 Introduction;S//PM|NOM//nmod//72 B//NN|NEU|SIN|IND|NOM//flat:name//68 =//MID//punct//71 streptogramin//NN|UTR|SIN|DEF|NOM//nmod//72 B//PM|NOM//appos//7 ,//MID//punct//72 S//PM|NOM//conj//72 A//PM|NOM//flat:name//74  //_SP////75 =//MID//punct//78 streptogramin//NN|UTR|SIN|DEF|NOM//conj//72 A//PM|NOM//nummod//78
+4.1 Introduction;VAN//PM|NOM//nmod//1 B.//PM|NOM//nmod//4 reported//PM|NOM//nmod//4 by//PM|NOM//nmod//4 Mullaney//PM|NOM//ROOT//4 (//PAD//punct//4 1995//RG|NOM//nummod//4 )//PAD//punct//4 .//MAD//punct//4
+4.1 Introduction;4.5.1//RG|NOM//nmod//10 Transmission//UO//conj//4 of//UO//case//13 bacteria//UO//nmod//13 4.5.2//RG|NOM//nmod//10 Transfer//UO//conj//10 of//UO//case//16 genes//UO//nmod//14
+4.1 Introduction;Experimental//UO//ROOT//0 transfer//UO//amod//2 studies//UO//appos//0
+4.1 Introduction;The//UO//det//2 selective//UO//amod//2 pressure//UO//ROOT//2
+4.1 Introduction;Population//NN|UTR|SIN|IND|NOM//nmod:poss//1 factors//UO//ROOT//1
+4.1 Introduction;Individual//UO//amod//1 factors//PM|NOM//nmod//2 4.6.3//RG|NOM//nmod:poss//3 Persistence//PM|NOM//compound//7 of//PM|NOM//case//6 resistance//PM|NOM//amod//6 4.8.1//RG|NOM//nmod//7 Salmonella//NN|UTR|SIN|IND|NOM//ROOT//7
+4.1 Introduction;Table//PM|NOM//ROOT//0 VIII//RG|NOM//obj//0 .//MAD//punct//0
+4.1 Introduction;Continued//PM|NOM//conj//0
+4.1 Introduction;Table//PM|NOM//nsubj//1 4.VIII//RG|NOM//ROOT//1 .//MID//punct//1
+4.1 Introduction;Continued//PM|NOM//nmod//5 4.8.2//RG|NOM//amod//5 Other//UO//appos//1 pathogens//UO//flat:name//5
+
+4.9 Summary comments;Glossary//NN|UTR|SIN|IND|NOM//ROOT//0
+4.9 Summary comments;References//NN|UTR|SIN|IND|NOM//ROOT//0
+4.9 Summary comments;189-199//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;%//NN|AN//nmod//2 PIDEMIOLOGY//PM|NOM//amod//2 AND//PM|NOM//ROOT//2 )//PAD//punct//2 NFECTION//PM|NOM//nmod//2 239-252//RG|NOM//nummod//4 .//MAD//punct//2
+4.9 Summary comments;1739-1745//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;pp//NN|AN//discourse//2 .//MAD//punct//0
+4.9 Summary comments;223-237//RG|NOM//ROOT//2 .//MAD//punct//2
+4.9 Summary comments;1206-1207//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;832-837//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;147//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;2336-2341//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;4RENDS//RG|NOM//ROOT//0 IN//AB//nummod//0 -ICROBIOLOGY//MID//punct//1 337-339//RG|NOM//nmod//0 .//MAD//punct//0
+4.9 Summary comments;714//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;'//PAD//punct//1 REKO//JJ|POS|UTR|SIN|IND|NOM//ROOT//1 #//NN|UTR|SIN|IND|NOM//nummod//1  //_SP////2 ,//MID//punct//1 1996//RG|NOM//nummod//1 .//MAD//punct//1
+4.9 Summary comments;Inventering//NN|UTR|SIN|IND|NOM//obj//1 av//PP//case//9 resistens//NN|UTR|SIN|IND|NOM//nmod//7 mot//PP//case//12 antibakteriella//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//12 medel//NN|NEU|PLU|IND|NOM//nmod//9 hos//PP//case//14 enterokocker//NN|UTR|PLU|IND|NOM//nmod//12 från//PP//case//16 kyckling//NN|UTR|SIN|IND|NOM//nmod//14 (//PAD//punct//18 rapport//NN|UTR|SIN|IND|NOM//appos//16 )//PAD//punct//18 .//MAD//punct//1
+4.9 Summary comments;National//PM|NOM//amod//22 Veterinary//PM|NOM//nmod//23 Institute//PM|NOM//conj//1 ,//MID//punct//25 Uppsala//PM|NOM//nmod//23 .//MAD//punct//1
+4.9 Summary comments;of//UO//case//2 Food//UO//nmod//2 Hygiene//UO//ROOT//2 ,//MID//punct//2 SLU//PM|NOM//conj//2 ,//MID//punct//6 Uppsala//PM|NOM//conj//2 ,//MID//punct//8 May//PM|NOM//conj//2 6-8//RG|NOM//nummod//8 ,//MID//punct//11 Uppsala//PM|NOM//conj//2 .//MAD//punct//2
+4.9 Summary comments;-//MID//punct//10 (//PAD//punct//2 A//PM|NOM//dep//10  //_SP////2 ,//MID//punct//2 1991//RG|NOM//nummod//2 .//MID//punct//2
+4.9 Summary comments;Resistensundersökning//NN|UTR|SIN|IND|NOM//nsubj//10 av//PP//case//9 svenska//NN|UTR|SIN|IND|NOM//nmod//7 isolat//NN|NEU|PLU|IND|NOM//ROOT//10 av//PP//case//13 Treponema//UO//amod//13 hyodysenteriae//UO//nmod//10 .//MAD//punct//10
+4.9 Summary comments;3VENSK//AB|AN//nummod//16 6ETERIN¤RTIDNING//RG|NOM//appos//10  //_SP////16 349-352//RG|NOM//nmod//16 .//MAD//punct//10
+4.9 Summary comments;103-109//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;6ETERINARY//AB|AN//case//2 2ECORD//NN|AN//nmod//2 495-500//RG|NOM//ROOT//2 .//MAD//punct//2
+4.9 Summary comments;617-622//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;macrolides//AB//ROOT//0 ,//MID//punct//2 lincosamides//VB|PRT|SFO//conj//0 and//PM|NOM//cc//0 streptogramin//NN|UTR|SIN|DEF|NOM//nmod//5 B//PM|NOM//nmod//0 (//PAD//punct//5 MLS//PM|NOM//appos//5 )//PAD//punct//5 in//UO//case//10 streptococci//NN|NEU|PLU|IND|NOM//conj//0 .//MAD//punct//0 *//MID//punct//13
+4.9 Summary comments;OURNAL//PM|NOM//conj//0 OF//NN|AN//nummod//13 !//MID//punct//14
+4.9 Summary comments;NTIMICROBIAL//PM|NOM//nmod//13 #//MID//punct//16 HEMOTHERAPY//PM|NOM//appos//16  //_SP////18 SUPPL//PM|NOM//conj//16 !//MID//punct//16
+4.9 Summary comments; //_SP////21 111-135//RG|NOM//nummod//13 .//MAD//punct//13
+4.9 Summary comments;%//NN|AN//nmod//2 PIDEMIOLOLGY//PM|NOM//nmod//2 AND//PM|NOM//ROOT//2 )//PAD//punct//2 NFECTION//PM|NOM//nmod//2 473-480//RG|NOM//nummod//4 .//MAD//punct//2
+4.9 Summary comments;206-208//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;Serumlaboratorium//PM|NOM//ROOT//0 ,//MID//punct//0 Copenhagen//PM|NOM//appos//0 .//MAD//punct//0
+4.9 Summary comments;441-447//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;272//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;&//KN|AN//cc//1 %//NN|AN//ROOT//1 -3//RG|NOM//nummod//1 -ICROBIOLOGY//MID//punct//1 LETTERS//PM|NOM//conj//1 165-172//RG|NOM//nummod//4 .//MAD//punct//1
+4.9 Summary comments;pp//NN|AN//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;221-235//RG|NOM//nummod//0 .//MAD//punct//2
+4.9 Summary comments;239//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;151//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;,//MID//punct//1 INTON//PM|NOM//ROOT//1 !//MAD//punct//1 (//PAD//punct//1 !//MID//punct//1
+4.9 Summary comments;L//PM|NOM//dep//1 #//MID//flat:name//5 HALABY//PM|NOM//nmod//5 ://MID//punct//5 !//MID//punct//1 -//MID//punct//1
+4.9 Summary comments;AND//PM|NOM//appos//1 (//PAD//punct//13 INTON//PM|NOM//appos//11 -//MID//punct//13 (//PAD//punct//13 ,//MID//punct//13 1985a//RG|NOM//conj//11 .//MAD//punct//11
+4.9 Summary comments;Natural//JJ|POS|UTR|SIN|IND|NOM//amod//20 subclinical//NN|UTR|SIN|IND|NOM//conj//11
+4.9 Summary comments;62-70//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;256-261//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;3//RG|NOM//nummod//1 July//PM|NOM//ROOT//1 ,//MID//punct//1 Oslo//PM|NOM//appos//1 .//MAD//punct//1
+4.9 Summary comments;p.//NN|UTR|SIN|IND|NOM//nmod//6 74//RG|NOM//nmod//1 .//MAD//punct//1
+4.9 Summary comments;139//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;6ETERINARY//AB|AN//case//2 2ECORD//AB|AN//punct//0 615-618//RG|NOM//ROOT//2 .//MAD//punct//2
+4.9 Summary comments;829-837//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;2350//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;86-90//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;170//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;Brussels//PM|NOM//ROOT//0 ,//MID//punct//0 Kiel//PM|NOM//conj//0 .//MAD//punct//0
+4.9 Summary comments;pp//NN|AN//conj//0 .//MAD//punct//0
+4.9 Summary comments;144-148//RG|NOM//conj//0 .//MAD//punct//0
+4.9 Summary comments;359-363//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;1163-1166//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;113-117//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;199-225//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;*//MID//punct//1 OURNAL//PM|NOM//ROOT//1 OF//NN|AN//nummod//1 (//PAD//punct//2 YGIENE//PM|NOM//nmod//5 217-231//RG|NOM//appos//2 .//MAD//punct//1
+4.9 Summary comments;150//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;119-131//RG|NOM//ROOT//0 .//MAD//punct//0
+4.9 Summary comments;$//NN|UTR|SIN|IND|NOM//nmod//1 ECEMBER//PM|NOM//ROOT//1  //_SP////1 http://www//RG|NOM//conj//1 .//MID//punct//1
+4.9 Summary comments;who.ch/press/1994/pr94-95.html//RG|NOM//conj//1 .//MAD//punct//1
+4.9 Summary comments;16-18//RG|NOM//discourse//4 ,//MID//punct//2 London//PM|NOM//conj//0 .//MAD//punct//0
+4.9 Summary comments;pp//NN|AN//nmod//6 .//MAD//punct//4
+4.9 Summary comments;61-70//RG|NOM//ROOT//6 .//MAD//punct//6
+4.9 Summary comments;179-184//RG|NOM//ROOT//0 .//MAD//punct//0
+

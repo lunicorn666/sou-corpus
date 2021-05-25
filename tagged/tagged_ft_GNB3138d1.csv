@@ -1,0 +1,130 @@
+
+Stockholm 1999;SOU//PM|NOM//ROOT//0 och//KN//cc//2 Ds//PM|NOM//conj//0 som//KN//mark//10 ingÂr//PAD//nsubj:pass//10 i//PP//case//7 1999//RG|NOM//nummod//7 Ârs//UO//nmod//4 nummerserie//NN|UTR|SIN|IND|NOM//advmod//10 kan//VB|PRS|AKT//aux//10 kˆpas//VB|INF|SFO//acl:relcl//0 frÂn//NN|NEU|SIN|IND|NOM//compound:prt//10 Fakta//NN|NEU|PLU|IND|NOM//nmod//13 Info//PM|NOM//obl//10 Direkt//AB|POS//advmod//10 .//MAD//punct//0
+Stockholm 1999;Fˆr//VB|IMP|AKT//nmod:poss//17 remissuts‰ndningar//NN|UTR|PLU|IND|NOM//appos//0 av//PP//case//19 SOU//PM|NOM//nmod//17 och//KN//cc//21 Ds//PM|NOM//conj//19 som//KN//nsubj//28 ingÂr//PAD//nsubj//28 i//PP//case//26 1999//RG|NOM//nummod//26 Ârs//NN|UTR|PLU|IND|GEN//nmod//23 nummerserie//NN|UTR|SIN|IND|NOM//nmod//23 svarar//VB|PRS|AKT//acl:relcl//17 Fakta//NN|NEU|PLU|IND|NOM//nmod//30 Info//PM|NOM//obj//28 Direkt//AB|POS//advmod//32 pÂ//NN|AN//amod//33 uppdrag//NN|NEU|SIN|IND|NOM//obj//28 av//PP//case//36 Regeringskansliets//NN|NEU|SIN|DEF|GEN//nmod:poss//36 fˆrvaltningsavdelning//NN|UTR|SIN|IND|NOM//nmod//33 .//MAD//punct//17
+Stockholm 1999;Best‰llningsadress//NN|UTR|SIN|IND|NOM//ROOT//0 ://MID//punct//0
+Stockholm 1999;Fakta//NN|NEU|SIN|IND|NOM//nmod//3 Info//PM|NOM//appos//0 Direkt//AB|POS//advmod//3 ,//MID//punct//6 Kundservice//NN|UTR|SIN|IND|NOM//conj//4
+Stockholm 1999;Box//PM|NOM//ROOT//0 6430//RG|NOM//nummod//5 ,//MID//punct//1 113//RG|NOM//nummod//5 82//RG|NOM//nummod//5 Stockholm//PM|NOM//obj//0
+Stockholm 1999;E-post//NN|UTR|SIN|IND|NOM//ROOT//0 ://MAD//punct//0
+Stockholm 1999;order@faktainfo.se//PAD//appos//0
+Stockholm 1999;Svara//PM|NOM//nmod:poss//2 pÂ//PP|AN//amod//2 remiss//NN|UTR|SIN|IND|NOM//ROOT//2 .//MAD//punct//2
+Stockholm 1999;Hur//HA//advmod//8 och//KN//cc//6 varfˆr//NN|UTR|PLU|IND|NOM//conj//4 .//MAD//punct//4
+Stockholm 1999;StatsrÂdsberedningen//PM|NOM//appos//2 ,//MID//punct//8 1993//RG|NOM//nummod//8 .//MAD//punct//8
+Stockholm 1999;ñ//NN|NEU|SIN|IND|NOM//case//15 En//DT|UTR|SIN|IND//det//15 liten//JJ|POS|UTR|SIN|IND|NOM//amod//15 broschyr//NN|UTR|SIN|IND|NOM//conj//8 som//HP|-|-|-//nsubj//17 underl‰ttar//RG|NOM//amod//18 arbetet//NN|NEU|SIN|DEF|NOM//nmod//15 fˆr//PP//punct//15 den//PN|UTR|SIN|DEF|SUB/OBJ//nmod//15 som//HP|-|-|-//nsubj//23 skall//VB|PRS|AKT//aux//23 svara//VB|INF|AKT//acl:relcl//20 pÂ//PP|AN//amod//25 remiss//NN|UTR|SIN|IND|NOM//obj//23 .//MAD//punct//8
+Stockholm 1999;Information//NN|UTR|SIN|IND|NOM//nmod//1 Rosenbad//PM|NOM//ROOT//1 Regeringskansliet//NN|NEU|SIN|DEF|NOM//flat//1 103//RG|NOM//nummod//5 33//RG|NOM//nummod//5 Stockholm//PM|NOM//nmod//1 Fax//PM|NOM//nummod//1 ://MID//punct//6
+Stockholm 1999;08-405//RG|NOM//nmod//9 42//RG|NOM//nummod//11 95//RG|NOM//nummod//11 Telefon//NN|UTR|SIN|IND|NOM//appos//1 ://MID//punct//11
+Stockholm 1999;08-405//RG|NOM//nmod//15 47//RG|NOM//nmod//15 29//RG|NOM//appos//11
+Stockholm 1999;ISBN//PM|NOM//nmod//1 91-7610-790-6//RG|NOM//ROOT//1
+Stockholm 1999;ISSN//PM|NOM//nmod//1 0375-250X//RG|NOM//ROOT//1
+Stockholm 1999;Elanders//PM|NOM//nmod:poss//1 Gotab//PM|NOM//ROOT//1 ,//MID//punct//3 Stockholm//PM|NOM//conj//1 2000//RG|NOM//nummod//3 ,//MID//punct//6 QQHKnOOVI|UWHFNQLQJ//RG|NOM//conj//1 )//PAD//punct//6 |URUG//DT|MAS|SIN|DEF//conj//1 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 6DPPDQIDWWQLQJ//KN|AN//nmod//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 6OXWVDWVHU//PM|SMS//nummod//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//8 ´//PM|NOM//punct//1
+
+5HIHUDW IUnQ KHDULQJHQ;(//PAD//punct//1 WDEOHULQJ//PM|NOM//ROOT//1 L//PM|NOM//nsubj//1 6YHULJH//PAD//nummod//1 UHJLRQDOW//PM|NOM//conj//1 3DWULN//RG|NOM//nummod//1 ://MID//punct//5
+5HIHUDW IUnQ KHDULQJHQ;LQNYLVW//NN|UTR|SIN|DEF|NOM//appos//5 6YHQVND//AB|AN//nummod//7 (//PAD//punct//7 WDEOHULQJV//PM|NOM//appos//7 $//PM|NOM//conj//7 %//NN|AN//obl//13 ´//PM|NOM//amod//20 ´//PM|NOM//fixed//13 ´//PM|NOM//punct//14 ´//PM|NOM//punct//15 ´//PM|NOM//punct//16 ´//PM|NOM//fixed//17 '//PAD//punct//20 LJL'RF//NN|UTR|SIN|IND|NOM//conj//7 +//MID//cc//22 nNDQ//NN|AN//conj//20 (//PAD//punct//7 OLDVVRQ//PM|NOM//appos//7 ´//PM|NOM//punct//24 ´//PM|NOM//advmod//27 ´//PM|NOM//punct//24 ´//PM|NOM//punct//27 ´//PM|NOM//punct//24 ´//PM|NOM//punct//24 ´//PM|NOM//punct//24 ´//PM|NOM//punct//24 ´//PM|NOM//punct//24 ´//PM|NOM//punct//24 ´//PM|NOM//punct//24 ´//PM|NOM//punct//24 ´//PM|NOM//punct//24 ´//PM|NOM//punct//24 ´//PM|NOM//punct//24 ´//PM|NOM//punct//24 ´//PM|NOM//punct//24 ´//PM|NOM//punct//24 ´//PM|NOM//punct//24 ´//PM|NOM//punct//24 ´//PM|NOM//punct//24 ´//PM|NOM//punct//24 ´//PM|NOM//punct//24 ´//PM|NOM//conj//7
+
+
+)|URUG;6WRFNKROP//AB|AN//ROOT//0 QRYHPEHU//NN|UTR|SIN|IND|NOM//nsubj//0
+
+6DPPDQIDWWQLQJ;Christopher//PM|NOM//nmod//1 Lowén//PM|NOM//nsubj//5 ,//MID//punct//1 VM-Data//PM|NOM//nmod//4 0DUNQDG//KN|AN//appos//1 I|U//PM|NOM//ROOT//5 &//KN|AN//cc//7 DOO//PM|NOM//conj//5 &//KN|AN//cc//9 HQWHU//PM|NOM//nmod//10 L//PM|NOM//nmod//7 6YHULJH//PM|SMS//flat:name//10 ,//MID//punct//13 QWHUQDWLRQHOO//PM|NOM//conj//5 XWYHFNOLQJ//PM|NOM//flat:name//13
+6DPPDQIDWWQLQJ;Patrik//PM|NOM//ROOT//0 Winkvist//PM|NOM//flat//0 ,//MID//punct//4 Svenska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//4 Etablerings//PM|GEN//conj//0 AB//NN|AN//conj//0 %//NN|AN//flat:name//0 ,//MID//punct//6 7//RG|NOM//nummod//0 (//PAD//punct//8 $//NN|NEU|SIN|IND|NOM//nmod//11 %//NN|AN//appos//0
+6DPPDQIDWWQLQJ;Tomas//PM|NOM//ROOT//0 Rogalin//PM|NOM//flat:name//0 *//MID//punct//3 HGGHKROP//PM|NOM//conj//0 &//KN|AN//cc//5 DOO//PM|NOM//conj//3 &//KN|AN//cc//7 HQWHU//PM|NOM//conj//3
+6DPPDQIDWWQLQJ;Torbjörn//PM|NOM//nmod//1 Norée//PM|NOM//nsubj//3 '//PAD//punct//3 LJL'RF//NN|UTR|SIN|IND|NOM//ROOT//3
+6DPPDQIDWWQLQJ;Håkan//PM|NOM//ROOT//0 Eliasson//PM|NOM//flat//0 vd//NN|AN//nmod//3 6$6//RG|NOM//obj//0
+6DPPDQIDWWQLQJ;Ann//PM|NOM//ROOT//0 Grivas-Persson//PM|NOM//flat:name//0
+6DPPDQIDWWQLQJ;Jon//PM|NOM//nmod//12 Rognes//PM|NOM//flat:name//0 ,//MID//punct//3 IMIT//PM|NOM//conj//0 och//KN//cc//5 Handelshögskolan//NN|UTR|SIN|DEF|NOM//conj//0 ,//MID//punct//9 QIRUPDWLRQV//PM|NOM//nmod//8 RFK//PM|NOM//obl//9 NRPPXQLNDWLRQVWHNQLN//PM|NOM//amod//10 RFK//PM|NOM//flat:name//0 Q\D//RG|NOM//nmod//12 RUJDQLVDWLRQVIRUPHU//PM|NOM//ROOT//12
+6DPPDQIDWWQLQJ;Ewa//PM|NOM//ROOT//0 Gunnarsson//PM|NOM//flat:name//0 ,//MID//punct//3 Centrum//NN|NEU|SIN|IND|NOM//conj//0 för//PP//case//5 Kvinnoforskning//NN|UTR|SIN|IND|NOM//nmod//3 vid//PP//case//8 Stockholms//PM|GEN//nmod:poss//8 Universitet//NN|NEU|SIN|IND|NOM//nmod//5
+6DPPDQIDWWQLQJ;Allan//PM|NOM//ROOT//0 Tomingas//PM|NOM//flat:name//0 ,//MID//punct//1 Arbetslivsinstitutet//NN|NEU|SIN|DEF|NOM//conj//0
+6DPPDQIDWWQLQJ;XQGHUV|NQLQJ//VB|PRS|AKT//nmod//1 DY//PM|NOM//nsubj//2 HQ//PM|NOM//ROOT//2 DUEHWVSODWV//PM|NOM//compound:prt//2 9LGDUH//NN|AN//nummod//5 VWXGLHU//PM|NOM//obj//2 EHK|YV//PM|NOM//nmod//5 6YHULJH//PAD//nummod//10 lU//PM|NOM//cc//7 YlO//PM|GEN//conj//7 UXVWDW//PM|NOM//nmod//11 YDG//PM|NOM//nmod//5 JlOOHU//RG|NOM//amod//13 $//MID//nmod//2 UEHWVJLYDUHQV//PM|NOM//conj//2 V\Q//RG|NOM//obj//14
+6DPPDQIDWWQLQJ;Gunnar//PM|NOM//ROOT//0 Ekbrant//PM|NOM//flat:name//0 ,//MID//punct//0 Tjänsteföretagen//NN|UTR|SIN|DEF|NOM//conj//0 )//PAD//punct//3 DFNHWV//PM|NOM//amod//6 V\Q//RG|NOM//conj//0
+6DPPDQIDWWQLQJ;Tommy//PM|NOM//ROOT//0 Mases//PM|NOM//flat:name//0 ,//MID//punct//1 HTF//PM|NOM//conj//0
+
+6OXWVDWVHU;'//PAD//punct//1 HILQLWLRQVSUREOHP//PM|NOM//nsubj//32 '//PAD//punct//1 LVWDQVVXSSRUW//PM|NOM//appos//1 +//MID//cc//5 HOSGHVN//PM|NOM//conj//3 '//PAD//punct//7 LVWDQVDUEHWH//PM|NOM//conj//1 &//KN|AN//cc//9 DOO//PM|NOM//conj//1 &//KN|AN//cc//11 HQWHU//PM|NOM//conj//1 I|UHWDJHQ//PM|NOM//conj//1 lU//PM|NOM//punct//1 YlO//PM|NOM//punct//1 VSULGGD//PM|NOM//conj//1 |YHU//NN|AN//punct//1 ODQGHW//PM|NOM//conj//1 &//KN|AN//cc//19 DOO//PM|NOM//conj//1 &//KN|AN//punct//1 HQWHUV//PM|NOM//conj//1 lU//PM|NOM//punct//1 WLOO//PM|NOM//punct//1 VLQ//PM|NOM//appos//1 NDUDNWlU//PM|GEN//conj//1 GLVWDQVREHURHQGH//PM|NOM//punct//1 RFK//PM|NOM//conj//1 OlPSDU//MID//punct//1 VLJ//PM|NOM//conj//1 YlO//PM|NOM//punct//1 I|U//PM|NOM//amod//32 ORNDOLVHULQJ//PM|NOM//nmod//33 L//PM|NOM//compound//39 JOHVE\JG//PM|NOM//flat//33 RFK//PM|NOM//nmod//36 P//PM|NOM//conj//33 ånga//PM|NOM//compound//39 Call//PM|NOM//compound//39 Centers//PM|NOM//nsubj:pass//41 har//VB|PRS|AKT//aux//41 etablerats//VB|SUP|SFO//ROOT//41 i//PP//case//43 glesbygd//NN|UTR|SIN|IND|NOM//obl//41 med//PP//case//46 regionalpolitiskt//JJ|POS|NEU|SIN|IND|NOM//amod//46 stöd//NN|NEU|SIN|IND|NOM//nmod//43 .//MAD//punct//41
+
+
+9lONRPVWDQI|UDQGH;Christer//PM|NOM//compound//1 Marking//PM|NOM//ROOT//1 ,//MID//punct//1 kanslichef//NN|UTR|SIN|IND|NOM//nmod//4 IT-kommissionen//NN|UTR|SIN|DEF|NOM//conj//1
+
+%ORFN (2);Christopher//PM|NOM//nmod//1 Lowén//PM|NOM//ROOT//1 ,//MID//punct//1 VM-Data//PM|NOM//nmod//4 6DPPDQIDWWQLQJ//RG|NOM//appos//1
+%ORFN (2);•//NN|UTR|SIN|IND|NOM//case//1 7HOHIRQLVWHUQD//AB|AN//ROOT//1
+%ORFN (2);•//NN|UTR|SIN|IND|NOM//ROOT//0 )//PAD//punct//0 |UVlOMQLQJVDYGHOQLQJHQ//RG|NOM//punct//1
+%ORFN (2);•//NN|UTR|SIN|IND|NOM//nmod//1 5HNODPDWLRQVDYGHOQLQJHQ//AB|AN//ROOT//1
+%ORFN (2);•//NN|UTR|SIN|IND|NOM//nmod//1 7HOHIRQVYDUDUH//AB|AN//ROOT//1
+%ORFN (2);•//NN|UTR|SIN|IND|NOM//ROOT//0 *//MID//punct//2 UXSSQXPPHU//NN|UTR|SIN|DEF|NOM//advmod//0
+%ORFN (2);•//NN|UTR|SIN|IND|NOM//nmod//1 $//NN|UTR|SIN|IND|NOM//ROOT//1 &//KN|AN//cc//1 '//PAD//punct//1 IXQNWLRQHU//PM|NOM//nmod//5 L//PM|NOM//appos//1 VHSDUDWD//PM|NOM//nmod//7 $//NN|UTR|SIN|IND|NOM//nmod//1 &//KN|AN//conj//1 '//PAD//punct//1 Yl//NN|NEU|SIN|IND|NOM//nmod//12 [//PAD//nmod//12 ODU//PM|NOM//appos//1
+%ORFN (2);•//NN|UTR|SIN|IND|NOM//nmod//1 9l//RG|NOM//ROOT//1 [//PAD//nmod//4 HOOHYHUDQW|UHUQDV//UO//nmod//4 PDUNQDG//NN|NEU|SIN|DEF|NOM//nsubj//1
+%ORFN (2);•//NN|UTR|SIN|IND|NOM//nmod//1 5|VWEUHYOnGRU//NN|UTR|SIN|IND|NOM//ROOT//1
+%ORFN (2);•//NN|UTR|SIN|IND|NOM//case//2 $//PM|NOM//nmod//2 XGLRWH//PM|NOM//nmod//4 [//PAD//nmod//4 V\VWHP//RG|NOM//ROOT//4
+%ORFN (2);•//NN|UTR|SIN|IND|NOM//discourse//4 &//KN|AN//cc//0 7//RG|NOM//nummod//0 ,//MID//punct//0 GLVNXWHUDV//NN|UTR|SIN|IND|NOM//ROOT//4
+%ORFN (2);•//NN|UTR|SIN|IND|NOM//nmod//1 $//PM|NOM//ROOT//1 QDORJD//PM|NOM//case//3 OLQMHNRUW//PM|NOM//nmod//1
+%ORFN (2);•//NN|UTR|SIN|IND|NOM//nmod//1 9l//RG|NOM//ROOT//1 [//PAD//nmod//3 HOOlQNDU//RG|NOM//appos//1 GDLOHUV//PM|NOM//nmod//3
+%ORFN (2);•//NN|UTR|SIN|IND|NOM//nsubj//3 +//MID//cc//2 DQGOlJJDUSURILOHU//PAD//conj//0 EHPDQQLQJVSODQHULQJVV\VWHP//RG|NOM//ROOT//3
+%ORFN (2);•//NN|UTR|SIN|IND|NOM//advmod//2 8QLILHG//AB|AN//case//2 0HVVDJLQJ//MAD//ROOT//2
+%ORFN (2);•//NN|UTR|SIN|IND|NOM//ROOT//0
+%ORFN (2);•//NN|UTR|SIN|IND|NOM//case//2 6NDSD//AB|AN//nummod//2 NRQNXUUHQVI|UGHODU//NN|NEU|SIN|IND|NOM//ROOT//2
+%ORFN (2);•//NN|UTR|SIN|IND|NOM//case//2 $//UO//nmod//2 XWRPDWLVHUD//UO//ROOT//2 WMlQVWHU//UO//punct//2
+%ORFN (2);•//NN|UTR|SIN|IND|NOM//nmod//1 1\D//RG|NOM//obl//4 P|MOLJKHWHU//PM|NOM//nummod//1 I|U//PM|NOM//amod//4 PDUNQDGVDNWLYLWHWHU//PM|NOM//ROOT//4
+%ORFN (2);"•//NN|UTR|SIN|IND|NOM//case//2 8Q3//RG|NOM//nummod//2 %//NN|AN//ROOT//2 ;//MAD//punct//2"
+%ORFN (2);6DPPDQIDWWQLQJ//RG|NOM//appos//2
+
+Vad är ett virtuellt Call Center;Uppringande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//1 kunder//NN|UTR|PLU|IND|NOM//ROOT//1
+
+7HOLDV 7HOHQlW;Telias//PM|GEN//nmod:poss//1 datornod//NN|UTR|SIN|IND|NOM//ROOT//1 som//HP|-|-|-//nsubj//3 realiserar//VB|PRS|AKT//acl:relcl//1 den//DT|UTR|SIN|DEF//det//7 virtuella//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//6 Call//PM|NOM//amod//7 Center//PM|NOM//obj//3 tjänsten//NN|UTR|SIN|DEF|NOM//obj//3
+7HOLDV 7HOHQlW;Funktionsavtal//NN|NEU|SIN|IND|NOM//ROOT//0 för//PP//case//5 exakt//AB|POS//advmod//5 de//DT|UTR/NEU|PLU|DEF//det//5 Call//PM|NOM//amod//5 Center-funktioner//NN|UTR|PLU|IND|NOM//nmod//0 som//HP|-|-|-//nsubj:pass//7 efterfrågas//VB|PRS|SFO//acl:relcl//5
+7HOLDV 7HOHQlW;Vi//PN|UTR|PLU|DEF|SUB//nsubj//1 levererar//VB|PRS|AKT//ROOT//1 de//DT|UTR/NEU|PLU|DEF//det//3 funktioner//NN|UTR|PLU|IND|NOM//obj//1 i//PP//case//6 våra//PS|UTR/NEU|PLU|DEF//nmod:poss//6 tele-//NN|UTR|-|-|SMS//obl//1 och//KN//cc//8 datanät//NN|NEU|PLU|IND|NOM//conj//6 överallt//AB//advmod//1 där//HA//advmod//12 det//PN|NEU|SIN|DEF|SUB/OBJ//expl//12 finns//VB|PRS|SFO//advcl//1 en//DT|UTR|SIN|IND//det//14 teleanslutning//NN|UTR|SIN|IND|NOM//nsubj//12
+7HOLDV 7HOHQlW;•//NN|UTR|SIN|IND|NOM//ROOT//0
+
+
+7DOWHNQRORJL;•//NN|UTR|SIN|IND|NOM//ROOT//0
+7DOWHNQRORJL;•//NN|UTR|SIN|IND|NOM//ROOT//0
+
+Utvecklingen inom Taligenkänning;&//KN|AN//cc//1 RPSOH//NN|UTR|SIN|IND|NOM//ROOT//1 [//PAD//punct//1 LW\//NN|UTR|SIN|IND|NOM//amod//4 1DWXUDO//MID//nmod//5 YRLFH//PM|NOM//nmod//1 LQWHUIDFH//PM|NOM//flat//5 &//KN|AN//cc//8 RQYHUVDWLRQDO//PM|NOM//conj//1 GLDORJ//PM|NOM//flat:name//8 1DWXUDO//MID//conj//1 GLUHFWHG//PM|NOM//nmod//12 GLDORJ//PM|NOM//nmod//10
+Utvecklingen inom Taligenkänning;Interactive//UO//nsubj//5 ,//MID//punct//3 large//UO//amod//3 vocabulary//UO//conj//0 '//PAD//punct//3 LUHFWHG//PM|NOM//ROOT//5 GLDORJ//PM|NOM//nummod//5
+Utvecklingen inom Taligenkänning;Small//UO//nmod//1 vocabulary//UO//nsubj//5 '//PAD//punct//1 70//RG|NOM//nummod//1 )//PAD//punct//1 UHSODFHPHQW//NN|NEU|SIN|DEF|NOM//ROOT//5
+Utvecklingen inom Taligenkänning;Digits//UO//ROOT//0 ,//MID//punct//0 yes//UO//punct//0 -no//UO//nummod//4 3UHPDWXUH//RG|NOM//conj//0
+Utvecklingen inom Taligenkänning;WHFKQRORJ\//AB|AN//ROOT//0
+Utvecklingen inom Taligenkänning;•//NN|UTR|SIN|IND|NOM//ROOT//0
+
+7DOVW\UGD WMlQVWHU;•//NN|UTR|SIN|IND|NOM//discourse//2 %//NN|AN//amod//2 LOUHJLVWUHW//PM|NOM//ROOT//2
+7DOVW\UGD WMlQVWHU;•//NN|UTR|SIN|IND|NOM//nmod//1 6-//RG|NOM//ROOT//1
+7DOVW\UGD WMlQVWHU;•//NN|UTR|SIN|IND|NOM//case//3 7HOLD//PAD//nmod//3 '//PAD//punct//3 LJL7DOD//NN|UTR|PLU|IND|NOM//ROOT//3
+7DOVW\UGD WMlQVWHU;Lars//PM|NOM//ROOT//0 Irenius//PM|NOM//flat:name//0 ,//MID//punct//0 från//PP//case//4 Ericsson//PM|NOM//nmod//7 Enterprise//PM|NOM//flat//4 Systems//PM|NOM//conj//4 6DPPDQIDWWQLQJ//RG|NOM//nmod//0 (//PAD//punct//0 IIHNWLY//PM|NOM//parataxis//0 NXQGNRPPXQLNDWLRQ//PM|NOM//nsubj//9 1|MGD//RG|NOM//conj//0 NXQGHU//PM|NOM//nmod//0 #//NN|UTR|SIN|IND|NOM//punct//0 /lJVWD//RG|NOM//conj//0 NRVWQDG//PM|NOM//conj//0 WUDQVDNWLRQ//PM|NOM//flat:name//0
+
+&XVWRPHU 6HUYLFH /DQGVFDSH;3UHPLXP//AB|AN//nummod//1 6HUYLFH//AB|AN//ROOT//1 ,//MID//punct//1 QHIIHFWLYH//PM|NOM//nsubj//8 VHUYLFH//NN|NEU|SIN|DEF|NOM//nsubj//3 )//PAD//punct//3 DFH//PM|NOM//nmod//7 WR//PM|NOM//conj//3 IDFH//PM|NOM//appos//1
+&XVWRPHU 6HUYLFH /DQGVFDSH;•//NN|UTR|SIN|IND|NOM//case//2 1\//RG|NOM//nummod//2 NRPSHWHQV//PM|NOM//ROOT//2
+&XVWRPHU 6HUYLFH /DQGVFDSH;•//NN|UTR|SIN|IND|NOM//punct//2 1\//RG|NOM//det//2 WHNQRORJL//NN|AN//ROOT//2 '//PAD//punct//4 ULIWVVlNHUKHW.DSDFLWHW6NDOEDUKHW//NN|UTR|SIN|IND|NOM//nummod//2 )//PAD//punct//4 UDPWLGVVlNULQJ//PAD//conj//2
+&XVWRPHU 6HUYLFH /DQGVFDSH;•//NN|UTR|SIN|IND|NOM//case//2 1\//RG|NOM//nummod//2 RUJDQLVDWLRQ//PM|NOM//ROOT//2
+&XVWRPHU 6HUYLFH /DQGVFDSH;WDOHW//PM|NOM//ROOT//0
+&XVWRPHU 6HUYLFH /DQGVFDSH;WHOHIRQL//PM|NOM//nsubj:pass//22 6YDU//RG|NOM//punct//0 -D//MID//punct//3 6DPPDQIDWWQLQJ//AB|AN//nmod//6 &//KN|AN//cc//3 DOOFHQWHUSURMMHNW//PM|NOM//conj//3 Sn//PM|NOM//nsubj:pass//22 ,//MID//punct//6 6//RG|NOM//nummod//9 $//NN|UTR|SIN|IND|NOM//nmod//11 37//RG|NOM//nummod//11 %//NN|AN//nmod//6 av//PP//case//15 alla//DT|UTR/NEU|PLU|IND/DEF//det//15 nya//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//15 jobb//NN|NEU|PLU|IND|NOM//nmod//11 i//PP//case//18 EU//PM|NOM//nmod//18 96-98//RG|NOM//nmod//15 var//VB|PRT|AKT//cop//6 i//PP//case//21 callcenter//NN|NEU|SIN|IND|NOM//obl//22 Drivs//VB|PRS|SFO//ROOT//22 av//PP//case//24 staten//NN|UTR|SIN|DEF|NOM//obl:agent//22 och//KN//cc//26 Telia//PM|NOM//conj//24 gemensamt//AB|POS//advmod//22
+&XVWRPHU 6HUYLFH /DQGVFDSH;Hitta//VB|INF|AKT//nsubj//10 och//KN//cc//2 hjälpa//VB|INF|AKT//conj//0 investerare//NN|UTR|PLU|IND|NOM//obj//0 till//PP//case//6 rätt//JJ|POS|UTR|SIN|IND|NOM//amod//6 region//NN|UTR|SIN|IND|NOM//obl//0 i//PP//case//8 Sverige//PM|NOM//nmod//6 Vara//VB|INF|AKT//cop//10 delaktig//JJ|POS|UTR|SIN|IND|NOM//ROOT//10 i//PP//case//14 3500//RG|NOM//nummod//14 nya//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//14 jobb//NN|NEU|PLU|IND|NOM//nmod//15 98-03//RG|NOM//obj//10
+&XVWRPHU 6HUYLFH /DQGVFDSH;Ingen//PN|UTR|SIN|IND|SUB/OBJ//ROOT//0 av//PP//case//3 de//DT|UTR/NEU|PLU|DEF//det//3 stora//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//nmod//0 på//PP//case//6 samma//DT|UTR/NEU|SIN/PLU|IND//det//6 ort//NN|UTR|SIN|IND|NOM//nmod//3
+&XVWRPHU 6HUYLFH /DQGVFDSH;Svenska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//1 fördelningen//NN|UTR|SIN|DEF|NOM//ROOT//1 (//PAD//punct//1 Ovum//PM|NOM//appos//1  //_SP////3 -99//RG|NOM//nummod//3 )//PAD//punct//3 &//KN|AN//cc//8 DOOFHQWHUPDUNQDGHQ//PM|NOM//conj//1
+&XVWRPHU 6HUYLFH /DQGVFDSH;USA//PM|NOM//ROOT//0 -//MID//punct//0 5//RG|NOM//nummod//5 000//RG|NOM//nummod//5 000//RG|NOM//nummod//5 pers//NN|NEU|PLU|IND|NOM//appos//0 .//MAD//punct//0
+&XVWRPHU 6HUYLFH /DQGVFDSH;med//PP//case//10 5-15//RG|NOM//nummod//9 %//NN|AN//nmod//10 tillväxt//NN|UTR|SIN|IND|NOM//nmod//0
+&XVWRPHU 6HUYLFH /DQGVFDSH;Europa//PM|NOM//ROOT//0 -//MID//punct//0 1//RG|NOM//nummod//5 500//RG|NOM//nummod//5 000//RG|NOM//nummod//5 pers//NN|NEU|PLU|IND|NOM//appos//0 .//MAD//punct//0
+&XVWRPHU 6HUYLFH /DQGVFDSH;med//PP//case//10 25-60//RG|NOM//nummod//9 %//NN|AN//nmod//10 tillväxt//NN|UTR|SIN|IND|NOM//nmod//0
+&XVWRPHU 6HUYLFH /DQGVFDSH;Alla//DT|UTR/NEU|PLU|IND/DEF//det//1 fakta//NN|NEU|PLU|IND|NOM//ROOT//1 är//VB|PRS|AKT//cop//3 hypoteser//NN|UTR|PLU|IND|NOM//nsubj//1
+&XVWRPHU 6HUYLFH /DQGVFDSH;Antalet//NN|NEU|SIN|DEF|NOM//nmod//1 anställda//NN|UTR|PLU|IND|NOM//nsubj//5 i//PP//case//3 Sverige//PM|NOM//nmod//1 är//VB|PRS|AKT//cop//5 okänt//JJ|POS|NEU|SIN|IND|NOM//ROOT//5
+&XVWRPHU 6HUYLFH /DQGVFDSH;Definition//NN|UTR|SIN|IND|NOM//nsubj//5 av//PP//case//2 vad//HP|NEU|SIN|IND//nmod//0 callcenter//NN|NEU|SIN|IND|NOM//nsubj//2 är//VB|PRS|AKT//cop//5 sakans//NN|UTR|SIN|DEF|GEN//ROOT//5
+&XVWRPHU 6HUYLFH /DQGVFDSH;Marknaden//NN|UTR|SIN|DEF|NOM//nsubj//1 tror//VB|PRS|AKT//ROOT//1 mellan//PP//case//6 25//RG|NOM//nummod//6 och//KN//cc//3 60//RG|NOM//nummod//3 %//NN|AN//obl//1
+&XVWRPHU 6HUYLFH /DQGVFDSH;UK//PM|NOM//ROOT//0
+&XVWRPHU 6HUYLFH /DQGVFDSH;ISA//PM|NOM//nsubj//8 ://MID//punct//0 s//NN|NEU|SIN|IND|GEN//nummod//3 bedömning//NN|UTR|SIN|IND|NOM//nmod//0 är//VB|PRS|AKT//cop//8 30-39//RG|NOM//nummod//6 %//NN|AN//nmod//7 tillväxt//NN|UTR|SIN|IND|NOM//nmod//8 98-03//RG|NOM//ROOT//8
+&XVWRPHU 6HUYLFH /DQGVFDSH;Antal//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//nmod//1 jobb//NN|NEU|PLU|IND|NOM//ROOT//1 i//PP//case//3 Sverige//PM|NOM//nmod//1 inom//PP//case//5 callcenter//NN|NEU|SIN|IND|NOM//nmod//1
+&XVWRPHU 6HUYLFH /DQGVFDSH;Källa//NN|UTR|SIN|IND|NOM//ROOT//0 ://MID//punct//0
+&XVWRPHU 6HUYLFH /DQGVFDSH;ISA//PM|NOM//appos//0 intern//JJ|POS|UTR|SIN|IND|NOM//nmod:poss//4 hypotes//NN|UTR|SIN|IND|NOM//conj//2
+&XVWRPHU 6HUYLFH /DQGVFDSH;Källa//NN|UTR|SIN|IND|NOM//ROOT//0 ://MID//punct//0
+&XVWRPHU 6HUYLFH /DQGVFDSH;ISA//PM|NOM//appos//0 intern//JJ|POS|UTR|SIN|IND|NOM//nmod:poss//4 hypotes//NN|UTR|SIN|IND|NOM//conj//2 6YHULJHV//KN//punct//2 KXYXGDUJXPHQW//PM|NOM//conj//2
+&XVWRPHU 6HUYLFH /DQGVFDSH;Störst//JJ|SUV|UTR/NEU|SIN/PLU|IND|NOM//amod//1 marknad//NN|UTR|SIN|IND|NOM//nmod//3 Centralt//JJ|POS|NEU|SIN|IND|NOM//amod//3 läge//NN|NEU|SIN|IND|NOM//nmod//5 Lägre//JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//5 kostnader//NN|UTR|PLU|IND|NOM//ROOT//5
+&XVWRPHU 6HUYLFH /DQGVFDSH;Enda//JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//1 landet//NN|NEU|SIN|DEF|NOM//ROOT//1 med//PP//case//7 alla//DT|UTR/NEU|PLU|IND/DEF//det//5 nordiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//5 språk//NN|NEU|PLU|IND|NOM//nmod//7 Bästa//JJ|SUV|UTR/NEU|SIN/PLU|DEF|NOM//amod//7 referenser//NN|UTR|PLU|IND|NOM//nmod//1
+
+,QWHUQDWLRQHOO XWYHFNOLQJ;6DPPDQIDWWQLQJ//AB|AN//nsubj//3 7HOHIRQI|UVlOMQLQJ//RG|NOM//punct//0 7HOHPDUNHWLQJ//NN|AN//cop//3 RXWERXQG//PM|NOM//ROOT//3
+,QWHUQDWLRQHOO XWYHFNOLQJ;RXWERXQG//PM|GEN//ROOT//0 LQERXQG//PM|NOM//flat//0 &//KN|AN//cc//3 DOO//PM|NOM//conj//1 &//KN|AN//cc//5 HQWHUV//PM|NOM//conj//1 &//KN|AN//cc//7 RQWDFW//PM|NOM//conj//1 &//KN|AN//cc//9 HQWHUV//PM|NOM//conj//1
+
+8WYHFNOLQJHQ;•//NN|UTR|SIN|IND|NOM//ROOT//0 (//PAD//punct//2 QVWDND//PM|NOM//dep//0 WHOHIRQHU//PM|NOM//nsubj//2
+8WYHFNOLQJHQ;•//NN|UTR|SIN|IND|NOM//nmod//1 6ZHDWVKRSV//RG|NOM//ROOT//1
+8WYHFNOLQJHQ;•//NN|UTR|SIN|IND|NOM//nmod//1 7HNQRORJL//AB|AN//ROOT//1
+8WYHFNOLQJHQ;•//NN|UTR|SIN|IND|NOM//ROOT//0
+8WYHFNOLQJHQ;DUEHWVPDUNQDGVDVSHNWHU//NN|NEU|SIN|DEF|NOM//ROOT//0 .lOOD//MAD//punct//0 2YXP//RG|NOM//nummod//0
+
+8WYHFNOLQJ;•//NN|UTR|SIN|IND|NOM//nmod//1 0lQQLVNRU//RG|NOM//ROOT//1
+8WYHFNOLQJ;•//NN|UTR|SIN|IND|NOM//case//1 7LOOlPSQLQJDU//AB|AN//ROOT//1
+8WYHFNOLQJ;Patrik//PM|NOM//ROOT//0 Winkvist//PM|NOM//flat//0 ,//MID//punct//4 Svenska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//4 Etablerings//PM|GEN//conj//0 AB//PM|NOM//flat//4
+8WYHFNOLQJ;6DPPDQIDWWQLQJ//RG|NOM//ROOT//0
+8WYHFNOLQJ;SvD//PM|NOM//nmod//1 16//RG|NOM//nummod//2 sepetember//NN|UTR|SIN|IND|NOM//ROOT//2 1999//RG|NOM//nummod//2
+

@@ -1,0 +1,363 @@
+Sammanfattning av uppdraget;En//DT|UTR|SIN|IND//det//2 särskild//PC|PRF|UTR|SIN|IND|NOM//amod//2 utredare//NN|UTR|SIN|IND|NOM//nsubj//4 ska//VB|PRS|AKT//aux//4 analysera//VB|INF|AKT//ROOT//4 Sieps//PM|NOM//nmod:poss//6 verksamhet//NN|UTR|SIN|IND|NOM//obj//4 i//PP//case//8 förhållande//NN|NEU|SIN|IND|NOM//obl//4 till//PP//case//10 uppdraget//NN|NEU|SIN|DEF|NOM//nmod//8 och//KN//cc//12 göra//VB|INF|AKT//conj//4 en//DT|UTR|SIN|IND//det//14 bedömning//NN|UTR|SIN|IND|NOM//obj//12 av//PP//mark//19 hur//HA//advmod//17 väl//AB//advmod//19 Sieps//PM|NOM//nsubj//19 fyller//VB|PRS|AKT//acl//14 funktionen//NN|UTR|SIN|DEF|NOM//obj//19 som//KN//case//22 länk//NN|UTR|SIN|IND|NOM//xcomp//19 mellan//PP//case//24 forskare//NN|UTR|PLU|IND|NOM//nmod//22 och//KN//cc//26 beslutsfattare//NN|UTR|PLU|IND|NOM//conj//24 .//MAD//punct//4
+Sammanfattning av uppdraget;Utvärderingen//NN|UTR|SIN|DEF|NOM//nsubj//30 ska//VB|PRS|AKT//aux//30 belysa//VB|INF|AKT//parataxis//4 Sieps//PM|NOM//nmod:poss//32 verksamhet//NN|UTR|SIN|IND|NOM//obj//30 ,//MID//punct//34 organisation//NN|UTR|SIN|IND|NOM//conj//32 ,//MID//punct//34 ledningsform//NN|UTR|SIN|IND|NOM//conj//32 ,//MID//punct//38 resurseffektivitet//NN|UTR|SIN|IND|NOM//conj//36 och//KN//cc//40 finansieringsform//NN|UTR|SIN|IND|NOM//conj//36 och//KN//cc//45 ,//MID//punct//45 om//SN//mark//45 så//AB//advmod//45 anses//VB|PRS|SFO//conj//32 nödvändigt//JJ|POS|NEU|SIN|IND|NOM//xcomp//45 ,//MID//punct//48 föreslå//VB|INF|AKT//conj//30 förändringar//NN|UTR|PLU|IND|NOM//obj//48 .//MAD//punct//30
+Sammanfattning av uppdraget;Utredaren//NN|UTR|SIN|DEF|NOM//nsubj//2 ska//VB|PRS|AKT//aux//2 redovisa//VB|INF|AKT//ROOT//2 sitt//PS|NEU|SIN|DEF//nmod:poss//4 uppdrag//NN|NEU|SIN|IND|NOM//obj//2 senast//AB|SUV//case//8 den//DT|UTR|SIN|DEF//det//8 15//RG|NOM//nummod//8 december//NN|UTR|SIN|IND|NOM//nmod//4 2007//RG|NOM//nummod//8 .//MAD//punct//2
+Sammanfattning av uppdraget;Bakgrund//NN|UTR|SIN|IND|NOM//ROOT//0
+Sammanfattning av uppdraget;Svenska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//1 institutet//NN|NEU|SIN|DEF|NOM//nsubj:pass//9 för//PP//case//4 europapolitiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//4 studier//NN|UTR|PLU|IND|NOM//nmod//1 (//PAD//punct//4 Sieps//PM|NOM//appos//4 )//PAD//punct//4 ,//MID//punct//9 bildades//VB|PRT|SFO//ROOT//9 2001//RG|NOM//nummod//9 och//KN//cc//14 är//VB|PRS|AKT//cop//14 en//DT|UTR|SIN|IND//det//14 myndighet//NN|UTR|SIN|IND|NOM//conj//9 under//PP//case//16 regeringen//NN|UTR|SIN|DEF|NOM//nmod//14 .//MAD//punct//9
+Sammanfattning av uppdraget;Myndigheten//NN|UTR|SIN|DEF|NOM//nsubj:pass//19 leds//VB|PRS|SFO//parataxis//9 av//PP//case//22 en//DT|UTR|SIN|IND//det//22 styrelse//NN|UTR|SIN|IND|NOM//obl:agent//19 med//PP//case//24 ledamöter//NN|UTR|PLU|IND|NOM//nmod//22 utnämnda//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//xcomp//19 av//PP//case//27 regeringen//NN|UTR|SIN|DEF|NOM//obl:agent//25 .//MAD//punct//19
+Sammanfattning av uppdraget;Sieps//PM|NOM//nmod:poss//30 verksamhet//NN|UTR|SIN|IND|NOM//nsubj:pass//33 och//KN//cc//32 uppdrag//NN|NEU|SIN|IND|NOM//nsubj:pass//33 regleras//VB|PRS|SFO//conj//9 i//PP//case//35 förordningen//NN|UTR|SIN|DEF|NOM//obl//33 (//PAD//punct//35 2006:948//RG|NOM//appos//35 )//PAD//punct//37 med//PP//case//40 instruktion//NN|UTR|SIN|IND|NOM//obl//33 för//PP//case//43 Svenska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//43 institutet//NN|NEU|SIN|DEF|NOM//nmod//40 för//PP//case//46 europapolitiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//46 studier//NN|UTR|PLU|IND|NOM//nmod//43 .//MAD//punct//9
+Sammanfattning av uppdraget;Enligt//PP//case//49 instruktionen//NN|UTR|SIN|DEF|NOM//obl//9 ska//VB|PRS|AKT//advcl//9 myndigheten//NN|UTR|SIN|DEF|NOM//nsubj//50 särskilt//AB//advmod//50 ://MID//punct//9 -//MID//punct//55
+Sammanfattning av uppdraget;initiera//VB|INF|AKT//parataxis//9 och//KN//cc//57 behandla//VB|INF|AKT//conj//55 förslag//NN|NEU|PLU|IND|NOM//obj//57 till//PP//case//60 utvärderings-//NN|UTR|-|-|SMS//nmod//58 och//KN//cc//63 -//MID//punct//63 forskningsprojekt//NN|NEU|SIN|IND|NOM//conj//60 ,//MID//punct//55 -//MID//punct//66 göra//VB|INF|AKT//conj//55 eller//KN//cc//68 låta//VB|INF|AKT//conj//55 göra//VB|INF|AKT//xcomp//68 utredningar//NN|UTR|PLU|IND|NOM//obj//69 och//KN//cc//72 utvärderingar//NN|UTR|PLU|IND|NOM//conj//70 ,//MID//punct//55 -//MID//punct//75 följa//VB|INF|AKT//conj//9 utvecklingen//NN|UTR|SIN|DEF|NOM//obj//75 och//KN//cc//78 hålla//VB|INF|AKT//conj//75 kontakt//NN|UTR|SIN|IND|NOM//obj//78 med//PP//case//81 forskare//NN|UTR|PLU|IND|NOM//obl//78 inom//PP//advmod//78 och//KN//fixed//82 -//MID//punct//75 utom//PP//case//86 landet//NN|NEU|SIN|DEF|NOM//obl//75 ,//MID//punct//75 -//MID//punct//89 publicera//VB|INF|AKT//conj//9 och//KN//cc//91 sprida//VB|INF|AKT//conj//89 rapporter//NN|UTR|PLU|IND|NOM//obj//91 om//PP//case//94 verksamheten//NN|UTR|SIN|DEF|NOM//nmod//92 .//MAD//punct//9
+Sammanfattning av uppdraget;Uppdraget//NN|NEU|SIN|DEF|NOM//ROOT//0 att//IE//mark//2 utvärdera//VB|INF|AKT//acl//0 Sieps//PM|NOM//obj//2
+Sammanfattning av uppdraget;Sieps//NN|UTR|SIN|IND|NOM//nsubj:pass//1 inrättades//VB|PRT|SFO//ROOT//1 med//PP//case//3 syfte//NN|NEU|SIN|IND|NOM//obl//1 att//IE//mark//5 skapa//VB|INF|AKT//acl//3 en//DT|UTR|SIN|IND//det//7 länk//NN|UTR|SIN|IND|NOM//obj//5 mellan//PP//case//9 forskare//NN|UTR|PLU|IND|NOM//nmod//7 och//KN//cc//12 politiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//12 beslutsfattare//NN|UTR|PLU|IND|NOM//conj//9 i//PP//case//14 EU-frågor//NN|UTR|PLU|IND|NOM//nmod//12 .//MAD//punct//1
+Sammanfattning av uppdraget;Det//PN|NEU|SIN|DEF|SUB/OBJ//expl//17 ansågs//VB|PRT|SFO//conj//1 viktigt//JJ|POS|NEU|SIN|IND|NOM//xcomp//17 för//PP//case//20 beslutsfattarna//NN|UTR|PLU|DEF|NOM//nmod//18 att//IE//mark//23 löpande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//advmod//23 få//VB|INF|AKT//advcl//17 tillgång//NN|UTR|SIN|IND|NOM//obj//23 till//PP//case//26 forskningsresultat//NN|NEU|PLU|IND|NOM//nmod//24 och//KN//cc//28 rapporter//NN|UTR|PLU|IND|NOM//conj//26 som//HP|-|-|-//nsubj//30 håller//VB|PRS|AKT//acl:relcl//28 hög//JJ|POS|UTR|SIN|IND|NOM//amod//33 internationell//JJ|POS|UTR|SIN|IND|NOM//amod//33 klass//NN|UTR|SIN|IND|NOM//obj//30 och//KN//cc//36 som//HP|-|-|-//nsubj//36 har//VB|PRS|AKT//conj//30 relevans//NN|UTR|SIN|IND|NOM//obj//36 i//PP//case//45 förhållande//NN|NEU|SIN|IND|NOM//fixed//38 till//PP//fixed//38 pågående//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//45 och//KN//cc//43 kommande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//conj//41 EU-politiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//45 diskussioner//NN|UTR|PLU|IND|NOM//obl//36 .//MAD//punct//17
+Sammanfattning av uppdraget;En//DT|UTR|SIN|IND//det//1 utgångspunkt//NN|UTR|SIN|IND|NOM//nsubj//30 var//VB|PRT|AKT//cop//1 redan//AB//advmod//6 då//HA//advmod//6 Sieps//PM|NOM//nsubj:pass//6 inrättades//VB|PRT|SFO//csubj//1 år//NN|NEU|SIN|IND|NOM//nmod//8 2001//RG|NOM//obl//6 att//SN//mark//12 myndigheten//NN|UTR|SIN|DEF|NOM//nsubj:pass//12 skulle//VB|PRT|AKT//aux//12 utvärderas//VB|INF|SFO//acl:relcl//1 inom//PP//case//15 fem//RG|NOM//nummod//15 år//NN|NEU|PLU|IND|NOM//obl//12 .//MAD//punct//1
+Sammanfattning av uppdraget;Med//PP//mark//24 tanke//NN|UTR|SIN|IND|NOM//fixed//17 på//PP//fixed//17 att//SN//mark//24 Sieps//PM|NOM//nsubj:pass//24 operativa//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//23 arbete//NN|NEU|SIN|IND|NOM//nsubj:pass//24 inleddes//VB|PRT|SFO//advcl//30 år//NN|NEU|SIN|IND|NOM//nmod//26 2002//RG|NOM//obl//24 är//VB|PRS|AKT//cop//30 det//PN|NEU|SIN|DEF|SUB/OBJ//expl//27 nu//AB//advmod//27 naturligt//JJ|POS|NEU|SIN|IND|NOM//ROOT//30 att//SN//mark//36 verksamhetens//NN|UTR|SIN|DEF|GEN//nmod:poss//33 inriktning//NN|UTR|SIN|IND|NOM//nsubj:pass//36 och//KN//cc//35 organisation//NN|UTR|SIN|IND|NOM//conj//33 ses//VB|INF|SFO//csubj//30 över//PL//compound:prt//36 .//MAD//punct//30
+Sammanfattning av uppdraget;Behovet//NN|NEU|SIN|DEF|NOM//nsubj//10 av//PP//case//3 en//DT|UTR|SIN|IND//det//3 länk//NN|UTR|SIN|IND|NOM//nmod//0 mellan//PP//case//5 forskare//NN|UTR|PLU|IND|NOM//nmod//3 och//KN//cc//7 beslutsfattare//NN|UTR|PLU|IND|NOM//conj//5 i//PP//case//9 EU-frågor//NN|UTR|PLU|IND|NOM//nmod//7 kvarstår//VB|PRS|AKT//ROOT//10 .//MAD//punct//10
+Sammanfattning av uppdraget;Sieps//PM|GEN//nmod:poss//13 verksamhet//NN|UTR|SIN|IND|NOM//nsubj:pass//15 ska//VB|PRS|AKT//aux//15 analyseras//VB|INF|SFO//parataxis//10 i//PP//case//19 förhållande//NN|NEU|SIN|IND|NOM//fixed//16 till//PP//fixed//16 uppdraget//NN|NEU|SIN|DEF|NOM//obl//15 .//MAD//punct//10
+Sammanfattning av uppdraget;Utvärderingen//NN|UTR|SIN|DEF|NOM//nsubj//23 ska//VB|PRS|AKT//aux//23 klarlägga//VB|INF|AKT//parataxis//10 hur//HA//advmod//25 väl//AB//advmod//27 Sieps//PM|NOM//nsubj//27 fyller//VB|PRS|AKT//ccomp//23 funktionen//NN|UTR|SIN|DEF|NOM//obj//27 som//KN//case//30 länk//NN|UTR|SIN|IND|NOM//xcomp//27 mellan//PP//case//32 forskare//NN|UTR|PLU|IND|NOM//nmod//30 och//KN//cc//34 beslutsfattare//NN|UTR|PLU|IND|NOM//conj//32 .//MAD//punct//23
+Sammanfattning av uppdraget;Utvärderingen//NN|UTR|SIN|DEF|NOM//nsubj//38 ska//VB|PRS|AKT//aux//38 belysa//VB|INF|AKT//parataxis//23 Sieps//PM|NOM//nmod:poss//40 verksamhet//NN|UTR|SIN|IND|NOM//obj//38 ,//MID//punct//42 organisation//NN|UTR|SIN|IND|NOM//conj//40 ,//MID//punct//42 ledningsform//NN|UTR|SIN|IND|NOM//conj//40 ,//MID//punct//46 finansieringsform//NN|UTR|SIN|IND|NOM//conj//44 och//KN//cc//48 resurseffektivitet//NN|UTR|SIN|IND|NOM//conj//44 och//KN//cc//53 ,//MID//punct//53 om//SN//mark//53 så//AB//advmod//53 anses//VB|PRS|SFO//conj//40 nödvändigt//JJ|POS|NEU|SIN|IND|NOM//xcomp//53 ,//MID//punct//56 föreslå//VB|INF|AKT//conj//38 förändringar//NN|UTR|PLU|IND|NOM//obj//56 .//MAD//punct//38
+Sammanfattning av uppdraget;Utvärderingen//NN|UTR|SIN|DEF|NOM//nsubj//2 bör//VB|PRS|AKT//aux//2 beakta//VB|INF|AKT//ROOT//2 erfarenheter//NN|UTR|PLU|IND|NOM//obj//2 av//PP//case//6 liknande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//6 institut//NN|NEU|SIN|IND|NOM//nmod//3 i//PP//case//8 Sverige//PM|NOM//nmod//6 och//KN//cc//11 andra//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//11 EU-länder//NN|UTR|PLU|IND|NOM//conj//8 .//MAD//punct//2
+Sammanfattning av uppdraget;Andra//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//16 pågående//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//16 relevanta//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//16 utredningar//NN|UTR|PLU|IND|NOM//nsubj:pass//19 bör//VB|PRS|AKT//aux//19 också//AB//advmod//19 beaktas//VB|INF|SFO//parataxis//2 .//MAD//punct//2
+Sammanfattning av uppdraget;Är//VB|PRS|AKT//cop//3 Sieps//PM|GEN//nmod:poss//2 verksamhet//NN|UTR|SIN|IND|NOM//nsubj//3 ändamålsenlig//JJ|POS|UTR|SIN|IND|NOM//ROOT//3 ?//MAD//punct//3
+Sammanfattning av uppdraget;Sieps//JJ|POS|NEU|SIN|IND|NOM//nmod//1 arbete//NN|NEU|SIN|IND|NOM//nsubj//2 består//VB|PRS|AKT//ROOT//2 i//PP//case//9 huvudsak//NN|UTR|SIN|IND|NOM//fixed//3 av//PP//fixed//3 egen//JJ|POS|UTR|SIN|IND/DEF|NOM//amod//9 respektive//AB//cc//8 beställd//PC|PRF|UTR|SIN|IND|NOM//conj//6 forskning//NN|UTR|SIN|IND|NOM//obl//2 och//KN//cc//11 utredningsverksamhet//NN|UTR|SIN|IND|NOM//conj//9 samt//KN//cc//13 fördelning//NN|UTR|SIN|IND|NOM//conj//9 av//PP//case//15 forskningsmedel//NN|NEU|PLU|IND|NOM//nmod//13 (//PAD//punct//17 forskningsbidrag//NN|NEU|PLU|IND|NOM//appos//13 )//PAD//punct//17 .//MAD//punct//2
+Sammanfattning av uppdraget;Utredaren//NN|UTR|SIN|DEF|NOM//nsubj//2 ska//VB|PRS|AKT//aux//2 utvärdera//VB|INF|AKT//ROOT//2 Sieps//PM|NOM//nmod:poss//4 verksamhet//NN|UTR|SIN|IND|NOM//obj//2 och//KN//cc//6 pröva//VB|INF|AKT//conj//2 om//SN//mark//10 denna//PN|UTR|SIN|DEF|SUB/OBJ//nsubj//10 är//VB|PRS|AKT//cop//10 ändamålsenlig//JJ|POS|UTR|SIN|IND|NOM//ccomp//6 i//PP//case//15 förhållande//NN|NEU|SIN|IND|NOM//fixed//11 till//PP//fixed//11 myndighetens//NN|UTR|SIN|DEF|GEN//nmod:poss//15 uppdrag//NN|NEU|SIN|IND|NOM//obl//10 och//KN//cc//22 om//PP//mark//22 verksamheten//NN|UTR|SIN|DEF|NOM//nsubj//22 på//PP//case//21 bästa//JJ|SUV|UTR/NEU|SIN/PLU|DEF|NOM//amod//21 sätt//NN|NEU|SIN|IND|NOM//obl//22 främjar//VB|PRS|AKT//conj//2 beslutsfattarnas//NN|UTR|PLU|DEF|GEN//nmod:poss//24 behov//NN|NEU|SIN|IND|NOM//obj//22 av//PP//mark//28 att//IE//mark//28 löpande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//advmod//28 få//VB|INF|AKT//acl//24 tillgång//NN|UTR|SIN|IND|NOM//obj//28 till//PP//case//31 forskningsresultat//NN|NEU|SIN|IND|NOM//nmod//29 av//PP//case//34 hög//JJ|POS|UTR|SIN|IND|NOM//amod//34 klass//NN|UTR|SIN|IND|NOM//nmod//31 som//HP|-|-|-//nsubj//36 har//VB|PRS|AKT//acl:relcl//34 relevans//NN|UTR|SIN|IND|NOM//obj//36 för//PP//case//41 det//DT|NEU|SIN|DEF//det//41 egna//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//41 arbetet//NN|NEU|SIN|DEF|NOM//obl//36 .//MAD//punct//2
+Sammanfattning av uppdraget;Vidare//AB|KOM//advmod//10 ska//VB|PRS|AKT//aux//10 kvaliteten//NN|UTR|SIN|DEF|NOM//nsubj:pass//10 på//PP//case//4 forskningen//NN|UTR|SIN|DEF|NOM//nmod//2 och//KN//cc//6 utredningsarbetet//NN|NEU|SIN|DEF|NOM//conj//4 liksom//PP//mark//10 dess//PS|UTR/NEU|SIN/PLU|DEF//nmod:poss//9 mervärde//NN|NEU|SIN|IND|NOM//nsubj:pass//10 undersökas//VB|INF|SFO//ROOT//10 .//MAD//punct//10
+Sammanfattning av uppdraget;Balansen//NN|UTR|SIN|DEF|NOM//nsubj//6 mellan//PP//case//4 egen//JJ|POS|UTR|SIN|IND/DEF|NOM//amod//4 utförd//PC|PRF|UTR|SIN|IND|NOM//amod//4 forskning//NN|UTR|SIN|IND|NOM//nmod//0 ,//MID//punct//0 beställd//PC|PRF|UTR|SIN|IND|NOM//ROOT//6 forskning//NN|UTR|SIN|IND|NOM//obj//6 och//KN//cc//9 bidragsforskning//NN|UTR|SIN|IND|NOM//conj//7 ska//VB|PRS|AKT//aux//11 belysas//VB|INF|SFO//conj//6 ,//MID//punct//11 liksom//PP//mark//14 avvägningen//NN|UTR|SIN|DEF|NOM//advcl//11 mellan//PP//case//16 forskning//NN|UTR|SIN|IND|NOM//nmod//14 och//KN//cc//18 utredningsarbete//NN|NEU|SIN|IND|NOM//conj//16 .//MAD//punct//6
+Sammanfattning av uppdraget;I//PP//case//2 Sieps//PM|NOM//nmod//2 uppdrag//NN|NEU|SIN|IND|NOM//obl//3 ingår//VB|PRS|AKT//ROOT//3 att//IE//mark//5 följa//VB|INF|AKT//xcomp//3 utvecklingen//NN|UTR|SIN|DEF|NOM//obj//5 och//KN//cc//8 hålla//VB|INF|AKT//conj//5 kontakt//NN|UTR|SIN|IND|NOM//obj//8 med//PP//case//11 forskare//NN|UTR|PLU|IND|NOM//obl//8 även//AB//advmod//14 utom//PP//case//14 landet//NN|NEU|SIN|DEF|NOM//obl//8 .//MAD//punct//3
+Sammanfattning av uppdraget;Sieps//PM|NOM//nsubj//17 ingår//VB|PRS|AKT//parataxis//3 i//PP//case//19 styrgruppen//NN|UTR|SIN|DEF|NOM//obl//17 för//PP//case//21 nätverket//NN|NEU|SIN|DEF|NOM//nmod//19 European//UO//amod//23 Policy//UO//nmod//24 Institutes//PM|NOM//compound//25 Network//PM|NOM//flat//21 .//MAD//punct//17
+Sammanfattning av uppdraget;Sieps//PM|NOM//nmod//28 anställda//NN|UTR|PLU|IND|NOM//nsubj//29 deltar//VB|PRS|AKT//conj//17 dessutom//AB//advmod//29 i//PP//case//33 olika//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//33 konferenser//NN|UTR|PLU|IND|NOM//obl//29 och//KN//cc//35 seminarier//NN|NEU|PLU|IND|NOM//conj//33 .//MAD//punct//17
+Sammanfattning av uppdraget;Utredningen//NN|UTR|SIN|DEF|NOM//nsubj//39 ska//VB|PRS|AKT//aux//39 undersöka//VB|INF|AKT//conj//17 vilka//HD|UTR/NEU|PLU|IND//det//42 ytterligare//JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//42 åtgärder//NN|UTR|PLU|IND|NOM//obj//39 som//HP|-|-|-//nsubj:pass//45 bör//VB|PRS|AKT//aux//45 vidtas//VB|INF|SFO//acl:relcl//42 för//PP//mark//48 att//IE//mark//48 fördjupa//VB|INF|AKT//advcl//45 de//DT|UTR/NEU|PLU|DEF//det//51 europeiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//51 forskningskontakterna//NN|UTR|PLU|DEF|NOM//obj//48 i//PP//case//54 de//DT|UTR/NEU|PLU|DEF//det//54 fall//NN|NEU|PLU|IND|NOM//obl//48 utredningen//NN|UTR|SIN|DEF|NOM//nsubj//56 kommer//VB|PRS|AKT//advcl//39 fram//PL//compound:prt//56 till//PP//mark//62 att//SN//mark//62 så//AB//advmod//62 bör//VB|PRS|AKT//aux//62 ske//VB|INF|AKT//advcl//56 .//MAD//punct//3
+Sammanfattning av uppdraget;Är//VB|PRS|AKT//cop//5 Sieps//PM|NOM//nmod:poss//2 organisation//NN|UTR|SIN|IND|NOM//nsubj//5 och//KN//cc//4 ledningsform//NN|UTR|SIN|IND|NOM//conj//2 effektiv//JJ|POS|UTR|SIN|IND|NOM//ROOT//5 ?//MAD//punct//5
+Sammanfattning av uppdraget;Sieps//JJ|POS|NEU|SIN|IND|NOM//nmod//1 kansli//NN|NEU|SIN|IND|NOM//nsubj//2 består//VB|PRS|AKT//ROOT//2 i//PP//advmod//2 dag//NN|UTR|SIN|IND|NOM//fixed//3 av//PP//case//7 tio//RG|NOM//nummod//7 årsarbetskrafter//NN|UTR|PLU|IND|NOM//obl//2 ,//MID//punct//9 fördelade//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//conj//2 på//PP//case//12 tolv//RG|NOM//nummod//12 anställda//NN|UTR|PLU|IND|NOM//obl//9 .//MAD//punct//2
+Sammanfattning av uppdraget;Utredningen//NN|UTR|SIN|DEF|NOM//nsubj//16 ska//VB|PRS|AKT//aux//16 utvärdera//VB|INF|AKT//parataxis//2 personalsammansättningen//NN|UTR|SIN|DEF|NOM//obj//16 ,//MID//punct//17 marknadsföringen//NN|UTR|SIN|DEF|NOM//appos//17 av//PP//case//21 verksamheten//NN|UTR|SIN|DEF|NOM//nmod//19 och//KN//cc//25 hur//HA//advmod//25 verksamheten//NN|UTR|SIN|DEF|NOM//nsubj:pass//25 administreras//VB|PRS|SFO//conj//16 .//MAD//punct//2
+Sammanfattning av uppdraget;Sieps//PM|NOM//nsubj//3 är//VB|PRS|AKT//cop//3 en//DT|UTR|SIN|IND//det//3 myndighet//NN|UTR|SIN|IND|NOM//ROOT//3 som//HP|-|-|-//nsubj:pass//5 leds//VB|PRS|SFO//acl:relcl//3 av//PP//case//8 en//DT|UTR|SIN|IND//det//8 styrelse//NN|UTR|SIN|IND|NOM//obl//5 med//PP//case//10 ledamöter//NN|UTR|PLU|IND|NOM//nmod//8 utnämnda//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//amod//3 av//PP//case//13 regeringen//NN|UTR|SIN|DEF|NOM//obl:agent//11 .//MAD//punct//3
+Sammanfattning av uppdraget;Styrelsen//NN|UTR|SIN|DEF|NOM//nsubj//16 består//VB|PRS|AKT//parataxis//3 av//PP//case//19 14//RG|NOM//nummod//19 ledamöter//NN|UTR|PLU|IND|NOM//obl//16 .//MAD//punct//3
+Sammanfattning av uppdraget;Utredningen//NN|UTR|SIN|DEF|NOM//nsubj//23 ska//VB|PRS|AKT//aux//23 pröva//VB|INF|AKT//parataxis//3 om//SN//case//26 nuvarande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//26 ledningsform//NN|UTR|SIN|IND|NOM//obl//23 är//VB|PRS|AKT//cop//30 den//DT|UTR|SIN|DEF//nsubj//30 mest//AB|SUV//advmod//30 lämpade//PC|PRF|UTR/NEU|SIN|DEF|NOM//conj//3 för//PP//case//33 Sieps//PM|NOM//nmod//33 verksamhet//NN|UTR|SIN|IND|NOM//obl//30 .//MAD//punct//3
+Sammanfattning av uppdraget;I//PP//case//37 detta//DT|NEU|SIN|DEF//det//37 sammanhang//NN|NEU|SIN|IND|NOM//obl//49 bör//VB|PRS|AKT//aux//49 även//AB//advmod//41 styrelsens//NN|UTR|SIN|DEF|GEN//nmod:poss//41 sammansättning//NN|UTR|SIN|IND|NOM//nsubj:pass//49 och//KN//cc//44 dess//PS|UTR/NEU|SIN/PLU|DEF//nmod:poss//44 roll//NN|UTR|SIN|IND|NOM//conj//41 när//HA//case//48 det//PN|NEU|SIN|DEF|SUB/OBJ//fixed//45 gäller//VB|PRS|AKT//fixed//45 verksamhetsledning//NN|UTR|SIN|IND|NOM//nsubj:pass//49 utvärderas//VB|INF|SFO//conj//3 .//MAD//punct//3
+Sammanfattning av uppdraget;Bedrivs//VB|PRS|SFO//ROOT//0 verksamheten//NN|UTR|SIN|DEF|NOM//nsubj:pass//0 resurseffektivt//AB|POS//advmod//0 ?//MAD//punct//0
+Sammanfattning av uppdraget;Utvärderingen//NN|UTR|SIN|DEF|NOM//nsubj//1 blir//VB|PRS|AKT//ROOT//1 inte//AB//advmod//1 komplett//JJ|POS|UTR|SIN|IND|NOM//xcomp//1 utan//PP//mark//8 att//SN//mark//8 verksamhetens//NN|UTR|SIN|DEF|GEN//nmod:poss//7 resultat//NN|NEU|PLU|IND|NOM//nsubj:pass//8 värderas//VB|PRS|SFO//advcl//1 utifrån//PP//case//11 de//DT|UTR/NEU|PLU|DEF//det//11 kostnader//NN|UTR|PLU|IND|NOM//obl//8 den//PN|UTR|SIN|DEF|SUB/OBJ//nsubj//13 medfört//VB|SUP|AKT//acl:relcl//11 .//MAD//punct//1
+Sammanfattning av uppdraget;En//DT|UTR|SIN|IND//det//16 bedömning//NN|UTR|SIN|IND|NOM//nsubj:pass//19 ska//VB|PRS|AKT//aux//19 därför//AB//advmod//19 göras//VB|INF|SFO//parataxis//1 om//SN//mark//23 verksamheten//NN|UTR|SIN|DEF|NOM//nsubj:pass//23 har//VB|PRS|AKT//aux//23 bedrivits//VB|SUP|SFO//advcl//19 på//PP//case//27 ett//DT|NEU|SIN|IND//det//27 resurseffektivt//JJ|POS|NEU|SIN|IND|NOM//amod//27 sätt//NN|NEU|SIN|IND|NOM//obl//23 .//MAD//punct//1
+Sammanfattning av uppdraget;Denna//DT|UTR|SIN|DEF//det//30 bedömning//NN|UTR|SIN|IND|NOM//nsubj//33 bör//VB|PRS|AKT//aux//33 även//AB//advmod//33 innefatta//VB|INF|AKT//parataxis//1 jämförelser//NN|UTR|PLU|IND|NOM//obj//33 med//PP//case//37 andra//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//37 institut//NN|NEU|PLU|IND|NOM//obl//33 ,//MID//punct//40 såväl//KN//advmod//40 nationella//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//appos//37 som//KN//mark//42 internationella//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//acl//40 med//PP//case//45 likartad//PC|PRF|UTR|SIN|IND|NOM//amod//45 verksamhet//NN|UTR|SIN|IND|NOM//nmod//40 .//MAD//punct//1
+Sammanfattning av uppdraget;Utredaren//NN|UTR|SIN|DEF|NOM//nsubj//3 ska//VB|PRS|AKT//aux//3 även//AB//advmod//3 bedöma//VB|INF|AKT//ROOT//3 huruvida//SN//mark//8 nuvarande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//6 finansieringsform//NN|UTR|SIN|IND|NOM//nsubj//8 är//VB|PRS|AKT//cop//8 effektiv//JJ|POS|UTR|SIN|IND|NOM//xcomp//3 samt//KN//cc//10 möjligheterna//NN|UTR|PLU|DEF|NOM//conj//8 att//IE//mark//12 vidmakthålla//VB|INF|AKT//acl//10 och//KN//cc//15 eventuellt//AB|POS//advmod//15 öka//VB|INF|AKT//conj//12 inslaget//NN|NEU|SIN|DEF|NOM//obj//15 av//PP//case//19 extern//JJ|POS|UTR|SIN|IND|NOM//amod//19 finansiering//NN|UTR|SIN|IND|NOM//nmod//16 .//MAD//punct//3
+Sammanfattning av uppdraget;Utredaren//NN|UTR|SIN|DEF|NOM//nsubj//23 ska//VB|PRS|AKT//aux//23 hålla//VB|INF|AKT//conj//3 berörda//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//amod//26 centrala//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//26 arbetstagarorganisationer//NN|UTR|PLU|IND|NOM//obj//23 informerade//VB|PRT|AKT//xcomp//23 om//PP//case//29 arbetet//NN|NEU|SIN|DEF|NOM//obl//27 och//KN//cc//31 ge//VB|INF|AKT//conj//23 dem//PN|UTR/NEU|PLU|DEF|OBJ//iobj//31 tillfälle//NN|NEU|SIN|IND|NOM//obj//31 att//IE//mark//35 framföra//VB|INF|AKT//acl//33 synpunkter//NN|UTR|PLU|IND|NOM//obj//35 .//MAD//punct//23
+Sammanfattning av uppdraget;Redovisning//NN|UTR|SIN|IND|NOM//ROOT//0 av//PP//case//2 uppdraget//NN|NEU|SIN|DEF|NOM//nmod//0
+Sammanfattning av uppdraget;Utredaren//NN|UTR|SIN|DEF|NOM//nsubj//2 ska//VB|PRS|AKT//aux//2 redovisa//VB|INF|AKT//ROOT//2 sitt//PS|NEU|SIN|DEF//nmod:poss//4 uppdrag//NN|NEU|SIN|IND|NOM//obj//2 senast//AB|SUV//case//8 den//DT|UTR|SIN|DEF//det//8 15//RG|NOM//nummod//8 december//NN|UTR|SIN|IND|NOM//nmod//4 2007//RG|NOM//nummod//8 .//MAD//punct//2
+Sammanfattning av uppdraget;(//PAD//punct//12 Statsrådsberedningen//NN|UTR|SIN|DEF|NOM//appos//2 )//PAD//punct//12
+Sammanfattning av uppdraget;Bilaga//NN|UTR|SIN|IND|NOM//ROOT//0 2//RG|NOM//nummod//0
+
+
+Översikt organisationsform, finansiering och uppdrag för ett urval av institut/tankesmedjor i andra EUländer, övriga Norden och USA;Översikten//NN|UTR|SIN|DEF|NOM//nsubj//1 gör//VB|PRS|AKT//ROOT//1 inga//DT|UTR/NEU|PLU|IND//det//3 anspråk//NN|NEU|PLU|IND|NOM//obj//1 på//PP//mark//9 att//IE//mark//9 vara//VB|INF|AKT//cop//9 en//DT|UTR|SIN|IND//det//9 komplett//JJ|POS|UTR|SIN|IND|NOM//amod//9 förteckning//NN|UTR|SIN|IND|NOM//obl//1 .//MAD//punct//1
+Översikt organisationsform, finansiering och uppdrag för ett urval av institut/tankesmedjor i andra EUländer, övriga Norden och USA;Uppgifterna//NN|UTR|PLU|DEF|NOM//nsubj//12 bygger//VB|PRS|AKT//parataxis//1 bl.a.//AB|AN//advmod//12 på//PP//case//15 uppgifter//NN|UTR|PLU|IND|NOM//obl//12 från//PP//case//18 svenska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//18 ambassader//NN|UTR|PLU|IND|NOM//nmod//15 .//MAD//punct//1
+Översikt organisationsform, finansiering och uppdrag för ett urval av institut/tankesmedjor i andra EUländer, övriga Norden och USA;Bilaga//NN|UTR|SIN|IND|NOM//ROOT//0 4//RG|NOM//nummod//2 1//RG|NOM//nummod//0 .//MAD//punct//0
+Översikt organisationsform, finansiering och uppdrag för ett urval av institut/tankesmedjor i andra EUländer, övriga Norden och USA;Mandat//PM|NOM//appos//0 og//UO//nmod:poss//6 avgrensning//NN|UTR|SIN|IND|NOM//conj//4 ://MAD//punct//0
+Översikt organisationsform, finansiering och uppdrag för ett urval av institut/tankesmedjor i andra EUländer, övriga Norden och USA;•//NN|UTR|SIN|IND|NOM//case//5 Forfatternes//PM|NOM//nmod:poss//2 kvaliteter//NN|UTR|PLU|IND|NOM//nmod//3 2//RG|NOM//nummod//0 .//MAD//punct//3
+Översikt organisationsform, finansiering och uppdrag för ett urval av institut/tankesmedjor i andra EUländer, övriga Norden och USA;Volum//PM|NOM//ROOT//5 5//RG|NOM//nummod//5 .//MAD//punct//5
+Översikt organisationsform, finansiering och uppdrag för ett urval av institut/tankesmedjor i andra EUländer, övriga Norden och USA;Formidlingsprofil//NN|UTR|SIN|IND|NOM//conj//5
+Översikt organisationsform, finansiering och uppdrag för ett urval av institut/tankesmedjor i andra EUländer, övriga Norden och USA;Sammenfatning//NN|UTR|SIN|IND|NOM//ROOT//0 ://MAD//punct//0
+
+Statens offentliga utredningar 2007;Kronologisk//JJ|POS|UTR|SIN|IND|NOM//amod//1 förteckning//NN|UTR|SIN|IND|NOM//nsubj//10 +//MID//cc//3 Bilaga//NN|UTR|SIN|IND|NOM//conj//1 .//MAD//punct//1
+Statens offentliga utredningar 2007;Fördjupningsstudier//NN|UTR|PLU|IND|NOM//nmod//1 .//MAD//punct//1
+Statens offentliga utredningar 2007;+//MID//cc//8 Lättläst//NN|UTR|SIN|IND|NOM//conj//1 .//MAD//punct//8
+Statens offentliga utredningar 2007;Sammanfattning//NN|UTR|SIN|IND|NOM//ROOT//10 .//MID//punct//10
+Statens offentliga utredningar 2007;S.//PM|NOM//conj//10 –//PM|NOM//punct//15 en//DT|UTR|SIN|IND//det//15 myndighet//NN|UTR|SIN|IND|NOM//conj//10 för//PP//case//17 säkerhet//NN|UTR|SIN|IND|NOM//nmod//15 och//KN//cc//19 skydd//NN|NEU|SIN|IND|NOM//conj//17 inom//PP//case//21 transportområdet//NN|NEU|SIN|DEF|NOM//nmod//19 .//MID//punct//15
+Statens offentliga utredningar 2007;N.//PM|NOM//conj//10
+Statens offentliga utredningar 2007;Ett//DT|NEU|SIN|IND//det//2 aktivt//JJ|POS|NEU|SIN|IND|NOM//amod//2 stöd//NN|NEU|SIN|IND|NOM//ROOT//2 i//PP//case//4 rättsprocessen//NN|UTR|SIN|DEF|NOM//nmod//2 .//MAD//punct//2
+Statens offentliga utredningar 2007;Ju//KN//nmod//2 .//MAD//punct//2
+Statens offentliga utredningar 2007;Om//SN//mark//4 bara//AB//advmod//2 någon//PN|UTR|SIN|IND|SUB/OBJ//nsubj//4 kunde//VB|PRT|AKT//aux//4 säga//VB|INF|AKT//advcl//17 vad//HP|NEU|SIN|IND//obj//8 jag//PN|UTR|SIN|DEF|SUB//nsubj//8 ska//VB|PRS|AKT//aux//8 göra//VB|INF|AKT//ccomp//4 för//PP//mark//11 att//IE//mark//11 få//VB|INF|AKT//advcl//8 en//DT|UTR|SIN|IND//det//13 bostad//NN|UTR|SIN|IND|NOM//obj//11 så//AB//advcl//17 skulle//VB|PRT|AKT//aux//17 jag//PN|UTR|SIN|DEF|SUB//nsubj//17 göra//VB|INF|AKT//ROOT//17 det//PN|NEU|SIN|DEF|SUB/OBJ//obj//17 .//MAD//punct//17
+Statens offentliga utredningar 2007;Rapport//NN|UTR|SIN|IND|NOM//ROOT//0 nr//NN|AN//nmod//2 2//RG|NOM//nummod//0 ://MID//punct//0
+Statens offentliga utredningar 2007;Måste//VB|PRS|AKT//aux//6 man//PN|UTR|SIN|IND|SUB//nsubj//6 ha//VB|INF|AKT//parataxis//0 tur//NN|UTR|SIN|IND|NOM//obj//6 ?//MAD//punct//0
+Statens offentliga utredningar 2007;Studier//NN|UTR|PLU|IND|NOM//ROOT//0 av//PP//case//2 yngre//JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM//nmod//0 på//PP//case//4 bostadsmarknaden//NN|UTR|SIN|DEF|NOM//nmod//2 i//PP//case//7 svenska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//7 städer//NN|UTR|PLU|IND|NOM//nmod//4 .//MAD//punct//0
+Statens offentliga utredningar 2007;Rapport//NN|UTR|SIN|IND|NOM//ROOT//0 nr//NN|AN//nmod//2 3//RG|NOM//obj//0 ://MID//punct//0
+Statens offentliga utredningar 2007;Effektiv//JJ|POS|UTR|SIN|IND|NOM//amod//1 bostadsservice//NN|UTR|SIN|IND|NOM//ROOT//1 och//KN//cc//3 förmedling//NN|UTR|SIN|IND|NOM//conj//1 av//PP//case//5 bostäder//NN|UTR|PLU|IND|NOM//nmod//3 –//RG|NOM//punct//1 ur//PP//case//10 ett//DT|NEU|SIN|IND//det//10 dubbelt//JJ|POS|NEU|SIN|IND|NOM//amod//10 användarperspektiv//NN|NEU|SIN|IND|NOM//conj//1 .//MAD//punct//1
+Statens offentliga utredningar 2007;Rapport//NN|UTR|SIN|IND|NOM//ROOT//0 nr//NN|AN//nmod//2 4//RG|NOM//obj//0 ://MID//punct//0
+Statens offentliga utredningar 2007;Unga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//1 vuxna//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//ROOT//1 på//PP//case//3 bolånemarknaden//NN|UTR|SIN|DEF|NOM//nmod//1 .//MAD//punct//1
+Statens offentliga utredningar 2007;M.//PM|NOM//nmod//1
+Statens offentliga utredningar 2007;Idébok//NN|UTR|SIN|IND|NOM//ROOT//0 ://MAD//punct//0
+Statens offentliga utredningar 2007;Jämställd//JJ|POS|UTR|SIN|IND|NOM//amod//1 medborgarservice//NN|UTR|SIN|IND|NOM//ROOT//1 .//MAD//punct//1
+Statens offentliga utredningar 2007;Goda//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//4 råd//NN|NEU|PLU|IND|NOM//appos//1 om//PP//case//6 jämställdhetsintegreringen//NN|UTR|SIN|DEF|NOM//nmod//4 .//MAD//punct//4
+Statens offentliga utredningar 2007;En//DT|UTR|SIN|IND//det//9 idébok//NN|UTR|SIN|IND|NOM//appos//4 för//PP//case//11 chefer//NN|UTR|PLU|IND|NOM//nmod//9 och//KN//cc//13 strateger//NN|UTR|PLU|IND|NOM//conj//11 .//MAD//punct//1
+Statens offentliga utredningar 2007;Metodbok//NN|UTR|SIN|IND|NOM//ROOT//0 ://MAD//punct//0
+Statens offentliga utredningar 2007;JämStöd//RG|NOM//nmod//1 Praktika//PM|NOM//ROOT//1 .//MID//punct//1
+Statens offentliga utredningar 2007;Metodbok//NN|UTR|SIN|IND|NOM//appos//1 för//PP//case//5 jämställdhetsintegrering//NN|UTR|SIN|IND|NOM//nmod//3 .//MID//punct//3
+Statens offentliga utredningar 2007;IJ//PM|NOM//nmod//3 .//MAD//punct//3 –//RG|NOM//punct//15
+Statens offentliga utredningar 2007;när//HA//advmod//15 kan//VB|PRS|AKT//aux//15 de//DT|UTR/NEU|PLU|DEF//det//14 nya//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//14 EU-reglerna//NN|UTR|PLU|DEF|NOM//nsubj//15 börja//VB|INF|AKT//acl:relcl//1 tillämpas//VB|INF|SFO//xcomp//15 ?//MID//punct//15
+Statens offentliga utredningar 2007;N.//PM|NOM//dep//15 –//PM|NOM//punct//22 om//PP//case//22 förbättrad//PC|PRF|UTR|SIN|IND|NOM//amod//22 samordning//NN|UTR|SIN|IND|NOM//parataxis//15 av//PP//case//26 offentlig//JJ|POS|UTR|SIN|IND|NOM//amod//26  //_SP////24 IT-standardisering//NN|UTR|SIN|IND|NOM//nmod//22 .//MAD//punct//22
+Statens offentliga utredningar 2007;N.//PM|NOM//nummod//1
+Statens offentliga utredningar 2007;En//DT|UTR|SIN|IND//det//2 skärpt//PC|PRF|UTR|SIN|IND|NOM//amod//2 lagstiftning//NN|UTR|SIN|IND|NOM//ROOT//2 mot//PP//case//4 barnpornografi//NN|UTR|SIN|IND|NOM//nmod//2 .//MAD//punct//2
+Statens offentliga utredningar 2007;Ju//KN//nmod//2 .//MAD//punct//2 –//RG|NOM//punct//10
+Statens offentliga utredningar 2007;nya//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//10 former//NN|UTR|PLU|IND|NOM//appos//2 för//PP//case//12 överprövning//NN|UTR|SIN|IND|NOM//nmod//10 .//MID//punct//10
+Statens offentliga utredningar 2007;Jo//IN//punct//10 .//MAD//punct//14
+Statens offentliga utredningar 2007;+//MID//cc//18 engelsk//JJ|POS|UTR|SIN|IND|NOM//amod//18 översättning//NN|UTR|SIN|IND|NOM//conj//10 .//MAD//punct//10
+Statens offentliga utredningar 2007;Stöd//NN|NEU|SIN|IND|NOM//ROOT//0 till//PP//case//2 kommuner//NN|UTR|PLU|IND|NOM//obl//0 för//PP//case//5 verksamhetsnära//JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//5 kompetensutveckling//NN|UTR|SIN|IND|NOM//nmod//2 inom//PP//case//7 omsorg//NN|UTR|SIN|IND|NOM//nmod//5 och//KN//cc//9 vård//NN|UTR|SIN|IND|NOM//conj//7 av//PP//case//11 äldre//JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM//nmod//9 .//MAD//punct//0
+Statens offentliga utredningar 2007;S.//PM|NOM//dep//0 –//PM|NOM//punct//17 en//DT|UTR|SIN|IND//det//17 straffrättslig//JJ|POS|UTR|SIN|IND|NOM//amod//17 anpassning//NN|UTR|SIN|IND|NOM//conj//13 .//MAD//punct//17
+Statens offentliga utredningar 2007;Ju//KN//advmod//0 .//MAD//punct//0
+Statens offentliga utredningar 2007;Rättslig//JJ|POS|UTR|SIN|IND|NOM//amod//1 reglering//NN|UTR|SIN|IND|NOM//nsubj//11 och//KN//cc//3 förekomst//NN|UTR|SIN|IND|NOM//conj//1 av//PP//case//5 folkomröstningar//NN|UTR|PLU|IND|NOM//nmod//3 i//PP//case//9 32//RG|NOM//nummod//9 europeiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//9 stater//NN|UTR|PLU|IND|NOM//nmod//5 .//MAD//punct//1
+Statens offentliga utredningar 2007;Ju//KN//ROOT//11 .//MAD//punct//11
+Statens offentliga utredningar 2007;Systematisk//JJ|POS|UTR|SIN|IND|NOM//amod//1 förteckning//NN|UTR|SIN|IND|NOM//ROOT//1
+
+Statsrådsberedningen;Vägval//NN|NEU|SIN|IND|NOM//ROOT//0 för//PP//case//2 Sieps//PM|NOM//nmod//0 .//MAD//punct//0
+Statsrådsberedningen;En//DT|UTR|SIN|IND//det//5 översyn//NN|UTR|SIN|IND|NOM//appos//0 av//PP//case//8 Svenska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//8 institutet//NN|NEU|SIN|DEF|NOM//nmod//5 för//PP//case//11 Europapolitiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//11 studier//NN|UTR|PLU|IND|NOM//nmod//8 .//MAD//punct//5 [//PAD//nmod//14
+Statsrådsberedningen;109//RG|NOM//nmod//5 ]//PAD//punct//0
+
+Justitiedepartementet;Föräldraskap//NN|NEU|SIN|IND|NOM//ROOT//0 vid//PP//case//3 assisterad//PC|PRF|UTR|SIN|IND|NOM//amod//3 befruktning//NN|UTR|SIN|IND|NOM//nmod//0 .//MAD//punct//0 [//PAD//nmod//0
+Justitiedepartementet;3//RG|NOM//nummod//5 ]//PAD//punct//0
+Justitiedepartementet;Summa//NN|UTR|SIN|IND|NOM//amod//1 summarum//AB//ROOT//1 –//RG|NOM//punct//1 en//DT|UTR|SIN|IND//det//5 fristående//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//5 myndighet//NN|UTR|SIN|IND|NOM//appos//1 för//PP//case//7 utredning//NN|UTR|SIN|IND|NOM//nmod//5 av//PP//case//9 anmälningar//NN|UTR|PLU|IND|NOM//nmod//7 om//PP//case//11 brott//NN|NEU|PLU|IND|NOM//nmod//9 av//PP//case//13 poliser//NN|UTR|PLU|IND|NOM//nmod//11 och//KN//cc//15 åklagare//NN|UTR|PLU|IND|NOM//conj//13 ?//MAD//punct//1 [//PAD//nmod//18
+Justitiedepartementet;5//RG|NOM//nmod//1 ]//PAD//punct//1
+Justitiedepartementet;Målsägandebiträdet//NN|NEU|SIN|DEF|NOM//ROOT//0 .//MAD//punct//0
+Justitiedepartementet;Ett//DT|NEU|SIN|IND//det//2 aktivt//JJ|POS|NEU|SIN|IND|NOM//amod//2 stöd//NN|NEU|SIN|IND|NOM//ROOT//2 i//PP//case//4 rättsprocessen//NN|UTR|SIN|DEF|NOM//nmod//2 .//MAD//punct//2 [//PAD//nmod//7
+Justitiedepartementet;6//RG|NOM//nmod//2 ]//PAD//punct//2
+Justitiedepartementet;Nya//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//1 förutsättningar//NN|UTR|PLU|IND|NOM//ROOT//1 för//PP//case//3 ekobrottsbekämpning//NN|UTR|SIN|IND|NOM//nmod//1 .//MAD//punct//1 [//PAD//nmod//6
+Justitiedepartementet;8//RG|NOM//nmod//1 ]//PAD//punct//1
+Justitiedepartementet;Äktenskap//NN|NEU|SIN|IND|NOM//ROOT//0 för//PP//case//2 par//NN|NEU|PLU|IND|NOM//nmod//0 med//PP//case//5 samma//DT|UTR/NEU|SIN/PLU|IND//det//5 kön//NN|NEU|SIN|IND|NOM//nmod//2 .//MAD//punct//0
+Justitiedepartementet;Vigselfrågor//NN|UTR|PLU|IND|NOM//appos//0 .//MAD//punct//7 [//PAD//nmod//10
+Justitiedepartementet;17//RG|NOM//nmod//0 ]//PAD//punct//0
+Justitiedepartementet;Skyddet//NN|NEU|SIN|DEF|NOM//ROOT//0 för//PP//case//4 den//DT|UTR|SIN|DEF//det//4 personliga//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//4 integriteten//NN|UTR|SIN|DEF|NOM//nmod//0 .//MAD//punct//0
+Justitiedepartementet;Kartläggning//NN|UTR|SIN|IND|NOM//appos//0 och//KN//cc//8 analys//NN|UTR|SIN|IND|NOM//conj//6 .//MID//punct//0
+Justitiedepartementet;Del//NN|UTR|SIN|IND|NOM//nmod//11 1+2//RG|NOM//nmod//0 .//MAD//punct//11 [//PAD//nmod//14
+Justitiedepartementet;22//RG|NOM//nummod//11 ]//PAD//punct//0
+Justitiedepartementet;Alternativ//JJ|POS|UTR|SIN|IND|NOM//amod//1 tvistlösning//NN|UTR|SIN|IND|NOM//ROOT//1 .//MAD//punct//1 [//PAD//nmod//4
+Justitiedepartementet;26//RG|NOM//nmod//1 ]//PAD//punct//1
+Justitiedepartementet;Hur//HA//advmod//1 tillämpas//VB|PRS|SFO//ROOT//1 expropriationslagens//NN|UTR|SIN|DEF|GEN//nmod:poss//3 ersättningsbestämmelser//NN|UTR|PLU|IND|NOM//nsubj:pass//1 ?//MAD//punct//1 [//PAD//nmod//6
+Justitiedepartementet;29//RG|NOM//dep//1 ]//PAD//punct//1
+Justitiedepartementet;Skolgång//NN|UTR|SIN|IND|NOM//ROOT//0 för//PP//case//2 barn//NN|NEU|PLU|IND|NOM//nmod//0 som//HP|-|-|-//nsubj:pass//5 skall//VB|PRS|AKT//aux//5 avvisas//VB|INF|SFO//acl:relcl//2 eller//KN//cc//7 utvisas//VB|INF|SFO//conj//5 .//MAD//punct//0 [//PAD//nmod//10
+Justitiedepartementet;34//RG|NOM//nmod//0 ]//PAD//punct//0
+Justitiedepartementet;Framtidens//NN|UTR|SIN|DEF|GEN//nmod:poss//1 polis//NN|UTR|SIN|IND|NOM//ROOT//1 .//MAD//punct//1 [//PAD//nmod//4
+Justitiedepartementet;39//RG|NOM//nmod//1 ]//PAD//punct//1
+Justitiedepartementet;Valsystem//NN|NEU|PLU|IND|NOM//ROOT//0 och//KN//cc//2 representationseffekter//NN|UTR|PLU|IND|NOM//conj//0 .//MAD//punct//0
+Justitiedepartementet;En//DT|UTR|SIN|IND//det//6 jämförande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//6 studie//NN|UTR|SIN|IND|NOM//conj//0 av//PP//case//9 25//RG|NOM//nummod//9 länder//NN|NEU|PLU|IND|NOM//nmod//6 .//MAD//punct//6 [//PAD//nmod//12
+Justitiedepartementet;40//RG|NOM//nmod//6 ]//PAD//punct//0
+Justitiedepartementet;Misstroendeförklaring//NN|UTR|SIN|IND|NOM//nsubj//3 och//KN//cc//2 regeringsbildning//NN|UTR|SIN|IND|NOM//conj//0 1994–2006//RG|NOM//ROOT//3 .//MAD//punct//3
+Justitiedepartementet;Regeltillämpning//NN|UTR|SIN|IND|NOM//amod//3 och//KN//cc//2 författningspolitiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//conj//0 alternativ//NN|NEU|PLU|IND|NOM//ROOT//3 .//MAD//punct//3 [//PAD//nmod//6
+Justitiedepartementet;41//RG|NOM//nmod//3 ]//PAD//punct//3
+Justitiedepartementet;Från//PP//case//1 statsminister//NN|UTR|SIN|IND|NOM//ROOT//1 till//PP//case//3 president//NN|UTR|SIN|IND|NOM//nmod//1 ?//MID//punct//1
+Justitiedepartementet;Sveriges//PM|GEN//nmod:poss//6 regeringschef//NN|UTR|SIN|IND|NOM//appos//1 i//PP//case//10 ett//DT|NEU|SIN|IND//det//10 jämförande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//10 perspektiv//NN|NEU|SIN|IND|NOM//nmod//6 .//MAD//punct//1 [//PAD//nmod//13
+Justitiedepartementet;42//RG|NOM//nmod//1 ]//PAD//punct//1
+Justitiedepartementet;Beslutanderätt//NN|UTR|SIN|IND|NOM//ROOT//0 vid//PP//case//3 gemensam//JJ|POS|UTR|SIN|IND|NOM//amod//3 vårdnad//NN|UTR|SIN|IND|NOM//nmod//0 m.m.//AB|AN//conj//0 [//PAD//nmod//6 52//RG|NOM//nmod//0 ]//PAD//punct//0
+Justitiedepartementet;Barnet//NN|NEU|SIN|DEF|NOM//ROOT//0 i//PP//case//2 fokus//NN|NEU|SIN|IND|NOM//nmod//0
+Justitiedepartementet;En//DT|UTR|SIN|IND//det//2 skärpt//PC|PRF|UTR|SIN|IND|NOM//amod//2 lagstiftning//NN|UTR|SIN|IND|NOM//ROOT//2 mot//PP//case//4 barnpornografi//NN|UTR|SIN|IND|NOM//nmod//2 .//MAD//punct//2 [//PAD//nmod//7
+Justitiedepartementet;54//RG|NOM//nmod//2 ]//PAD//punct//2
+Justitiedepartementet;"Revisionsutskott//NN|NEU|SIN|IND|NOM//ROOT//0 m.m.//AB|AN//conj//0 ;//MID//punct//3"
+Justitiedepartementet;Genomförande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//conj//0 av//PP//case//7 2006//RG|NOM//nummod//6 års//NN|NEU|SIN|IND|GEN//nmod:poss//7 revisorsdirektiv//NN|NEU|SIN|IND|NOM//nmod//3 .//MAD//punct//3 [//PAD//nmod//10
+Justitiedepartementet;56//RG|NOM//obl//3 ]//PAD//punct//0
+Justitiedepartementet;Domstolarnas//NN|UTR|PLU|DEF|GEN//nmod:poss//1 handläggning//NN|UTR|SIN|IND|NOM//ROOT//1 av//PP//case//3 ärenden//NN|NEU|PLU|IND|NOM//nmod//1 .//MAD//punct//1 [//PAD//nmod//6
+Justitiedepartementet;65//RG|NOM//nmod//1 ]//PAD//punct//1
+Justitiedepartementet;Regeringsformen//NN|UTR|SIN|DEF|NOM//ROOT//0 ur//PP//case//3 ett//DT|NEU|SIN|IND//det//3 könsperspektiv//NN|NEU|SIN|IND|NOM//nmod//0 .//MAD//punct//0
+Justitiedepartementet;En//DT|UTR|SIN|IND//det//7 övergripande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//7 genomgång//NN|UTR|SIN|IND|NOM//appos//0 .//MAD//punct//7 [//PAD//nmod//10
+Justitiedepartementet;67//RG|NOM//nummod//0 ]//PAD//punct//0
+Justitiedepartementet;Ett//DT|NEU|SIN|IND//det//1 decennium//NN|NEU|SIN|IND|NOM//ROOT//1 med//PP//case//3 personval//NN|NEU|PLU|IND|NOM//nmod//1 .//MAD//punct//1
+Justitiedepartementet;Erfarenheter//NN|UTR|PLU|IND|NOM//appos//1 och//KN//cc//7 utfall//NN|NEU|PLU|IND|NOM//conj//5 .//MAD//punct//1 [//PAD//nmod//10
+Justitiedepartementet;68//RG|NOM//nmod//1 ]//PAD//punct//1
+Justitiedepartementet;Bestämmelser//NN|UTR|PLU|IND|NOM//ROOT//0 om//PP//case//2 domstolarna//NN|UTR|PLU|DEF|NOM//nmod//0 i//PP//case//4 regeringsformen//NN|UTR|SIN|DEF|NOM//nmod//2 .//MAD//punct//0
+Justitiedepartementet;Expertgruppsrapport//PM|NOM//nmod//0 .//MAD//punct//0 [//PAD//nmod//9
+Justitiedepartementet;69//RG|NOM//nmod//0 ]//PAD//punct//0
+Justitiedepartementet;En//DT|UTR|SIN|IND//det//2 starkare//JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//2 företagsinteckning//NN|UTR|SIN|IND|NOM//ROOT//2 .//MAD//punct//2 [//PAD//nmod//5
+Justitiedepartementet;71//RG|NOM//nmod//2 ]//PAD//punct//2
+Justitiedepartementet;Lagring//NN|UTR|SIN|IND|NOM//ROOT//0 av//PP//case//2 trafikuppgifter//NN|UTR|PLU|IND|NOM//nmod//0 för//PP//case//4 brottsbekämpning//NN|UTR|SIN|IND|NOM//nmod//2 .//MAD//punct//0 [//PAD//nmod//7
+Justitiedepartementet;76//RG|NOM//nmod//0 ]//PAD//punct//0
+Justitiedepartementet;Värdet//NN|NEU|SIN|DEF|NOM//ROOT//0 av//PP//case//2 valdeltagande//NN|NEU|SIN|IND|NOM//nmod//0 .//MAD//punct//0 [//PAD//nmod//5
+Justitiedepartementet;84//RG|NOM//nmod//0 ]//PAD//punct//0
+Justitiedepartementet;Olika//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//1 former//NN|UTR|PLU|IND|NOM//ROOT//1 av//PP//case//3 normkontroll//NN|UTR|SIN|IND|NOM//nmod//1 .//MAD//punct//1
+Justitiedepartementet;Expertgruppsrapport//NN|UTR|SIN|IND|NOM//nmod//1 .//MAD//punct//1 [//PAD//nmod//8
+Justitiedepartementet;85//RG|NOM//nmod//1 ]//PAD//punct//1
+Justitiedepartementet;Straffskalan//NN|UTR|SIN|DEF|NOM//ROOT//0 för//PP//case//2 mord//NN|NEU|SIN|IND|NOM//nmod//0 .//MAD//punct//0 [//PAD//nmod//5
+Justitiedepartementet;90//RG|NOM//nmod//0 ]//PAD//punct//0
+Justitiedepartementet;Urkunden//NN|UTR|SIN|DEF|NOM//ROOT//0 I//PP//case//2 Tiden//NN|UTR|SIN|DEF|NOM//nmod//0 –//RG|NOM//punct//6 en//DT|UTR|SIN|IND//det//6 straffrättslig//JJ|POS|UTR|SIN|IND|NOM//amod//6 anpassning//NN|UTR|SIN|IND|NOM//appos//0 [//PAD//nmod//8 92//RG|NOM//nummod//6 ]//PAD//punct//0
+Justitiedepartementet;Den//DT|UTR|SIN|DEF//det//2 kommunala//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//2 självstyrelsens//NN|UTR|SIN|DEF|GEN//nmod:poss//3 grundlagsskydd//NN|NEU|SIN|IND|NOM//ROOT//3 .//MAD//punct//3
+Justitiedepartementet;Expertgruppsrapport//NN|UTR|SIN|IND|NOM//appos//3 .//MAD//punct//3 [//PAD//nmod//8
+Justitiedepartementet;93//RG|NOM//appos//3 ]//PAD//punct//3
+Justitiedepartementet;Folkomröstning//NN|UTR|SIN|IND|NOM//ROOT//0 i//PP//case//2 Europa//PM|NOM//nmod//0 .//MAD//punct//0
+Justitiedepartementet;Rättslig//JJ|POS|UTR|SIN|IND|NOM//amod//1 reglering//NN|UTR|SIN|IND|NOM//ROOT//1 och//KN//cc//3 förekomst//NN|UTR|SIN|IND|NOM//conj//1 av//PP//case//5 folkomröstningar//NN|UTR|PLU|IND|NOM//nmod//3 i//PP//case//9 32//RG|NOM//nummod//9 europeiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//9 stater//NN|UTR|PLU|IND|NOM//nmod//5 .//MAD//punct//1 [//PAD//nmod//12
+Justitiedepartementet;94//RG|NOM//conj//1 ]//PAD//punct//1
+Justitiedepartementet;Svenska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//1 nyhetsmedier//NN|NEU|PLU|IND|NOM//ROOT//1 och//KN//cc//4 mänskliga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//4 rättigheter//NN|UTR|PLU|IND|NOM//conj//1 i//PP//case//6 Sverige//PM|NOM//nmod//4 .//MAD//punct//1
+Justitiedepartementet;En//DT|UTR|SIN|IND//det//9 översikt//NN|UTR|SIN|IND|NOM//conj//1 .//MAD//punct//9 [//PAD//nmod//12
+Justitiedepartementet;102//RG|NOM//nmod//9 ]//PAD//punct//1
+
+Utrikesdepartementet;Svenskan//NN|UTR|SIN|DEF|NOM//ROOT//0 i//PP//case//2 världen//NN|UTR|SIN|DEF|NOM//nmod//0 .//MAD//punct//0 [//PAD//nmod//5
+Utrikesdepartementet;9//RG|NOM//nmod//0 ]//PAD//punct//0
+
+Försvarsdepartementet;Alltid//AB//advmod//1 redo//JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM//ROOT//1 !//MID//punct//1
+Försvarsdepartementet;En//DT|UTR|SIN|IND//det//5 ny//JJ|POS|UTR|SIN|IND|NOM//amod//5 myndighet//NN|UTR|SIN|IND|NOM//nsubj//1 mot//PP//case//7 olyckor//NN|UTR|PLU|IND|NOM//nmod//5 och//KN//cc//9 kriser//NN|UTR|PLU|IND|NOM//conj//7 .//MAD//punct//1 [//PAD//nmod//12
+Försvarsdepartementet;31//RG|NOM//appos//1 ]//PAD//punct//1
+Försvarsdepartementet;En//DT|UTR|SIN|IND//det//2 svensk//JJ|POS|UTR|SIN|IND|NOM//amod//2 veteranpolitik//NN|UTR|SIN|IND|NOM//ROOT//2 ,//MID//punct//2 del//NN|UTR|SIN|IND|NOM//nmod//5 1//RG|NOM//appos//2 .//MAD//punct//2
+Försvarsdepartementet;Ansvaret//NN|NEU|SIN|DEF|NOM//ROOT//0 för//PP//case//2 personalen//NN|UTR|SIN|DEF|NOM//nmod//0 före//PP//advmod//0 ,//MID//punct//0 under//PP//advmod//4 och//KN//cc//10 efter//PP//case//10 internationella//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//10 militära//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//10 insatser//NN|UTR|PLU|IND|NOM//conj//0 .//MAD//punct//0 [//PAD//nmod//13
+Försvarsdepartementet;77//RG|NOM//nmod//0 ]//PAD//punct//0
+
+Socialdepartementet;Från//PP//case//1 socialbidrag//NN|NEU|SIN|IND|NOM//ROOT//1 till//PP//case//3 arbete//NN|NEU|SIN|IND|NOM//nmod//1 .//MAD//punct//1
+Socialdepartementet;+//MID//cc//6 Bilaga//NN|UTR|SIN|IND|NOM//conj//1 .//MAD//punct//6
+Socialdepartementet;Fördjupningsstudier//NN|UTR|PLU|IND|NOM//nmod//6 .//MAD//punct//6
+Socialdepartementet;+//MID//cc//11 Lättläst//NN|UTR|SIN|IND|NOM//conj//6 .//MAD//punct//11
+Socialdepartementet;Sammanfattning//NN|UTR|SIN|IND|NOM//nmod//1 .//MAD//punct//13 [//PAD//punct//1
+Socialdepartementet;2//RG|NOM//nummod//15 ]//PAD//punct//1
+Socialdepartementet;Ändrad//PC|PRF|UTR|SIN|IND|NOM//amod//1 könstillhörighet//NN|UTR|SIN|IND|NOM//ROOT//1 –//RG|NOM//punct//3 förslag//NN|NEU|SIN|IND|NOM//conj//1 till//PP//case//6 ny//JJ|POS|UTR|SIN|IND|NOM//amod//6 lag//NN|UTR|SIN|IND|NOM//nmod//3 .//MAD//punct//3 [//PAD//nmod//9
+Socialdepartementet;16//RG|NOM//nmod//3 )//PAD//punct//1
+Socialdepartementet;Friskare//JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//1 tänder//NN|UTR|PLU|IND|NOM//ROOT//1 –//RG|NOM//punct//1 till//PP//case//5 rimliga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//5 kostnader//NN|UTR|PLU|IND|NOM//nmod//1 .//MAD//punct//1 [//PAD//nmod//8
+Socialdepartementet;19//RG|NOM//nmod//1 ]//PAD//punct//1
+Socialdepartementet;Vård//NN|UTR|SIN|IND|NOM//ROOT//0 med//PP//case//2 omsorg//NN|UTR|SIN|IND|NOM//nmod//0 –//RG|NOM//punct//4 möjligheter//NN|UTR|PLU|IND|NOM//conj//2 och//KN//cc//6 hinder//NN|NEU|PLU|IND|NOM//conj//2 .//MAD//punct//0 [//PAD//nmod//9
+Socialdepartementet;37//RG|NOM//nmod//0 ]//PAD//punct//0
+Socialdepartementet;Patientdata//NN|NEU|PLU|IND|NOM//nsubj//11 och//KN//cc//2 läkemedel//NN|NEU|PLU|IND|NOM//conj//0 m.m.//AB|AN//conj//0 [//PAD//nmod//5 48//RG|NOM//nmod//0 ]//PAD//punct//5 Sjukhusens//NN|NEU|PLU|DEF|GEN//nmod:poss//8 läkemedelsförsörjning//NN|UTR|SIN|IND|NOM//conj//0 .//MAD//punct//8 [//PAD//nmod//11
+Socialdepartementet;53//RG|NOM//ROOT//11 ]//PAD//punct//11
+Socialdepartementet;Kostnader//NN|UTR|PLU|IND|NOM//ROOT//0 för//PP//case//3 personlig//JJ|POS|UTR|SIN|IND|NOM//amod//3 assistans//NN|UTR|SIN|IND|NOM//nmod//0 .//MAD//punct//0
+Socialdepartementet;Skärpta//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//1 regler//NN|UTR|PLU|IND|NOM//ROOT//1 för//PP//case//3 utbetalning//NN|UTR|SIN|IND|NOM//nmod//1 ,//MID//punct//5 användning//NN|UTR|SIN|IND|NOM//conj//3 och//KN//cc//7 återbetalning//NN|UTR|SIN|IND|NOM//conj//3 av//PP//case//9 assistansersättning//NN|UTR|SIN|IND|NOM//nmod//7 .//MAD//punct//1 [//PAD//nmod//12
+Socialdepartementet;73//RG|NOM//nmod//1 ]//PAD//punct//1
+Socialdepartementet;Samordnad//PC|PRF|UTR|SIN|IND|NOM//amod//3 och//KN//cc//2 tydlig//JJ|POS|UTR|SIN|IND|NOM//amod//3 tillsyn//NN|UTR|SIN|IND|NOM//ROOT//3 av//PP//case//5 socialtjänsten//NN|UTR|SIN|DEF|NOM//nmod//3 .//MAD//punct//3
+Socialdepartementet;+//MID//cc//8 Lättläst//NN|UTR|SIN|IND|NOM//conj//3 +//MID//cc//10 daisy//NN|UTR|SIN|IND|NOM//conj//8 .//MAD//punct//8 [//PAD//nmod//13
+Socialdepartementet;82//RG|NOM//nmod//8 ]//PAD//punct//3
+Socialdepartementet;Att//IE//mark//1 lära//VB|INF|AKT//ROOT//1 nära//AB|POS//compound:prt//1 .//MAD//punct//1
+Socialdepartementet;Stöd//NN|NEU|SIN|IND|NOM//ROOT//0 till//PP//case//2 kommuner//NN|UTR|PLU|IND|NOM//obl//0 för//PP//case//5 verksamhetsnära//JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//5 kompetensutveckling//NN|UTR|SIN|IND|NOM//nmod//2 inom//PP//case//7 omsorg//NN|UTR|SIN|IND|NOM//nmod//5 och//KN//cc//9 vård//NN|UTR|SIN|IND|NOM//conj//7 av//PP//case//11 äldre//JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM//nmod//9 .//MAD//punct//0 [//PAD//nmod//14
+Socialdepartementet;88//RG|NOM//dep//0 ]//PAD//punct//0
+Socialdepartementet;Ny//JJ|POS|UTR|SIN|IND|NOM//amod//1 företagshälsovård//NN|UTR|SIN|IND|NOM//ROOT//1 –//RG|NOM//punct//1 ny//JJ|POS|UTR|SIN|IND|NOM//amod//4 kunskapsförsörjning//NN|UTR|SIN|IND|NOM//appos//1 [//PAD//nmod//6 91//RG|NOM//nummod//4 ]//PAD//punct//1
+Socialdepartementet;Bo//PM|NOM//case//10 för//PP//mark//3 att//IE//mark//3 leva//VB|INF|AKT//advcl//0 –//PAD//punct//5 seniorbostäder//NN|UTR|PLU|IND|NOM//obj//3 och//KN//cc//7 trygghetsbostäder//NN|UTR|PLU|IND|NOM//conj//5 .//MAD//punct//0 [//PAD//nmod//10
+Socialdepartementet;103//RG|NOM//ROOT//10 ]//PAD//punct//10
+
+Finansdepartementet;Hållbar//JJ|POS|UTR|SIN|IND|NOM//amod//1 samhällsorganisation//NN|UTR|SIN|IND|NOM//ROOT//1 med//PP//case//3 utvecklingskraft//NN|UTR|SIN|IND|NOM//nmod//1 .//MAD//punct//1 [//PAD//nmod//6
+Finansdepartementet;10//RG|NOM//nmod//1 ]//PAD//punct//1
+Finansdepartementet;Regional//JJ|POS|UTR|SIN|IND|NOM//amod//1 utveckling//NN|UTR|SIN|IND|NOM//ROOT//1 och//KN//cc//4 regional//JJ|POS|UTR|SIN|IND|NOM//amod//4 samhällsorganisation//NN|UTR|SIN|IND|NOM//conj//1 .//MAD//punct//1 [//PAD//nmod//7
+Finansdepartementet;11//RG|NOM//nmod//1 ]//PAD//punct//1
+Finansdepartementet;Hälso-//NN|UTR|-|-|SMS//ROOT//0 och//KN//cc//2 sjukvården//NN|UTR|SIN|DEF|NOM//conj//0 .//MAD//punct//0 [//PAD//nmod//5
+Finansdepartementet;12//RG|NOM//nmod//0 ]//PAD//punct//0
+Finansdepartementet;Staten//NN|UTR|SIN|DEF|NOM//ROOT//0 och//KN//cc//2 kommunerna//NN|UTR|PLU|DEF|NOM//conj//0 –//RG|NOM//punct//4 uppgifter//NN|UTR|PLU|IND|NOM//conj//0 ,//MID//punct//6 struktur//NN|UTR|SIN|IND|NOM//conj//4 och//KN//cc//8 relationer//NN|UTR|PLU|IND|NOM//conj//4 .//MAD//punct//0 [//PAD//nmod//11
+Finansdepartementet;13//RG|NOM//nmod//0 ]//PAD//punct//0
+Finansdepartementet;Genomförande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//ROOT//0 av//PP//case//3 tredje//RO|NOM//amod//3 penningtvättsdirektivet//NN|NEU|SIN|DEF|NOM//nmod//0 .//MAD//punct//0 [//PAD//nmod//6
+Finansdepartementet;23//RG|NOM//nmod//0 ]//PAD//punct//0
+Finansdepartementet;Plats//NN|UTR|SIN|IND|NOM//ROOT//0 för//PP//case//2 tillväxt//NN|UTR|SIN|IND|NOM//nmod//0 ?//MID//punct//0 [//PAD//nmod//5
+Finansdepartementet;25//RG|NOM//nmod//0 ]//PAD//punct//0
+Finansdepartementet;Flyttning//NN|UTR|SIN|IND|NOM//ROOT//0 och//KN//cc//2 pendling//NN|UTR|SIN|IND|NOM//conj//0 i//PP//case//4 Sverige//PM|NOM//nmod//2 .//MAD//punct//0 [//PAD//nmod//7
+Finansdepartementet;35//RG|NOM//conj//0 ]//PAD//punct//7 Tsunamibanden//NN|UTR|SIN|DEF|NOM//conj//0 .//MAD//punct//0 [//PAD//nmod//12
+Finansdepartementet;44//RG|NOM//nmod//0 ]//PAD//punct//0
+Finansdepartementet;Utökat//PC|PRF|NEU|SIN|IND|NOM//ROOT//0 elektroniskt//JJ|POS|NEU|SIN|IND|NOM//amod//2 informationsutbyte//NN|NEU|SIN|IND|NOM//obj//0 .//MAD//punct//0 [//PAD//nmod//5
+Finansdepartementet;45//RG|NOM//obl//0 ]//PAD//punct//5 Riksbankens//PM|GEN//nmod:poss//8 finansiella//JJ|POS|UTR/NEU|SIN|DEF|NOM//nsubj//9 oberoende//NN|NEU|SIN|IND|NOM//advcl//5 .//MAD//punct//5 [//PAD//nmod//12
+Finansdepartementet;51//RG|NOM//nummod//5 ]//PAD//punct//0
+Finansdepartementet;Deluppföljning//NN|UTR|SIN|IND|NOM//nmod//1 2//RG|NOM//ROOT//1 av//PP//case//5 den//DT|UTR|SIN|DEF//det//5 kommunalekonomiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//5 utjämningen//NN|UTR|SIN|DEF|NOM//nmod//1 –//RG|NOM//punct//1 med//PP//case//8 förslag//NN|NEU|PLU|IND|NOM//obl//1 till//PP//case//10 förändringar//NN|UTR|PLU|IND|NOM//nmod//8 i//PP//case//12 kostnadsutjämningen//NN|UTR|SIN|DEF|NOM//nmod//10 .//MAD//punct//1 [//PAD//nmod//15
+Finansdepartementet;61//RG|NOM//nummod//1 ]//PAD//punct//1
+Finansdepartementet;Utjämning//NN|UTR|SIN|IND|NOM//ROOT//0 av//PP//case//3 kommunernas//NN|UTR|PLU|DEF|GEN//nmod:poss//3 LSS-kostnader//NN|UTR|PLU|IND|NOM//nmod//0 –//RG|NOM//punct//5 översyn//NN|UTR|SIN|IND|NOM//conj//0 och//KN//cc//7 förslag//NN|NEU|SIN|IND|NOM//conj//5 .//MAD//punct//0 [//PAD//nmod//10
+Finansdepartementet;62//RG|NOM//nummod//13 ]//PAD//punct//10 Kommunal//JJ|POS|UTR|SIN|IND|NOM//amod//13 kompetens//NN|UTR|SIN|IND|NOM//appos//0 i//PP//case//15 utveckling//NN|UTR|SIN|IND|NOM//nmod//13 .//MAD//punct//0 [//PAD//nmod//18
+Finansdepartementet;72//RG|NOM//nmod//0 ]//PAD//punct//20 Upplåtelse//NN|UTR|SIN|IND|NOM//nmod//18 av//PP//case//24 den//DT|UTR|SIN|DEF//det//24 egna//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//24 bostaden//NN|UTR|SIN|DEF|NOM//nmod//20 .//MAD//punct//20 [//PAD//nmod//27
+Finansdepartementet;74//RG|NOM//nummod//18 ]//PAD//punct//0
+Finansdepartementet;Att//IE//mark//1 styra//VB|INF|AKT//ROOT//1 staten//NN|UTR|SIN|DEF|NOM//obj//1 –//PAD//punct//5 regeringens//NN|UTR|SIN|DEF|GEN//nmod:poss//5 styrning//NN|UTR|SIN|IND|NOM//obj//1 av//PP//case//8 sin//PS|UTR|SIN|DEF//nmod:poss//8 förvaltning//NN|UTR|SIN|IND|NOM//nmod//5 .//MAD//punct//1 [//PAD//nmod//11
+Finansdepartementet;75//RG|NOM//obj//1 ]//PAD//punct//1
+Finansdepartementet;Tjänster//NN|UTR|PLU|IND|NOM//ROOT//0 utan//PP//case//2 gränser//NN|UTR|PLU|IND|NOM//nmod//0 ?//MAD//punct//0
+Finansdepartementet;Internationalisering//NN|UTR|SIN|IND|NOM//ROOT//0 av//PP//case//4 offentliga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//3 sektorns//NN|UTR|SIN|DEF|GEN//nmod:poss//4 tjänster//NN|UTR|PLU|IND|NOM//nmod//0 .//MAD//punct//0 [//PAD//nmod//7
+Finansdepartementet;95//RG|NOM//nmod//0 ]//PAD//punct//0
+Finansdepartementet;Avgifter//NN|UTR|PLU|IND|NOM//ROOT//0 .//MAD//punct//0 [//PAD//nmod//3
+Finansdepartementet;96//RG|NOM//nmod//0 ]//PAD//punct//0
+Finansdepartementet;Opinionsbildande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//1 verksamhet//NN|UTR|SIN|IND|NOM//ROOT//1 och//KN//cc//4 små//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//4 myndigheter//NN|UTR|PLU|IND|NOM//conj//1 .//MAD//punct//4 [//PAD//nmod//7
+Finansdepartementet;107//RG|NOM//nummod//1 ]//PAD//punct//1
+
+Utbildningsdepartementet;Tydliga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//1 mål//NN|NEU|PLU|IND|NOM//ROOT//1 och//KN//cc//3 kunskapskrav//NN|NEU|PLU|IND|NOM//conj//1 i//PP//case//5 grundskolan//NN|UTR|SIN|DEF|NOM//nmod//3 .//MAD//punct//1
+Utbildningsdepartementet;Förslag//NN|NEU|PLU|IND|NOM//conj//1 till//PP//case//10 nytt//JJ|POS|NEU|SIN|IND|NOM//amod//10 mål-//NN|NEU|-|-|SMS//nmod//7 och//KN//cc//12 uppföljningssystem//NN|NEU|SIN|IND|NOM//conj//10 .//MAD//punct//7 [//PAD//nmod//15
+Utbildningsdepartementet;28//RG|NOM//nmod//7 ]//PAD//punct//1
+Utbildningsdepartementet;Två//RG|NOM//nummod//3 nya//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//3 statliga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//3 specialskolor//NN|UTR|PLU|IND|NOM//ROOT//3 .//MAD//punct//3
+Utbildningsdepartementet;+//MID//cc//7 Lättläst+//KN//nmod//7 Daisy//PM|NOM//conj//3 .//MAD//punct//7 [//PAD//nmod//10
+Utbildningsdepartementet;30//RG|NOM//nummod//3 ]//PAD//punct//10
+Utbildningsdepartementet;Studiestödsdatalag//NN|NEU|SIN|IND|NOM//ROOT//0 .//MAD//punct//0 [//PAD//nmod//3
+Utbildningsdepartementet;64//RG|NOM//nmod//0 ]//PAD//punct//0
+Utbildningsdepartementet;Tre//RG|NOM//nummod//2 nya//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//2 skolmyndigheter//NN|UTR|PLU|IND|NOM//ROOT//2 .//MAD//punct//2 [//PAD//nmod//5
+Utbildningsdepartementet;79//RG|NOM//appos//2 ]//PAD//punct//5 Resurser//NN|UTR|PLU|IND|NOM//nmod//5 för//PP//case//9 kvalitet//NN|UTR|SIN|IND|NOM//nmod//7 .//MAD//punct//2 [//PAD//nmod//12
+Utbildningsdepartementet;81//RG|NOM//nmod//2 ]//PAD//punct//2
+Utbildningsdepartementet;Ökad//PC|PRF|UTR|SIN|IND|NOM//amod//1 likvärdighet//NN|UTR|SIN|IND|NOM//ROOT//1 för//PP//case//3 elever//NN|UTR|PLU|IND|NOM//nmod//1 med//PP//case//5 funktionshinder//NN|NEU|PLU|IND|NOM//nmod//3 .//MAD//punct//1
+Utbildningsdepartementet;+//MID//cc//8 Lättläst//NN|UTR|SIN|IND|NOM//conj//1 .//MAD//punct//1
+Utbildningsdepartementet;+//MID//cc//11 Daisy//PM|NOM//conj//1 .//MAD//punct//1 [//PAD//nmod//14
+Utbildningsdepartementet;87//RG|NOM//nmod//1 ]//PAD//punct//1
+Utbildningsdepartementet;Karriär//NN|UTR|SIN|IND|NOM//ROOT//0 för//PP//case//2 kvalitet//NN|UTR|SIN|IND|NOM//nmod//0 .//MAD//punct//0 [//PAD//nmod//5
+Utbildningsdepartementet;98//RG|NOM//nmod//0 ]//PAD//punct//0
+Utbildningsdepartementet;Tydlig//JJ|POS|UTR|SIN|IND|NOM//amod//4 och//KN//cc//2 öppen//JJ|POS|UTR|SIN|IND|NOM//conj//0 .//MAD//punct//0
+Utbildningsdepartementet;Förslag//NN|NEU|PLU|IND|NOM//ROOT//4 till//PP//case//8 en//DT|UTR|SIN|IND//det//8 stärkt//PC|PRF|UTR|SIN|IND|NOM//amod//8 skolinspektion//NN|UTR|SIN|IND|NOM//nmod//4 .//MAD//punct//4 [//PAD//nmod//11
+Utbildningsdepartementet;101//RG|NOM//nmod//4 ]//PAD//punct//4
+
+Jordbruksdepartementet;Telefonförsäljning//NN|UTR|SIN|IND|NOM//ROOT//0 .//MAD//punct//0 [//PAD//nmod//3
+Jordbruksdepartementet;1//RG|NOM//nummod//0 ]//PAD//punct//0
+Jordbruksdepartementet;Administrativa//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//1 sanktioner//NN|UTR|PLU|IND|NOM//ROOT//1 på//PP//case//4 yrkesfiskets//NN|NEU|SIN|DEF|GEN//nmod:poss//4 område//NN|NEU|SIN|IND|NOM//nmod//1 .//MAD//punct//1 [//PAD//nmod//7
+Jordbruksdepartementet;20//RG|NOM//nmod//1 ]//PAD//punct//1
+Jordbruksdepartementet;Veterinär//JJ|POS|UTR|SIN|IND|NOM//amod//1 fältverksamhet//NN|UTR|SIN|IND|NOM//ROOT//1 i//PP//case//4 nya//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//4 former//NN|UTR|PLU|IND|NOM//nmod//1 .//MAD//punct//1 [//PAD//nmod//7
+Jordbruksdepartementet;24//RG|NOM//nmod//1 ]//PAD//punct//1
+Jordbruksdepartementet;Bioenergi//NN|UTR|SIN|IND|NOM//ROOT//0 från//PP//case//2 jordbruket//NN|NEU|SIN|DEF|NOM//nmod//0 –//RG|NOM//punct//6 en//DT|UTR|SIN|IND//det//6 växande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//6 resurs//NN|UTR|SIN|IND|NOM//conj//0 .//MAD//punct//6
+Jordbruksdepartementet;+//MID//cc//9 Bilagedel//NN|NEU|SIN|IND|NOM//conj//6 .//MAD//punct//0 [//PAD//nmod//12
+Jordbruksdepartementet;36//RG|NOM//nmod//0 ]//PAD//punct//0
+Jordbruksdepartementet;Ansvarsfrågan//NN|UTR|SIN|DEF|NOM//ROOT//0 vid//PP//case//2 odling//NN|UTR|SIN|IND|NOM//nmod//0 av//PP//case//5 genmodifierade//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//amod//5 grödor//NN|UTR|PLU|IND|NOM//nmod//2 .//MAD//punct//0 [//PAD//nmod//8
+Jordbruksdepartementet;46//RG|NOM//nmod//0 ]//PAD//punct//0
+Jordbruksdepartementet;Etiskt//JJ|POS|NEU|SIN|IND|NOM//amod//1 godkännande//NN|NEU|SIN|IND|NOM//ROOT//1 av//PP//case//3 djurförsök//NN|NEU|PLU|IND|NOM//nmod//1 –//PAD//punct//6 nya//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//6 former//NN|UTR|PLU|IND|NOM//conj//1 för//PP//case//8 överprövning//NN|UTR|SIN|IND|NOM//nmod//6 .//MAD//punct//6 [//PAD//nmod//11
+Jordbruksdepartementet;57//RG|NOM//nmod//6 ]//PAD//punct//1
+Jordbruksdepartementet;En//DT|UTR|SIN|IND//det//2 bättre//JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//2 viltförvaltning//NN|UTR|SIN|IND|NOM//ROOT//2 med//PP//case//4 inriktning//NN|UTR|SIN|IND|NOM//nmod//2 på//PP//case//6 älg//NN|UTR|SIN|IND|NOM//nmod//4 .//MAD//punct//2 [//PAD//nmod//9
+Jordbruksdepartementet;63//RG|NOM//nmod//2 ]//PAD//punct//2
+Jordbruksdepartementet;Bättre//JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//1 djurskydd//NN|NEU|PLU|IND|NOM//ROOT//1 –//PAD//punct//4 mindre//JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//4 krångel//NN|NEU|SIN|IND|NOM//appos//1 .//MAD//punct//1 [//PAD//nmod//7
+Jordbruksdepartementet;86//RG|NOM//appos//1 ]//PAD//punct//1
+
+Miljödepartementet;Renovering//NN|UTR|SIN|IND|NOM//nsubj:pass//3 av//PP//case//2 bostadsmarknad//NN|UTR|SIN|IND|NOM//nmod//0 efterlyses//VB|PRS|SFO//ROOT//3 !//MID//punct//3
+Miljödepartementet;Om//SN//mark//13 ungas//JJ|POS|UTR/NEU|PLU|IND/DEF|GEN//nmod:poss//7 möjligheter//NN|UTR|PLU|IND|NOM//nsubj//13 till//PP//case//11 en//DT|UTR|SIN|IND//det//11 egen//JJ|POS|UTR|SIN|IND/DEF|NOM//amod//11 bostad//NN|UTR|SIN|IND|NOM//nmod//7 .//MAD//punct//13
+Miljödepartementet;Rapport//NN|UTR|SIN|IND|NOM//advcl//3 nr//NN|AN//nmod//15 1//RG|NOM//nummod//13 ://MAD//punct//3
+Miljödepartementet;Om//SN//mark//4 bara//AB//advmod//2 någon//PN|UTR|SIN|IND|SUB/OBJ//nsubj//4 kunde//VB|PRT|AKT//aux//4 säga//VB|INF|AKT//advcl//17 vad//HP|NEU|SIN|IND//obj//8 jag//PN|UTR|SIN|DEF|SUB//nsubj//8 ska//VB|PRS|AKT//aux//8 göra//VB|INF|AKT//ccomp//4 för//PP//mark//11 att//IE//mark//11 få//VB|INF|AKT//advcl//8 en//DT|UTR|SIN|IND//det//13 bostad//NN|UTR|SIN|IND|NOM//obj//11 så//AB//advcl//17 skulle//VB|PRT|AKT//aux//17 jag//PN|UTR|SIN|DEF|SUB//nsubj//17 göra//VB|INF|AKT//ROOT//17 det//PN|NEU|SIN|DEF|SUB/OBJ//obj//17 .//MAD//punct//17
+Miljödepartementet;Rapport//NN|UTR|SIN|IND|NOM//parataxis//17 nr//NN|AN//nmod//22 2//RG|NOM//nummod//20 ://MAD//punct//17
+Miljödepartementet;Måste//VB|PRS|AKT//aux//2 man//PN|UTR|SIN|IND|SUB//nsubj//2 ha//VB|INF|AKT//ROOT//2 tur//NN|UTR|SIN|IND|NOM//obj//2 ?//MAD//punct//2
+Miljödepartementet;Studier//NN|UTR|PLU|IND|NOM//ROOT//0 av//PP//case//2 yngre//JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM//nmod//0 på//PP//case//4 bostadsmarknaden//NN|UTR|SIN|DEF|NOM//nmod//2 i//PP//case//7 svenska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//7 städer//NN|UTR|PLU|IND|NOM//nmod//4 .//MAD//punct//0
+Miljödepartementet;Rapport//NN|UTR|SIN|IND|NOM//ROOT//0 nr//NN|AN//nmod//2 3//RG|NOM//obj//0 ://MID//punct//0
+Miljödepartementet;Effektiv//JJ|POS|UTR|SIN|IND|NOM//amod//1 bostadsservice//NN|UTR|SIN|IND|NOM//ROOT//1 och//KN//cc//3 förmedling//NN|UTR|SIN|IND|NOM//conj//1 av//PP//case//5 bostäder//NN|UTR|PLU|IND|NOM//nmod//3 –//RG|NOM//punct//1 ur//PP//case//10 ett//DT|NEU|SIN|IND//det//10 dubbelt//JJ|POS|NEU|SIN|IND|NOM//amod//10 användarperspektiv//NN|NEU|SIN|IND|NOM//conj//1 .//MAD//punct//1
+Miljödepartementet;Rapport//NN|UTR|SIN|IND|NOM//ROOT//0 nr//NN|AN//nmod//2 4//RG|NOM//obj//0 ://MID//punct//0
+Miljödepartementet;Unga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//1 vuxna//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//ROOT//1 på//PP//case//3 bolånemarknaden//NN|UTR|SIN|DEF|NOM//nmod//1 .//MAD//punct//1 [//PAD//nmod//6
+Miljödepartementet;14//RG|NOM//nmod//1 ]//PAD//punct//1
+Miljödepartementet;GMO-skador//NN|UTR|PLU|IND|NOM//ROOT//0 i//PP//case//2 naturen//NN|UTR|SIN|DEF|NOM//nmod//0 och//KN//cc//5 Miljöbalkens//NN|UTR|SIN|DEF|GEN//nmod:poss//5 försäkringar//NN|UTR|PLU|IND|NOM//conj//2 .//MAD//punct//0 [//PAD//nmod//8
+Miljödepartementet;21//RG|NOM//nmod//0 ]//PAD//punct//0
+Miljödepartementet;Kunskapsläget//NN|NEU|SIN|DEF|NOM//ROOT//0 på//PP//case//2 kärnavfallsområdet//NN|NEU|SIN|DEF|NOM//nmod//0 2007//RG|NOM//nummod//2 .//MAD//punct//0
+Miljödepartementet;Nu//AB//advmod//6 levandes//NN|NEU|SIN|IND|GEN//amod//7 ansvar//NN|NEU|SIN|IND|NOM//appos//0 ,//MID//punct//11 framtida//JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//10 generationers//NN|UTR|PLU|IND|GEN//nmod:poss//11 frihet//NN|UTR|SIN|IND|NOM//conj//7 .//MAD//punct//7 [//PAD//nmod//14
+Miljödepartementet;38//RG|NOM//nmod//0 ]//PAD//punct//0
+Miljödepartementet;Sverige//PM|NOM//ROOT//0 inför//PP//case//2 klimatförändringarna//NN|UTR|PLU|DEF|NOM//nmod//0 –//RG|NOM//punct//4 hot//NN|NEU|PLU|IND|NOM//appos//0 och//KN//cc//6 möjligheter//NN|UTR|PLU|IND|NOM//conj//4 .//MAD//punct//0
+Miljödepartementet;DVD//PM|NOM//nmod//9 medföljer//VB|PRS|AKT//appos//0 .//MAD//punct//0 [//PAD//nmod//12
+Miljödepartementet;60//RG|NOM//nmod//0 ]//PAD//punct//12 +//MID//cc//16 engelsk//JJ|POS|UTR|SIN|IND|NOM//amod//16 översättning//NN|UTR|SIN|IND|NOM//conj//12 .//MAD//punct//0
+Miljödepartementet;Reach//NN|UTR|SIN|IND|NOM//nsubj//2 –//PAD//punct//2 genomförande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//ROOT//2 och//KN//cc//4 sanktioner//NN|UTR|PLU|IND|NOM//conj//2 .//MAD//punct//2 [//PAD//nmod//7
+Miljödepartementet;80//RG|NOM//conj//2 ]//PAD//punct//2
+Miljödepartementet;Rovdjuren//NN|NEU|PLU|DEF|NOM//ROOT//0 och//KN//cc//3 deras//PS|UTR/NEU|SIN/PLU|DEF//nmod:poss//3 förvaltning//NN|UTR|SIN|IND|NOM//conj//0 .//MAD//punct//0 [//PAD//nmod//6
+Miljödepartementet;89//RG|NOM//nmod//0 ]//PAD//punct//0
+
+Näringsdepartementet;Trafikinspektionen//NN|UTR|SIN|DEF|NOM//ROOT//0 –//RG|NOM//punct//3 en//DT|UTR|SIN|IND//det//3 myndighet//NN|UTR|SIN|IND|NOM//appos//0 för//PP//case//5 säkerhet//NN|UTR|SIN|IND|NOM//nmod//3 och//KN//cc//7 skydd//NN|NEU|SIN|IND|NOM//conj//5 inom//PP//case//9 transportområdet//NN|NEU|SIN|DEF|NOM//nmod//7 .//MAD//punct//3 [//PAD//nmod//12
+Näringsdepartementet;4//RG|NOM//nmod//3 ]//PAD//punct//0
+Näringsdepartementet;Arbetsmarknadsutbildning//NN|UTR|SIN|IND|NOM//ROOT//0 för//PP//case//2 bristyrken//NN|NEU|PLU|IND|NOM//nmod//0 och//KN//cc//4 insatser//NN|UTR|PLU|IND|NOM//conj//2 för//PP//case//7 arbetslösa//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//7 ungdomar//NN|UTR|PLU|IND|NOM//nmod//4 .//MAD//punct//0 [//PAD//nmod//10
+Näringsdepartementet;18//RG|NOM//nmod//0 ]//PAD//punct//0
+Näringsdepartementet;Auktorisation//NN|UTR|SIN|IND|NOM//ROOT//0 av//PP//case//2 patentombud//NN|NEU|SIN|IND|NOM//nmod//0 .//MAD//punct//0 [//PAD//nmod//5
+Näringsdepartementet;27//RG|NOM//nmod//0 ]//PAD//punct//7 Tillväxt//NN|UTR|SIN|IND|NOM//nmod//5 genom//PP//case//9 turistnäringen//NN|UTR|SIN|DEF|NOM//nmod//0 .//MAD//punct//0 [//PAD//nmod//12
+Näringsdepartementet;32//RG|NOM//nmod//0 ]//PAD//punct//0
+Näringsdepartementet;Släpvagnskörning//NN|UTR|SIN|IND|NOM//ROOT//0 med//PP//case//2 B-körkort//NN|NEU|SIN|IND|NOM//nmod//0 –//RG|NOM//punct//0 när//HA//advmod//9 kan//VB|PRS|AKT//aux//9 de//DT|UTR/NEU|PLU|DEF//det//8 nya//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//8 EU-reglerna//NN|UTR|PLU|DEF|NOM//nsubj//9 börja//VB|INF|AKT//acl:relcl//0 tillämpas//VB|INF|SFO//xcomp//9 ?//MAD//punct//0 [//PAD//nmod//13
+Näringsdepartementet;33//RG|NOM//nmod//0 ]//PAD//punct//0
+Näringsdepartementet;Den//DT|UTR|SIN|DEF//det//2 osynliga//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//2 infrastrukturen//NN|UTR|SIN|DEF|NOM//ROOT//2 –//RG|NOM//punct//6 om//PP//case//6 förbättrad//PC|PRF|UTR|SIN|IND|NOM//amod//6 samordning//NN|UTR|SIN|IND|NOM//appos//2 av//PP//case//9 offentlig//JJ|POS|UTR|SIN|IND|NOM//amod//9 IT-standardisering//NN|UTR|SIN|IND|NOM//nmod//6 .//MAD//punct//6 [//PAD//nmod//12
+Näringsdepartementet;47//RG|NOM//nmod//6 ]//PAD//punct//2
+Näringsdepartementet;Organisationsform//NN|UTR|SIN|IND|NOM//ROOT//0 för//PP//case//2 VTI//PM|NOM//nmod//0 och//KN//cc//4 SIKA//PM|NOM//conj//2 .//MAD//punct//0 [//PAD//nmod//7
+Näringsdepartementet;49//RG|NOM//nmod//0 ]//PAD//punct//9 Betalningstider//NN|UTR|PLU|IND|NOM//nmod//7 i//PP//case//11 näringslivet//NN|NEU|SIN|DEF|NOM//nmod//9 .//MAD//punct//9 [//PAD//nmod//14
+Näringsdepartementet;55//RG|NOM//nummod//7 ]//PAD//punct//0
+Näringsdepartementet;Hamnstrategi//NN|UTR|SIN|IND|NOM//ROOT//0 –//RG|NOM//punct//3 strategiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//3 hamnnoder//NN|UTR|PLU|IND|NOM//appos//0 i//PP//case//7 det//DT|NEU|SIN|DEF//det//7 svenska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//7 godstransportsystemet//NN|NEU|SIN|DEF|NOM//nmod//3 .//MAD//punct//3 [//PAD//nmod//10
+Näringsdepartementet;58//RG|NOM//nummod//0 ]//PAD//punct//10
+Näringsdepartementet;Strategiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//1 godsnoder//NN|UTR|PLU|IND|NOM//ROOT//1 i//PP//case//5 det//DT|NEU|SIN|DEF//det//5 svenska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//5 transportsystemet//NN|NEU|SIN|DEF|NOM//obl//1 –//PAD//punct//8 ett//DT|NEU|SIN|IND//det//8 framtidsperspektiv//NN|NEU|SIN|IND|NOM//conj//1 .//MAD//punct//1 [//PAD//nmod//11
+Näringsdepartementet;59//RG|NOM//dep//1 ]//PAD//punct//1
+Näringsdepartementet;Framtidens//NN|UTR|SIN|DEF|GEN//nmod:poss//1 flygplatser//NN|UTR|PLU|IND|NOM//ROOT//1 –//RG|NOM//punct//1 utveckling//NN|UTR|SIN|IND|NOM//appos//1 av//PP//case//7 det//DT|NEU|SIN|DEF//det//7 svenska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//7 flygplatssystemet//NN|NEU|SIN|DEF|NOM//nmod//3 .//MAD//punct//1 [//PAD//nmod//10
+Näringsdepartementet;70//RG|NOM//nmod//1 ]//PAD//punct//1
+Näringsdepartementet;Bolagisering//NN|UTR|SIN|IND|NOM//ROOT//0 för//PP//case//3 ökad//PC|PRF|UTR|SIN|IND|NOM//amod//3 konkurrens//NN|UTR|SIN|IND|NOM//nmod//0 och//KN//cc//5 effektivitet//NN|UTR|SIN|IND|NOM//conj//3 –//RG|NOM//punct//7 förslag//NN|NEU|SIN|IND|NOM//conj//0 om//PP//mark//10 att//IE//mark//10 bolagisera//VB|INF|AKT//acl//7 vissa//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//12 konsult-//NN|UTR|-|-|SMS//obj//10 och//KN//cc//14 entreprenadverksamheter//NN|UTR|PLU|IND|NOM//conj//12 i//PP//case//16 Banverket//PM|NOM//nmod//14 och//KN//cc//18 Vägverket//PM|NOM//conj//16 .//MAD//punct//7 [//PAD//nmod//21
+Näringsdepartementet;78//RG|NOM//nmod//7 ]//PAD//punct//0
+Näringsdepartementet;Standarder//NN|UTR|PLU|IND|NOM//ROOT//0 och//KN//cc//2 tillväxt//NN|UTR|SIN|IND|NOM//conj//0 ://MID//punct//0
+Näringsdepartementet;en//DT|UTR|SIN|IND//det//6 kommenterad//PC|PRF|UTR|SIN|IND|NOM//amod//6 forskningsöversikt//NN|UTR|SIN|IND|NOM//appos//0 .//MID//punct//6
+Näringsdepartementet;Standards//PM|NOM//conj//6 and//UO//cc//8 growth//UO//conj//8 ://MID//punct//8
+Näringsdepartementet;a//UO//case//14 research//UO//amod//14 review//UO//conj//8 .//MAD//punct//6 [//PAD//nmod//17
+Näringsdepartementet;83//RG|NOM//conj//0 ]//PAD//punct//0
+Näringsdepartementet;Vissa//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//1 metrologifrågor//NN|UTR|PLU|IND|NOM//ROOT//1 .//MAD//punct//1 [//PAD//nmod//4
+Näringsdepartementet;97//RG|NOM//nmod//1 ]//PAD//punct//6 Förhandsprövning//NN|UTR|SIN|IND|NOM//nmod//4 av//PP//case//9 nättariffer//NN|UTR|PLU|IND|NOM//amod//9 m.m.//AB|AN//nmod//6 [//PAD//nmod//11 99//RG|NOM//nmod//6 ]//PAD//punct//6 Territoriellt//JJ|POS|NEU|SIN|IND|NOM//amod//14 samarbete//NN|NEU|SIN|IND|NOM//conj//6 inom//PP//case//16 EU//PM|NOM//nmod//14 .//MAD//punct//6 [//PAD//nmod//19
+Näringsdepartementet;105//RG|NOM//nmod//6 ]//PAD//punct//6 Lotsa//VB|IMP|AKT//conj//6 rätt//NN|UTR|SIN|IND|NOM//advmod//21 !//MID//punct//6 [//PAD//nmod//25
+Näringsdepartementet;106//RG|NOM//nmod//6 ]//PAD//punct//1
+Näringsdepartementet;Kön//NN|NEU|SIN|IND|NOM//ROOT//0 ,//MID//punct//2 makt//NN|UTR|SIN|IND|NOM//conj//0 och//KN//cc//4 statistik//NN|UTR|SIN|IND|NOM//conj//0 .//MAD//punct//0 [//PAD//nmod//7
+Näringsdepartementet;108//RG|NOM//nmod//0 ]//PAD//punct//0
+
+Integrations- och jämställdhetsdepartementet;Stöd//NN|NEU|SIN|IND|NOM//ROOT//0 för//PP//case//2 framtiden//NN|UTR|SIN|DEF|NOM//obl//0 –//RG|NOM//punct//0 om//PP//case//5 förutsättningar//NN|UTR|PLU|IND|NOM//obl//0 för//PP//case//7 jämställdhetsintegrering//NN|UTR|SIN|IND|NOM//nmod//5 .//MAD//punct//0
+Integrations- och jämställdhetsdepartementet;Idébok//NN|UTR|SIN|IND|NOM//ROOT//0 ://MAD//punct//0
+Integrations- och jämställdhetsdepartementet;Jämställd//JJ|POS|UTR|SIN|IND|NOM//amod//1 medborgarservice//NN|UTR|SIN|IND|NOM//ROOT//1 .//MAD//punct//1
+Integrations- och jämställdhetsdepartementet;Goda//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//4 råd//NN|NEU|PLU|IND|NOM//appos//1 om//PP//case//6 jämställdhetsintegreringen//NN|UTR|SIN|DEF|NOM//nmod//4 .//MAD//punct//4
+Integrations- och jämställdhetsdepartementet;En//DT|UTR|SIN|IND//det//10 idébokför//NN|UTR|SIN|IND|NOM//amod//10 chefer//NN|UTR|PLU|IND|NOM//conj//4 och//KN//cc//12 strateger//NN|UTR|PLU|IND|NOM//conj//10 .//MAD//punct//1
+Integrations- och jämställdhetsdepartementet;Metodbok//NN|UTR|SIN|IND|NOM//ROOT//0 ://MAD//punct//0
+Integrations- och jämställdhetsdepartementet;JämStöd//RG|NOM//nmod//1 Praktika//PM|NOM//ROOT//1 .//MID//punct//1
+Integrations- och jämställdhetsdepartementet;Metodbok//NN|UTR|SIN|IND|NOM//appos//1 för//PP//case//5 jämställdhetsintegrering//NN|UTR|SIN|IND|NOM//nmod//3 .//MAD//punct//3 [//PAD//nmod//8
+Integrations- och jämställdhetsdepartementet;15//RG|NOM//nmod//3 ]//PAD//punct//1
+Integrations- och jämställdhetsdepartementet;Rörelser//NN|UTR|PLU|IND|NOM//ROOT//0 i//PP//case//2 tiden//NN|UTR|SIN|DEF|NOM//nmod//0 .//MAD//punct//0 [//PAD//nmod//5
+Integrations- och jämställdhetsdepartementet;66//RG|NOM//nmod//0 ]//PAD//punct//0
+Integrations- och jämställdhetsdepartementet;Id-kort//NN|NEU|SIN|IND|NOM//ROOT//0 för//PP//case//2 folkbokförda//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//nmod//0 i//PP//case//4 Sverige.[100//PM|NOM//nmod//2 ]//PAD//punct//0 Samverkan//NN|UTR|SIN|IND|NOM//appos//0 för//PP//case//9 lokal//JJ|POS|UTR|SIN|IND|NOM//amod//9 utveckling//NN|UTR|SIN|IND|NOM//nmod//6 .//MAD//punct//6 [//PAD//nmod//12
+Integrations- och jämställdhetsdepartementet;104//RG|NOM//nmod//6 ]//PAD//punct//0
+
+Kulturdepartementet;Mångfald//NN|UTR|SIN|IND|NOM//nsubj//2 är//VB|PRS|AKT//cop//2 framtiden//NN|UTR|SIN|DEF|NOM//ROOT//2 .//MAD//punct//2 [//PAD//nmod//5
+Kulturdepartementet;50//RG|NOM//nmod//2 ]//PAD//punct//2
+
+Arbetsmarknadsdepartementet;Bättre//JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//1 arbetsmiljöregler//NN|UTR|PLU|IND|NOM//ROOT//1 II//RG|NOM//nummod//1 .//MAD//punct//1
+Arbetsmarknadsdepartementet;Skyddsombud//NN|NEU|SIN|IND|NOM//conj//1 ,//MID//punct//6 beställaransvar//NN|NEU|PLU|IND|NOM//conj//4 ,//MID//punct//8 byggarbetsplatser//NN|UTR|PLU|IND|NOM//conj//4 m.m.//AB|AN//conj//4 [//PAD//nmod//11 43//RG|NOM//nmod//4 ]//PAD//punct//1
+

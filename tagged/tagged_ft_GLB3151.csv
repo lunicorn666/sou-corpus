@@ -1,0 +1,78 @@
+To the Cabinet Minister and Head of the Ministry of Agriculture;Swedish//PM|NOM//ROOT//0 .//MID//punct//0
+To the Cabinet Minister and Head of the Ministry of Agriculture;(//PAD//punct//3 Transl//PM|NOM//dep//5 .//MID//punct//3
+To the Cabinet Minister and Head of the Ministry of Agriculture;note//UO//parataxis//0 )//PAD//punct//5
+
+Summary;Aim//UO//det//3 ·//UO//nmod//3 sustainable//UO//amod//3 agriculture//UO//ROOT//3
+Summary;Interim//UO//ROOT//0 measures//UO//obj//0
+
+
+2.3 CAP instruments;·//UO//nmod//1 environmental//UO//nsubj:pass//2 payments//UO//ROOT//2
+2.3 CAP instruments;Market//UO//nmod//1 price//UO//ROOT//1
+2.3 CAP instruments;Direct//UO//amod//1 support//UO//ROOT//1 payments//UO//obj//1 (//PAD//punct//2 area//NN|UTR|SIN|IND|NOM//appos//2 and//UO//punct//2 headage//UO//amod//7 payments//UO//conj//2 )//PAD//punct//2 2.3.2//RG|NOM//nmod//10 CAP//PM|NOM//nmod:poss//13 market//UO//flat//10 regulations//UO//conj//10 ·//UO//obl//14 joint//UO//parataxis//1 financing//UO//obj//14 .//MAD//punct//14
+2.3 CAP instruments;Price//NN|UTR|SIN|IND|NOM//ROOT//0
+2.3 CAP instruments;Source//PM|NOM//ROOT//0 ://MID//punct//0
+2.3 CAP instruments;Own//PM|NOM//nmod:poss//3 adaptation//NN|UTR|SIN|IND|NOM//appos//0 .//MID//punct//3
+2.3 CAP instruments;2.3.3//RG|NOM//amod//6 Environmental//PM|NOM//conj//3 payments//UO//obl//8 3.1.1//RG|NOM//acl:relcl//6 Introduction//PM|NOM//obj//8
+2.3 CAP instruments;Taxpayers//NN|UTR|PLU|IND|NOM//ROOT//0
+2.3 CAP instruments;Consumers//PM|NOM//ROOT//0
+2.3 CAP instruments;Source//PM|NOM//ROOT//0 ://MID//punct//0
+2.3 CAP instruments;SOU//PM|NOM//appos//0 1997:25//RG|NOM//nmod//2 .//MAD//punct//2
+2.3 CAP instruments;3.3.3//RG|NOM//det//7 EU//PM|NOM//amod//7 environmental//UO//appos//2 payments//UO//nmod//10 3.5.1//RG|NOM//compound//10 World//UO//nmod//7 food//UO//acl//10 supply//UO//conj//7 *//MID//punct//14 refers//UO//conj//7 to//PM|NOM//case//19 1994//RG|NOM//nummod//17 ·//UO//obl//18 sustainable//UO//amod//19 agriculture//UO//nmod//14 .//MAD//punct//7 ·//UO//nmod//22
+2.3 CAP instruments;environmental//UO//appos//7 load//UO//punct//7 is//UO//nmod//25 minimized//UO//nmod//7 ,//MID//punct//2
+
+
+5.2 Basic principles;5.2.1//RG|NOM//amod//5 Introduction//PM|NOM//cc//0 5.2.4//RG|NOM//fixed//1 Current//PM|NOM//compound//4 EU//PM|NOM//appos//0 instruments//NN|NEU|SIN|IND|NOM//nmod//6 5.3.1//RG|NOM//compound//12 Competetive//PM|GEN//flat:name//6 markets//NN|NEU|SIN|DEF|GEN//nmod:poss//9 5.3.3//RG|NOM//conj//6 Internationally//UO//amod//12 competitive//UO//amod//12 agriculture//UO//ROOT//12
+
+
+7.2 Basic principles;7.2.1//RG|NOM//amod//2 EU//PM|NOM//compound//2 legislation//NN|UTR|SIN|IND|NOM//ROOT//2
+
+8.2 Basic principles;8.2.1//RG|NOM//nmod//1 Introduction//PM|NOM//nummod//2 ·//UO//obl//3 sustainable//UO//amod//4 agriculture//UO//ROOT//4 .//MAD//punct//4
+
+
+9.3 Interim measures Glossary / Sources and references;European//PM|NOM//amod//1 Commission//PM|NOM//ROOT//1 ,//MID//punct//1 1996//RG|NOM//nummod//1 .//MAD//punct//1
+9.3 Interim measures Glossary / Sources and references;Jordbruksläget//NN|NEU|SIN|DEF|NOM//conj//1 i//PP//case//7 Europeiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//nmod//5
+9.3 Interim measures Glossary / Sources and references;European//PM|NOM//amod//1 Commission//PM|NOM//ROOT//1 ,//MID//punct//1 1997//RG|NOM//nummod//1 (//PAD//punct//1 a//NN|NEU|SIN|IND|NOM//advmod//1 )//PAD//punct//1 .//MAD//punct//1
+9.3 Interim measures Glossary / Sources and references;Sammanställningar//NN|UTR|PLU|IND|NOM//conj//1 över//PP//case//10 EU//PM|NOM//nmod//8 ://MID//punct//8 s//PM|GEN//nummod//13 budget//NN|UTR|SIN|IND|NOM//conj//1  //_SP////13 1986-97//RG|NOM//conj//13 .//MAD//punct//13
+9.3 Interim measures Glossary / Sources and references;  //_SP////16 1997//RG|NOM//nummod//13 ,//MID//punct//20 Brussels//PM|NOM//conj//13 .//MAD//punct//1
+9.3 Interim measures Glossary / Sources and references;Proposition//NN|UTR|SIN|IND|NOM//nmod//1 1989/90:146//RG|NOM//ROOT//1 ,//MID//punct//3 Livsmedelspolitiken//NN|UTR|SIN|DEF|NOM//conj//1 .//MAD//punct//1
+9.3 Interim measures Glossary / Sources and references; //_SP////4 Stockholm//PM|NOM//appos//1 ,//MID//punct//8 1990//RG|NOM//conj//6 .//MAD//punct//1
+9.3 Interim measures Glossary / Sources and references;Rabinowicz//PM|NOM//ROOT//0 ,//MID//punct//0 E.//PM|NOM//dep//0 ,//MID//punct//2 1996//RG|NOM//conj//0 .//MAD//punct//0
+9.3 Interim measures Glossary / Sources and references; //_SP////5 EU//PM|NOM//conj//0 ://MID//punct//7 s//NN|NEU|SIN|IND|GEN//amod//10 jordbrukspolitik//NN|UTR|SIN|IND|NOM//conj//0 och//KN//cc//12 bönderna//NN|UTR|PLU|DEF|NOM//conj//10 i//PP//case//14 öst//NN|UTR|SIN|IND|NOM//nmod//12 .//MAD//punct//0
+9.3 Interim measures Glossary / Sources and references;SNS//PM|NOM//amod//1 förlag//NN|NEU|SIN|IND|NOM//ROOT//1 ,//MID//punct//3 Stockholm//PM|NOM//conj//1 .//MAD//punct//1
+9.3 Interim measures Glossary / Sources and references;SOU//PM|NOM//nmod//1 1996:136//RG|NOM//ROOT//1 ,//MID//punct//4  //_SP////2 Effekter//NN|UTR|PLU|IND|NOM//conj//1 av//PP//case//6 EU//PM|NOM//nmod//4 ://MID//punct//4 s//NN|NEU|SIN|IND|GEN//nummod//9 jordbrukspolitik//NN|UTR|SIN|IND|NOM//nmod//1 .//MID//punct//9
+9.3 Interim measures Glossary / Sources and references;Stockholm//PM|NOM//conj//9 ,//MID//punct//13 1996//RG|NOM//conj//9 .//MAD//punct//1
+9.3 Interim measures Glossary / Sources and references;SOU//PM|NOM//nmod//1 1996:171//RG|NOM//ROOT//1 .//MAD//punct//1
+9.3 Interim measures Glossary / Sources and references; //_SP////2 Konsekvenserna//NN|UTR|PLU|DEF|NOM//appos//1 för//PP//case//6 CAP//PM|NOM//nmod//4 av//PP//case//8 WTO-åtgärdarna//NN|UTR|PLU|DEF|NOM//nmod//6 och//KN//cc//11 en//DT|UTR|SIN|IND//det//11 östutvidgning//NN|UTR|SIN|IND|NOM//conj//8 .//MAD//punct//4
+9.3 Interim measures Glossary / Sources and references;Stockholm//PM|NOM//obl//1 ,//MID//punct//13 1996//RG|NOM//nummod//13 .//MAD//punct//1
+9.3 Interim measures Glossary / Sources and references;SOU//PM|NOM//ROOT//0 1997:25//RG|NOM//nmod//0 .//MID//punct//0
+9.3 Interim measures Glossary / Sources and references;Svensk//JJ|POS|UTR|SIN|IND|NOM//nmod:poss//4 mat//NN|UTR|SIN|IND|NOM//appos//0 på//PP//case//7  //_SP////5 EU-fat//MID//nmod//4 .//MID//punct//4
+9.3 Interim measures Glossary / Sources and references;  //_SP////8 Stockholm//PM|NOM//nmod//4 1997//RG|NOM//nummod//10 .//MAD//punct//0
+9.3 Interim measures Glossary / Sources and references;SOU//PM|NOM//ROOT//0 1997:26//RG|NOM//nmod//0 .//MAD//punct//0
+9.3 Interim measures Glossary / Sources and references; //_SP////2 EU//PM|NOM//appos//0 ://MID//punct//4 s//NN|NEU|SIN|IND|GEN//case//7 jordbrukspolitik//NN|UTR|SIN|IND|NOM//nmod//0 och//KN//cc//11 den//DT|UTR|SIN|DEF//det//11 globala//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//11 livsmedelsförsöjningen//NN|UTR|SIN|DEF|NOM//conj//7 .//MAD//punct//7
+9.3 Interim measures Glossary / Sources and references;Stockholm//PM|NOM//conj//7 ,//MID//punct//15 1997//RG|NOM//conj//13 .//MAD//punct//0
+9.3 Interim measures Glossary / Sources and references;SOU//PM|NOM//ROOT//0 1997:50//RG|NOM//case//4  //_SP////1 Alternativa//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//4 utvecklingsvägar//NN|UTR|PLU|IND|NOM//nmod//0 för//PP//case//6 EU//PM|NOM//nmod//4 ://MID//punct//4 s//NN|AN//nummod//10 gemensamma//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//10 jordbrukspolitik//NN|UTR|SIN|IND|NOM//appos//4 .//MID//punct//12
+9.3 Interim measures Glossary / Sources and references;Stockholm//PM|NOM//conj//10 ,//MID//punct//14 1997//RG|NOM//conj//10 .//MAD//punct//0
+9.3 Interim measures Glossary / Sources and references;SOU//PM|NOM//ROOT//0 1997:74//RG|NOM//nmod//0 .//MAD//punct//0
+9.3 Interim measures Glossary / Sources and references; //_SP////2 EU//PM|NOM//nmod//0 ://MID//punct//4 s//NN|NEU|SIN|IND|GEN//nummod//7 jordbrukspolitik//NN|UTR|SIN|IND|NOM//appos//4 ,//MID//punct//9 miljön//NN|UTR|SIN|DEF|NOM//conj//7 och//KN//cc//12 regional//JJ|POS|UTR|SIN|IND|NOM//amod//12 utveckling//NN|UTR|SIN|IND|NOM//conj//7 .//MAD//punct//7
+9.3 Interim measures Glossary / Sources and references;Stockholm//PM|NOM//conj//7 ,//MID//punct//16 1997//RG|NOM//conj//7 .//MAD//punct//0
+9.3 Interim measures Glossary / Sources and references;Swedish//PM|NOM//nmod:poss//1 Board//PM|NOM//ROOT//1 of//PM|NOM//case//3 Agriculture//UO//nmod//1 ,//MID//punct//1 1995//RG|NOM//nummod//1 .//MAD//punct//1
+9.3 Interim measures Glossary / Sources and references;EU//PM|NOM//conj//1 ://MID//punct//7 s//NN|NEU|SIN|IND|GEN//case//10 utvigning//NN|UTR|SIN|IND|NOM//conj//1 österut//AB//nmod//10 -//MID//punct//10 Läget//NN|NEU|SIN|DEF|NOM//appos//10 på//PP//case//15 jordbruksområdet//NN|NEU|SIN|DEF|NOM//nmod//13 .//MAD//punct//13
+9.3 Interim measures Glossary / Sources and references; //_SP////16 Report//PM|NOM//nmod//13 1995:8//RG|NOM//flat//18 ,//MID//punct//22 Swedish//PM|NOM//nmod//22 Board//PM|NOM//conj//18 of//PM|NOM//case//24 Agriculture//UO//nmod//22 ,//MID//punct//26 Jönköping//PM|NOM//conj//18 .//MAD//punct//1
+
+9.3 Interim measures Glossary / Reservations and comments;Deregulation//NN|UTR|SIN|IND|NOM//ROOT//0
+9.3 Interim measures Glossary / Reservations and comments;Fair//UO//nmod//1 competition//UO//ROOT//1
+9.3 Interim measures Glossary / Reservations and comments;Farmers//PM|NOM//nmod:poss//2 and//UO//flat//0 business//UO//ROOT//2
+9.3 Interim measures Glossary / Reservations and comments;Reservation//NN|UTR|SIN|IND|NOM//nmod//3 by//PM|NOM//nmod//2 Maggi//PM|NOM//nmod//3 Mikaelsson//PM|NOM//ROOT//3 (//PAD//punct//3 Left//UO//compound//6 Party//UO//appos//3 )//PAD//punct//3 ,//MID//punct//3
+9.3 Interim measures Glossary / Reservations and comments;Chapter//NN|UTR|SIN|IND|NOM//nmod//2 5//RG|NOM//nummod//2 Food//UO//ROOT//2
+9.3 Interim measures Glossary / Reservations and comments;Introduction//NN|UTR|SIN|IND|NOM//ROOT//0
+9.3 Interim measures Glossary / Reservations and comments;Basic//UO//ROOT//0 principles//UO//flat//0
+9.3 Interim measures Glossary / Reservations and comments;Consumer//UO//amod//1 issues//UO//ROOT//1
+9.3 Interim measures Glossary / Reservations and comments;Regional//JJ|POS|UTR|SIN|IND|NOM//amod//1 policy//NN|UTR|SIN|IND|NOM//ROOT//1
+9.3 Interim measures Glossary / Reservations and comments;Environment//NN|UTR|SIN|IND|NOM//ROOT//0
+9.3 Interim measures Glossary / Reservations and comments;following//UO//ROOT//0 central//JJ|POS|UTR|SIN|IND|NOM//advmod//2 approval//NN|UTR|SIN|IND|NOM//nmod//0 .//MAD//punct//0
+9.3 Interim measures Glossary / Reservations and comments;Special//JJ|POS|UTR|SIN|IND|NOM//amod//2 expert//UO//amod//2 comment//UO//ROOT//2 by//PM|NOM//nmod//4 Lars-Erik//PM|NOM//nmod//2 Hellberg//PM|NOM//flat:name//4 and//PM|NOM//cc//4 Mikael//PM|NOM//conj//4 Kullberg//PM|NOM//flat//7
+9.3 Interim measures Glossary / Reservations and comments;Employment//NN|UTR|SIN|IND|NOM//ROOT//0
+9.3 Interim measures Glossary / Reservations and comments;·//UO//nmod//2 sustainable//UO//amod//2 agriculture//UO//ROOT//2 .//MAD//punct//2
+9.3 Interim measures Glossary / Reservations and comments;·//PP//nmod//1 environmental//UO//ROOT//1 load//UO//punct//1 is//UO//nmod//4 minimized//UO//nmod//1 ,//MID//punct//1
+9.3 Interim measures Glossary / Reservations and comments;Regional//JJ|POS|UTR|SIN|IND|NOM//amod//1 policy//NN|UTR|SIN|IND|NOM//ROOT//1
+

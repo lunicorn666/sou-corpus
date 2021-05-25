@@ -1,0 +1,861 @@
+<html>
+ <body>
+  <h1>
+   5 UT&Ouml;-modellen
+  </h1>
+  <h2>
+  </h2>
+  <p>
+   I detta kapitel beskrivs den simuleringsmodell som utvecklats av UT&Ouml;-utredningen. Modellen illustrerar den finansiella dynamiken i ett avgiftsbaserat pensionssystem med fast avgift d&auml;r utg&aring;ende pensioner huvudsakligen finansieras av de pensionsavgifter som l&ouml;pande betalas in. I systemet ing&aring;r en buffertfond vars syfte &auml;r att utj&auml;mna de variationer i systemets avgiftsnetto som orsakas dels av demografiska faktorer, dels av samh&auml;llsekonomiska fluktuationer. Omr&auml;kning av pensionsr&auml;ttigheter och pensioner sker genom ett index baserat p&aring; &aring;rlig f&ouml;r&auml;ndring i genomsnittlig pensionsgrundande &aring;rsinkomst.
+  </p>
+  <p>
+   Pensionssystem &auml;r komplicerade i flera avseenden. M&aring;nga &aring;rskullar befinner sig i systemet vid samma tidpunkt. Infl&ouml;det av avgifter best&auml;ms i huvudsak av hur m&aring;nga individer som har pensionsgrundande inkomst och hur h&ouml;ga dessa inkomster &auml;r. Detta styrs i sin tur av syssels&auml;ttnings- och inkomsttrender och av konjunkturella och andra kortsiktiga fluktuationer. Pensionsutbetalningarna beror dels av vad som h&auml;nt under den tid pension&auml;rernas pensionsr&auml;ttigheter intj&auml;nats, dels av vad som h&auml;nder under de &aring;r n&auml;r pension betalas ut.
+  </p>
+  <p>
+   Skiftningarna i befolkningsutveckling och samh&auml;llsekonomi betyder att pensionssystemets &aring;rliga avgiftsnetto, dvs. skillnaden mellan inkomster och utgifter, kommer att variera. De &aring;r avgiftsnettot &auml;r positivt, f&ouml;rst&auml;rks buffertfonden. Andra &aring;r, n&auml;r utgifterna &ouml;verstiger avgiftsinkomsterna, tas medel ur buffertfonden i anspr&aring;k f&ouml;r utbetalning av pension. Buffertfondens beh&aring;llning p&aring;verkas dessutom av avkastningen p&aring; de tillg&aring;ngar som fonden placerar i. Dess storlek kommer d&auml;rf&ouml;r att styras av s&aring;v&auml;l de &aring;rliga avgiftsnettona som avkastningen p&aring; aktier och obligationer.
+  </p>
+  <p>
+   En simuleringsmodell som &aring;r f&ouml;r &aring;r skall avbilda hur befolkning och samh&auml;llsekonomi best&auml;mmer in- och utbetalningar i ett pensionssystem och hur dessa i sin tur styr utvecklingen av systemets tillg&aring;ngar och skulder, b&ouml;r kunna beakta s&aring;v&auml;l trender som kortsiktiga fluktuationer.
+  </p>
+  <p>
+   Utredningen anser att den metod med en stokastisk simuleringsmodell som presenterats i kapitel 4 &auml;r den enda m&ouml;jligheten att, om &auml;n utan exakthet, avspegla de konsekvenser som alternativa utdelningsbest&auml;mmelser kan ge upphov till. H&auml;nsyn m&aring;ste tas till risken att utdelning kan leda till fler situationer med underskott i framtiden. Utifr&aring;n simuleringsresultat drar utredningen i senare kapitel slutsatser om l&auml;mpligheten av olika balanstalsgr&auml;nser f&ouml;r utdelning.
+  </p>
+  <p>
+   Syftet med modellen kan sammanfattas som f&ouml;ljer:
+  </p>
+  <p>
+   &bull; Modellen skall visa hur  systemets  ekonomiska st&auml;llning i termer av &aring;rliga in- och utbetalningar, buffertfond, avgiftstillg&aring;ng och pensionsskuld utvecklas &ouml;ver tid. Hur utvecklas balanstalet och d&auml;rmed risken f&ouml;r underskottsbalansering? Hur ofta uppkommer situationer med utdelningsbara &ouml;verskott?
+  </p>
+  <p>
+   &bull; Modellen skall kunna belysa utfall i form av resultat f&ouml;r  de f&ouml;rs&auml;krade.  Hur p&aring;verkas pensionernas niv&aring; av underskottsbalanseringar och &ouml;verskottbalanseringar? Uppkommer konsekvenser i form av or&auml;ttvisa mellan generationer? 5.2 Modellegenskaper
+  </p>
+  <p>
+   I en modell f&ouml;r framskrivning av f&ouml;rlopp finns olika variabler som f&ouml;r varje &aring;r antar ett v&auml;rde. Exempel p&aring; s&aring;dana variabler i UT&Ouml;modellen &auml;r &aring;rlig pensionsutbetalning, &aring;rlig avgiftsinkomst, tillg&aring;ngar i buffertfonden, antal sysselsatta och antal pension&auml;rer. Vissa variabler i modellen &auml;r beroende av andra variablers utfall. I en modell skiljer man p&aring; endogena och exogena variabler. En exogen variabels v&auml;rde &auml;r i modellen best&auml;mt p&aring; f&ouml;rhand och p&aring;verkas d&auml;rf&ouml;r inte av framskrivningen i modellen. Endogena variablers v&auml;rde &auml;r resultat av modellber&auml;kningen.
+  </p>
+  <p>
+   Befolkningsutveckling och syssels&auml;ttning
+  </p>
+  <p>
+   I UT&Ouml;-modellen &auml;r befolkningsutvecklingen exogent given i form av SCB:s befolkningsprognos fr&aring;n &aring;r 2003. Antalet individer i respektive &aring;lder styrs allts&aring; av de antaganden SCB gjort om f&ouml;delsetal, livsl&auml;ngdsf&ouml;r&auml;ndring samt in- och utvandring under perioden fram till &aring;r 2050. I SCB:s prognos antas nativiteten &ouml;ka fr&aring;n 2002 &aring;rs niv&aring; p&aring; 1,65 barn per kvinna till 1,86 &aring;r 2010 och d&auml;refter ligga kvar p&aring; den niv&aring;n. Nettoinvandringen, som de senaste 20 &aring;ren har uppg&aring;tt i genomsnitt till 21 500 per &aring;r, f&ouml;rv&auml;ntas bli h&ouml;gre, s&auml;rskilt under de f&ouml;rsta decennierna. Under de f&ouml;rsta &aring;ren fram till 2010 antas en nettoinvandring p&aring; i genomsnitt 31 000 per &aring;r. Fr&aring;n &aring;r 2010 antas nettoinvandringen vara igenomsnitt 24 000 per &aring;r. I UT&Ouml;-modellen g&ouml;rs dessutom f&ouml;rl&auml;ngda framskrivningar av befolkningen utifr&aring;n samma antaganden SCB gjort f&ouml;r &aring;r 2050 r&ouml;rande &aring;rlig nettoinvandring, f&ouml;r&auml;ndrad d&ouml;dlighet osv.
+  </p>
+  <p>
+   Befolkningsutvecklingen p&aring;verkar hur systemets avgiftsinkomster och utbetalningar f&ouml;r&auml;ndras &ouml;ver tiden. Sambanden &auml;r komplicerade och modellen m&aring;ste d&auml;rf&ouml;r inneh&aring;lla f&ouml;renklingar och antaganden. Det sammanlagda avgiftsunderlaget f&ouml;r en &aring;rskull ett visst &aring;r beror av flera variabler i modellen, d&auml;r den centrala faktorn &auml;r antalet sysselsatta i &aring;rskullen. I modellen ing&aring;r antaganden om &aring;ldersberoende syssels&auml;ttningsgrader och inkomstniv&aring;er.
+  </p>
+  <p>
+   N&auml;r antagandena om inkomstniv&aring; och syssels&auml;ttningsgrad f&ouml;r olika &aring;rskullar kopplas samman med de exogent givna demografiska f&ouml;ruts&auml;ttningarna, genereras en trendm&auml;ssig utveckling p&aring; l&aring;ng sikt f&ouml;r systemets samlade avgiftsunderlag &ouml;ver tid. I framskrivningen simuleras sedan kortsiktiga avvikelser i avgiftsunderlagets utveckling med hj&auml;lp av det stokastiska modellsamband f&ouml;r syssels&auml;ttning som redovisats i kapitel 4. D&auml;rmed kommer de samlade avgiftsinbetalningarna ett visst &aring;r i modellen att skilja sig &aring;t mellan olika simulerade f&ouml;rlopp.
+  </p>
+  <p>
+   Modellen har allts&aring; utformats s&aring; att syssels&auml;ttningen, ut&ouml;ver den exogent betingade utvecklingen, &auml;r den faktor som genererar f&ouml;r&auml;ndringar av systemets avgiftsunderlag. De slumpm&auml;ssiga avvikelser som genereras i modellen kan ges en vidare tolkning &auml;n enbart fluktuationer i andelen sysselsatta i f&ouml;rh&aring;llande till antalet individer i f&ouml;rv&auml;rvsaktiva &aring;ldrar. Avvikelserna kan ocks&aring; i viss m&aring;n avspegla os&auml;kerheten i de demografiska antagandena.
+  </p>
+  <p>
+   Intj&auml;nande och uttag av pension
+  </p>
+  <p>
+   UT&Ouml;-modellen &auml;r en kohortmodell vilket betyder att ber&auml;kningarna sker p&aring; &aring;rskullsbasis. Varje &aring;rskull intj&auml;nar pensionsr&auml;tt under &aring;ldrarna 16&ndash;64 f&ouml;r att sedan uppb&auml;ra pension fr.o.m. 65 &aring;rs &aring;lder. Detta betyder bl.a. att individuella variationer i livsinkomst inte beaktas. Modellen bortser &auml;ven fr&aring;n att vissa f&ouml;rlopp skulle kunna leda till ett f&ouml;r&auml;ndrat beteende hos de f&ouml;rs&auml;krade.
+  </p>
+  <p>
+   UT&Ouml;-modellen har en implicit given snittinkomsttillv&auml;xt om 2 procent realt per &aring;r. Detta antagande &ouml;verensst&auml;mmer med den metod som till&auml;mpas i ber&auml;kningen av balanstalet n&auml;r det g&auml;ller till&auml;ggspensionsskulden till de f&ouml;rv&auml;rvsaktiva. Eftersom pensionsskulden i stort sett f&ouml;rr&auml;ntas i samma takt som den genomsnittliga inkomsten utvecklas, har antagandet om genomsnittsinkomstutvecklingen f&ouml;r &ouml;vrigt ingen betydelse f&ouml;r ber&auml;kningsresultaten.
+  </p>
+  <p>
+   Vid pensionsuttaget kommer &aring;rskullens sammanlagda pension det &aring;ret vara beroende av antalet individer och deras genomsnittliga pensionsbeh&aring;llning. Pensionsbeh&aring;llningen &auml;r resultatet av f&ouml;rloppet under &aring;rskullens f&ouml;rv&auml;rvsaktiva tid, dvs. hur syssels&auml;ttningen utvecklats och om automatisk balansering och/eller utdelning skett. Det &aring;rliga pensionsbeloppet ber&auml;knas genom att pensionsbeh&aring;llningen divideras med delningstalet. I tabell 5.1 framg&aring;r modellens antaganden om framtida delningstal vid 65 &aring;rs &aring;lder. Delningstalen &auml;r i likhet med den demografiska sammans&auml;ttningen exogent givna i modellen.
+  </p>
+  <p>
+   &Aring;rskullar f&ouml;dda 1940&ndash;2020.
+  </p>
+  <p>
+   Framskrivningar i modellen
+  </p>
+  <p>
+   UT&Ouml;-modellen har ett startl&auml;ge som motsvarar de f&ouml;rh&aring;llanden som r&aring;dde vid utg&aring;ngen av &aring;r 2003. Varje &aring;rskulls ackumulerade pensionsbeh&aring;llning respektive utbetalade pensionsbelopp i detta startl&auml;ge har h&auml;mtats fr&aring;n RFV:s register. D&auml;rmed skapas pensionsskuldens startniv&aring;. Modellen inneh&aring;ller &auml;ven systemets &aring;tagande i form av till&auml;ggspension till de f&ouml;rs&auml;krade. Systemets tillg&aring;ngssida avspeglar den avgiftstillg&aring;ng och den buffertfond som fanns vid utg&aring;ngen av &aring;r 2003.
+  </p>
+  <p>
+   I tabell 5.2 redog&ouml;rs f&ouml;r systemets finansiella st&auml;llning f&ouml;r &aring;ret 2003.
+  </p>
+  <p>
+   Miljarder kronor.
+  </p>
+  <p>
+   Utifr&aring;n startl&auml;get skriver modellen &aring;rsvis fram f&ouml;rdelningssystemets tillg&aring;ngar och skulder med en ber&auml;kningsmodul som innefattar regler f&ouml;r automatisk underskottsbalansering och som kan f&ouml;rses med alternativa regler f&ouml;r &ouml;verskottsutdelning. &Ouml;verskottsutdelningen i modellen f&ouml;ljer det ramverk som beskrivits i kapitel 3. Utdelning sker s&aring;ledes vid tillf&auml;llen d&aring; balanstalet &ouml;verstigit en i modellen best&auml;md gr&auml;ns. Utdelning sker d&aring; via indexeringen.
+  </p>
+  <p>
+   Buffertfonden i UT&Ouml;-modellen best&aring;r varje &aring;r av 60 procent aktier och 40 procent obligationer. Den &aring;rliga avkastningen p&aring; dessa tillg&aring;ngar avviker slumpm&auml;ssigt fr&aring;n best&auml;mda trender enligt de modellsamband som redovisats i kapitel 4. Varje &aring;r &aring;terst&auml;lls den ursprungiga relationen mellan aktier och obligationer i buffertfonden. Buffertfondens tillg&aring;ngar p&aring;verkas &auml;ven av pensionsutbetalningarna och avgiftsinkomsterna respektive &aring;r.
+  </p>
+  <p>
+   I modellen inneh&aring;ller ett &aring;r f&ouml;ljande h&auml;ndelser av vikt f&ouml;r systemets finansiella st&auml;llning:
+  </p>
+  <p>
+   F&ouml;r varje f&ouml;rv&auml;rvsaktiv &aring;rskull inbetalas en avgift om 16 procent av det f&ouml;r &aring;ret aktuella pensionsunderlaget till buffertfonden. &Aring;rskullens sammanlagda pensionsbeh&aring;llning &ouml;kas med motsvarande belopp. Avgiftsunderlagets storlek &auml;r beroende av den &aring;lder &aring;rskullen har, hur stor &aring;rskullen &auml;r det aktuella &aring;ret samt om en slumpm&auml;ssig avvikelse skett fr&aring;n syssels&auml;ttningens trend det aktuella &aring;ret eller tidigare &aring;r.
+  </p>
+  <p>
+   Pensionsutbetalningar g&ouml;rs till de &aring;rskullar som &auml;r 65 &aring;r och &auml;ldre. Storleken av dessa utbetalningar &auml;r ett resultat av tidigare &aring;rs h&auml;ndelser, delningstal samt av antalet personer i respektive &aring;rskull vid den aktuella tidpunkten. Vidare beror pensionsutbetalningens storlek och pensionsskuldens f&ouml;rr&auml;ntning av om balansindex till&auml;mpas det aktuella &aring;ret eller om &ouml;verskottsutdelning sker.
+  </p>
+  <p>
+   Buffertfonden f&ouml;r&auml;ndras med avgiftsnettot och kapitalavkastningen det aktuella &aring;ret. Utifr&aring;n dessa h&auml;ndelser f&ouml;r&auml;ndras systemets finansiella st&auml;llning. Denna ekonomiska st&auml;llning kan p&aring;verka h&auml;ndelsef&ouml;rloppet f&ouml;ljande &aring;r genom att underskottsbalansering eller &ouml;verskottsutdelning aktiveras.
+  </p>
+  <p>
+   De f&ouml;rlopp som simulerats i UT&Ouml;-modellen varar i regel 75 &aring;r. P&aring; s&aring; vis skrivs f&ouml;rdelningssystemets utveckling fram f&ouml;r &aring;ren 2003&ndash;2077. Utredningen har bed&ouml;mt 75-&aring;rsf&ouml;rloppet vara en rimlig avv&auml;gning mellan kort och l&aring;ng sikt. Pensionssystem &auml;r l&aring;ngsiktiga f&ouml;rs&auml;kringssystem d&auml;r regel&auml;ndringar som exempelvis inf&ouml;rande av &ouml;verskottsutdelning kr&auml;ver tid f&ouml;r att f&aring; effekt. Ett alltf&ouml;r kortsiktigt perspektiv skulle riskera att underskatta effekterna av en utdelningsregel. Ett 75-&aring;rsperspektiv inrymmer dessutom variation i de demografiska f&ouml;ruts&auml;ttningarna p&aring; s&aring; s&auml;tt att b&aring;de perioder av positiva som negativa avgiftsnetton f&ouml;rekommer. 5.3 J&auml;mf&ouml;relser mellan parallella f&ouml;rlopp
+  </p>
+  <p>
+   Ett simulerat f&ouml;rlopp inneh&aring;ller en unik upps&auml;ttning av avvikelser i de stokastiskt varierande variablerna. F&ouml;r att kunna v&auml;rdera de modellutfall en viss regel f&ouml;r &ouml;verskottsutdelning ger upphov till, m&aring;ste man j&auml;mf&ouml;ra med ett identiskt f&ouml;rlopp d&auml;r ingen utdelning gjorts. Utfallet i ett system med utdelningsregel j&auml;mf&ouml;rs allts&aring; med det utfall som intr&auml;ffar i ett parallellt f&ouml;rlopp f&ouml;r ett system d&auml;r &ouml;verskott inte delas ut.
+  </p>
+  <p>
+   I simuleringarna har utredningen j&auml;mf&ouml;rt effekter av 20 olika balanstalsgr&auml;nser f&ouml;r utdelning i intervallet 1,00&ndash;1,20. F&ouml;rlopp har allts&aring; simulerats med gr&auml;nser allt ifr&aring;n att &ouml;verskott utdelats s&aring; fort de observeras (balanstalsgr&auml;ns 1,00) till att utdelning sker f&ouml;rst d&aring; tillg&aring;ngarna &ouml;verstiger skulderna med 20 procent (balanstalsgr&auml;ns 1,20).
+  </p>
+  <p>
+   F&ouml;r utredningens syfte &auml;r vissa utfallsvariabler s&auml;rskilt intressanta att unders&ouml;ka genom att parallella f&ouml;rlopp simuleras. F&ouml;r&auml;ndringen av antalet &aring;r d&auml;r systemets balanstal understigit 1,00 under en 75-&aring;rsperiod illustrerar den &ouml;kade risken f&ouml;r underskott och ger d&auml;rf&ouml;r v&auml;gledning om hur l&auml;mplig utdelningsregeln &auml;r. Utdelning inneb&auml;r &auml;ven att systemet kommer att betala ut h&ouml;gre pensionsbelopp och att livspensionen f&ouml;r vissa &aring;rskullar kan f&ouml;rv&auml;ntas bli h&ouml;gre. 5.4 Scenarier f&ouml;r simuleringar
+  </p>
+  <p>
+   UT&Ouml;-modellen &auml;r en stokastisk modell d&auml;r ett obegr&auml;nsat antal kombinationer av h&auml;ndelsef&ouml;rlopp kan uppst&aring; under en simulerad tidsperiod. F&ouml;r de stokastiskt varierande variablerna syssels&auml;ttning, obligationsavkastning och aktieavkastning kan b&aring;de den f&ouml;rv&auml;ntade &aring;rliga f&ouml;r&auml;ndringen (trenden) i dessa och styrkan i de slumpm&auml;ssiga avvikelserna fr&aring;n trenden varieras. Utredningen har arbetat med ett basscenario och tv&aring; alternativa scenarier. Motiven och resonemangen bakom antagandena finns n&auml;rmare utvecklade i kapitel 4.
+  </p>
+  <p>
+   Med en stokastisk modell kan samma tidsf&ouml;rlopp simuleras ett stort antal g&aring;nger. Detta g&ouml;r det m&ouml;jligt att ange sannolikheter f&ouml;r olika typer av utfall. Normalt har 500 stycken simuleringar genomf&ouml;rts. Antalet har bed&ouml;mts vara tillr&auml;ckligt stort f&ouml;r att belysa f&ouml;rdelningssystemets egenskaper och p&aring; s&aring; s&auml;tt bed&ouml;ma sannolikheten f&ouml;r olika utfall.
+  </p>
+  <p>
+   Basscenario
+  </p>
+  <p>
+   Det l&aring;ngsiktigt f&ouml;rv&auml;ntade antalet sysselsatta best&auml;ms av storleken p&aring; befolkningen i f&ouml;rv&auml;rvsaktiva &aring;ldrar och ett antagande om konstant syssels&auml;ttningsgrad i olika &aring;ldrar &ouml;ver tid. I modellen till&aring;ts kortsiktiga avvikelser fr&aring;n denna f&ouml;rv&auml;ntade syssels&auml;ttningsniv&aring;. De kortsiktiga variationerna har ett autoregressivt m&ouml;nster, d&auml;r en avvikelse p&aring;verkar h&auml;ndelsef&ouml;rloppet en rad av &aring;r efter det att den ursprungliga avvikelsen uppst&aring;tt enligt f&ouml;ljande samband: d&auml;r q t  &auml;r den procentuella avvikelsen i syssels&auml;ttningen fr&aring;n det f&ouml;rv&auml;ntade antalet f&ouml;r &aring;r t  och e t  &auml;r den slumpm&auml;ssiga avvikelsen f&ouml;r &aring;r t .
+  </p>
+  <p>
+   Den slumpm&auml;ssiga avvikelsen &auml;r normalf&ouml;rdelad med medelv&auml;rdet noll och standardavvikelsen 1,13 procentenheter. Detta har beskrivits i kapitel 4.
+  </p>
+  <p>
+   Den reala obligationsavkastningen  per &aring;r har i basscenariot antagits vara 2,3 procent. Fr&aring;n denna trend simuleras kortsiktiga avvikelser som beror p&aring; inflationens avvikelser fr&aring;n den f&ouml;rv&auml;ntade inflationen. Inflationen har ett autoregressivt m&ouml;nster enligt d&auml;r I t  &auml;r inflationen i procent &aring;r t  och d&auml;r e t  &auml;r en normalf&ouml;rdelad slumpterm med medelv&auml;rde noll och standardavvikelsen 0,871 procentenheter. Denna kortsiktiga avvikelse i inflationen styr obligationsavkastningen i modellen. Den f&ouml;rv&auml;ntade inflationen &auml;r i modellen medelv&auml;rdet av de senaste tio &aring;rens inflation.
+  </p>
+  <p>
+   F&ouml;r aktier  antas i basscenariot en real f&ouml;rv&auml;ntad avkastning om 4,5 procent per &aring;r. Den reala aktieavkastningen varierar kraftigt i modellen. Den ackumulerade reala avkastningens avvikelse fr&aring;n den f&ouml;rv&auml;ntade trenden i logaritmiska tal ett enskilt &aring;r &auml;r beroende av tidigare avvikelser och en slumpterm enligt d&auml;r w t  &auml;r den ackumulerade realavkastningen i relation till trenden &aring;r t  och d&auml;r e t  &auml;r en normalf&ouml;rdelad slumpterm med medelv&auml;rde noll och standardavvikelsen 19,3 procentenheter.
+  </p>
+  <p>
+   Alternativt scenario med l&auml;gre aktieavkastning
+  </p>
+  <p>
+   I ett f&ouml;rsta alternativt scenario har modellen simulerat f&ouml;rlopp d&auml;r den f&ouml;rv&auml;ntade &aring;rliga reala aktieavkastningen satts till 3 procent, dvs. 1,5 procentenheter l&auml;gre &auml;n i basscenariot. I detta scenario g&auml;ller samma variabilitet kring trenden som i basscenariot, liksom samma f&ouml;ruts&auml;ttningar vad g&auml;ller syssels&auml;ttning och obligationsavkastning.
+  </p>
+  <p>
+   Den direkta f&ouml;ljden av det &auml;ndrade antagandet blir att buffertfondens f&ouml;rv&auml;ntade avkastning i ett simulerat tidsf&ouml;rlopp blir l&auml;gre.
+  </p>
+  <p>
+   Alternativt scenario med l&auml;gre variabilitet i syssels&auml;ttningen
+  </p>
+  <p>
+   I ett andra alternativscenario har storleken av de slumpm&auml;ssiga avvikelserna fr&aring;n syssels&auml;ttningens f&ouml;rv&auml;ntade niv&aring; halverats. Slumptermens standardavvikelse i modellsambandet f&ouml;r syssels&auml;ttningen har d&auml;rmed satts till 0,565 procentenheter. I &ouml;vrigt g&auml;ller samma f&ouml;ruts&auml;ttningar som i basscenariot.
+  </p>
+  <p>
+   F&ouml;ljden av det &auml;ndrade antagandet blir att avgiftsunderlaget inte kommer att variera lika mycket &ouml;ver tid som i basscenariot. F&ouml;r systemets finansiella st&auml;llning inneb&auml;r detta minskade m&ouml;jligheter till h&ouml;jd avgiftstillg&aring;ng (via en f&ouml;rst&auml;rkt avgiftsinkomst) men ocks&aring; minskade risker f&ouml;r en f&ouml;rsvagad avgiftstillg&aring;ng (via en vikande avgiftsinkomst).
+  </p>
+  <p>
+   Detta alternativscenario kan motiveras som ett s&auml;tt att beakta att avgifter inte enbart inbetalas p&aring; f&ouml;rv&auml;rvsinkomster utan &auml;ven p&aring; arbetsl&ouml;shetsers&auml;ttning, sjukers&auml;ttning, f&ouml;r&auml;ldrapenning, pensionsgrundande belopp f&ouml;r barn&aring;r, plikttj&auml;nstg&ouml;ring, studier m.m., vilka samtliga grundar pensionsr&auml;tt. Den totala kretsen av pensionsf&ouml;rs&auml;krade personer har d&auml;rmed en &aring;rlig variabilitet som betydligt understiger vad som g&auml;ller enbart sysselsatta. 5.5 Simuleringar med  UT&Ouml;-modellen
+  </p>
+  <p>
+   Syftet med UT&Ouml;-modellen &auml;r att ge underlag f&ouml;r utredningens bed&ouml;mning av en v&auml;l avv&auml;gd balanstalsgr&auml;ns f&ouml;r utdelning. I kapitel 6 belyses effekterna av olika regler f&ouml;r &ouml;verskottsutdelning.
+  </p>
+  <p>
+   Framskrivningarna med modellen ger dessutom en m&ouml;jlighet att mer allm&auml;nt beskriva f&ouml;rdelningssystemet i den demografiskt &ouml;verblickbara framtiden. Som exempel visas i detta avsnitt hur avgiftsnetto, fonderingsgrad och balanstal faller ut i tio simulerade 75&aring;rsf&ouml;rlopp med UT&Ouml;-modellen. I de redovisade f&ouml;rloppen ing&aring;r inte n&aring;gon regel om &ouml;verskottsutdelning och f&ouml;ruts&auml;ttningarna &auml;r enligt basscenariot.
+  </p>
+  <p>
+   Avgiftsnettot
+  </p>
+  <p>
+   Diagram 5.1 visar utvecklingen av det &aring;rliga avgiftsnettot i de tio simulerade f&ouml;rloppen. F&ouml;r varje &aring;r har avgiftsinkomsterna minus pensionsutbetalningarna, dvs. avgiftsnettot, satts i procent av samma &aring;rs avgiftsinkomster. Eftersom kortsiktiga avvikelser fr&aring;n syssels&auml;ttningens best&auml;mda trend sker i modellen, kommer de tio f&ouml;rloppen att skilja sig &aring;t.
+  </p>
+  <p>
+   Diagram 5.1.  Avgiftsnetto 2003&ndash;2077 i tio f&ouml;rlopp
+  </p>
+  <p>
+   Basscenario utan utdelning. Avgiftsnetto i procent av avgiftsinkomsterna.
+  </p>
+  <p>
+   Av diagrammet framg&aring;r tydligt den kommande perioden av negativa avgiftsnetton med b&ouml;rjan kring &aring;r 2010, som orsakas av en &ouml;kad andel pensionerade i f&ouml;rh&aring;llande till f&ouml;rv&auml;rvsaktiva. De demografiskt betingade perioderna av negativa avgiftsnetton &aring;terspeglas s&aring;ledes i modellresultaten.
+  </p>
+  <p>
+   Fonderingsgrad
+  </p>
+  <p>
+   Diagram 5.2 visar utvecklingen av f&ouml;rdelningssystemets fonderingsgrad i modellen f&ouml;r samma tio f&ouml;rlopp som l&aring;g till grund f&ouml;r diagram 5.1. Fonderingsgraden definieras som buffertfondens tillg&aring;ngar i relation till hela den samlade pensionsskulden. I utg&aring;ngsl&auml;get &auml;r denna knappt 10 procent. I modellen beror fonderingsgraden av en rad faktorer. I aktie- och obligationsavkastningen sker kortsiktiga avvikelser fr&aring;n l&aring;ngsiktigt best&auml;mda trender. Skuldsidan och avgiftsnettot &auml;r i sin tur beroende av variationerna i syssels&auml;ttningen.
+  </p>
+  <p>
+   Diagram 5.2.  Fonderingsgrad 2003&ndash;2077 i tio f&ouml;rlopp
+  </p>
+  <p>
+   Basscenario utan utdelning. Fond i procent av pensionsskulden.
+  </p>
+  <p>
+   I diagram 5.2 framtr&auml;der betydande skillnader mellan de tio simulerade f&ouml;rloppen vad g&auml;ller fonderingsgradens utveckling. I en simulering har den &ouml;verstigit 35 procent enstaka &aring;r. I en annan stabiliserar sig fonderingsgraden p&aring; en l&aring;g niv&aring;. Det finns s&aring;ledes utrymme f&ouml;r en stor slumpm&auml;ssig variation inom samma scenario.
+  </p>
+  <p>
+   Balanstalsutveckling
+  </p>
+  <p>
+   F&ouml;r de tio f&ouml;rloppen i basscenariot redovisas i diagram 5.3 balanstalets utveckling. 5  Fr&aring;n att ha startat i utg&aring;ngsl&auml;get 1,01 uppvisar simuleringarna vitt skilda framtider. I ett antal simuleringar aktiveras den automatiska balanseringsmekanismen genom att balanstalet understiger 1,00. I andra simuleringar ger modellen efter hand h&ouml;ga balanstal.
+  </p>
+  <p>
+   Diagram 5.3.  Balanstal 2003&ndash;2077 i tio f&ouml;rlopp
+  </p>
+  <p>
+   Basscenario utan utdelning.
+  </p>
+  <p>
+   Redan av det f&aring;tal f&ouml;rlopp som visas i diagram 5.3 framg&aring;r att balanstalet i basscenariot, trots de negativa avgiftsnettona i diagram 5.1, uppvisar en i genomsnitt positiv trend. Orsaken till detta &auml;r fr&auml;mst basscenariots antagande om en f&ouml;rv&auml;ntad &aring;rlig realavkastning i aktier om 4,5 procent. D&aring; buffertfondens avkastning i modellen &ouml;verstiger f&ouml;rr&auml;ntningen av systemets skuld, vilken i UT&Ouml;-modellen &auml;r lika med snittinkomsttillv&auml;xten om 2 procent, finns m&ouml;jligheter f&ouml;r en god utveckling av systemets finansiella st&auml;llning.
+  </p>
+  <h2>
+   6 Balanstalsgr&auml;ns f&ouml;r utdelning
+  </h2>
+  <p>
+   I kapitel 3 har utredningen kommit fram till att balanstalet skall vara den faktor som styr utdelning av &ouml;verskott i f&ouml;rdelningssystemet. I detta kapitel &auml;r syftet att med hj&auml;lp av simuleringsresultat fr&aring;n UT&Ouml;-modellen analysera var balanstalsgr&auml;nsen f&ouml;r utdelning skall s&auml;ttas.
+  </p>
+  <p>
+   Utg&aring;ngspunkt f&ouml;r utredningens analys &auml;r den f&ouml;rsiktighetsprincip som framg&aring;r av utredningens direktiv. Utdelning av &ouml;verskott i f&ouml;rdelningssystemet inneb&auml;r alltid att risken f&ouml;r underskottsbalansering l&auml;ngre fram &ouml;kar n&aring;got. Ju l&auml;gre balanstalsgr&auml;ns f&ouml;r utdelning som s&auml;tts, desto fler blir antalet &ouml;verskottsutdelningar inom en given tidsperiod, n&aring;got som p&aring;verkar den tillkommande risken f&ouml;r underskott. I avsnitt 6.1 diskuteras hur mycket h&ouml;gre risk f&ouml;r underskottsbalansering som &ouml;verskottsutdelning medf&ouml;r.
+  </p>
+  <p>
+   I n&auml;sta steg beaktas de effekter som &ouml;verskottsutdelning f&aring;r p&aring; systemets utbetalningar av pension. En utdelning betyder att de utbetalade pensionsbeloppen f&ouml;rh&ouml;js, dels omedelbart, dels p&aring; l&aring;ng sikt n&auml;r de som &auml;r f&ouml;rv&auml;rvsaktiva vid utdelningstidpunkten blir pension&auml;rer. Samtidigt kan systemets utbetalning av pension bli l&auml;gre vissa &aring;r &auml;n om ingen utdelning &auml;gt rum. Detta beror p&aring; de extra eller kraftigare underskottsbalanseringar som kan bli f&ouml;ljden av &ouml;verskottsutdelning. I avsnitt 6.2 redovisas hur &ouml;verskottsutdelning p&aring;verkar f&ouml;rdelningssystemets &aring;rliga utbetalningar av pension. Vidare diskuteras hur detta b&ouml;r inverka p&aring; valet av balanstalsgr&auml;ns f&ouml;r utdelning.
+  </p>
+  <p>
+   Det tredje steget i kapitlet &auml;r att unders&ouml;ka hur valet av balanstalsniv&aring; ter sig i ett generationsperspektiv. Om balanstalsgr&auml;nsen s&auml;tts p&aring; en relativt h&ouml;g niv&aring;, blir m&ouml;jligheten till &ouml;verskottsutdelning l&aring;g och d&auml;rmed kommer sannolikheten att f&aring; del av &ouml;verskott skilja sig &aring;t mellan olika &aring;rskullar. Detta skapar s&aring;ledes en viss omf&ouml;rdelning vad g&auml;ller pensionen mellan olika &aring;rskullar. F&ouml;r att belysa denna komplikation, redovisas i avsnitt 6.3. effekter p&aring; olika &aring;rskullars livspension, dvs. hur den sammanlagda pension som individerna i en &aring;rskull i genomsnitt erh&aring;ller under sin pensionstid p&aring;verkas av best&auml;mmelser om &ouml;verskottsutdelning.
+  </p>
+  <p>
+   I avsnitt 6.4 sammanfattas utredningens &ouml;verv&auml;ganden kring valet av balanstalsgr&auml;ns f&ouml;r utdelning mot bakgrund av de olika slags konsekvenser som belysts med hj&auml;lp av simuleringar med UT&Ouml;-modellen. 6.1 Risken f&ouml;r underskott 6.1.1 F&ouml;rsiktighetsprincipen
+  </p>
+  <p>
+   I utredningens direktiv anges som en &ouml;verordnad riktlinje att utdelning av en del av ett &ouml;verskott i f&ouml;rdelningssystemet inte f&aring;r medf&ouml;ra mer &auml;n en f&ouml;rsumbar risk f&ouml;r att balanseringsmekanismen aktiveras inom en &ouml;versk&aring;dlig framtid. En regel om utdelning av &ouml;verskott skall utformas s&aring; att den inte &auml;ventyrar systemets f&ouml;rm&aring;ga att uppr&auml;tth&aring;lla snittinkomstindexeringen &ouml;ver tid. Utg&aring;ngspunkten f&ouml;r utredningens &ouml;verv&auml;ganden skall d&auml;rf&ouml;r vara den f&ouml;rsiktighetsprincip som anges i direktiven.
+  </p>
+  <p>
+   Utredningens f&ouml;rslag &auml;r att ett utdelningsbart &ouml;verskott b&ouml;r avgr&auml;nsas genom balanstalets niv&aring;. Den andel av tillg&aring;ngarna i pensionssystemets balansr&auml;kning som inneb&auml;r att balanstalet &ouml;verstiger en viss niv&aring; &auml;r d&aring; att betrakta som utdelningsbar. S&aring;dana tillg&aring;ngar skall f&ouml;rdelas automatiskt genom att omr&auml;kningen av pensionsbeh&aring;llningar och utg&aring;ende pensioner sker med ett h&ouml;gre tal &auml;n f&ouml;r&auml;ndringen i inkomstindex. Effekten av den f&ouml;rh&ouml;jda indexeringen f&ouml;r samtliga f&ouml;rs&auml;krade r&auml;knat i kronor utg&ouml;r det utdelningsbara &ouml;verskottet. En begr&auml;nsad del av det utdelade &ouml;verskottet betalas omg&aring;ende ut i form av h&ouml;jd pension. Resterande belopp f&ouml;rdelas s&aring; att pensionsbeh&aring;llningarna &ouml;kas, vilket h&ouml;jer kommande &aring;rs pensionsutbetalningar.
+  </p>
+  <p>
+   Med regler f&ouml;r &ouml;verskottsutdelning kommer balanstalet bara tillf&auml;lligt &ouml;verstiga den valda balanstalsniv&aring;n f&ouml;r &ouml;verskott, eftersom de utdelningbara &ouml;verskotten &aring;rligen f&ouml;rdelas p&aring; de f&ouml;rs&auml;krade. Genom en utdelningsmekanism kommer systemet under perioder med h&ouml;gt balanstal att fungera i princip p&aring; samma s&auml;tt som under perioder d&auml;r balanstalet ligger n&auml;ra niv&aring;n ett och d&auml;r den automatiska underskottsbalanseringen hela tiden tvingar balanstalet mot en l&auml;gstaniv&aring; p&aring; 1,00. D&auml;rmed blir systemet symmetriskt vad g&auml;ller l&aring;ga och h&ouml;ga balanstal med inbyggda regler som f&ouml;rhindrar dels varaktiga finansiella underskott, dels mycket stora &ouml;verskott.
+  </p>
+  <p>
+   Av f&ouml;rsiktighetsprincipen f&ouml;ljer att den niv&aring; p&aring; balanstalet som skall avgr&auml;nsa ett utdelningsbart &ouml;verskott m&aring;ste v&auml;ljas med varsamhet. En f&ouml;r l&aring;g balanstalsgr&auml;ns skulle &auml;ventyra pensionssystemets f&ouml;rm&aring;ga att uppr&auml;tth&aring;lla snittinkomstindexeringen. Det &auml;r &ouml;nskv&auml;rt att f&ouml;rdelningssystemet utformas s&aring; att tillg&aring;ngar till&aring;ts byggas upp i syfte att utg&ouml;ra en buffert mot framtida p&aring;frestningar. Balanstalsgr&auml;nsen f&ouml;r utdelning b&ouml;r vara s&aring; pass h&ouml;g att antalet underskottsbalanseringar inte &ouml;kar p&aring;tagligt genom att systemet f&ouml;rhindras att uppn&aring; en tillr&auml;cklig finansiell marginal p&aring; grund av &aring;terkommande utdelningar.
+  </p>
+  <p>
+   Om balanstalsgr&auml;nsen som reglerar utdelning s&auml;tts f&ouml;r h&ouml;gt, riskeras en situation d&auml;r medel ackumuleras i systemet som inte kan komma de f&ouml;rs&auml;krade till del p&aring; annat s&auml;tt &auml;n att ytterligare reducera risken f&ouml;r underskottsbalansering. Prop. 2000/01:70 Automatisk balansering av &aring;lderspensionssystemet slog fast att en omotiverat stor buffert inte &auml;r &ouml;nskv&auml;rd. 6.1.2 Balanstalets spridning och f&ouml;rlopp &ouml;ver tid utan &ouml;verskottsutdelning
+  </p>
+  <p>
+   F&ouml;rdelningssystemets &aring;rliga inkomster i form av avgiftsinbetalningar och &aring;rliga utgifter i form av pensioner varierar &ouml;ver tiden. Dessa variationer orsakas bl.a. av att befolkningens &aring;rskullar &auml;r olika stora och av ekonomiska f&ouml;rlopp som p&aring; olika s&auml;tt p&aring;verkar systemets finansiella st&auml;llning. F&ouml;r n&auml;rvarande &ouml;verstiger de &aring;rliga avgiftsinbetalningarna till f&ouml;rdelningssystemet utbetalningarna, vilket inneb&auml;r att buffertfondens tillg&aring;ngar &ouml;kar, allt annat lika. Avgiftsnettot var n&auml;rmare 10 miljarder kronor &aring;r 2003.
+  </p>
+  <p>
+   Ett rimligt antagande &auml;r att det f&ouml;r tillf&auml;llet positiva avgiftsnettot kommer att bli negativt omkring &aring;r 2010, framf&ouml;rallt genom att de stora &aring;rskullar som f&ouml;ddes under 1940-talet tar ut sin pension. Perioder av under- och &ouml;verskott utj&auml;mnas i f&ouml;rdelningssystemet genom buffertfonden.
+  </p>
+  <p>
+   F&ouml;r att belysa hur f&ouml;rdelningssystemets finansiella st&auml;llning kan komma att utvecklas utan &ouml;verskottsutdelning har utredningen med hj&auml;lp av UT&Ouml;-modellen simulerat balanstalets utveckling under 75 &aring;r f&ouml;rutsatt nuvarande regler, dvs. utan n&aring;gon begr&auml;nsning av hur stora tillg&aring;ngar som f&aring;r byggas upp i f&ouml;rdelningssystemet. Totalt har 500 stycken 75-&aring;rsf&ouml;rlopp simulerats.
+  </p>
+  <p>
+   Diagram 6.1. &Aring;rlig risk f&ouml;r balanstal understigande 1,00, ingen utdelning
+  </p>
+  <p>
+   Diagram 6.1 visar den andel av de 500 simuleringarna f&ouml;r respektive &aring;r d&auml;r balanstalet understigit 1,00. De h&ouml;gsta frekvenserna av underskott i f&ouml;rdelningssystemet intr&auml;ffar p&aring; kort sikt. D&aring; f&ouml;rdelningssystemet i utg&aring;ngsl&auml;get uppvisar ett knappt &ouml;verskott genom att tillg&aring;ngarna &ouml;verstiger skulderna med cirka en procent, &auml;r det relativt stor risk att balanseringen aktiveras under de fem f&ouml;rsta &aring;ren i framskrivningsperioden. Risken f&ouml;r underskottsbalansering minskar &ouml;ver tid.
+  </p>
+  <p>
+   Orsaken till den avtagande risken &auml;r att f&ouml;rdelningssystemet bygger upp &ouml;verskott &ouml;ver tid i flertalet simuleringar. Framskrivningarna indikerar en positiv trend f&ouml;r balanstalets utveckling. Detta h&auml;nger samman med den avkastning i buffertfonden som antagits f&ouml;religga i modellens basscenario. Trots de demografiskt betingade p&aring;frestningarna p&aring; f&ouml;rdelningssystemets finansiella st&auml;llning kan allts&aring; f&ouml;rlopp intr&auml;ffa d&aring; systemet ackumulerar tillg&aring;ngar s&aring; att en &ouml;verskottsutdelning kan vara motiverad. Sannolikheten f&ouml;r s&aring;dana tillf&auml;llen &ouml;kar med tiden.
+  </p>
+  <p>
+   Diagram 6.2 visar frekvensen av &aring;rliga balanstalsniv&aring;er under de 500 simulerade 75-&aring;rsperioderna.
+  </p>
+  <p>
+   Diagram 6.2. F&ouml;rdelning av balanstal, ingen utdelning
+  </p>
+  <p>
+   Procentuell frekvens av &aring;rliga balanstal. 500 simulerade 75-&aring;rsperioder i basscenario.
+  </p>
+  <p>
+   De mest frekventa niv&aring;erna f&ouml;r balanstalet ligger i intervallet 1,01&ndash; 1,15. Balanstalet ligger i detta intervall drygt 70 procent av de 500 &times;  75 &aring;r som simulerats. Diagrammet visar ocks&aring; att balanstalsniv&aring;erna uppvisar en skev f&ouml;rdelning. Detta beror p&aring; den automatiska underskottsbalanseringen som medf&ouml;r att balanstalet endast tempor&auml;rt kan understiga 1,00.
+  </p>
+  <p>
+   Eftersom f&ouml;rdelningssystemet i dessa framskrivningar inte har f&ouml;rsetts med n&aring;gon begr&auml;nsning f&ouml;r hur stora &ouml;verskott som f&aring;r byggas upp i systemet, st&auml;rks systemets f&ouml;rm&aring;ga att undvika underskottsbalansering med tiden. I knappt 2 procent av &aring;ren uppvisar balanstalet ett v&auml;rde understigande 1,00. Som framg&aring;tt av diagram 6.1 sker detta oftast i b&ouml;rjan av de simulerade 75-&aring;rsf&ouml;rloppen. S&aring; fort balanstalet understiger denna niv&aring;, minskas indexeringen av skulden proportionerligt s&aring; att balansen mellan tillg&aring;ngar och skulder &aring;terst&auml;lls.
+  </p>
+  <p>
+   Balanstalets f&ouml;rdelning i diagram 6.2 uppvisar extremv&auml;rden med balanstal &ouml;verstigande 1,40, dvs. situationer d&auml;r tillg&aring;ngarna i systemet &ouml;verstiger pensionsskulden med 40 procent. Antalet s&aring;dana observationer &auml;r dock f&aring;. I sammanlagt 11 procent av &aring;ren &ouml;verstiger balanstalet 1,20. Eftersom balanstalet f&ouml;ljer en positiv trend &ouml;ver tiden, p&aring;verkas f&ouml;rdelningen av l&auml;ngden p&aring; den tidsperiod som simuleras. Ju l&auml;ngre framskrivningsperioden &auml;r, ju mer kommer f&ouml;rdelningen att vara f&ouml;rskjuten mot h&ouml;gre balanstalsniv&aring;er. 6.1.3 Balanstalets spridning med &ouml;verskottsutdelning
+  </p>
+  <p>
+   N&auml;r en regel om &ouml;verskottsutdelning inf&ouml;rs i f&ouml;rdelningssystemet blir f&ouml;ljden att det inte mer &auml;n tillf&auml;lligt till&aring;ts ackumulera tillg&aring;ngar &ouml;verstigande den balanstalsgr&auml;ns som satts, utan dessa delas ut till de f&ouml;rs&auml;krade genom en h&ouml;gre indexering av pensionsbeh&aring;llningar och pensioner. Med hj&auml;lp av UT&Ouml;-modellen har f&ouml;rlopp skrivits fram som visar hur frekvenserna av olika balanstal p&aring;verkas av att &ouml;verskottsutdelning inf&ouml;rs.
+  </p>
+  <p>
+   Utdelning n&auml;r balanstalet &ouml;verstiger 1,10
+  </p>
+  <p>
+   I diagram 6.3 f&ouml;ruts&auml;tts utdelning av &ouml;verskott ske n&auml;r balanstalet &ouml;verstiger 1,10.
+  </p>
+  <p>
+   Diagram 6.3. F&ouml;rdelning av balanstal, balanstalsgr&auml;ns 1,10 f&ouml;r utdelning
+  </p>
+  <p>
+   Procentuell frekvens av &aring;rliga balanstal. 500 simulerade 75-&aring;rsperioder i basscenario.
+  </p>
+  <p>
+   J&auml;mf&ouml;rt med f&ouml;rdelningen i diagram 6.2 har balanstalets spridning pressats samman i diagram 6.3 och koncentrerats i intervallet 1,00 till 1,10. Sammanlagt 85 procent av observationerna hamnar i detta intervall. Eftersom ett tak har lagts p&aring; hur stora tillg&aring;ngar relativt skulderna systemet f&aring;r uppvisa, f&ouml;rs&auml;mras systemets f&ouml;rm&aring;ga att klara perioder av finansiell belastning utan att underskottsbalansera. Andelen &aring;r d&aring; balanstalet understigit 1,00 &auml;r drygt 5 procent, n&auml;stan fyra procentenheter h&ouml;gre &auml;n i de f&ouml;rlopp utan utdelning som visades i diagram 6.2. Den &ouml;kade risken f&ouml;r avsteg fr&aring;n snittinkomstindexeringen genom en underskottsbalansering kan s&auml;gas vara den negativa konsekvensen av &ouml;verskottsutdelningen. Den positiva &auml;r antalet &aring;r d&auml;r indexeringen f&ouml;rh&ouml;jts genom en &ouml;verskottsutdelning. Andelen &aring;r d&aring; balanstalet &ouml;verstigit 1,10, och d&auml;r &ouml;verskottsutdelning skett, &auml;r 10 procent.
+  </p>
+  <p>
+   Utdelning n&auml;r balanstalet &ouml;verstiger 1,20
+  </p>
+  <p>
+   I diagram 6.4 visas balanstalets f&ouml;rdelning om balanstalsgr&auml;nsen f&ouml;r utdelning i st&auml;llet s&auml;tts till 1,20.
+  </p>
+  <p>
+   Diagram 6.4. F&ouml;rdelning av balanstal, balanstalsgr&auml;ns 1,20 f&ouml;r utdelning
+  </p>
+  <p>
+   Procentuell frekvens av &aring;rliga balanstal. 500 simulerade 75-&aring;rsperioder i basscenario.
+  </p>
+  <p>
+   H&auml;r har f&ouml;rdelningen antagit en form som mer liknar den i diagram 6.2. Detta h&auml;nger samman med att systemet s&auml;llan kommer att ackumulera s&aring; stora &ouml;verskott att utdelning sker. En f&ouml;rh&ouml;jd indexering till f&ouml;ljd av utdelningsbara &ouml;verskott f&ouml;rekommer i knappt 4 procent av de observerade &aring;ren i simuleringarna. De flesta intr&auml;ffar vid slutet av de simulerade 75-&aring;rsperioderna. Eftersom systemet med balanstalsgr&auml;ns f&ouml;r utdelning om 1,20 f&ouml;rb&auml;ttrar sin f&ouml;rm&aring;ga att klara perioder av finansiell p&aring;frestning, minskar samtidigt andelen &aring;r med underskottsbalansering j&auml;mf&ouml;rt med gr&auml;nsen 1,10 (diagram 6.3) till 2 procent. Detta &auml;r bara en marginellt h&ouml;gre risk f&ouml;r underskottsbalansering &auml;n i ett system utan utdelningsregel (diagram 6.2).
+  </p>
+  <p>
+   Utdelning n&auml;r balanstalet &ouml;verstiger 1,00
+  </p>
+  <p>
+   Det &auml;r av flera sk&auml;l ol&auml;mpligt att utdela &ouml;verskott s&aring; fort de uppkommer. Om utdelning av &ouml;verskott skulle ske s&aring; fort systemets balansr&auml;kning uppvisar ett balanstal som &ouml;verstiger 1,00, skulle andelen &aring;r med underskottsbalansering &ouml;ka med 35 procentenheter och den totala andelen &aring;r med &ouml;verskottsutdelning skulle bli 41 procent i simuleringar enligt basscenariots f&ouml;ruts&auml;ttningar. Det betyder att f&ouml;rr&auml;ntningen av systemets pensions&aring;tagande n&auml;stan hela tiden skulle avvika fr&aring;n den regulj&auml;ra indexeringen med inkomstindex. Pensionernas &aring;rliga indexering skulle d&aring; direkt p&aring;verkas av kortsiktiga f&ouml;r&auml;ndringar av avgiftsunderlaget och &auml;ven av buffertfondens avkastning. Med en s&aring;dan regel skulle buffertfondens f&ouml;rm&aring;ga att utj&auml;mna avgiftsnettot &ouml;ver tid omintetg&ouml;ras och principen att pensionernas v&auml;rdeutveckling skulle f&ouml;lja snittinkomstutvecklingen s&auml;ttas ur spel. En s&aring;dan ordning &auml;r enligt utredningens mening oacceptabel. 6.1.4 Balanstalsf&ouml;rlopp med tre alternativa gr&auml;nser f&ouml;r utdelning
+  </p>
+  <p>
+   Av diagram 6.2&ndash;6.4 har framg&aring;tt att ju h&ouml;gre balanstalsgr&auml;ns som v&auml;ljs, desto f&auml;rre blir det totala antalet &ouml;verskottsutdelningar. D&auml;rmed blir &auml;ven den tillkommande risken f&ouml;r underskottsbalansering l&auml;gre. Med hj&auml;lp av UT&Ouml;-modellen skall i detta avsnitt visas hur risken f&ouml;r underskottsbalansering &ouml;ver tid p&aring;verkas av hur h&ouml;g balanstalsgr&auml;ns som v&auml;ljs. Det g&ouml;rs genom att simulera olika f&ouml;rlopp dels utan &ouml;verskottsutdelning, dels med gr&auml;nserna 1,05, 1,10 och 1,15. Framskrivningarna har dels gjorts med de antaganden om syssels&auml;ttning och kapitalavkastning som utg&ouml;r utredningens basscenario, dels med antagandena i de tv&aring; alternativa scenarierna.
+  </p>
+  <p>
+   Basscenariot
+  </p>
+  <p>
+   Diagram 6.5 illustrerar de &aring;rliga riskerna f&ouml;r underskottsbalansering med tre alternativa regler givet basscenariots antagande om framtida variation i kapitalavkastning och syssels&auml;ttning.
+  </p>
+  <p>
+   Diagram 6.5. &Aring;rlig risk f&ouml;r balanstal understigande 1,00 med olika balanstalsgr&auml;nser f&ouml;r utdelning
+  </p>
+  <p>
+   Den genomg&aring;ende l&auml;gsta risken f&ouml;r underskottsbalansering &auml;r om systemet inte f&ouml;rsetts med regler f&ouml;r &ouml;verskottsutdelning. Genomsnittligt understiger balanstalet 1,00 i 2 procent av &aring;ren under 75&aring;rsf&ouml;rloppet. Denna risk skall j&auml;mf&ouml;ras med de tre regelalternativen 1,05, 1,10 och 1,15.
+  </p>
+  <p>
+   Med en balanstalsgr&auml;ns f&ouml;r utdelning om 1,05 &ouml;kar den &aring;rliga risken dramatiskt. Den j&auml;mf&ouml;relsevis l&aring;ga s&auml;kerhetsmarginal som denna utformning styr mot medf&ouml;r att frekvensen underskottsbalanseringar h&ouml;js p&aring;tagligt. Under 75-&aring;rsperioden &auml;r de &aring;rliga frekvenserna av balanstal l&auml;gre &auml;n 1,00 genomsnittligt 13 procent. En balanstalsgr&auml;ns om 1,05 ger allts&aring; systemet d&aring;liga m&ouml;jligheter att utj&auml;mna positiva och negativa avgiftsnetton &ouml;ver tid, eftersom &ouml;verskottets storlek begr&auml;nsas till 5 procent av pensionsskulden. D&auml;rigenom uppst&aring;r f&ouml;rlopp d&auml;r buffertfonden till f&ouml;ljd av tidigare utdelning inte &auml;r tillr&auml;ckligt stor f&ouml;r att underskottsbalansering skall kunna undvikas n&auml;r avgiftsnettot sjunker. Simuleringen av regeln 1,05 tydligg&ouml;r ocks&aring; de demografiska obalansernas inverkan p&aring; systemets finansiella utveckling och behovet av en s&auml;kerhetsmarginal i systemet.
+  </p>
+  <p>
+   Inf&ouml;randet av &ouml;verskottsutdelning med en balanstalsgr&auml;ns om 1,10 medf&ouml;r ocks&aring; en f&ouml;rh&ouml;jd risk f&ouml;r negativa avsteg fr&aring;n systemets normala indexering. Emellertid &auml;r h&ouml;jningen av antalet &aring;r med underskottsbalanseringar inte alls av den omfattning som balanstalsgr&auml;nsen 1,05 medf&ouml;r. Balanstal understigande 1,00 observeras f&ouml;r 5 procent av &aring;ren. Regeln 1,15 medf&ouml;r en marginell risk&ouml;kning f&ouml;r underskottsbalansering j&auml;mf&ouml;rt med ett system utan &ouml;verskottsutdelning. I genomsnitt drygt 2 procent av &aring;ren &auml;r balanstalet l&auml;gre &auml;n 1,00 i de simulerade 75-&aring;rsf&ouml;rloppen.
+  </p>
+  <p>
+   Scenario med l&auml;gre aktieavkastning
+  </p>
+  <p>
+   F&ouml;r att unders&ouml;ka om de riskf&ouml;r&auml;ndringar som orsakas av olika val av balanstalsgr&auml;ns enligt ovan &auml;r stabila, har utredningen som en k&auml;nslighetsanalys &auml;ven skrivit fram f&ouml;rlopp med alternativa antaganden. Som ett alternativ till basscenariots antagande om en f&ouml;rv&auml;ntad &aring;rlig realavkastning p&aring; aktier om 4,5 procent har i de f&ouml;rlopp som visas i diagram 6.6 avkastningen p&aring; aktier s&auml;nkts till 3 procent per &aring;r. I &ouml;vrigt g&auml;ller samma f&ouml;ruts&auml;ttningar som anv&auml;nds i basscenariot.
+  </p>
+  <p>
+   Diagram 6.6. &Aring;rlig risk f&ouml;r balanstal understigande 1,00 med olika balanstalsgr&auml;nser f&ouml;r utdelning
+  </p>
+  <p>
+   Procent. &Ouml;verskottsutdelning 1,05, 1,10, 1,15 samt ingen utdelning. 500 simulerade 75&aring;rsperioder i scenario med l&auml;gre aktieavkastning.
+  </p>
+  <p>
+   Den l&auml;gre avkastningen i buffertfonden medf&ouml;r att underskottsriskerna i systemet blir st&ouml;rre. I genomsnitt understiger balanstalet 1,00 i 7 procent av &aring;ren under de simulerade 75-&aring;rsf&ouml;rloppen om systemet inte till&aring;ts att dela ut &ouml;verskott. Med en balanstalsgr&auml;ns f&ouml;r utdelning om 1,05 &auml;r balanstalet i genomsnitt l&auml;gre &auml;n 1,00 vart sj&auml;tte &aring;r (17 procent). Motsvarande siffra f&ouml;r gr&auml;nsen 1,10 &auml;r 10 procent. Den j&auml;mf&ouml;rt med basscenariot l&auml;gre avkastningen i buffertfonden medf&ouml;r att balanstalet i de simulerade tidsf&ouml;rloppen inte uppvisar en positiv trend &ouml;ver tiden. D&auml;rmed &ouml;kar risken f&ouml;r underskottsbalansering, samtidigt som sannolikheten f&ouml;r &ouml;verskottsutdelning minskar. Med regeln 1,15 sker &ouml;verskottsutdelning mycket s&auml;llan. Simuleringsresultaten visar att detta intr&auml;ffar i 1 procent av &aring;ren (framg&aring;r ej av diagrammet). Det betyder att en s&aring; h&ouml;g balanstalsgr&auml;ns f&ouml;r utdelning inte mer &auml;n marginellt leder till en f&ouml;rh&ouml;jd risk f&ouml;r underskottsbalansering. Sammantaget betyder antagandet om en l&auml;gre aktieavkastning att den absoluta riskniv&aring;n f&ouml;r underskottsbalansering blir h&ouml;gre. Inf&ouml;rande av en utdelningsregel medf&ouml;r dock inte att den tillkommande underskottsrisken &ouml;kar lika mycket.
+  </p>
+  <p>
+   Scenario med l&auml;gre syssels&auml;ttningsvariation
+  </p>
+  <p>
+   I det andra alternativscenariot har standardavvikelsen i syssels&auml;ttningens slumpm&auml;ssiga f&ouml;r&auml;ndring halverats j&auml;mf&ouml;rt med basscenariot. D&aring; blir avgiftsbasen i systemet mer stabil &ouml;ver tid, vilket inneb&auml;r att balanstalet inte kommer att variera lika kraftigt. Den l&auml;gre syssels&auml;ttningsvariationen medf&ouml;r b&aring;de att underskottsrisken minskar och att m&ouml;jligheterna att uppn&aring; h&ouml;ga balanstal f&ouml;r utdelning minskar.
+  </p>
+  <p>
+   Diagram 6.7. &Aring;rlig risk f&ouml;r balanstal understigande 1,00 med olika balanstalsgr&auml;nser f&ouml;r utdelning
+  </p>
+  <p>
+   Resultatet av framskrivningar med en l&auml;gre syssels&auml;ttningsvariation framg&aring;r av diagram 6.7. J&auml;mf&ouml;rt med diagram 6.5 &auml;r den &aring;rliga risken f&ouml;r underskott genomg&aring;ende l&auml;gre. Bl.a. har antalet &aring;r med balanstal understigande 1,00 p&aring; kort sikt sjunkit. Risken f&ouml;r en underskottsbalansering orsakad av vikande avgiftsint&auml;kt har s&aring;ledes reducerats, &auml;ven om den fortfarande p&aring;verkas av de demografiskt betingade p&aring;frestningar som sker periodvis genom stora &aring;rskullars uttag av pension. Balanstalet uppvisar i detta scenario en i genomsnitt positiv utveckling &ouml;ver tid till f&ouml;ljd av buffertfondens avkastning. Utan utdelningsregel &auml;r balanstalet i genomsnitt under 1,00 i 0,4 procent av &aring;ren. Motsvarande siffra med en balanstalsgr&auml;ns om 1,05 f&ouml;r utdelning &auml;r 6 procent. Utdelningsgr&auml;nsen 1,10 medf&ouml;r att 2 procent av &aring;ren uppvisar balanstal under 1,00. D&aring; regeln 1,15 simuleras tillf&ouml;rs ingen v&auml;sentlig risk f&ouml;r underskott. L&auml;gre variation i systemets avgiftsunderlag medf&ouml;r att systemet f&aring;r en f&ouml;rst&auml;rkt m&ouml;jlighet att ograverat utge en f&ouml;rr&auml;ntning av pensioner och pensionsr&auml;tter som f&ouml;ljer utvecklingen av inkomstindex.
+  </p>
+  <p>
+   K&auml;nslighetsanalysen i diagram 6.5&ndash;6.6 visar n&aring;got som vid f&ouml;rsta anblicken kan f&ouml;refalla vara en paradox. &Auml;ven om en f&ouml;r systemet s&auml;mre framtid intr&auml;ffar (med l&auml;gre avkastning i buffertfonden &auml;n vad som f&ouml;rutsattes i basscenariot) blir inte den tillkommande risken f&ouml;r underskottsbalansering om &ouml;verskottsutdelning inf&ouml;rs i systemet avsev&auml;rt h&ouml;gre. F&ouml;rklaringen &auml;r, som n&auml;mnts, att i ekonomiskt mindre f&ouml;rdelaktiga f&ouml;rlopp blir utdelningsm&ouml;jligheten i systemet l&aring;g. Effekten av en utdelningsregel blir d&aring; ringa.
+  </p>
+  <p>
+   J&auml;mf&ouml;relse mellan diagrammen 6.5 och 6.7 visar att om variationen i systemets avgiftsbas s&auml;nks, f&ouml;rst&auml;rks ocks&aring; m&ouml;jligheten att undvika underskott. En l&aring;g variation i systemets avgiftsinkomster g&ouml;r valet av regel f&ouml;r &ouml;verskottsutdelning mindre riskfyllt vad g&auml;ller den &ouml;kade frekvensen av underskottsbalanseringar. 6.1.5 Balanstalsgr&auml;ns med beaktande av risken f&ouml;r underskott
+  </p>
+  <p>
+   G&auml;llande regler f&ouml;r automatisk underskottsbalansering har inf&ouml;rts f&ouml;r att skapa en s&auml;kerhetsventil som skall trygga systemets finansiella h&aring;llbarhet. Genom en reducerad indexering n&auml;r balanstalet understiger 1,00, &aring;terst&auml;lls j&auml;mvikten mellan systemets tillg&aring;ngar och skulder snabbt och d&auml;rmed f&ouml;rhindras en varaktig obalans.
+  </p>
+  <p>
+   N&auml;r det g&auml;ller att utforma regler f&ouml;r utdelning av &ouml;verskott &auml;r fr&aring;gest&auml;llningarna andra &auml;n vid utformning av mekanismen f&ouml;r underskottsbalansering. Gr&auml;nsen f&ouml;r ett utdelningsbart &ouml;verskott kan inte fastst&auml;llas p&aring; samma objektiva s&auml;tt som f&ouml;rekomsten av underskott. Detta beror p&aring; att &ouml;verskott &auml;r n&ouml;dv&auml;ndiga f&ouml;r att trygga systemets f&ouml;rm&aring;ga att uppr&auml;tth&aring;lla snittinkomstindexeringen. Det &auml;r bara en del av det sammantagna &ouml;verskottet som f&aring;r delas ut och d&aring; med h&auml;nsyn taget till att den &ouml;kade risken f&ouml;r framtida underskottsbalanseringar p&aring; grund av utdelning skall vara f&ouml;rsumbar. Den balanstalsniv&aring; som avgr&auml;nsar ett utdelningsbart &ouml;verskott &auml;r den faktor som skall s&auml;kerst&auml;lla att detta villkor &auml;r uppfyllt.
+  </p>
+  <p>
+   Underlaget f&ouml;r utredningens f&ouml;rslag till en s&aring;dan balanstalsgr&auml;ns &auml;r de olika simuleringarna i UT&Ouml;-modellen. Tabell 6.1 ger v&auml;gledning f&ouml;r en rekommendation om den balanstalsgr&auml;ns f&ouml;r utdelning som kan anses uppfylla det angivna kriteriet om f&ouml;rsumbar risk. Tabellen visar risk i termer av &ouml;kad andel &aring;r med balanstal mindre &auml;n 1,00 under den kommande 75-&aring;rsperioden till f&ouml;ljd av olika regler f&ouml;r &ouml;verskottsutdelning.
+  </p>
+  <p>
+   Basscenario.
+  </p>
+  <p>
+   Anm: avrundning har gjorts till n&auml;rmaste procent.
+  </p>
+  <p>
+   Av tabellen framg&aring;r att en f&ouml;r&auml;ndring av balanstalsgr&auml;nsen vid l&aring;ga niv&aring;er har stor effekt p&aring; antalet &aring;r med underskottsbalansering. Medan en utdelningsgr&auml;ns p&aring; 1,02 inneb&auml;r en &ouml;kad andel &aring;r med balanstal understigande 1,00 om 22 procentenheter, faller denna andel med 5 procentenheter om balanstalsgr&auml;nsen f&ouml;r utdelning s&auml;tts till 1,03. Skillnaden mellan en regel p&aring; 1,07 och 1,08 &auml;r enbart en procentenhet. Effekten av &ouml;verskottsutdelning planar s&aring;ledes ut ju h&ouml;gre den niv&aring; som reglerar utdelning s&auml;tts.
+  </p>
+  <p>
+   Med successivt h&ouml;gre balanstalsgr&auml;ns faller andelen &aring;r d&aring; balanstalet understiger 1,00. Slutligen &aring;terg&aring;r andelen &aring;r i princip till den riskniv&aring; f&ouml;r underskottsbalansering som g&auml;ller i ett system utan utdelning. I basscenariot intr&auml;ffar detta vid en balanstalsniv&aring; f&ouml;r utdelning om 1,16.
+  </p>
+  <p>
+   Av tabellen framg&aring;r ocks&aring; vid vilken balanstalsgr&auml;ns som den f&ouml;rh&ouml;jda risken f&ouml;r underskottsbalansering &auml;r h&ouml;gst 5 procentenheter. I basscenariot g&auml;ller detta d&aring; utdelning g&ouml;rs n&auml;r balanstalet &ouml;verstiger 1,09.
+  </p>
+  <p>
+   Motsvarande nyckeltal har tagits fram f&ouml;r de tv&aring; alternativscenarierna. I enlighet med resonemanget ovan sammanfattas dessa simuleringsresultat i tabell 6.2.
+  </p>
+  <p>
+   Ett slutligt st&auml;llningstagande till vad som &auml;r en acceptabel risk kan enligt utredningens mening inte g&ouml;ras p&aring; rent objektiva grunder. V&auml;gledning kan dock h&auml;mtas fr&aring;n riskavv&auml;gningar f&ouml;r de f&ouml;rs&auml;krade som gjorts inom ramen f&ouml;r pensionsreformen. Reformen inneb&auml;r en annorlunda situation f&ouml;r de f&ouml;rs&auml;krade eftersom en f&ouml;rm&aring;nsbest&auml;md och prisindexerad pension har ersatts av en avgiftsbest&auml;md pension d&auml;r den l&ouml;pande pensionsniv&aring;n i olika avseenden &auml;r mer f&ouml;ljsam i f&ouml;rh&aring;llande till den ekonomiska och demografiska utvecklingen.
+  </p>
+  <p>
+   Riksdagens beslut att inf&ouml;ra en regel om automatisk underskottsbalansering i f&ouml;rdelningssystemet inneb&auml;r att i tider med finansiella p&aring;frestningar f&aring;r systemets sociala m&aring;l att betala ut pensioner som f&ouml;ljer snittinkomstutvecklingen underordnas m&aring;let att systemets finansiella balans skall s&auml;kras. Det kan vidare anses vara en logiskt tvingande n&ouml;dv&auml;ndighet att alla risker i ett avgiftsdefinierat system f&ouml;rdelas inom f&ouml;rs&auml;kringskollektivet.
+  </p>
+  <p>
+   Det politiska st&auml;llningstagandet att f&ouml;r&auml;ndra risksituationen f&ouml;r de f&ouml;rs&auml;krade genom att inf&ouml;ra automatisk underskottsbalansering kan operationaliseras i termer av UT&Ouml;-modellen s&aring;som andel &aring;r under en 75-&aring;rsperiod som balanstal understigande 1,00 kan f&ouml;rv&auml;ntas i ett system utan &ouml;verskottsutdelning. Enligt utredningens mening &auml;r det rimligt att bed&ouml;ma risken i ett f&ouml;rdelningssystem med b&aring;de underskottbalansering och &ouml;verskottsutdelning mot bakgrund av risken i ett system med enbart underskottsbalansering.
+  </p>
+  <p>
+   Av tabell 6.2 framg&aring;r att med basscenariots antaganden kan 2 procent av &aring;ren under den kommande 75-&aring;rsperioden bli &aring;r med balanstal understigande 1,00. Inf&ouml;rande av en automatisk regel f&ouml;r &ouml;verskottsutdelning vid balanstal &ouml;verstigande 1,09 medf&ouml;r att andelen &aring;r med balanstal l&auml;gre &auml;n 1,00 skulle &ouml;ka med 5 procentenheter, n&aring;got som utredningen vill h&auml;vda &auml;r en marginell effekt.
+  </p>
+  <p>
+   De alternativa scenarierna pekar &auml;ven de p&aring; att denna balanstalsgr&auml;ns f&ouml;r utdelning skulle uppfylla kravet om en marginell risk&ouml;kning f&ouml;r underskottsbalansering. I scenariet med en l&auml;gre f&ouml;rv&auml;ntad aktieavkastning &ouml;kar andelen underskotts&aring;r med 3 procentenheter till f&ouml;ljd av regeln 1,09. Unders&ouml;ks 75-&aring;rsperioder d&auml;r syssels&auml;ttningens variabilitet halverats, orsakar balanstalsgr&auml;nsen 1,09 en &ouml;kning av &aring;r med balanstal mindre &auml;n 1,00 med 2 procentenheter.
+  </p>
+  <p>
+   Det skall i sammanhanget p&aring;pekas att modellsimuleringar inte kan f&aring;nga den framtida utvecklingen med precision. UT&Ouml;modellens resultat &auml;r beroende av en rad antaganden om den demografiska utvecklingen, framtida f&ouml;rv&auml;rvsm&ouml;nster m.m. och inrymmer d&auml;rf&ouml;r en h&ouml;g grad av os&auml;kerhet. Eftersom utredningens uppdrag &auml;r att bed&ouml;ma vilka s&auml;kerhetsmarginaler f&ouml;rdelningssystemet kr&auml;ver i framtiden f&ouml;r att &ouml;verskott skall kunna delas ut utan att medf&ouml;ra dramatiskt f&ouml;r&auml;ndrade sannolikheter f&ouml;r avsteg fr&aring;n snittinkomstindexeringen, m&aring;ste emellertid fram&aring;tblickande analyser g&ouml;ras.
+  </p>
+  <p>
+   Genom att skriva fram f&ouml;rdelningssystemet i en simuleringsmodell d&auml;r olika antaganden om framtiden kombinerats har utredningen s&ouml;kt bed&ouml;ma hur f&ouml;rdelningssystemets finansiella st&auml;llning kan f&ouml;rv&auml;ntas p&aring;verkas av att systemet f&ouml;rses med regler f&ouml;r &ouml;verskottsutdelning.
+  </p>
+  <p>
+   Eftersom modellresultaten baseras p&aring; framskrivningar av en os&auml;ker framtid, &auml;r det ol&auml;mpligt att dra slutsatser som ger sken av exakthet. En bred bed&ouml;mning av olika balanstalsgr&auml;nsers l&auml;mplighet kan d&auml;remot g&ouml;ras. Diagrammen 6.5&ndash;6.7 tydligg&ouml;r att en balanstalsgr&auml;ns f&ouml;r utdelning om 1,05 ger f&ouml;rdelningssystemet alltf&ouml;r d&aring;liga f&ouml;ruts&auml;ttningar att bygga upp tillr&auml;ckliga &ouml;verskott som kan utj&auml;mna positiva och negativa avgiftsnetton &ouml;ver tid utan att aktivering av balanseringsmekanismen blir n&ouml;dv&auml;ndig. Den direkta f&ouml;ljden skulle bli att stora &aring;rskullar uts&auml;tts f&ouml;r en j&auml;mf&ouml;relsevis h&ouml;gre risk f&ouml;r automatisk balansering under sin tid som pension&auml;rer.
+  </p>
+  <p>
+   Mot bakgrund av den i direktiven angivna f&ouml;rsiktighetsprincipen och med de sammantagna simuleringsresultaten som grund drar utredningen i ett f&ouml;rsta steg slutsatsen att balanstalsgr&auml;nsen f&ouml;r utdelning &aring;tminstone b&ouml;r vara s&aring; h&ouml;g att systemets tillg&aring;ngar vid utdelning &ouml;verstiger skulderna med minst 10 procent, dvs. att balanstalet b&ouml;r &ouml;verstiga 1,10. 6.2 Utbyte i form av h&ouml;gre pensionsutbetalningar
+  </p>
+  <p>
+   En begr&auml;nsning med analyserna i avsnitt 6.1 &auml;r att de inte tar h&auml;nsyn till effekter p&aring; systemets utbetalning av pension, vare sig hur mycket mer pension som betalas ut genom &ouml;verskottsutdelning, eller hur mycket mindre pension som vissa &aring;r betalas ut till f&ouml;ljd av den &ouml;kade omfattningen av underskottsbalansering som en utdelningsbest&auml;mmelse orsakar. &Aring;terg&aring;ngen till normal indexering efter att underskottsbalansering aktiverats kan f&ouml;rl&auml;ngas av en f&ouml;reg&aring;ende utdelning av &ouml;verskott. En l&auml;ngre period n&auml;r balansindex till&auml;mpas &auml;r till nackdel f&ouml;r dem som d&aring; uppb&auml;r pension. Samtidigt som en utdelningsregel medf&ouml;r m&ouml;jlighet till f&ouml;rh&ouml;jda pensioner, kan pensionsutbetalningarna enskilda &aring;r allts&aring; komma att bli l&auml;gre p&aring; grund av att f&ouml;rdelningssystemet i ett tidigare skede utdelat &ouml;verskott.
+  </p>
+  <p>
+   Med en effektindikator som &auml;ven beaktar konsekvenser p&aring; pensionsutbetalningarna kan i viss m&aring;n en avv&auml;gning g&ouml;ras mellan &aring; ena sidan &ouml;verskottsutdelningens kostnad i form av den i avsnitt 6.1 redovisade extrarisken f&ouml;r underskottsbalansering, &aring; andra sidan utbytet i form av h&ouml;gre utbetald pension. I f&ouml;ljande avsnitt unders&ouml;ks om det g&aring;r att komma fram till en rekommendation av en balanstalsgr&auml;ns f&ouml;r utdelning med hj&auml;lp av modellresultat som visar s&aring;v&auml;l l&auml;gre utbetalning av pension vissa &aring;r som h&ouml;gre utbetalning av pension andra &aring;r under de simulerade 75-&aring;rsperioderna. 6.2.1 Effekt i form av h&ouml;gre utbetalning fr&aring;n systemet
+  </p>
+  <p>
+   Det sociala m&aring;let f&ouml;r f&ouml;rdelningssystemet efter pensionsreformen kan formuleras som att systemet skall ge en &aring;lderspension som inom ramen f&ouml;r den fasta avgiftssatsen och krav p&aring; finansiell stabilitet skall grundas p&aring; individens samlade livsinkomst f&ouml;rr&auml;ntat med inkomstindex.
+  </p>
+  <p>
+   Om systemet f&ouml;rses med en regel f&ouml;r &ouml;verskottsutdelning tillkommer ytterligare en faktor som kan p&aring;verka pensionsutbetalningarna. &Ouml;verskottsutdelning inneb&auml;r att s&aring;dana &aring;r kommer f&ouml;rdelningssystemet att reducera s&auml;kerhetsmarginalen samtidigt som den &aring;rliga pensionsutbetalningen blir n&aring;got st&ouml;rre.
+  </p>
+  <p>
+   Som en indikator p&aring; effekten p&aring; pensionsutbetalningarna av &ouml;verskottsutdelning har ber&auml;knats hur de &aring;rliga pensionsutbetalningarna kan komma att p&aring;verkas &ouml;ver den 75-&aring;rsperiod som systemet skrivs fram i UT&Ouml;-modellen. Utbetalningarna j&auml;mf&ouml;rs med motsvarande f&ouml;rlopp i ett system utan &ouml;verskottsutdelning, dvs. d&auml;r det inte finns n&aring;gon restriktion f&ouml;r hur stora reserver som f&aring;r ackumuleras i systemet. Det &auml;r allts&aring; skillnaderna mellan tv&aring; olika f&ouml;rdelningssystem som unders&ouml;ks &ndash; ett system d&auml;r &ouml;verskott kan utdelas och ett d&auml;r &ouml;verskott aldrig utdelas. Mer konkret har ett visst &aring;rs pensionsutbetalning i ett system med &ouml;verskottsutdelning j&auml;mf&ouml;rts med vad utbetalningen skulle blivit i ett system utan regel f&ouml;r &ouml;verskottsutdelning. F&ouml;r de b&aring;da fallen g&auml;ller samma slumpm&auml;ssiga f&ouml;rlopp vad avser buffertfondens avkastning och syssels&auml;ttningens utveckling. Trots att det slumpm&auml;ssigt betingade h&auml;ndelsef&ouml;rloppet &auml;r identiskt i de tv&aring; j&auml;mf&ouml;relsefallen, kommer f&ouml;rekomsten av utdelningsm&ouml;jlighet i den ena simuleringen medf&ouml;ra olika modellresultat. F&ouml;rdelningssystemets finansiella utveckling under framskrivningsperioden kan, genom utdelning i det ena fallet, komma att skilja sig &aring;t i de tv&aring; parallella f&ouml;rloppen.
+  </p>
+  <p>
+   F&ouml;r varje enskilt &aring;r j&auml;mf&ouml;rs pensionsutbetalningen mellan de tv&aring; systemen. F&ouml;r ett simulerat 75-&aring;rsf&ouml;rlopp g&ouml;rs s&aring;ledes 75 stycken j&auml;mf&ouml;relser. Innan en f&ouml;rsta &ouml;verskottsutdelning intr&auml;ffat under framskrivningen av ett f&ouml;rlopp, kommer de &aring;rliga pensionsutbetalningarna inte att skilja sig &aring;t. S&aring; fort en f&ouml;rsta &ouml;verskottsutdelning intr&auml;ffar, kommer &aring;rliga avvikelser i utbetalningssumman mellan de tv&aring; parallella f&ouml;rloppen att uppst&aring;. Skillnaden best&aring;r dels i positiva avvikelser genom &ouml;verskottsutdelningar d&auml;r utdelningen medf&ouml;r att kommande &aring;rs utbetalningar ocks&aring; blir h&ouml;gre, dels i negativa avvikelser genom att f&ouml;reg&aring;ende utdelningar minskat bufferten s&aring; att ytterligare eller kraftigare underskottsbalanseringar blir n&ouml;dv&auml;ndiga l&auml;ngre fram. Perioder av &aring;teranpassning efter en underskottsbalansering d&aring; balansindex till&auml;mpas, kan komma att vara l&auml;ngre i systemet med utdelningsregel om systemets tillg&aring;ngar tidigare reducerats genom utdelning. 6.2.2 Tre alternativa balanstalsgr&auml;nser f&ouml;r &ouml;verskottsutdelning
+  </p>
+  <p>
+   F&ouml;r att redovisa hur &ouml;verskottsutdelning p&aring;verkar de &aring;rliga utbetalningarna av pension fr&aring;n f&ouml;rdelningssystemet har tre olika balanstalsgr&auml;nser f&ouml;r utdelning simulerats &ndash; 1,05, 1,10 och 1,15 &ndash; med de antaganden om syssels&auml;ttning och avkastning som f&ouml;ruts&auml;tts i utredningens basscenario.
+  </p>
+  <p>
+   Balanstalsgr&auml;ns f&ouml;r utdelning om 1,05
+  </p>
+  <p>
+   Diagram 6.8 sammanfattar resultat av 500 simulerade 75-&aring;rsf&ouml;rlopp som visar hur de &aring;rliga pensionsutbetalningarna blir annorlunda till f&ouml;ljd av best&auml;mmelser om &ouml;verskottsutdelning. F&ouml;r varje &aring;r har effekten av regeln 1,05 p&aring; pensionsutbetalningarna j&auml;mf&ouml;rts med om ingen regel f&ouml;rekommit i systemet. Den v&aring;gr&auml;ta axeln visar hur mycket st&ouml;rre eller mindre procentuellt sett utbetalningarna &auml;r om &ouml;verskottsutdelning f&ouml;rekommer. Den lodr&auml;ta axeln anger hur procentuellt stor andel av &aring;ren i de 500 75-&aring;rsf&ouml;rloppen som hamnat i respektive intervall. Summan av andelarna &auml;r hundra.
+  </p>
+  <p>
+   Diagram 6.8. Procentuell skillnad i &aring;rliga pensionsutbetalningar mellan utdelningsgr&auml;ns 1,05 och ett system utan utdelning
+  </p>
+  <p>
+   Procentuell andel &aring;r i respektive intervall, basscenario.
+  </p>
+  <p>
+   Som framg&aring;r av diagram 6.8 leder inf&ouml;rande av en regel om &ouml;verskottsutdelning i flertalet simulerade &aring;r till att utbetalningarna blir h&ouml;gre. Den &aring;rliga utbetalningen &auml;r i genomsnitt 2,5 procent h&ouml;gre i systemet med &ouml;verskottsutdelning. F&ouml;r drygt 65 procent av &aring;ren medf&ouml;r utdelningsregeln 1,05 en f&ouml;rst&auml;rkt pension f&ouml;r pension&auml;rerna j&auml;mf&ouml;rt med ett system utan regler f&ouml;r &ouml;verskottsutdelning. De &aring;rliga pensionsutbetalningarna &auml;r i 3 procent av fallen mer &auml;n 10 procent h&ouml;gre. Som framg&aring;r av diagrammet &auml;r f&ouml;rdelningen av positiva och negativa skillnader skev &ndash; det finns fler &aring;r d&auml;r utbytet av regeln om utdelning ger ett h&ouml;gre utfall &auml;n &aring;r med ett l&auml;gre utfall.
+  </p>
+  <p>
+   I drygt 20 procent av de &aring;rliga observationerna leder inte utdelningsbest&auml;mmelsen till n&aring;gon skillnad mellan de tv&aring; systemens pensionsutbetalning. Anledningen till samma &aring;rsvisa utbetalning i de tv&aring; parallella f&ouml;rloppen &auml;r att balanstalet vid det observerade &aring;ret &auml;nnu inte hade &ouml;verstigit gr&auml;nsen 1,05.
+  </p>
+  <p>
+   I drygt 10 procent av &aring;ren blir pensionsutbetalningarna l&auml;gre i systemet med utdelningsregler. Det &auml;r f&ouml;ljden av att en f&ouml;rsta utdelning reducerat buffertfonden i s&aring;dan omfattning att den minskade konsolideringen samt den uteblivna avkastningen p&aring; de utdelade medlen senare i f&ouml;rloppet medf&ouml;rt kraftigare underskottsbalanseringar. Priset f&ouml;r ett regelverk med &ouml;verskottsutdelning &auml;r s&aring;ledes en risk f&ouml;r att pensionsutbetalningarna s&auml;nks kraftigare, eller p&aring; ett tidigare stadium, d&aring; systemet uts&auml;tts f&ouml;r finansiella p&aring;frestningar efter det att en utdelning skett. De som d&aring; uppb&auml;r pension drabbas av att systemet tidigare utdelat &ouml;verskott.
+  </p>
+  <p>
+   Diagrammet ger inte information om hur pensionsutbetalningarna varierar &ouml;ver tiden i respektive simulering, endast vad den sammanlagda effekten under de 500 stycken 75-&aring;rsperioderna blir vad g&auml;ller de &aring;rliga pensionsutbetalningarna.
+  </p>
+  <p>
+   Balanstalsgr&auml;ns f&ouml;r utdelning om 1,10
+  </p>
+  <p>
+   Diagram 6.9. Procentuell skillnad i &aring;rliga pensionsutbetalningar mellan utdelningsgr&auml;ns 1,10 och ett system utan utdelning
+  </p>
+  <p>
+   Procentuell andel &aring;r i respektive intervall, basscenario.
+  </p>
+  <p>
+   Med en balanstalsgr&auml;ns f&ouml;r utdelning om 1,10 &auml;r skillnader i det &aring;rliga pensionsutfallet inte lika f&ouml;rekommande. I de fall de uppst&aring;r &auml;r skillnaderna mindre j&auml;mf&ouml;rt med diagram 6.8. I n&auml;stan 40 procent av &aring;ren blir pensionsutbetalningarna desamma som utan best&auml;mmelser om &ouml;verskottsutdelning. I sammanlagt 5 procent av &aring;ren &auml;r utbetalningarna l&auml;gre genom regeln 1,10, dvs. en halvering j&auml;mf&ouml;rt med regeln 1,05. Liksom i diagram 6.8 &ouml;verstiger andelen &aring;r d&auml;r pensionsutbetalningarna blir h&ouml;gre genom utdelning den sammanlagda andel &aring;r som utbetalningarna blir l&auml;gre. I totalt 55 procent av de simulerade &aring;ren har regeln 1,10 medf&ouml;rt att pensionsutbetalningarna h&ouml;jts. &Ouml;vervikten av andelen &aring;r med h&ouml;jd pensionsutbetalning har att g&ouml;ra med att en avvikelse i utbetalning mellan de tv&aring; systemen under en simulerad tidsperiod inte kan uppst&aring; f&ouml;rr&auml;n ett &ouml;verskott, och d&auml;rmed utdelning, skett. Om inte en negativ finansiell utveckling f&ouml;ljer, kommer utbetalningen att vara f&ouml;rh&ouml;jd f&ouml;r varje &aring;r i det simulerade f&ouml;rloppet efter det att utdelning skett.
+  </p>
+  <p>
+   Den genomsnittliga &ouml;kningen av den &aring;rliga pensionsutbetalningen i ett system med &ouml;verskottsregel om 1,10 j&auml;mf&ouml;rt med ett system utan utdelning &auml;r cirka 2 procent.
+  </p>
+  <p>
+   Balanstalsgr&auml;ns f&ouml;r utdelning om 1,15
+  </p>
+  <p>
+   Diagram 6.10. Procentuell skillnad i &aring;rliga pensionsutbetalningar mellan utdelningsgr&auml;ns 1,15 och ett system utan utdelning
+  </p>
+  <p>
+   Procentuell andel &aring;r i respektive intervall, basscenario.
+  </p>
+  <p>
+   En gr&auml;ns om 1,15 inneb&auml;r att systemet mer s&auml;llan kan ber&auml;knas &ouml;ka utbetalningarna till de f&ouml;rs&auml;krade. I 65 procent av &aring;ren f&ouml;religger ingen skillnad i storleken p&aring; utbetalningar &ndash; systemet har inte ackumulerat s&aring;dana &ouml;verskott att balanstalet &ouml;verstiger den valda gr&auml;nsen om 1,15. En tredjedel av de &aring;rliga utbetalningarna har f&ouml;rh&ouml;jts genom &ouml;verskottsbest&auml;mmelser. Cirka 2 procent av &aring;ren uppvisar en l&auml;gre utbetalningsniv&aring; i systemet med en utdelningsregel. Utvecklingen i dessa f&ouml;rlopp f&ouml;r ett system med utdelning har varit dramatisk. Efter det att balanstalet har stigit till en niv&aring; &ouml;ver 1,15 har systemets finansiella st&auml;llning f&ouml;rsvagats och f&ouml;ranlett en automatisk balansering.
+  </p>
+  <p>
+   Sett till samtliga &aring;r &auml;r pensionsutbetalningen i genomsnitt 1 procent h&ouml;gre i systemet med &ouml;verskottsutdelning med regeln 1,15 j&auml;mf&ouml;rt med ett system utan &ouml;verskottsutdelning.
+  </p>
+  <p>
+   I detta avsnitt redovisas hur balanstalsgr&auml;nser mellan 1,00 och 1,20 p&aring;verkar utbetalningarna av pension fr&aring;n systemet j&auml;mf&ouml;rt med ett system d&auml;r &ouml;verskott inte delas ut. Framskrivningar har gjorts dels med de antaganden om syssels&auml;ttning och kapitalavkastning som utg&ouml;r utredningens basscenario, dels med antagandena i de tv&aring; alternativa scenarierna.
+  </p>
+  <p>
+   Basscenariot
+  </p>
+  <p>
+   I diagram 6.11 sammanfattas olika utdelningsreglers effekt p&aring; de &aring;rsvisa pensionsutbetalningarna givet basscenariots f&ouml;ruts&auml;ttningar. Varje regelalternativ har simulerats i 500 stycken 75-&aring;rsperioder. F&ouml;r varje simulering har ett parallellt f&ouml;rlopp med ett system utan utdelning j&auml;mf&ouml;rts i termer av utbetalad pensionssumma f&ouml;r varje &aring;r.
+  </p>
+  <p>
+   Diagram 6.11. Procentuell skillnad i &aring;rlig pensionsutbetalning mellan system med &ouml;verskottsutdelning och system utan utdelning, balanstalsgr&auml;ns f&ouml;r utdelning 1,00&ndash;1,20
+  </p>
+  <p>
+   Genomsnittlig &aring;rlig skillnad i procent, percentil 5 och 95, basscenario. -5
+  </p>
+  <p>
+   Tre v&auml;rden f&ouml;r varje balanstalsgr&auml;ns f&ouml;r utdelning &auml;r redovisade i diagrammet &ndash; medelv&auml;rdet, percentil 5 och percentil 95.
+  </p>
+  <p>
+   Medelv&auml;rdet motsvarar den genomsnittliga procentuella skillnaden i &aring;rlig pensionsutbetalning mellan ett system med &ouml;verskottsutdelning och ett utan. Ett annat s&auml;tt att beskriva medelv&auml;rdet &auml;r att det motsvarar hur mycket mer procentuellt sett f&ouml;rdelningssystemet betalar ut p&aring; grund av regeln f&ouml;r &ouml;verskottsutdelning under de simulerade f&ouml;rloppen &auml;n om en s&aring;dan utdelningsm&ouml;jlighet inte finns.
+  </p>
+  <p>
+   Percentil 5 anger skillnaden i utbetalning mellan systemet med &ouml;verskottsutdelning och det utan &ouml;verskottsutdelning f&ouml;r ett visst &aring;r i en enskild simulering. I 5 procent av samtliga unders&ouml;kta &aring;r har utfallet blivit l&auml;gre &auml;n detta v&auml;rde. P&aring; motsvarande s&auml;tt visar percentil 95 resultatet f&ouml;r den &aring;rliga procentuella skillnaden d&auml;r 5 procent av &aring;ren uppvisat ett h&ouml;gre utfall. I statistiska sammanhang &auml;r det mer vanligt att medianen (percentil 50) redovisas i samband med percentil 5 och 95. Denna &auml;r dock noll i flertalet regelalternativ, eftersom utdelningsregeln inte medf&ouml;r n&aring;gon skillnad i pensionsutbetalningarna f&ouml;r den mittersta observationen (&aring;ret). D&auml;rf&ouml;r har h&auml;r i st&auml;llet det aritmetiska medelv&auml;rdet valts.
+  </p>
+  <p>
+   I basscenariot g&auml;ller genomg&aring;ende att inf&ouml;rande av en utdelningsregel genomsnittligt inneb&auml;r h&ouml;jda &aring;rsvisa pensionsutbetalningar i ett 75-&aring;rsperspektiv. Detta &auml;r fallet oavsett vilken balanstalsgr&auml;ns som reglerar det utdelningsbara &ouml;verskottet. Ju l&auml;gre balanstalsgr&auml;ns, desto h&ouml;gre blir genomsnitts&ouml;kningen av utbetalade pensioner.
+  </p>
+  <p>
+   En anledning till de l&auml;gre balanstalsgr&auml;nsernas h&ouml;gre genomsnittsutfall &auml;r att systemet snabbare f&ouml;rdelar ut &ouml;verskott. Detta betyder ocks&aring; att systemet har en l&auml;gre s&auml;kerhetsmarginal vid simuleringsperiodens slut. Av detta f&ouml;ljer att en direkt j&auml;mf&ouml;relse mellan exempelvis balanstalsgr&auml;ns f&ouml;r utdelning 1,05 och 1,10 inte &auml;r r&auml;ttvisande. En nackdel med den effektindikator som redovisas h&auml;r &auml;r allts&aring; att l&aring;ga utdelningsregler framst&aring;r som f&ouml;rdelaktiga p&aring; grund av h&ouml;gre genomsnittsutbetalning.
+  </p>
+  <p>
+   Av j&auml;mf&ouml;relsen mellan de olika balanstalsgr&auml;nserna f&ouml;r utdelning framg&aring;r ocks&aring; att ju l&auml;gre utdelningsgr&auml;nsen &auml;r, desto fler blir &aring;ren med l&auml;gre utbetalningar &auml;n i ett system utan utdelningsm&ouml;jlighet. Den femte percentilen understiger noll i intervallet fr&aring;n 1,00 till 1,09. Med en balanstalsgr&auml;ns om 1,09 medf&ouml;rde allts&aring; f&ouml;rekomsten av en utdelningsregel att systemet i fem procent av &aring;ren betalade ut l&auml;gre pensioner &auml;n vad som annars skulle ha varit fallet. Med en balanstalsgr&auml;ns om 1,10 hamnar 90 procent av de &aring;rliga observationerna i ett spann som omfattar 0&ndash;7 procent h&ouml;gre utbetalning j&auml;mf&ouml;rt med om systemet inte utdelat &ouml;verskott.
+  </p>
+  <p>
+   Scenario med l&auml;gre aktieavkastning
+  </p>
+  <p>
+   I avsnitt 6.2.2 ovan redovisades hur m&ouml;jligheten till utdelning i systemet p&aring;verkar de &aring;rliga pensionsutbetalningarna med en viss balanstalsregel givet de antaganden om syssels&auml;ttning och avkastning som g&ouml;rs i utredningens basscenario. I diagram 6.12 visas hur skillnaden mellan ett system med en utdelningsregel om 1,10 och ett system utan utdelning ter sig i det alternativa scenariot med l&auml;gre aktieavkastning.
+  </p>
+  <p>
+   Diagram 6.12. Procentuell skillnad i &aring;rliga pensionsutbetalningar mellan utdelningsgr&auml;ns 1,10 och ett system utan utdelning
+  </p>
+  <p>
+   Procentuell andel &aring;r i respektive intervall, scenario med l&auml;gre aktieavkastning.
+  </p>
+  <p>
+   Diagram 6.12 visar simuleringsutfallet av de &aring;rliga pensionsutbetalningarna med ett system med en balanstalsgr&auml;ns f&ouml;r utdelning om 1,10 j&auml;mf&ouml;rt om ingen utdelningsbest&auml;mmelse f&ouml;rekommit. Den v&aring;gr&auml;ta axeln anger den procentuella skillnaden mellan de tv&aring; fallen. Den lodr&auml;ta axeln anger andel &aring;r med respektive skillnad.
+  </p>
+  <p>
+   J&auml;mf&ouml;rt med diagram 6.9 som visade basscenariot med samma balanstalsgr&auml;ns &auml;r andelen &aring;r med of&ouml;r&auml;ndrad &aring;rsutbetalning klart st&ouml;rre, 71 procent. &Ouml;verskott byggs inte upp lika ofta j&auml;mf&ouml;rt med basscenariot. En annan skillnad &auml;r att det finns fler &aring;r av l&auml;gre pensionsutbetalningar i systemet med &ouml;verskottsutdelning. I diagram 6.12 &auml;r andelen 12 procent. I resterande 17 procent &auml;r de &aring;rliga utbetalningarna h&ouml;gre. Buffertfondens l&auml;gre aktieavkastning &ouml;kar risken f&ouml;r negativa f&ouml;rlopp efter det att utdelning skett. Den genomsnittliga &ouml;kningen av &aring;rlig pensionsutbetalning p&aring; grund av utdelningregeln 1,10 &auml;r 0,25 procent i diagram 6.12, vilket kan j&auml;mf&ouml;ras med basscenariots 2 procent.
+  </p>
+  <p>
+   I diagram 6.13 sammanfattas olika utdelningsreglers effekt p&aring; de &aring;rsvisa pensionsutbetalningarna givet scenariot med l&auml;gre aktieavkastning. &Auml;ven h&auml;r har varje regelalternativ simulerats i 500 75&aring;rsperioder. F&ouml;r varje simulering har ett parallellt f&ouml;rlopp med ett f&ouml;rdelningssystem utan utdelningsmekanism j&auml;mf&ouml;rts i termer av utbetalad pensionssumma f&ouml;r varje &aring;r.
+  </p>
+  <p>
+   Diagram 6.13. Procentuell skillnad i &aring;rlig pensionsutbetalning mellan system med &ouml;verskottsutdelning och system utan utdelning, balanstalsgr&auml;ns f&ouml;r utdelning 1,00&ndash;1,20
+  </p>
+  <p>
+   Genomsnittlig &aring;rlig skillnad i procent, percentil 5 och 95. Scenario med l&auml;gre aktieavkastning. -5
+  </p>
+  <p>
+   P&aring; grund av den l&auml;gre avkastningen i buffertfonden erh&aring;lls inte en lika h&ouml;g genomsnittlig &ouml;kning av pensionsutbetalningarna till f&ouml;ljd av utdelningsm&ouml;jligheten som i basscenariot. &Auml;ven frekvensen av negativa utfall p&aring; &aring;rsvisa utbetalningar &auml;r h&ouml;gre j&auml;mf&ouml;rt med basscenariot. Vid utdelningsgr&auml;ns om 1,14 och h&ouml;gre uppkommer i princip inga skillnader i utbetalning mellan ett system med &ouml;verskottsutdelning och ett utan. Fortfarande g&auml;ller, liksom i diagram 6.11, att utdelning av &ouml;verskott genomsnittligt sett inte har en negativ p&aring;verkan p&aring; pensionsutbetalningarna. F&ouml;r balanstalsgr&auml;ns 1,13 och l&auml;gre finns i genomsnitt en positiv inverkan p&aring; utbetalningarna till f&ouml;ljd av inf&ouml;rande av regler f&ouml;r &ouml;verskottsutdelning.
+  </p>
+  <p>
+   Den l&auml;gsta regel d&auml;r percentil 5 &ouml;verstiger ett negativt v&auml;rde &auml;r regeln 1,13. I simuleringarna av den p&aring;verkan utdelningsbest&auml;mmelser med en balanstalsgr&auml;ns om 1,10 skulle ge upphov till p&aring; de &aring;rliga pensionsutbetalningarna, hamnar 90 procent av dessa i spannet &ndash;1 till +2 procents skillnad. Som framgick av diagram 6.12 var de &aring;rliga pensionsutbetalningarna genom inf&ouml;randet av utdelningsregeln 1,10 op&aring;verkade i drygt 70 procent av samtliga simulerade &aring;r.
+  </p>
+  <p>
+   Scenario med l&auml;gre syssels&auml;ttningsvariation
+  </p>
+  <p>
+   En f&ouml;r avgiftsunderlaget viktig variabel &auml;r antalet sysselsatta. Nedan presenteras simuleringsresultat f&ouml;r alternativscenariot d&auml;r syssels&auml;ttningens slumpm&auml;ssiga avvikelser halverats j&auml;mf&ouml;rt med basscenariot.
+  </p>
+  <p>
+   Diagram 6.14. Procentuell skillnad i &aring;rlig pensionsutbetalning mellan system med &ouml;verskottsutdelning och system utan utdelning, balanstalsgr&auml;ns f&ouml;r utdelning 1,00&ndash;1,20
+  </p>
+  <p>
+   Genomsnittlig &aring;rlig skillnad i procent, percentil 5 och 95. Scenario med l&auml;gre syssels&auml;ttningsvariation. -5
+  </p>
+  <p>
+   J&auml;mf&ouml;rs det alternativa scenariots resultat i diagram 6.14 f&ouml;r respektive regel med basscenariots (diagram 6.11) &auml;r den huvudsakliga skillnaden att spridningen minskat n&aring;got &ndash; inf&ouml;rande av best&auml;mmelser om utdelning har en l&auml;gre p&aring;verkan p&aring; de &aring;rliga pensionsutbetalningarna. D&aring; syssels&auml;ttningens variation halverats, inneb&auml;r detta en l&auml;gre sannolikhet f&ouml;r att avgiftsint&auml;kterna skall f&ouml;r&auml;ndras kraftigt &ouml;ver tiden i simuleringarna. Den l&auml;gre variationen medf&ouml;r d&auml;rigenom en f&ouml;rv&auml;ntat stabilare utveckling av systemets finansiella status. B&aring;de riskerna f&ouml;r underskott och m&ouml;jligheterna till &ouml;verskott reduceras s&aring;ledes j&auml;mf&ouml;rt med basscenariot. Sannolikheten att en utdelning skall ske i en simulering med en given utdelningsregel minskar i j&auml;mf&ouml;relse med basscenariot.
+  </p>
+  <p>
+   Liksom i basscenariot medf&ouml;r samtliga balanstalsgr&auml;nser fr&aring;n 1,00 till 1,20 att utbetalningen i genomsnitt blir h&ouml;gre &auml;n om ingen &ouml;verskottsutdelning sker. Den l&auml;gsta regel d&auml;r percentil 5 &ouml;verstiger ett negativt v&auml;rde &auml;r balanstalsgr&auml;nsen f&ouml;r utdelning om 1,09. I simuleringarna av balanstalsgr&auml;ns 1,10 hamnar 90 procent av de &aring;rliga observationerna i spannet 0 till +7 procents skillnad i pensionsutbetalningarna j&auml;mf&ouml;rt med om systemet inte utdelat &ouml;verskott. I 41 procent av &aring;ren &auml;r pensionsniv&aring;n of&ouml;r&auml;ndrad i ett system med balanstalsgr&auml;nsen 1,10. 6.2.4 Balanstalsgr&auml;ns med beaktande av f&ouml;r&auml;ndrade pensionsutbetalningar
+  </p>
+  <p>
+   Analysen av &aring;rsvisa f&ouml;r&auml;ndringar i pensionsutbetalning till f&ouml;ljd av &ouml;verskottsutdelning &aring;sk&aring;dligg&ouml;r det positiva utbytet av en utdelningsregel &ndash; den f&ouml;rv&auml;ntade pensionsniv&aring;n f&ouml;rh&ouml;js d&aring; regler om &ouml;verskottsutdelning inf&ouml;rs. Men &ouml;verskottsutdelning riskerar ocks&aring; negativa f&ouml;ljder n&auml;r &rdquo;priset&rdquo; f&ouml;r en f&ouml;reg&aring;ende &ouml;verskottsutdelning skall betalas. Utdelning av &ouml;verskott kan vid en senare tidpunkt f&ouml;ra med sig att enskilda &aring;rs pensionsutbetalningar blir l&auml;gre genom att underskottsbalansering blir n&ouml;dv&auml;ndig &ndash; antingen p&aring; ett tidigare stadium eller med kraftigare effekt. Likas&aring; &ouml;kar risken f&ouml;r mer varaktiga perioder med balansindex. F&ouml;rdelning av &ouml;verskott inneb&auml;r p&aring; s&aring; vis en &ouml;kad risk f&ouml;r att framtida pension&auml;rer skall f&aring; en l&auml;gre pensionsutbetalning somliga &aring;r.
+  </p>
+  <p>
+   Det &auml;r osannolikt att alla f&ouml;rs&auml;krade p&aring;verkas lika mycket av de f&ouml;r&auml;ndringar &ndash; &aring;r med utdelning, &aring;r med extra underskottsbalansering &ndash; som inf&ouml;rande av en utdelningsregel medf&ouml;r. D&aring; detta inneb&auml;r en omf&ouml;rdelning inom pensionssystemets f&ouml;rs&auml;krade, kan en illa utformad mekanism f&ouml;r &ouml;verskottsutdelning inneb&auml;ra en f&ouml;rs&auml;mring av r&auml;ttvisan i systemet. Det &auml;r d&auml;rf&ouml;r n&ouml;dv&auml;ndigt att genom utdelningsregelns utformning begr&auml;nsa antalet &aring;r d&auml;r utbetalningarna ber&auml;knas bli l&auml;gre &auml;n vad de skulle ha varit utan regelns f&ouml;rekomst. Utredningen bed&ouml;mer att en maximal frekvens om 5 procent av s&aring;dana &aring;r &auml;r accepterbar. Av tabell 6.3 framg&aring;r den balanstalsgr&auml;ns f&ouml;r utdelning som uppfyller detta kriterium utifr&aring;n framskrivningarna i UT&Ouml;-modellens tre scenarier.
+  </p>
+  <p>
+   En viktig utg&aring;ngspunkt f&ouml;r valet av balanstalsgr&auml;ns f&ouml;r utdelning &auml;r att andelen &aring;r med balanstal understigande 1,00 inte skall &ouml;kas i v&auml;sentlig grad. Detta utv&auml;rderades i avsnitt 6.1. Analysen av systemets f&ouml;r&auml;ndrade &aring;rliga pensionsutbetalningar p&aring; grund av regler om utdelning kompletterar det f&ouml;rsta angreppss&auml;ttet genom att illustrera omfattningen och tidsaspekten av f&ouml;rdjupade underskottsbalanseringar. D&auml;rf&ouml;r b&ouml;r &auml;ven de effekter som sammanfattas i tabell 6.3 v&auml;gas in. Simuleringarna i UT&Ouml;-modellen indikerar att om aktieavkastningen i genomsnitt &auml;r n&aring;got l&auml;gre &auml;n basscenariots, uppfyller ingen balanstalsgr&auml;ns l&auml;gre &auml;n 1,13 villkoret om maximalt 5 procent av &aring;r d&auml;r pensionsutbetalningarna blir l&auml;gre genom regelns inf&ouml;rande. I de andra tv&aring; scenarierna &auml;r det &ouml;verskottsutdelning med balanstalsgr&auml;nserna 1,10 respektive 1,09 som uppfyller det ovan angivna kriteriet.
+  </p>
+  <p>
+   Eftersom ingen simuleringsmodell kan f&aring;nga in hela den komplexitet som framtiden inneb&auml;r f&ouml;r pensionssystemet, finns det sk&auml;l att inte &ouml;vertolka resultaten. Likv&auml;l visar simuleringarna att beroende p&aring; framtida f&ouml;rlopp kan inf&ouml;randet av en utdelningsregel om 1,10 medf&ouml;ra att de &aring;rliga pensionsutbetalningarna kan bli l&auml;gre i ett antal &aring;r under en kommande 75-&aring;rsperiod, &auml;ven om antalet &aring;r d&auml;r pensionsutbetalningarna blir h&ouml;gre genom &ouml;verskottsutdelning skulle bli betydligt fler.
+  </p>
+  <p>
+   Omfattningen av de positiva och negativa konsekvenser som &ouml;verskottsutdelning medf&ouml;r kan inte fastst&auml;llas exakt. Som diskuterats i avsnitt 6.1 &auml;r det ol&auml;mpligt att dra alltf&ouml;r preciserade slutsatser utifr&aring;n modellresultaten. Utredningen bed&ouml;mer likv&auml;l att simuleringsresultaten utg&ouml;r en god v&auml;gledning i valet av balanstalsgr&auml;ns f&ouml;r utdelning p&aring; s&aring; s&auml;tt att bredare intervall av s&aring;dana balanstalsgr&auml;nser kan j&auml;mf&ouml;ras.
+  </p>
+  <p>
+   D&aring; effekter av en enligt utredningen alltf&ouml;r l&aring;g balanstalsgr&auml;ns unders&ouml;ks, exempelvis 1,05, indikerar UT&Ouml;-modellen att andelen &aring;r med s&auml;nkta utbetalningar blir otillfredst&auml;llande h&ouml;g. I basscenariot medf&ouml;rde best&auml;mmelser om en s&aring;dan balanstalsgr&auml;ns att pensionsutbetalningarna kunde bli l&auml;gre i drygt 10 procent av &aring;ren (diagram 6.8). Omfattningen av dessa f&ouml;rs&auml;mringar blir kraftigare ju l&auml;gre balanstalsgr&auml;ns som unders&ouml;kts. F&ouml;r att uppn&aring; en acceptabelt l&aring;g risk &auml;r det utredningens st&aring;ndpunkt att utdelning enbart b&ouml;r ske d&aring; systemets tillg&aring;ngar &ouml;verstiger skulderna med minst 10 procent. F&ouml;r att &aring;stadkomma att systemet skall klara perioder av finansiell belastning efter det att utdelning skett, g&ouml;r d&auml;rf&ouml;r utredningen bed&ouml;mningen att en balanstalsgr&auml;ns f&ouml;r utdelning om minst 1,10 &auml;r n&ouml;dv&auml;ndig. 6.3 Olika utfall f&ouml;r &aring;rskullar
+  </p>
+  <p>
+   F&ouml;rdelningssystemets tillg&aring;ngar i f&ouml;rh&aring;llande till pensionsskulden vid utg&aring;ngen av &aring;r 2003 har ber&auml;knats till 1,0097. &Ouml;verskottet &auml;r s&aring;ledes f&ouml;r n&auml;rvarande mycket litet. Det kommer att kr&auml;vas en period av konsolidering f&ouml;r att utdelningsbara &ouml;verskott s&aring; sm&aring;ningom skall kunna bildas. Hur l&auml;nge det kan dr&ouml;ja beror dels p&aring; de styrande samh&auml;llsekonomiska och demografiska faktorerna, dels p&aring; den balanstalsgr&auml;ns som reglerar en utdelning. Om balanstalsgr&auml;nsen s&auml;tts relativt h&ouml;gt, blir sannolikheten l&aring;g f&ouml;r att dagens pension&auml;rer skall f&aring; uppleva en &ouml;verskottsutdelning som f&ouml;rh&ouml;jer pensionen.
+  </p>
+  <p>
+   I avsnitt 6.2 redovisades hur &ouml;verskottsutdelning p&aring;verkar hur mycket mer systemet kan f&ouml;rv&auml;ntas betala ut i pension enstaka &aring;r och hur stor sannolikheten &auml;r f&ouml;r att pensionsutbetalningen andra &aring;r blir l&auml;gre &auml;n vad den skulle ha varit utan regel. I det sammanhanget beaktades inte eventualiteten av att utfallet av en regel om &ouml;verskottsutdelning kan bli olika f&ouml;r individer i olika &aring;rskullar.
+  </p>
+  <p>
+   F&ouml;r att analysera effekter p&aring; individniv&aring; beh&ouml;vs ett m&aring;tt p&aring; livspensionen, dvs. den sammanlagda pensionsutbetalningen under individens tid som pension&auml;r. I UT&Ouml;-modellen antas varje person i en &aring;rskull ha lika stor pensionsbeh&aring;llning Genom att unders&ouml;ka hur livspensionen f&ouml;r olika &aring;rskullar p&aring;verkas av en utdelningsmekanism, visas att &ouml;verskottsutdelning kan ge olika utfall f&ouml;r olika &aring;rskullar beroende p&aring; den valda balanstalsgr&auml;nsen. 6.3.1 Effekter i termer av livspensionen f&ouml;r en &aring;rskull
+  </p>
+  <p>
+   F&ouml;r att skapa en indikator som visar &ouml;verskottsutdelningens effekt p&aring; livspensionen f&ouml;r en &aring;rskull, har pensionssystemet i UT&Ouml;modellen skrivits fram under den sammanlagda tid som en viss &aring;rskull kommer att intj&auml;na och uppb&auml;ra pension i f&ouml;rdelningssystemet. Den livspension som en &aring;rskull f&aring;r i ett system med &ouml;verskottsutdelning j&auml;mf&ouml;rs den livspension som samma &aring;rskull skulle uppb&auml;ra med ett identiskt f&ouml;rlopp i ett system utan utdelningsmekanism. Mer konkret inneb&auml;r detta att f&ouml;r varje &aring;r under &aring;rskullens pensionstid j&auml;mf&ouml;rs skillnaden i pensionsniv&aring; med respektive utan regel f&ouml;r &ouml;verskottsutdelning. Viktningen av de &aring;rliga skillnaderna g&ouml;rs med den successivt avtagande &ouml;verlevnadssannolikheten inom &aring;rskullen. Ju &auml;ldre och d&auml;rmed numer&auml;rt mindre &aring;rskullen &auml;r ett visst &aring;r, desto mindre roll spelar det &aring;rets skillnad mellan de tv&aring; parallella f&ouml;rloppen. Stora avvikelser tidigt under pensionstiden &auml;r allts&aring; mer betydelsefulla &auml;n i slutet.
+  </p>
+  <p>
+   Den f&ouml;r&auml;ndrade livspensionen avspeglar hur mycket mer eller mindre en &aring;rskull f&aring;r ut i sammanlagd pension under sin livstid till f&ouml;ljd av en viss utdelningsbest&auml;mmelse. 6.3.2 Effekter p&aring; livspensionen f&ouml;r tre olika &aring;rskullar
+  </p>
+  <p>
+   I detta avsnitt redovisas utfall f&ouml;r tre &aring;rskullar, f&ouml;dda 1940, f&ouml;dda 1970 och f&ouml;dda 2000. Dessa har valts f&ouml;r att illustrera spridningen i utbyte av &ouml;verskottsutdelning mellan &aring;rskullar. Analysen f&aring;ngar inte den sammantagna storleksordningen av omf&ouml;rdelningseffekterna med n&aring;gon som helst exakthet, men den ger en kvalitativ bild av hur olika balanstalsregler f&ouml;r utdelning ter sig sett ur olika &aring;rskullars perspektiv.
+  </p>
+  <p>
+   &Aring;rskullen f&ouml;dda 1940
+  </p>
+  <p>
+   Diagram 6.15. F&ouml;r&auml;ndrad livspension f&ouml;dda 1940 till f&ouml;ljd av balanstalsgr&auml;ns f&ouml;r utdelning 1,00&ndash;1,20
+  </p>
+  <p>
+   F&ouml;r&auml;ndring i procent. Genomsnitt av 500 simuleringar, basscenario. -5
+  </p>
+  <p>
+   Diagram 6.15 visar att den f&ouml;rh&ouml;jda pensionsniv&aring; som &ouml;verskottsutdelningen kan f&ouml;rv&auml;ntas medf&ouml;ra f&ouml;r individer f&ouml;dda 1940 &auml;r som h&ouml;gst vid utdelning omedelbart d&aring; &ouml;verskott finns i systemet (balanstalsgr&auml;ns 1,00). Utbytet av &ouml;verskottsutdelning blir l&auml;gre ju h&ouml;gre balanstalsgr&auml;nsen f&ouml;r utdelning s&auml;tts. Anledningen &auml;r att ju h&ouml;gre balanstalsniv&aring; som avgr&auml;nsar utdelningsbara &ouml;verskott, desto l&auml;gre blir sannolikheten f&ouml;r att utdelning skall ske under &aring;rskullens livstid. Eftersom f&ouml;rh&ouml;jda pensioner under &aring;rskullens tidiga pensionstid v&auml;ger tungt i ber&auml;kningen, har &aring;rskullen ett intresse av en s&aring; l&aring;g utdelningsregel som m&ouml;jligt. Personer f&ouml;dda 1940 skulle f&ouml;redra en l&auml;gre balanstalsgr&auml;ns f&ouml;r utdelning eftersom denna i genomsnitt ger en h&ouml;gre livspension. Emellertid m&aring;ste de f&ouml;rs&auml;krade samtidigt acceptera mer variation i utbetalningens niv&aring;, eftersom en s&aring; l&aring;g regel inneb&auml;r en p&aring;tagligt f&ouml;rh&ouml;jd risk f&ouml;r &aring;terkommande underskottsbalanseringar (se avsnitt 6.1.3).
+  </p>
+  <p>
+   &Aring;rskullen f&ouml;dda 1970
+  </p>
+  <p>
+   Diagram 6.16. F&ouml;r&auml;ndrad livspension f&ouml;dda 1970 till f&ouml;ljd av balanstalsgr&auml;ns f&ouml;r utdelning 1,00&ndash;1,20
+  </p>
+  <p>
+   F&ouml;r&auml;ndring i procent. Genomsnitt av 500 simuleringar, basscenario. -5
+  </p>
+  <p>
+   F&ouml;r individerna i &aring;rskullen f&ouml;dda 1970 visar simuleringarna ett annorlunda m&ouml;nster. Den h&ouml;gsta f&ouml;rv&auml;ntade &ouml;kningen av livspensionen till f&ouml;ljd av &ouml;verskottsutdelning intr&auml;ffar med en balanstalsgr&auml;ns i intervallet 1,06&ndash;1,08. Vid l&auml;gre balanstalsniv&aring;er f&ouml;r utdelning kommer visserligen utdelning att ske oftare, men den j&auml;mf&ouml;relsevis l&auml;gre fondbuffert som systemet d&aring; kommer att f&ouml;rfoga &ouml;ver, ger en s&auml;mre m&ouml;jlighet till en h&ouml;gre framtida avkastning. F&ouml;r individerna i &aring;rskullen f&ouml;dda 1970 &rdquo;l&ouml;nar det sig att v&auml;nta&rdquo;, dvs. att f&ouml;rst l&aring;ta buffertfonden v&auml;xa till sig genom en lite l&auml;ngre period av f&ouml;rr&auml;ntning och d&auml;refter n&aring;got senare f&aring; del av denna genom en &ouml;verskottsutdelning.
+  </p>
+  <p>
+   Om balanstalsgr&auml;nsen f&ouml;r utdelning s&auml;tts h&ouml;gt, exempelvis 1,20, &auml;r sannolikheten att &aring;rskullen skall f&aring; ta del av en utdelning mycket l&aring;g. Av detta f&ouml;ljer att en s&aring; utformad utdelningsmekanism skulle ha en marginell p&aring;verkan p&aring; livspensionen.
+  </p>
+  <p>
+   &Aring;rskullen f&ouml;dda 2000
+  </p>
+  <p>
+   Diagram 6.17. F&ouml;r&auml;ndrad livspension f&ouml;dda 2000 till f&ouml;ljd av balanstalsgr&auml;ns f&ouml;r utdelning 1,00&ndash;1,20
+  </p>
+  <p>
+   F&ouml;r&auml;ndring i procent. Genomsnitt av 500 simuleringar, basscenario. -5
+  </p>
+  <p>
+   Eftersom samtliga individer i UT&Ouml;-modellen f&ouml;ruts&auml;tts ta ut pension vid 65 &aring;rs &aring;lder, kommer &aring;rskullen f&ouml;dda 2000 att b&ouml;rja uppb&auml;ra pension fr.o.m. 2065. De kommer allts&aring; i simuleringarna omfattas av en regel om &ouml;verskottsutdelning inte bara under sin pension&auml;rstid utan &auml;ven under hela sin intj&auml;nandetid. Enligt diagrammet maximeras det genomsnittliga utbytet av &ouml;verskottsutdelning f&ouml;r denna &aring;rskull vid en balanstalsgr&auml;ns i intervallet 1,13&ndash;1,15. Detta indikerar allts&aring; en h&ouml;gre gr&auml;ns j&auml;mf&ouml;rt med &aring;rskullen f&ouml;dda 1970 och en mycket h&ouml;gre gr&auml;ns j&auml;mf&ouml;rt med &aring;rskullen f&ouml;dda 1940.
+  </p>
+  <p>
+   I detta avsnitt redovisas hur olika balanstalsgr&auml;nser p&aring;verkar livspensionerna f&ouml;r de tre &aring;rskullarna f&ouml;dda 1940, 1970 och 2000 j&auml;mf&ouml;rt med ett system d&auml;r &ouml;verskott inte delas ut. Framskrivningar har gjorts dels med de antaganden om syssels&auml;ttning och kapitalavkastning som utg&ouml;r utredningens basscenario, dels med antagandena i de tv&aring; alternativa scenarierna.
+  </p>
+  <p>
+   Basscenariot
+  </p>
+  <p>
+   I diagram 6.18 &aring;terges effekterna f&ouml;r de tre &aring;rskullarna i ett gemensamt diagram.
+  </p>
+  <p>
+   Diagram 6.18. F&ouml;r&auml;ndrad livspension f&ouml;r tre &aring;rskullar till f&ouml;ljd av balanstalsgr&auml;ns f&ouml;r utdelning 1,00&ndash;1,20
+  </p>
+  <p>
+   F&ouml;r&auml;ndring i procent. Genomsnitt av 500 simuleringar, basscenario. -5
+  </p>
+  <p>
+   Med balanstalsgr&auml;nsen 1,10, som enligt utredningens f&ouml;reg&aring;ende &ouml;verv&auml;ganden &auml;r ett uttryck f&ouml;r en f&ouml;rsiktighetsprincip, blir det f&ouml;rv&auml;ntade utfallet av regeln f&ouml;r &aring;rskullarna beroende av hur n&auml;ra pensionen en enskild &aring;rskull befinner sig. Den minsta skillnaden &aring;rskullarna emellan i diagram 6.18 &auml;r i ett system med en balanstalsgr&auml;ns f&ouml;r utdelning om 1,06. &Ouml;verskottsutdelning med en s&aring; l&aring;g balanstalsgr&auml;ns uppfyller dock inte f&ouml;rsiktighetsvillkoret att systemets f&ouml;rm&aring;ga att uppr&auml;tth&aring;lla snittinkomstindexeringen skall vara god. Enligt utredningens resonemang i avsnitt 6.1.5 skulle andelen &aring;r med underskottsbalansering &ouml;ka i alltf&ouml;r stor omfattning.
+  </p>
+  <p>
+   Scenario med l&auml;gre aktieavkastning
+  </p>
+  <p>
+   I diagram 6.19 visas den f&ouml;r&auml;ndrade livspensionen f&ouml;r de tre &aring;rskullarna till f&ouml;ljd av olika utdelningsregler i det alternativa scenariot med l&auml;gre aktieavkastning.
+  </p>
+  <p>
+   Diagram 6.19. F&ouml;r&auml;ndrad livspension f&ouml;r tre &aring;rskullar till f&ouml;ljd av balanstalsgr&auml;ns f&ouml;r utdelning 1,00&ndash;1,20
+  </p>
+  <p>
+   F&ouml;r&auml;ndring i procent. Genomsnitt av 500 simuleringar, scenario med l&auml;gre aktieavkastning. -5 1940  1970  2000
+  </p>
+  <p>
+   Av diagram 6.19 framg&aring;r att de genomsnittliga effekterna p&aring; &aring;rskullarnas livspension blir andra &auml;n med basscenariots f&ouml;ruts&auml;ttningar. Fortfarande framtr&auml;der dock konflikter mellan &aring;rskullarna vad g&auml;ller den balanstalsgr&auml;ns som skulle f&ouml;redras. F&ouml;r 1940 &aring;rs &aring;rskull visar sig &auml;ven i det alternativa scenariet ett negativt samband mellan f&ouml;rh&ouml;jningen av livspensionen och den balanstalsgr&auml;ns som styr &ouml;verskottsutdelning. &Aring;rskullarna f&ouml;dda 1970 och 2000 uppvisar i stor sett ett gemensamt m&ouml;nster. En utdelningsregel som understiger 1,07, medf&ouml;r i genomsnitt att systemet underskottsbalanserar under &aring;rskullarnas pensionstid vilket inneb&auml;r s&auml;nkt livspension. Med en l&auml;gre avkastning p&aring; buffertfondens aktietillg&aring;ngar uppkommer inte utdelningsbara &ouml;verskott lika ofta som i basscenariot, varf&ouml;r skillnaden i pensionsniv&aring; mellan &aring;rskullarna sammantaget blir mindre f&ouml;r varje utdelningsregel.
+  </p>
+  <p>
+   Scenario med l&auml;gre syssels&auml;ttningsvariation
+  </p>
+  <p>
+   I diagram 6.20 redovisas de simuleringsresultat som erh&aring;llits i det andra alternativa scenariot, dvs. d&aring; syssels&auml;ttningens slumpm&auml;ssiga avvikelse har halverats j&auml;mf&ouml;rt med basscenariot.
+  </p>
+  <p>
+   Diagram 6.20. F&ouml;r&auml;ndrad livspension f&ouml;r tre &aring;rskullar till f&ouml;ljd av balanstalsgr&auml;ns f&ouml;r utdelning 1,00&ndash;1,20
+  </p>
+  <p>
+   F&ouml;r&auml;ndring i procent. Genomsnitt av 500 simuleringar, scenario med l&auml;gre syssels&auml;ttningsvariation. -5 1940  1970  2000
+  </p>
+  <p>
+   Med detta alternativa scenario blir fluktuationerna i systemets avgiftsinkomster mer begr&auml;nsade. Diagram 6.20 visar p&aring; liknande &aring;rskullsvisa preferenser vad g&auml;ller balanstalsgr&auml;nsens niv&aring; som diagram 6.18. Sker utdelning vid en h&ouml;g niv&aring; p&aring; balanstalet, kommer det att inneb&auml;ra en mellangenerationell omf&ouml;rdelning i bem&auml;rkelsen att f&ouml;r vissa &aring;rskullar kommer sannolikheten f&ouml;r att f&aring; ta del av utdelningsbara &ouml;verskott vara mycket l&aring;g. Andra &aring;rskullar kommer att b&ouml;rja intj&auml;na pensionsr&auml;tt i ett v&auml;lkonsoliderat system.
+  </p>
+  <p>
+   Sammanfattningsvis illustrerar avsnitt 6.3 den i sig uppenbara omst&auml;ndligheten att olika &aring;rskullars chanser att f&aring; del av &ouml;verskottsutdelning &auml;r beroende av vilken balanstalsgr&auml;ns som v&auml;ljs f&ouml;r att definiera ett utdelningsbart &ouml;verskott. Valet av balanstalsgr&auml;ns &auml;r inte neutralt i ett mellangenerationellt perspektiv. S&aring;ledes finns det ett pris i termer av viss or&auml;ttvisa mellan generationer n&auml;r f&ouml;rdelningssystemet f&ouml;rses med en mekanism som f&ouml;rhindrar att obegr&auml;nsade tillg&aring;ngar byggs upp inom det. 6.5 Sammanfattande &ouml;verv&auml;ganden
+  </p>
+  <p>
+   Eftersom inkomstpensionen skall avspegla individens val och inkomstm&ouml;nster &ouml;ver den f&ouml;rv&auml;rvsaktiva tiden, &auml;r det viktigt att spelreglerna inte &auml;ndras i efterhand, t.ex. till f&ouml;ljd av att ingrepp i pensionssystemet sker ad hoc. Den breda parlamentariska &ouml;verenskommelse som ligger till grund f&ouml;r &aring;lderspensionsreformen efterstr&auml;vade ett stabilt regelverk d&auml;r f&ouml;ruts&auml;ttningarna f&ouml;r intj&auml;nande och uttag av pension ligger fast. Pensions&ouml;verenskommelsen skapade f&ouml;ruts&auml;ttningar f&ouml;r ett best&auml;ndigt regelverk fram&ouml;ver och helt andra m&ouml;jligheter f&ouml;r l&aring;ngsiktighet &auml;n vad ATP-systemet medgav.
+  </p>
+  <p>
+   Regler om &ouml;verskottsutdelning tillf&ouml;r systemet ytterligare en egenskap av automatisk anpassning. Om det p&aring; f&ouml;rhand &auml;r best&auml;mt vad som skall ske med eventuella &ouml;verskott och hur de skall f&ouml;rdelas bland de f&ouml;rs&auml;krade reduceras i sig graden av of&ouml;ruts&auml;gbarhet. Den &aring;rskullsvisa analysen i avsnitt 6.3 ovan komplicerar dock ett st&auml;llningstagande till en regel, eftersom skillnader i utfall mellan &aring;rskullar inneb&auml;r mellangenerationella omf&ouml;rdelningar.
+  </p>
+  <p>
+   Som konstaterades inledningsvis i detta kapitel skall utg&aring;ngspunkten f&ouml;r val av balanstalsgr&auml;ns f&ouml;r utdelning vara att en s&aring;dan regel inte medf&ouml;r en mer &auml;n f&ouml;rsumbar extra risk f&ouml;r underskottsbalanseringar. Metoden f&ouml;r att fastst&auml;lla utdelningsbara &ouml;verskott f&aring;r allts&aring; inte inneb&auml;ra att systemets f&ouml;rm&aring;ga att utj&auml;mna avgiftsnettot &ouml;ver tid f&ouml;rs&auml;mras s&aring; mycket att avvikelser fr&aring;n snittinkomstindexeringen blir vanligt f&ouml;rekommande. Med denna f&ouml;rsiktighetsprincip som utg&aring;ngspunkt och med simuleringsresultaten som v&auml;gledning har utredningen kommit fram till att systemets tillg&aring;ngar vid en utdelning b&ouml;r &ouml;verstiga skulderna med minst 10 procent.
+  </p>
+  <p>
+   En naturlig fr&aring;ga blir d&aring; om balanstalsgr&auml;nsen f&ouml;r utdelning skall s&auml;ttas &auml;nnu h&ouml;gre. I s&aring; fall m&aring;ste kravet p&aring; en s&auml;kerhetsmarginal st&auml;llas mot de m&ouml;jligheter som en h&ouml;gre gr&auml;ns ger olika generationer att erh&aring;lla en h&ouml;gre f&ouml;rv&auml;ntad pension. En f&ouml;rsiktigt vald utdelningsregel, som uppfyller villkor f&ouml;r goda m&ouml;jligheter att finansiera systemets &aring;tagande utan att beh&ouml;va underskottsbalansera, inneb&auml;r att de &aring;rskullar som idag eller p&aring; kort sikt uppb&auml;r pension f&aring;r sm&aring; utsikter att ta del av ett utdelningsbart &ouml;verskott. Ju h&ouml;gre grad av f&ouml;rsiktighet som k&auml;nnetecknar best&auml;mmelsen n&auml;r &ouml;verskott skall utdelas, ju l&auml;gre blir dessutom sannolikheten att de utdelningsbara &ouml;verskotten f&ouml;rdelas lika mellan generationerna. P&aring; s&aring; vis kan kravet p&aring; en betydande s&auml;kerhetsbuffert vid utdelning komma i konflikt med kortsiktiga intressen &ndash; en h&ouml;g utdelningsregel inneb&auml;r att framtida generationer kan komma att f&ouml;das i en tid d&aring; f&ouml;rdelningssystemet &auml;r v&auml;lkonsoliderat utan att de som varit pension&auml;rer under uppbyggnadsperioden hunnit f&aring; ta del av de &ouml;verskott som bildats.
+  </p>
+  <p>
+   Med h&auml;nsyn tagen till den grad av mellangenerationell omf&ouml;rdelning som en alltf&ouml;r h&ouml;g utdelningsregel inneb&auml;r, samt till det positiva utbyte &ouml;verskottsutdelning medf&ouml;r, b&ouml;r enligt utredningens mening utdelningsgr&auml;nsen inte heller vara h&ouml;gre &auml;n att det prioriterade kravet p&aring; s&auml;kerhetsmarginal infrias. Mot denna bakgrund rekommenderas att utdelning av &ouml;verskott b&ouml;r ske d&aring; balanstalet &ouml;verstiger 1,1000.
+  </p>
+  <h2>
+   7 &Ouml;verv&auml;ganden och f&ouml;rslag
+  </h2>
+  <p>
+   7.1 F&ouml;rekomst av utdelningsbara &ouml;verskott
+  </p>
+  <p>
+   Utredningens f&ouml;rslag: Balanstalet skall anv&auml;ndas f&ouml;r att fastst&auml;lla f&ouml;rekomsten av utdelningsbara &ouml;verskott. Den balanstalsniv&aring; som avgr&auml;nsar de utdelningsbara &ouml;verskotten skall ligga fast. &Ouml;verstiger det fastst&auml;llda balanstalet denna niv&aring; skall utdelning ske med automatik.
+  </p>
+  <p>
+   Utredningen f&ouml;rordar att f&ouml;rekomsten av ett utdelningsbart &ouml;verskott skall avgr&auml;nsas av balanstalet p&aring; s&aring; s&auml;tt att &ouml;verskott delas ut d&aring; det fastst&auml;llda balanstalet &ouml;verstiger en viss niv&aring;. Balanstalet &auml;r en indikator p&aring; f&ouml;rdelningssystemets finansiella status som avspeglar s&aring;v&auml;l tillg&aring;ngssidan som skuldsidan och &auml;r d&auml;rf&ouml;r v&auml;l l&auml;mpat som kriterium f&ouml;r att fastst&auml;lla f&ouml;rekomsten av ett utdelningsbart &ouml;verskott.
+  </p>
+  <p>
+   En annan f&ouml;rdel med balanstalet som indikator &auml;r att principerna f&ouml;r ber&auml;kning av balanstalet redan &auml;r reglerade i lag, varf&ouml;r en utdelningsregel i termer av balanstalet inte ytterligare komplicerar regelverket. Vidare &auml;r det balanstalet som styr den automatiska balanseringen av underskott i systemet. Genom att &auml;ven knyta best&auml;mmelser om &ouml;verskottsutdelning till balanstalet &aring;stadkoms ett likformigt regelverk.
+  </p>
+  <p>
+   Utredningen anser det betydelsefullt att best&auml;mmelser om &ouml;verskottsutdelning utformas som en automatiskt verkande regel. Det b&ouml;r p&aring; f&ouml;rhand finnas best&auml;mda regler f&ouml;r n&auml;r ett utdelningsbart &ouml;verskott f&ouml;religger och hur det skall f&ouml;rdelas. Den balanstalsniv&aring; som avgr&auml;nsar det utdelningsbara &ouml;verskottet skall ligga fast. Utdelning b&ouml;r ske med automatik utan att det kr&auml;vs s&auml;rskilda politiska st&auml;llningstaganden. Detta inneb&auml;r att best&auml;mmelserna om underskottsbalansering och om &ouml;verskottsutdelning i f&ouml;rdelningssystemet blir symmetriska. Samtidigt f&ouml;rst&auml;rks de sj&auml;lvreglerande egenskaperna hos f&ouml;rdelningssystemet. 7.2 Metod att dela ut &ouml;verskott
+  </p>
+  <p>
+   Utredningens f&ouml;rslag: &Ouml;verstiger balanstalet den niv&aring; som avgr&auml;nsar ett utdelningsbart &ouml;verskott skall ett till&auml;gg g&ouml;ras i omr&auml;kningen av inkomstpensionsbeh&aring;llningar och i f&ouml;ljsamhetsindexeringen av inkomst- och till&auml;ggspensioner.
+  </p>
+  <p>
+   Omr&auml;kningen av inkomstpensionsbeh&aring;llningar skall f&ouml;r &aring;r med &ouml;verskottsutdelning g&ouml;ras genom att kvoten mellan det f&ouml;r &aring;ret fastst&auml;llda inkomstindexet och det f&ouml;reg&aring;ende &aring;rets inkomstindex multipliceras med en kvot d&auml;r t&auml;ljaren &auml;r det f&ouml;r &aring;ret fastst&auml;llda balanstalet och n&auml;mnaren &auml;r den gr&auml;ns f&ouml;r balanstalet som aktiverar utdelning.
+  </p>
+  <p>
+   F&ouml;ljsamhetsindexeringen skall f&ouml;r &aring;r med &ouml;verskottsutdelning ske p&aring; f&ouml;ljande s&auml;tt. Kvoten mellan det f&ouml;r &aring;ret fastst&auml;llda inkomstindexet och det f&ouml;reg&aring;ende &aring;rets inkomstindex skall divideras med talet 1,016. D&auml;refter skall resultatet av denna ber&auml;kning multipliceras med en kvot d&auml;r t&auml;ljaren &auml;r det f&ouml;r &aring;ret fastst&auml;llda balanstalet och n&auml;mnaren &auml;r den gr&auml;ns f&ouml;r balanstalet som aktiverar utdelning. F&ouml;ljsamhetsindexeringen av inkomstgrundad efterlevandepension och &auml;nkepension skall inte p&aring;verkas av &ouml;verskottsutdelning.
+  </p>
+  <p>
+   Utredningens bed&ouml;mning: Den f&ouml;ljsamhetsindexering som sker av inkomstgrundad efterlevandepension och &auml;nkepension b&ouml;r inte p&aring;verkas av att ett balansindex har fastst&auml;llts.
+  </p>
+  <p>
+   Ett &aring;r d&aring; balanstalet &ouml;verstiger den balanstalsgr&auml;ns som indikerar ett utdelningsbart &ouml;verskott, skall utdelning ske till de f&ouml;rs&auml;krade i f&ouml;rdelningssystemet. Utdelning skall ske genom att f&ouml;rr&auml;ntningen av de intj&auml;nade pensionsr&auml;tterna och f&ouml;ljsamhetsindexeringen av pensionerna h&ouml;js ut&ouml;ver det som f&ouml;ljer av f&ouml;r&auml;ndringen i inkomstindex. En f&ouml;rh&ouml;jning via indexeringen &auml;r en administrativt effektiv metod att tillf&ouml;ra de f&ouml;rs&auml;krade v&auml;rdet av de utdelade &ouml;verskotten.
+  </p>
+  <p>
+   Metoden att dela ut &ouml;verskott via indexeringen &auml;r vidare i linje med att balanstalets niv&aring; skall avg&ouml;ra f&ouml;rekomsten av ett utdelningsbart &ouml;verskott. Hur mycket omr&auml;kningen f&ouml;rh&ouml;js beror p&aring; hur mycket balanstalet &ouml;verstiger balanstalsgr&auml;nsen f&ouml;r &ouml;verskottsutdelning.
+  </p>
+  <p>
+   Den f&ouml;reslagna utdelningsmetoden &auml;r likformig med metoden f&ouml;r underskottsbalansering, som &auml;ven den f&aring;r genomslag via omr&auml;kningen av inkomstpensionsbeh&aring;llningar och utg&aring;ende pensioner. En skillnad mellan &ouml;verskottsutdelning och underskottsbalansering &auml;r emellertid att en utdelning p&aring;verkar f&ouml;rr&auml;ntningen endast det &aring;r utdelning sker. &Aring;ret d&auml;refter p&aring;verkas inte indexeringens storlek, s&aring;vida inte ett nytt utdelningsbart &ouml;verskott uppkommit. En underskottsbalansering inverkar d&auml;remot p&aring; indexeringen under en f&ouml;ljd av &aring;r efter det att balanseringen aktiverats genom att ett s&auml;rskilt balansindex till&auml;mpas tills det n&aring;tt inkomstindex.
+  </p>
+  <p>
+   Av utredningens f&ouml;rslag f&ouml;ljer att den procentuella &ouml;kningen vid utdelning blir densamma f&ouml;r samtliga, oavsett storleken av den individuella pensionsbeh&aring;llningen. Detta &auml;r samma princip som g&auml;ller f&ouml;r den normala f&ouml;rr&auml;ntningen av pensionsbeh&aring;llningar och f&ouml;r f&ouml;ljsamhetsindexeringen. En utdelning via indexeringen &auml;r s&aring;ledes i linje med pensionssystemets &ouml;vriga konstruktion.
+  </p>
+  <p>
+   &Auml;ven f&ouml;r inkomstgrundad efterlevandepension och &auml;nkepension g&auml;ller att f&ouml;ljsamhetsindexering skall ske varje &aring;rsskifte. Utredningen f&ouml;resl&aring;r att omr&auml;kningen av s&aring;dana f&ouml;rm&aring;ner inte skall p&aring;verkas av ett utdelningsbart &ouml;verskott i inkomstpensionssystemet. Dessa f&ouml;rm&aring;ner ing&aring;r inte i inkomstpensionssystemet utan finansieras &ouml;ver statsbudgeten. D&auml;rf&ouml;r b&ouml;r inte den &aring;rliga omr&auml;kningen av dessa f&ouml;rh&ouml;jas p&aring; grund av att det i inkomstpensionssystemet uppst&aring;tt ett utdelningsbart &ouml;verskott. Vidare g&ouml;r utredningen bed&ouml;mningen att f&ouml;ljsamhetsindexeringen av inkomstgrundad efterlevandepension och &auml;nkepension inte heller b&ouml;r p&aring;verkas av att ett balansindex fastst&auml;llts. Syftet med den automatiska balanseringen &auml;r att motverka uppkomsten av varaktiga underskott i f&ouml;rdelningssystemet, varf&ouml;r det saknas sk&auml;l f&ouml;r att omr&auml;kningen av inkomstgrundad efterlevandepension och &auml;nkepension skall p&aring;verkas av de effekter en automatisk balansering medf&ouml;r. 7.3 Balanstalsgr&auml;ns f&ouml;r utdelning av &ouml;verskott
+  </p>
+  <p>
+   Utredningens f&ouml;rslag: Den balanstalsniv&aring; som avgr&auml;nsar ett utdelningsbart &ouml;verskott skall vara 1,1000.
+  </p>
+  <p>
+   Det g&aring;r inte att p&aring; f&ouml;rhand best&auml;mma en balanstalsgr&auml;ns f&ouml;r utdelning som med absolut s&auml;kerhet inneb&auml;r att utdelning av &ouml;verskott inte leder till att den automatiska balanseringsmekanismen aktiveras efter det att utdelning skett. Enligt utredningens mening m&aring;ste en avv&auml;gning g&ouml;ras mellan det positiva utbyte &ouml;verskottsutdelning ger de f&ouml;rs&auml;krade och den tillkommande risk f&ouml;r underskottsbalansering som utdelningsbest&auml;mmelser medf&ouml;r.
+  </p>
+  <p>
+   Underskottsbalansering inneb&auml;r avsteg fr&aring;n snittinkomstindexeringen och de som uppb&auml;r &aring;lderspension f&aring;r en n&aring;got l&auml;gre pensionsniv&aring; under den tid balansindex till&auml;mpas. Best&auml;mmelser om automatisk balansering &auml;r emellertid n&ouml;dv&auml;ndiga f&ouml;r att g&ouml;ra f&ouml;rdelningssystemet finansiellt stabilt. F&ouml;r att klara perioder av finansiell belastning utan att balanseringsmekanismen skall aktiveras, m&aring;ste &ouml;verskott finnas i systemet som en s&auml;kerhetsmarginal. M&ouml;jligheten att det i f&ouml;rdelningssystemet kan ackumuleras &ouml;verskott &auml;r d&auml;rmed mycket viktig. Best&auml;mmelser om utdelning b&ouml;r inte v&auml;sentligen f&ouml;rs&auml;mra f&ouml;rdelningssystemets f&ouml;rm&aring;ga att bygga upp beh&ouml;vliga &ouml;verskott. Ju l&auml;gre balanstalsgr&auml;ns f&ouml;r &ouml;verskottutdelning, desto l&auml;gre blir den s&auml;kerhetsmarginal som kommer att kunna ackumuleras i systemet.
+  </p>
+  <p>
+   Utredningens f&ouml;rslag om hur h&ouml;g balanstalsgr&auml;nsen f&ouml;r utdelning b&ouml;r vara grundar sig p&aring; de framskrivningar och den analys som redovisats i kapitel 6. Genom att simulera 75-&aring;rsf&ouml;rlopp har effekterna av olika balanstalsgr&auml;nser unders&ouml;kts. Utredningen har p&aring; basis av dessa resultat dragit slutsatsen att en s&auml;kerhetsmarginal om minst 10 procent b&ouml;r finnas f&ouml;r att utdelning skall ske.
+  </p>
+  <p>
+   Utredningens f&ouml;rslag baseras p&aring; framskrivningar av en i m&aring;nga avseenden os&auml;ker framtid, varf&ouml;r det &auml;r ol&auml;mpligt att dra slutsatser som ger sken av exakthet. D&auml;remot kan en bred bed&ouml;mning g&ouml;ras av olika balanstalsgr&auml;nsers l&auml;mplighet. I sina &ouml;verv&auml;ganden har utredningen dels v&auml;gt in den tillkommande risken f&ouml;r underskottsbalansering som en automatisk regel f&ouml;r &ouml;verskottsutdelning medf&ouml;r, dels beaktat att pensionsutbetalningarna med en s&aring;dan regel inte bara blir h&ouml;gre utan &auml;ven kan bli l&auml;gre vissa &aring;r j&auml;mf&ouml;rt med ett system utan &ouml;verskottsutdelningar.
+  </p>
+  <p>
+   Den &ouml;vergripande principen f&ouml;r v&auml;rdeutvecklingen inom inkomstpensionsystemet &auml;r att pensionsbeh&aring;llningarna skall f&ouml;rr&auml;ntas i takt med snittinkomstutvecklingen och de utg&aring;ende pensionerna r&auml;knas om med beaktande av denna. D&auml;rf&ouml;r b&ouml;r dessa omr&auml;kningar inte alltf&ouml;r ofta avvika fr&aring;n den avsedda indexeringen, vare sig genom underskottsbalansering eller till f&ouml;ljd av &ouml;verskottsutdelning. En alltf&ouml;r l&aring;g balanstalsgr&auml;ns f&ouml;r utdelning skulle i grunden f&ouml;r&auml;ndra systemets indexering. I st&auml;llet f&ouml;r att oftast f&ouml;lja snittinkomstutvecklingen skulle indexeringen av pensionsbeh&aring;llningar och l&ouml;pande pensioner styras av kortsiktiga fluktuationer i avgiftsinkomsterna och i buffertfondens avkastning. Enligt utredningens mening b&ouml;r en f&ouml;rsiktighetsprincip g&auml;lla i valet av den balanstalsniv&aring; som avgr&auml;nsar utdelningsbara &ouml;verskott. En balanstalsgr&auml;ns f&ouml;r utdelning om 1,1000 uppfyller villkoret att systemet fortsatt skall ha goda m&ouml;jligheter att undvika underskottsbalansering efter det att en utdelning skett.
+  </p>
+  <p>
+   En s&aring;dan f&ouml;rsiktigt vald utdelningsregel medf&ouml;r samtidigt att de &aring;rskullar som den n&auml;rmaste framtiden kommer att uppb&auml;ra pension sannolikt f&aring;r en begr&auml;nsad m&ouml;jlighet att ta del av utdelningsbara &ouml;verskott. I dagsl&auml;get &auml;r det samlade &ouml;verskottet knappt en procent. Ju h&ouml;gre grad av f&ouml;rsiktighet som styr valet av balanstalsgr&auml;ns, desto l&auml;gre blir sannolikheten att utdelningsbara &ouml;verskott kommer att upptr&auml;da under alla individers pensionstid. S&aring;ledes kan man inte undvika att utbytet av &ouml;verskottsutdelning blir olika mellan olika &aring;rskullar.
+  </p>
+  <p>
+   Det &ouml;nskv&auml;rda hos en h&ouml;g balanstalsgr&auml;ns som m&ouml;jligg&ouml;r en tillr&auml;cklig buffert i systemet st&aring;r allts&aring; i viss konflikt med generationsintressen. En relativt h&ouml;g balanstalsgr&auml;ns f&ouml;r utdelning inneb&auml;r att individer i vissa &aring;rskullar kan komma att tj&auml;na in pensionsr&auml;tt i tider d&aring; f&ouml;rdelningssystemet successivt blir mer v&auml;lkonsoliderat utan att de som pension&auml;rer hinner f&aring; ta del av en &ouml;verskottsutdelning. Med en h&ouml;g balanstalsgr&auml;ns f&ouml;r utdelning kommer dessutom systemet &ouml;ver tid inte betala ut lika mycket pension som det skulle g&ouml;ra om balanstalsgr&auml;nsen satts p&aring; en l&auml;gre niv&aring;. Med h&auml;nsyn tagen till dessa komplikationer b&ouml;r gr&auml;nsen inte heller vara h&ouml;gre  &auml;n att det prioriterade kravet p&aring; s&auml;kerhetsmarginal infrias. En rimlig avv&auml;gning &auml;r att utdelning b&ouml;r ske d&aring; balanstalet &ouml;verstiger 1,1000. Utredningen f&ouml;resl&aring;r d&auml;rf&ouml;r att den balanstalsgr&auml;ns som avgr&auml;nsar ett utdelningsbart &ouml;verskott l&auml;ggs fast p&aring; denna niv&aring;.
+  </p>
+  <h2>
+   8 Konsekvenser av utredningens f&ouml;rslag
+  </h2>
+  <p>
+   Enligt direktiven skall utredningen redovisa konsekvenser av sitt f&ouml;rslag f&ouml;r pensionssystemet, f&ouml;r individer och mellan generationer samt budget- och samh&auml;llsekonomiska konsekvenser. I detta kapitel sammanfattas de konsekvenser av den f&ouml;reslagna regeln f&ouml;r automatisk utdelning av &ouml;verskott inom f&ouml;rdelningssystemet som behandlats i de f&ouml;reg&aring;ende kapitlen. Vidare kommenteras &ouml;versiktigt f&ouml;rslagets konsekvenser i bredare bem&auml;rkelse. 8.1 Konsekvenser inom f&ouml;rdelningssystemet
+  </p>
+  <p>
+   Utg&aring;ngspunkten f&ouml;r utredningens f&ouml;rslag &auml;r att den &ouml;kade risken f&ouml;r underskott till f&ouml;ljd av en &ouml;verskottsutdelning skall vara f&ouml;rsumbar. Utredningen har i kapitel 7 f&ouml;reslagit en regel f&ouml;r automatisk &ouml;verskottsutdelning d&auml;r &ouml;verskott avgr&auml;nsas av en balanstalsniv&aring; p&aring; 1,1000. Med denna regel bed&ouml;mer utredningen att risken f&ouml;r ytterligare underskottsbalanseringar i systemet &auml;r mycket begr&auml;nsad.
+  </p>
+  <p>
+   Inf&ouml;randet av best&auml;mmelser om en automatisk utdelning av &ouml;verskott n&auml;r balanstalet &ouml;verstiger 1,1000 inneb&auml;r att balanstalet aldrig mer &auml;n tillf&auml;lligt kommer att &ouml;verstiga denna niv&aring;. Tillsammans med reglerna f&ouml;r balansering vid underskott inneb&auml;r utredningens f&ouml;rslag att s&aring; l&auml;nge balanstalet ligger i ett intervall mellan 1,0000 och 1,1000 kommer inga avsteg fr&aring;n snittinkomstindexeringen att ske.
+  </p>
+  <p>
+   Den f&ouml;reslagna regeln skall st&auml;llas mot en situation utan regler f&ouml;r &ouml;verskottsutdelning. Utan s&aring;dana regler finns det inget tak f&ouml;r hur stort &ouml;verskott som f&aring;r ackumuleras i f&ouml;rdelningssystemet. &Auml;ven om buffertfonden till f&ouml;ljd av gynnsamma ekonomiska och demografiska omst&auml;ndigheter skulle &ouml;ka starkt i omfattning, skulle de f&ouml;rs&auml;krade inte f&aring; del av systemets f&ouml;rb&auml;ttrade finansiella st&auml;llning i form av h&ouml;gre pensioner.
+  </p>
+  <p>
+   Med en regel om automatisk &ouml;verskottsutdelning kommer f&ouml;rdelningssystemet &ouml;ver tiden att i genomsnitt att betala ut mer pension, n&aring;got som framg&aring;r av modellframskrivningar som redovisats i kapitel 6. Detta betyder i sig b&aring;de att pensionsutbetalningen fr&aring;n systemet blir h&ouml;gre vissa &aring;r och att den kan bli l&auml;gre andra &aring;r. Detta h&auml;nger samman med att en &ouml;verskottsutdelning alltid betyder en viss, om &auml;n liten, tillkommande risk f&ouml;r underskottsbalanseringar l&auml;ngre fram. 8.2 Budgetm&auml;ssiga och samh&auml;llsekonomiska konsekvenser
+  </p>
+  <p>
+   Statsbudgeten
+  </p>
+  <p>
+   N&auml;r &ouml;verskottsutdelning sker uppst&aring;r en varaktig effekt p&aring; inkomst- och till&auml;ggspensionernas niv&aring;er. Som en f&ouml;ljd av garantipensionens konstruktion kommer en &ouml;verskottsutdelning att reducera utbetalningarna av garantipension och d&auml;rmed medf&ouml;ra en minskad belastning p&aring; statsbudgeten.
+  </p>
+  <p>
+   Samtidigt inneb&auml;r en utdelning att risken f&ouml;r framtida underskottsbalanseringar &ouml;kar om &auml;n marginellt. Till den delen skapar inf&ouml;randet av en regel om &ouml;verskottsutdelning &auml;ven en motsatt tendens, eftersom utbetalningarna av garantipension inledningsvis &ouml;kar under en period med balansindex.
+  </p>
+  <p>
+   Med balanstalets nuvarande niv&aring; &auml;r det inte troligt att ett utdelningsbart &ouml;verskott kommer att bli aktuellt under den n&auml;rmaste framtiden. Samtidigt kommer garantipensionens omfattning att avta fram&ouml;ver i takt med tillv&auml;xten i realinkomsterna i samh&auml;llet. D&auml;rmed blir &auml;ven &aring;terverkningarna p&aring; garantipensionen genom avsteg fr&aring;n inkomstindexeringen av minskande omfattning. De budgetm&auml;ssiga effekterna av inf&ouml;rande av best&auml;mmelser om &ouml;verskottsutdelning &auml;r d&auml;rf&ouml;r obetydliga.
+  </p>
+  <p>
+   &Ouml;verskottsutdelning skulle i sig medf&ouml;ra att den offentliga sektorns finansiella sparande minskar. &Auml;ven de takbegr&auml;nsade utgifterna p&aring;verkas av en &ouml;verskottsutdelning. Med h&auml;nsyn till att det troligen kommer att dr&ouml;ja innan ett utdelningsbart &ouml;verskott har bildats, medf&ouml;r utredningens f&ouml;rslag inte n&aring;gra omedelbara konsekvenser i dessa avseenden.
+  </p>
+  <p>
+   Samh&auml;llsekonomiska konsekvenser
+  </p>
+  <p>
+   Inf&ouml;rande av en regel om automatisk &ouml;verskottsutdelning n&auml;r balanstalet &ouml;verstiger en viss niv&aring; inneb&auml;r att individen i princip kan f&ouml;rv&auml;nta sig en n&aring;got st&ouml;rre pension. Det &aring;r en utdelning sker, kommer &aring;lderspension&auml;rerna f&aring; en n&aring;got h&ouml;gre omr&auml;kning av pensionsbeloppet. En utdelning kommer dessutom f&aring; ytterligare effekter p&aring; pensionsutbetalningarna n&auml;r de som &auml;r f&ouml;rv&auml;rvsaktiva utdelnings&aring;ret s&aring; sm&aring;ningom b&ouml;rjar uppb&auml;ra pension. Enligt utredningens mening &auml;r dock omfattningen av dessa konsekvenser s&aring; marginell att n&aring;gra effekter p&aring; t.ex. arbetsutbud eller individernas privata sparande inte skulle kunna sp&aring;ras.
+  </p>
+  <h2>
+   F&ouml;rfattningskommentar
+  </h2>
+  <p>
+   F&ouml;rslaget till lag om &auml;ndring i lagen (1998:674) om inkomstgrundad &aring;lderspension 1 kap. 5 d &sect;
+  </p>
+  <p>
+   I paragrafen har det inf&ouml;rts en best&auml;mmelse d&auml;r det anges att &ouml;verskott skall delas ut n&auml;r det fastst&auml;llda balanstalet &ouml;verstiger 1,1000. Det utdelningsbara &ouml;verskottet &auml;r de tillg&aring;ngar i f&ouml;rdelningssystemet som &ouml;verstiger balanstalet 1,1000. Utdelning skall ske genom omr&auml;kning &ndash; indexering &ndash; av pensionsbeh&aring;llningar och pensioner f&ouml;r det &aring;r utdelningsbart &ouml;verskott kan konstateras. Omr&auml;kningen baserad p&aring; inkomstindex f&ouml;rh&ouml;js s&aring;ledes f&ouml;r det enskilda &aring;ret. Vid omr&auml;kningen av pensionsbeh&aring;llningarna och vid f&ouml;ljsamhetsindexeringen skall en omr&auml;kningsfaktor till&auml;mpas som f&aring;s genom att balanstalet f&ouml;r det aktuella &aring;ret divideras med talet 1,1000. Hur dessa ber&auml;kningar skall g&ouml;ras framg&aring;r av best&auml;mmelserna i 5 kap. 6 och 14 &sect;&sect;.
+  </p>
+  <p>
+   I paragrafen har det inf&ouml;rts ett stadgande att det f&ouml;r s&aring;dant &aring;r som utdelningsbart &ouml;verskott kan konstateras skall pensionsbeh&aring;llningen uppr&auml;knas med en omr&auml;kningsfaktor som avspeglar det utdelningsbara &ouml;verskottet. Inneb&ouml;rden av detta &auml;r att &ouml;verskott &auml;ven skall delas ut till dem som &auml;nnu inte tagit ut pension p&aring; s&aring; s&auml;tt att pensionsr&auml;tter skall indexeras i s&auml;rskild ordning. Omr&auml;kningen baserad p&aring; inkomstindex &ouml;kas s&aring;ledes f&ouml;r det enskilda &aring;ret d&aring; utdelningsbart &ouml;verskott f&ouml;rekommer.
+  </p>
+  <p>
+   N&auml;r det g&auml;ller inkomstpensionsbeh&aring;llningen skall kvoten av &aring;rets fastst&auml;llda inkomstindex dividerat med f&ouml;reg&aring;ende &aring;rs inkomstindex (den &aring;rliga indexeringen) i sin tur multipliceras med balanstalet f&ouml;r det aktuella &aring;ret dividerat med talet 1,1000. 14 &sect;
+  </p>
+  <p>
+   I paragrafen har det inf&ouml;rts ett stadgande att det f&ouml;r s&aring;dant &aring;r som utdelningsbart &ouml;verskott kan konstateras skall inkomstpensionen uppr&auml;knas med en omr&auml;kningsfaktor som avspeglar det utdelningsbara &ouml;verskottet. Inneb&ouml;rden av detta &auml;r att &ouml;verskott &auml;ven skall delas ut till dem som uppb&auml;r l&ouml;pande pensioner p&aring; s&aring; s&auml;tt att dessa skall f&ouml;ljsamhetsindexeras i s&auml;rskild ordning. Omr&auml;kningen baserad p&aring; inkomstindex &ouml;kas s&aring;ledes f&ouml;r det enskilda &aring;ret d&aring; utdelningsbart &ouml;verskott f&ouml;rekommer.
+  </p>
+  <p>
+   N&auml;r det g&auml;ller inkomstpensioner skall kvoten av &aring;rets fastst&auml;llda inkomstindex dividerat med f&ouml;reg&aring;ende &aring;rs inkomstindex divideras med talet 1,016 (den &aring;rliga f&ouml;ljsamhetsindexeringen) och d&auml;refter multipliceras med balanstalet f&ouml;r det aktuella &aring;ret dividerat med talet 1,1000.
+  </p>
+  <p>
+   F&ouml;rslaget till lag om &auml;ndring i lagen (2000:461) om efterlevandepension och efterlevandest&ouml;d till barn 1 kap. 10 &sect;
+  </p>
+  <p>
+   &Auml;ndringen i paragrafen inneb&auml;r att best&auml;mmelserna om efterlevandepension och efterlevandest&ouml;d till barn undantas fr&aring;n regeln i 5 kap. 14 &sect; lagen (1998:674) om inkomstgrundad &aring;lderspension om utdelningsbart &ouml;verskott.
+  </p>
+  <p>
+   Bilaga 1
+  </p>
+  <h2>
+   Kommitt&eacute;direktiv
+  </h2>
+  <p>
+   Beslut vid regeringssammantr&auml;de den 17 januari 2002.
+  </p>
+ </body>
+</html>

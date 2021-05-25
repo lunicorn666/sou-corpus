@@ -1,0 +1,8 @@
+Bibeln - texterna;Utgiven//PC|PRF|UTR|SIN|IND|NOM//ROOT//0 ://MID//punct//0
+Bibeln - texterna; //_SP////1 augusti//NN|UTR|SIN|IND|NOM//appos//0 1999//RG|NOM//nummod//3
+Bibeln - texterna;Typ//NN|UTR|SIN|IND|NOM//ROOT//0 ://MID//punct//0
+Bibeln - texterna; //_SP////1 Statens//NN|UTR|SIN|DEF|GEN//nmod:poss//5 offentliga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//5 utredningar//NN|UTR|PLU|IND|NOM//appos//0 (//PAD//punct//5 SOU//PM|NOM//appos//5 )//PAD//punct//5
+Bibeln - texterna;Kulturdepartementet//NN|NEU|SIN|DEF|NOM//ROOT//0
+Bibeln - texterna;Avsändare//NN|UTR|PLU|IND|NOM//ROOT//0 ://MID//punct//0
+Bibeln - texterna; //_SP////1 Bibelkommissionen//NN|UTR|SIN|DEF|NOM//nmod//4 U//PM|NOM//nmod//0 1972:07//RG|NOM//conj//0
+

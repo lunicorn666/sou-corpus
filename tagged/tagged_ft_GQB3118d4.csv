@@ -1,0 +1,68 @@
+Bilaga 4;Lars-Erik//PM|NOM//nmod//4 Öller//PM|NOM//flat:name//0 and//PM|NOM//flat//0  //_SP////2 Karl-Gustav//PM|NOM//ROOT//4 Hansson//PM|NOM//flat:name//4
+Bilaga 4;Statistics//PM|NOM//amod//1 Sweden//PM|NOM//ROOT//1
+Bilaga 4;Lars-Erik//PM|NOM//ROOT//0 Öller//PM|NOM//flat:name//0 and//PM|NOM//cc//0 Karl-Gustav//PM|NOM//nmod//0 Hansson//PM|NOM//flat:name//3
+Bilaga 4;Statistics//PM|NOM//amod//1 Sweden//PM|NOM//ROOT//1
+Bilaga 4;December//NN|UTR|SIN|IND|NOM//ROOT//0 2002//RG|NOM//nummod//0
+
+
+1. Introduction;1.3//RG|NOM//nmod//1 Approach//UO//ROOT//1 and//UO//cc//1 method//UO//conj//1
+
+2. Previous Studies;2.2//RG|NOM//amod//12 Other//UO//compound//2 revision//UO//fixed//0 studies//NN|UTR|SIN|IND|GEN//amod//6 3.1//RG|NOM//obl//6 Constant//PM|NOM//amod//6 prices//PM|NOM//conj//0 3.1.2//RG|NOM//compound//8 Revision//NN|UTR|SIN|IND|NOM//conj//0 characteristics//PM|NOM//amod//12 3.1.3//RG|NOM//compound//12 Have//PM|NOM//compound//12 revisions//UO//nsubj//13 decreased//NN|UTR|SIN|IND|NOM//ROOT//13 ?//MID//punct//13
+2. Previous Studies;3.2//RG|NOM//nummod//17 Current//PM|NOM//amod//17 prices//PM|NOM//appos//13 3.3//RG|NOM//nmod//19 Implicit//AB|POS//conj//13 deflators//AB//obj//13
+2. Previous Studies;Diagrams//PM|GEN//det//2 4.2//RG|NOM//nmod//2 Revision//NN|UTR|SIN|IND|NOM//nsubj//7 characteristics//PM|NOM//flat//2 4.3//RG|NOM//nmod//6 Have//PM|NOM//compound//6 revisions//UO//nmod//2 decreased//NN|UTR|SIN|IND|NOM//nsubj//15 ?//MID//punct//7
+2. Previous Studies;5.2//RG|NOM//nmod//10 Revision//NN|UTR|SIN|IND|NOM//appos//7 characteristics//PM|NOM//flat//10 5.3//RG|NOM//nmod//14 Have//UO//nmod:poss//14 revisions//UO//appos//7 decreased//NN|UTR|SIN|IND|NOM//ROOT//15 ?//MAD//punct//15
+
+6. Conclusions and Suggestions;6.2//RG|NOM//nmod//1 Summary//NN|UTR|SIN|IND|NOM//ROOT//1
+
+
+1 Introduction;Frame//UO//amod//1 errors//UO//ROOT//1
+1 Introduction;Measurement//UO//amod//1 errors//UO//ROOT//1
+1 Introduction;Processing//UO//nmod//1 errors//UO//ROOT//1
+1 Introduction;Non-response//UO//amod//1 errors//UO//ROOT//1
+1 Introduction;Model//UO//amod//1 assumption//UO//ROOT//1 errors//UO//obj//1 .//MAD//punct//1
+
+
+2.2 Other studies;Australia//PM|NOM//ROOT//0
+2.2 Other studies;Netherlands//PM|NOM//ROOT//0
+2.2 Other studies;UK//PM|NOM//ROOT//0
+2.2 Other studies;USA//PM|NOM//nsubj//4 *//MID//punct//4 *//MID//punct//4 Contains//UO//nmod:poss//4 investment//UO//ROOT//4 .//MAD//punct//4
+2.2 Other studies;Academic//PM|NOM//amod//1 studies//UO//ROOT//1
+
+
+5.3 Have revisions decreased?;Finland//PM|NOM//ROOT//0 3//RG|NOM//nummod//0 .//MID//punct//0
+5.3 Have revisions decreased?;No//IN//nummod//4 comment//NN|NEU|SIN|IND|NOM//appos//0 .//MAD//punct//4
+5.3 Have revisions decreased?;Netherlands//PM|GEN//nmod//1 3//RG|NOM//nummod//4 .//MAD//punct//1
+5.3 Have revisions decreased?;No//IN//nummod//4 comment//NN|NEU|SIN|IND|NOM//ROOT//4 .//MAD//punct//4
+5.3 Have revisions decreased?;U.S.A//PM|NOM//ROOT//0
+
+
+Bilaga 5;Tomas//PM|NOM//ROOT//0 Lindström//PM|NOM//flat:name//0
+
+Bilaga 5 / October, 2002;Tomas//PM|NOM//ROOT//0 Lindström//PM|NOM//flat:name//0 †//PM|NOM//punct//0
+
+
+2 Analytical framework;d//NN|NEU|SIN|IND|NOM//advmod//3  //_SP////0 ln//NN|AN//nmod//3 Y//PM|NOM//ROOT//3 it//PM|NOM//nmod//3 =//MID//punct//3  //_SP////5 it//PM|NOM//nmod//3 d//NN|AN//case//10  //_SP////8 ln//NN|AN//nmod//12  //_SP////10 X//RG|NOM//nmod//3  //_SP////12 it//PM|NOM//conj//3 +//MID//case//17  //_SP////15 d//NN|AN//conj//3  //_SP////17 ln//NN|AN//nmod//20 V//PM|NOM//nmod//17 it//NN|AN//nmod//3 ,//MID//punct//3 (//PAD//punct//24 2.4//RG|NOM//appos//3 )//PAD//punct//24
+
+2.2 High-tech capital;d//NN|NEU|SIN|IND|NOM//case//4  //_SP////0 ln//NN|AN//nmod//4  //_SP////2 x//RG|NOM//obl//38 i//PP//case//6 Bi//NN|AN//nmod//4 d//PM|NOM//flat//6  //_SP////7 ln//NN|AN//nummod//4  //_SP////9 k//JJ|AN//case//12 Bi//NN|AN//nmod//4 +//MID//case//15  //_SP////13 Mi//PM|NOM//conj//4 d//PM|NOM//punct//4  //_SP////16 ln//NN|AN//nmod//4  //_SP////18 k//PM|NOM//case//21 Mi//PM|NOM//nmod:poss//24 +//MID//cc//24  //_SP////22 ICTi//PM|GEN//nmod//4 d//NN|AN//punct//24  //_SP////25 ln//NN|AN//nummod//25  //_SP////27 k//NN|AN//case//30 ICTi//PM|GEN//nmod//4 ,//MID//punct//4 (//PAD//punct//4 2.9//RG|NOM//appos//4 )//PAD//punct//4 (//PAD//punct//4 2.11//RG|NOM//appos//4 )//PAD//punct//38 yield//UO//ROOT//38
+
+3 The data;tal//NN|NEU|SIN|IND|NOM//ROOT//0 (//PAD//punct//0 ICT//PM|NOM//appos//0  //_SP////2 )//PAD//punct//0
+
+3 The data / (3.1);I//PP//case//2  //_SP////0 jt//UO//ROOT//2 is//UO//nsubj//2
+3 The data / (3.1);K//NN|NEU|SIN|IND|NOM//ROOT//0 i//PP//advmod//0 i//PP//case//0
+
+
+4.1 Results from growth-accounting;Business//PM|NOM//ROOT//0 (//PAD//punct//0 ISIC//PM|NOM//advmod//3 01-95//RG|NOM//appos//0 )//PAD//punct//0
+4.1 Results from growth-accounting;Goods//PM|NOM//ROOT//0 (//PAD//punct//0 ISIC//PM|NOM//advmod//3 01-45//RG|NOM//appos//0 )//PAD//punct//0
+4.1 Results from growth-accounting;Services//PM|NOM//ROOT//0 (//PAD//punct//0 ISIC//PM|NOM//advmod//3 50-95//RG|NOM//appos//0 )//PAD//punct//0
+4.1 Results from growth-accounting;Manufacturing//PM|NOM//ROOT//0 (//PAD//punct//0 ISIC//PM|NOM//advmod//3 15-37//RG|NOM//appos//0 )//PAD//punct//0
+
+
+5 Conclusions / Appendix;Business//PM|NOM//ROOT//0 (//PAD//punct//0 ISIC//PM|NOM//advmod//3 01-95//RG|NOM//appos//0 )//PAD//punct//0
+5 Conclusions / Appendix;Goods//PM|NOM//ROOT//0 (//PAD//punct//0 ISIC//PM|NOM//advmod//3 01-45//RG|NOM//appos//0 )//PAD//punct//0
+5 Conclusions / Appendix;Services//PM|NOM//ROOT//0 (//PAD//punct//0 ISIC//PM|NOM//advmod//3 50-95//RG|NOM//appos//0 )//PAD//punct//0
+5 Conclusions / Appendix;Manufacturing//PM|NOM//ROOT//0 (//PAD//punct//0 ISIC//PM|NOM//advmod//3 15-37//RG|NOM//appos//0 )//PAD//punct//0
+
+
+Bilaga 6 / Kan och bör produktiviteten i statens verksamhet mätas?;av//PP//case//2  //_SP////0 Richard//PM|NOM//ROOT//2 Murray//PM|NOM//flat:name//2
+
+

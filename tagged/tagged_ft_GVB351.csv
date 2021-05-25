@@ -1,0 +1,56 @@
+I NDEPENDENCE;Stockholm//PM|NOM//nmod//1 June//PM|NOM//ROOT//1 2007//RG|NOM//flat:name//1
+I NDEPENDENCE;Ingrid//PM|NOM//ROOT//0 Bonde//PM|NOM//flat:name//0
+I NDEPENDENCE;Martin//PM|NOM//ROOT//0 Blåvarg//PM|NOM//flat//0
+
+Summary;Background//PM|NOM//ROOT//0
+
+Statutory proposal;Chapter//NN|UTR|SIN|IND|NOM//nmod//1 10//RG|NOM//ROOT//1 ,//MID//punct//1 Section//UO//nmod//4 9//RG|NOM//obl//1 ,//MID//punct//1
+Statutory proposal;Chapter//PM|NOM//ROOT//0 8//RG|NOM//nummod//0
+Statutory proposal;Chapter//NN|UTR|SIN|IND|NOM//ROOT//0 10//RG|NOM//nummod//0
+Statutory proposal;Chapter//NN|UTR|SIN|IND|NOM//nmod//1 10//RG|NOM//ROOT//1 ,//MID//punct//1 Section//UO//nmod//4 10//RG|NOM//obl//1 ,//MID//punct//1
+Statutory proposal;Chapter//PM|NOM//ROOT//0 8//RG|NOM//nummod//0
+Statutory proposal;Chapter//NN|UTR|SIN|IND|NOM//ROOT//0 10//RG|NOM//nummod//2 1.1.1//RG|NOM//nmod//0 .//MAD//punct//0
+Statutory proposal;Background//PM|NOM//amod//5 1.1.2//RG|NOM//appos//0 .//MID//punct//8
+Statutory proposal;The//PM|NOM//det//8 directives//UO//conj//5
+
+2. Background;2.1//RG|NOM//ROOT//0 .//MAD//punct//0
+2. Background;Current//PM|NOM//amod//3 system//NN|NEU|SIN|IND|NOM//conj//0
+2. Background;Billion//PM|NOM//nmod//1 SEK//PM|NOM//ROOT//1
+2. Background;Transfers//PM|GEN//nmod:poss//5 to//PM|NOM//case//2 treasury//PM|NOM//nmod//0 -10//RG|NOM//nummod//2 -15//RG|NOM//punct//0 2.3.1//RG|NOM//ROOT//5 .//MID//punct//5
+2. Background;The//PM|NOM//det//8 Riksbank//PM|NOM//nsubj//30 ’//PM|NOM//punct//12 s//PM|NOM//nummod//11 tasks//UO//nmod//12 2.3.2//RG|NOM//nmod//8 .//MID//punct//8
+2. Background;The//PM|NOM//det//15 Riksbank//PM|NOM//appos//8 ’//PM|NOM//punct//19 s//PM|NOM//nummod//19 governance//NN|UTR|SIN|IND|NOM//amod//19 2.4.1//RG|NOM//nmod//15 .//MAD//punct//8
+2. Background;Overview//PM|NOM//nmod//22 2.4.2//RG|NOM//conj//8 .//MID//punct//8
+2. Background;Currency//PM|NOM//appos//8 in//UO//advmod//8 circulation//UO//conj//8 th//NN|AN//nmod//28 2.4.3//RG|NOM//nmod//8 .//MID//punct//8
+2. Background;Some//UO//parataxis//5 definitions//UO//obj//30
+2. Background;Functional//UO//amod//1 independence//UO//ROOT//1 ://MAD//punct//1
+2. Background;Institutional//UO//amod//1 independence//UO//ROOT//1 ://MAD//punct//1
+2. Background;Personal//NN|UTR|SIN|IND|NOM//nmod//1 independence//UO//ROOT//1 ://MAD//punct//1
+2. Background;Interest//UO//ROOT//0 rate//UO//obj//0
+2. Background;Source//PM|NOM//ROOT//0 ://MID//punct//0
+2. Background;Reuters//PM|NOM//nmod:poss//3 EcoWin//NN//appos//0
+2. Background;Economic//UO//amod//1 Review//UO//ROOT//1
+2. Background;Source//PM|NOM//ROOT//0 ://MID//punct//0
+2. Background;Reuters//PM|NOM//nmod:poss//3 EcoWin//NN|AN//nmod//4 4.4//RG|NOM//appos//0 .//MAD//punct//0
+2. Background;Other//UO//amod//8 risks//UO//nmod//8 4.4.2//RG|NOM//appos//0 .//MAD//punct//8
+2. Background;Operational//JJ|POS|UTR|SIN|IND|NOM//amod//11 risk//NN|UTR|SIN|IND|NOM//conj//8
+2. Background;Maintain//UO//nmod:poss//2 price//UO//flat//0 stability//UO//ROOT//2
+2. Background;Encourage//UO//nmod:poss//2 financial//UO//amod//2 stability//UO//nsubj//3 separately//AB//advmod//5 .//MAD//punct//3
+2. Background;6.5//RG|NOM//discourse//9 .//MID//punct//5
+2. Background;Accounting//PM|NOM//nmod//9 issues//PM|NOM//amod//9 7.1//RG|NOM//ROOT//9 .//MAD//punct//9
+2. Background;Alternative//PM|NOM//nmod//13 1//RG|NOM//nummod//13 7.2//RG|NOM//appos//9 .//MID//punct//13
+2. Background;Alternative//PM|NOM//nmod//17 2//RG|NOM//nummod//17 achieved//NN|UTR|SIN|IND|NOM//conj//13 .//MAD//punct//13 ”//RG|NOM//punct//9
+
+
+10. Statutory comments;10.1//RG|NOM//ROOT//0 .//MID//punct//0
+10. Statutory comments;Alternative//PM|NOM//nmod//4 1//RG|NOM//nummod//4 10.2//RG|NOM//nmod//0 .//MID//punct//4
+10. Statutory comments;Alternative//PM|NOM//nmod//10 2//RG|NOM//nummod//8 capital//UO//nmod//9 is//UO//nmod//10 reduced//UO//appos//4 .//MAD//punct//10
+10. Statutory comments;10.3//RG|NOM//nummod//4 .//MID//punct//4
+10. Statutory comments;Asset//PM|NOM//nmod:poss//15 management//UO//appos//4
+
+10. Statutory comments / Opinion;Chapter//PM|NOM//ROOT//0 8//RG|NOM//nummod//0
+10. Statutory comments / Opinion;Chapter//PM|NOM//ROOT//0 8//RG|NOM//nummod//0
+10. Statutory comments / Opinion;Background//PM|NOM//ROOT//0
+10. Statutory comments / Opinion;Convergence//UO//amod//1 reports//UO//ROOT//1
+10. Statutory comments / Opinion;Terms//UO//ROOT//0 of//UO//case//2 reference//UO//nmod//0
+10. Statutory comments / Opinion;Investigation//UO//ROOT//0 work//UO//flat//0
+

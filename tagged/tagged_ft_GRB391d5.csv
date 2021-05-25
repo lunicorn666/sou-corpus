@@ -1,0 +1,7 @@
+Förkortningar och ordförklaringar;Förkortningar//NN|UTR|PLU|IND|NOM//ROOT//0
+Förkortningar och ordförklaringar;Ordförklaringar//NN|UTR|PLU|IND|NOM//det//1 insatser//NN|UTR|PLU|IND|NOM//nsubj//8 .//MAD//punct//1
+Förkortningar och ordförklaringar;Dagcentraler//NN|UTR|PLU|IND|NOM//amod//6 och//KN//cc//5 social//JJ|POS|UTR|SIN|IND|NOM//conj//3 jour//NN|UTR|SIN|IND|NOM//conj//1 är//VB|PRS|AKT//cop//8 exempel//NN|NEU|PLU|IND|NOM//ROOT//8 på//PP//case//12 allmänt//AB|POS//advmod//11 inriktade//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//amod//12 insatser//NN|UTR|PLU|IND|NOM//obl//8 .//MAD//punct//8
+Förkortningar och ordförklaringar;Under//PP//case//15 åren//NN|NEU|PLU|DEF|NOM//nmod//16 1982//RG|NOM//obl//18 1997//RG|NOM//nummod//16 ingick//VB|PRT|AKT//parataxis//8 färdtjänst//NN|UTR|SIN|IND|NOM//nsubj//18 i//PP//case//21 äldre-//JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|SMS//nmod//19 (//PAD//punct//18 och//KN//cc//24 handikapp//NN|NEU|SIN|IND|NOM//conj//18 )//PAD//punct//18 omsorgen//NN|UTR|SIN|DEF|NOM//parataxis//8 .//MAD//punct//8
+
+Kommittédirektiv;Beslut//NN|NEU|SIN|IND|NOM//ROOT//0 vid//PP//case//2 regeringssammanträde//NN|NEU|SIN|IND|NOM//nmod//0 den//DT|UTR|SIN|DEF//det//5 22//RG|NOM//nummod//5 december//NN|UTR|SIN|IND|NOM//obl//0 1998//RG|NOM//nummod//5 .//MAD//punct//0
+

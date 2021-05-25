@@ -1,0 +1,19 @@
+3.2.17 USL ;3.2.18//RG|NOM//nmod//1 LIP//NN|AN//ROOT//1
+3.2.17 USL ;3.2.19//RG|NOM//nmod//1 GPL//PM|NOM//ROOT//1
+3.2.17 USL ;3.2.20//RG|NOM//nummod//1 HVL//PM|NOM//ROOT//1
+3.2.17 USL ;3.2.21//RG|NOM//ROOT//0 LISA//PM|NOM//flat//0
+3.2.17 USL ;3.2.22//RG|NOM//nummod//1 SofL//NN|AN//ROOT//1
+3.2.17 USL ;3.2.23//RG|NOM//det//1 EPL//PM|NOM//ROOT//1
+3.2.17 USL ;3.2.24//RG|NOM//det//1 BTPL//NN|AN//ROOT//1
+3.2.17 USL ;3.2.25//RG|NOM//ROOT//0 ÄfsL//NN|AN//nsubj//0
+3.2.17 USL ;3.2.26//RG|NOM//nummod//1 PISA//PM|NOM//ROOT//1
+3.2.17 USL ;3.2.27//RG|NOM//nsubj//1 SIAL//PM|NOM//ROOT//1
+3.2.17 USL ;3.2.28//RG|NOM//det//1 AOL//PM|NOM//ROOT//1
+3.2.17 USL ;3.3//RG|NOM//nmod//1 Paragrafregister//NN|UTR|PLU|IND|NOM//ROOT//1 som//HP|-|-|-//nsubj//3 utgår//VB|PRS|AKT//acl:relcl//1 från//PP//case//5 SFB//PM|NOM//obl//3
+3.2.17 USL ;3.3.1//RG|NOM//nmod//2 Avdelning//NN|UTR|SIN|IND|NOM//nmod//2 A//NN|NEU|SIN|IND|NOM//ROOT//2 Övergripande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//4 bestämmelser//NN|UTR|PLU|IND|NOM//obj//2
+3.2.17 USL ;I//PP//case//2 Inledande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//2 bestämmelser//NN|UTR|PLU|IND|NOM//obl//3 ochdefinitioner//NN|UTR|PLU|IND|NOM//ROOT//3
+3.2.17 USL ;3.3.2//RG|NOM//nmod//3 Avdelning//NN|UTR|SIN|IND|NOM//nmod//2 B//NN|NEU|SIN|IND|NOM//amod//3 Familjeförmåner//NN|UTR|PLU|IND|NOM//ROOT//3
+3.2.17 USL ;3.3.3//RG|NOM//nmod//2 Avdelning//NN|UTR|SIN|IND|NOM//nmod//2 C//NN|NEU|SIN|IND|NOM//ROOT//2 Förmåner//NN|UTR|PLU|IND|NOM//flat:name//2 vid//PP//case//5 sjukdom//NN|UTR|SIN|IND|NOM//obl//2 eller//KN//cc//7 arbetsskada//NN|UTR|SIN|IND|NOM//conj//5
+3.2.17 USL ;IV//RG|NOM//nmod//1 Rehabilitering//NN|UTR|SIN|IND|NOM//ROOT//1 och//KN//cc//3 rehabiliteringsersättning//NN|UTR|SIN|IND|NOM//conj//1
+3.2.17 USL ;VI//RG|NOM//nmod//1 Förmåner//NN|UTR|PLU|IND|NOM//ROOT//1 vid//PP//case//3 arbetsskada//NN|UTR|SIN|IND|NOM//nmod//1 m.m.//AB|AN//conj//1
+

@@ -1,0 +1,71 @@
+Att. Minister Sven-Erik Österberg ;Stockholm//PM|NOM//ROOT//0 ,//MID//punct//2 Sweden//PM|NOM//conj//0 October//PM|NOM//flat:name//2 2005//RG|NOM//nummod//2
+Att. Minister Sven-Erik Österberg ;Karl-Olof//PM|NOM//ROOT//0 Hammarkvist//PM|NOM//flat:name//0 /Dimitrios//RG|NOM//nmod:poss//3 Ioannidis//PM|NOM//nmod//0
+Att. Minister Sven-Erik Österberg ;Joakim//PM|NOM//ROOT//0 Jansson//PM|NOM//flat:name//0
+Att. Minister Sven-Erik Österberg ;Thomas//PM|NOM//ROOT//0 Norling//PM|NOM//flat:name//0
+
+Extended summary;The//PM|NOM//det//1 committee//PM|NOM//ROOT//1 ’//PM|NOM//punct//1 s//PM|NOM//nummod//4 assignment//NN|UTR|SIN|IND|NOM//nmod//1
+Extended summary;Source//PM|NOM//ROOT//0 ://MID//punct//0
+Extended summary;PPM//PM|NOM//appos//0
+Extended summary;Pension//NN|UTR|SIN|IND|NOM//nmod//4 savers//UO//nmod//4 ’//UO//punct//3 average//UO//nmod//1 outcome//UO//nsubj//19 ,//MID//punct//4 2000-2005//RG|NOM//conj//4 ,//MID//punct//9 internal//UO//amod//9 rate//UO//conj//4 of//UO//case//11 return//UO//nmod//9 (//PAD//punct//13 internränta//NN|UTR|SIN|IND|NOM//conj//4 )//PAD//punct//13 and//UO//cc//17 time-weighted//UO//amod//17 return//UO//conj//4 (//PAD//punct//17 tidsviktad//PC|PRF|UTR|SIN|IND|NOM//ROOT//19 avkastning//NN|UTR|SIN|IND|NOM//obj//19 )//PAD//punct//19
+Extended summary;Source//PM|NOM//ROOT//0 ://MID//punct//0
+Extended summary;PPM//PM|NOM//appos//0
+Extended summary;Pension//NN|UTR|SIN|IND|NOM//compound//1 savers//UO//nmod:poss//3 ’//UO//punct//3 management//UO//ROOT//3
+Extended summary;Source//PM|NOM//ROOT//0 ://MID//punct//0
+Extended summary;PPM//PM|NOM//appos//0
+Extended summary;Portion//NN|UTR|SIN|IND|NOM//ROOT//0 in//UO//advmod//0 shares//UO//conj//0
+Extended summary;Men//KN//cc//2  //_SP////0 Women//PM|NOM//ROOT//2
+Extended summary;Source//PM|NOM//ROOT//0 ://MID//punct//0
+Extended summary;PPM//PM|NOM//appos//0
+Extended summary;Source//PM|NOM//ROOT//0 ://MID//punct//0
+Extended summary;Demoskop//PM|NOM//appos//0 2005//RG|NOM//nummod//2 .//MAD//punct//0
+Extended summary;Source//PM|NOM//ROOT//0 ://MID//punct//0
+Extended summary;PPM//PM|NOM//appos//0
+Extended summary;USA//PM|NOM//ROOT//0 ://MID//punct//0
+Extended summary;TSP//PM|NOM//appos//0
+Extended summary;Denmark//PM|NOM//ROOT//0 ://MID//punct//0
+Extended summary;atpValg//AB|AN//appos//0
+Extended summary;Premium//NN|NEU|SIN|IND|NOM//amod//1 pension//NN|UTR|SIN|IND|NOM//ROOT//1 2020//RG|NOM//nummod//1
+Extended summary;Denmark//PM|NOM//ROOT//0 ://MID//punct//0
+Extended summary;medValg//AB|AN//appos//0
+Extended summary;Denmark//PM|NOM//ROOT//0 ://MID//punct//0
+Extended summary;selvValg//NN|UTR|PLU|IND|NOM//appos//0
+Extended summary;Premium//NN|NEU|SIN|IND|NOM//amod//1 pension//NN|UTR|SIN|IND|NOM//ROOT//1 2005//RG|NOM//nummod//1
+Extended summary;"Australia//PM|NOM//ROOT//0 ://MID//punct//0 ""//PAD//punct//3"
+Extended summary;"corporate//UO//appos//0 ""//PAD//punct//3"
+Extended summary;"UK//PM|NOM//ROOT//0 ://MID//punct//0 ""//PAD//punct//3"
+Extended summary;"personal//NN|UTR|SIN|IND|NOM//appos//0 ""//PAD//punct//3"
+Extended summary;"Australia//PM|NOM//ROOT//0 ://MID//punct//0 ""//PAD//punct//3"
+Extended summary;"industry-wide//UO//appos//0 ""//PAD//punct//3"
+Extended summary;"UK//PM|NOM//ROOT//0 -//MID//punct//0 ""//PAD//punct//3 stakeholder//UO//parataxis//0 ""//PAD//punct//3"
+Extended summary;Chile//PM|NOM//ROOT//0
+Extended summary;"UK//PM|NOM//ROOT//0 -//MID//punct//0 ""//PAD//punct//3 personal//NN|UTR|SIN|IND|NOM//appos//0 ""//PAD//punct//3"
+Extended summary;"Australia//PM|NOM//ROOT//0 ://MID//punct//0 ""//PAD//punct//4"
+Extended summary;"master//UO//nmod:poss//4 trust//UO//appos//0 ""//PAD//punct//4"
+Extended summary;Mexico//PM|NOM//ROOT//0
+Extended summary;Argentina//PM|NOM//ROOT//0
+Extended summary;Poland//PM|NOM//ROOT//0
+Extended summary;USA-TSP//PM|NOM//ROOT//0
+Extended summary;Denmark//PM|NOM//ROOT//0 ://MID//punct//0
+Extended summary;atpValg//AB|AN//appos//0
+Extended summary;"Australia-""industry-wide//MAD//ROOT//0 ""//PAD//punct//0"
+Extended summary;Premium//UO//amod//1 pension//NN|UTR|SIN|IND|NOM//ROOT//1
+Extended summary;"Australia//PM|NOM//ROOT//0 -""corporate//PM|GEN//nummod//0 ""//PAD//punct//0"
+Extended summary;Chile//PM|NOM//ROOT//0
+Extended summary;Denmark//PM|NOM//ROOT//0 ://MID//punct//0
+Extended summary;medValg//AB|AN//appos//0
+Extended summary;Denmark//PM|NOM//ROOT//0 ://MID//punct//0
+Extended summary;selvValg//NN|UTR|PLU|IND|NOM//appos//0
+Extended summary;Poland//PM|NOM//ROOT//0
+Extended summary;"UK//PM|NOM//ROOT//0 -//MID//punct//0 ""//PAD//punct//3 stakeholder//UO//parataxis//0 ""//PAD//punct//3"
+Extended summary;Mexico//PM|NOM//ROOT//0
+Extended summary;Argentina//PM|NOM//ROOT//0
+Extended summary;"UK//PM|NOM//ROOT//0 -//MID//punct//0 ""//PAD//punct//3 personal//NN|UTR|SIN|IND|NOM//appos//0 ""//PAD//punct//3"
+Extended summary;"Australia-""master//UO//amod//1 trust//UO//ROOT//1 ""//PAD//punct//1"
+Extended summary;PPM//PM|NOM//nsubj//2 fund//UO//amod//2 market//UO//ROOT//2
+Extended summary;Capital//PM|NOM//ROOT//0
+Extended summary;market//NN|UTR|SIN|IND|NOM//ROOT//0
+Extended summary;Premiesparfonden//NN|UTR|SIN|DEF|NOM//ROOT//0
+Extended summary;Draft//UO//nsubj//1 for//UO//ROOT//1 a//UO//case//3 future//UO//obl//4 premium//UO//amod//5 pension//UO//nmod//6 system//NN|NEU|PLU|IND|NOM//obj//1
+Extended summary;Default//UO//nsubj//1 alternative//UO//ROOT//1
+Extended summary;Need//PM|NOM//nsubj//1 for//PM|NOM//ROOT//1 guidance//PM|NOM//xcomp//1
+

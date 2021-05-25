@@ -1,0 +1,7 @@
+Järnvägsutredningen;N//PM|NOM//ROOT//0 2007:11//RG|NOM//flat:name//0
+
+
+Utredningen har antagit namnet Järnvägsutredningen 2.;Härmed//AB//advmod//1 överlämnar//VB|PRS|AKT//ROOT//1 jag//PN|UTR|SIN|DEF|SUB//nsubj//1 betänkandet//NN|NEU|SIN|DEF|NOM//nmod//4 Konkurrens//NN|UTR|SIN|IND|NOM//obj//1 på//PP//case//6 spåren//NN|NEU|PLU|DEF|NOM//nmod//4  //_SP////6 (//PAD//punct//9 SOU//PM|NOM//parataxis//1 2008:92//RG|NOM//nummod//9 )//PAD//punct//9 .//MAD//punct//9
+Utredningen har antagit namnet Järnvägsutredningen 2.;I//PP//case//14 betänkandet//NN|NEU|SIN|DEF|NOM//obl//15 lämnar//VB|PRS|AKT//conj//1 jag//PN|UTR|SIN|DEF|SUB//nsubj//15 förslag//NN|NEU|SIN|IND|NOM//obj//15 om//PP//mark//24 hur//HA//advmod//20 persontransport//NN|UTR|SIN|IND|NOM//nsubj:pass//24 med//PP//case//22 järnväg//NN|UTR|SIN|IND|NOM//nmod//20 kan//VB|PRS|AKT//aux//24 utvecklas//VB|INF|SFO//advcl//15 så//SN//advmod//24 att//SN//mark//36 samhällets//NN|NEU|SIN|DEF|GEN//nmod:poss//30 och//KN//cc//29 resenärernas//NN|UTR|PLU|DEF|GEN//conj//27 krav//NN|NEU|PLU|IND|NOM//nsubj:pass//36 på//PP//case//32 effektivitet//NN|UTR|SIN|IND|NOM//nmod//30 och//KN//cc//34 kvalitet//NN|UTR|SIN|IND|NOM//conj//32 kan//VB|PRS|AKT//aux//36 tillgodoses//VB|INF|SFO//ccomp//24 .//MAD//punct//1
+
+

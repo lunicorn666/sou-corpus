@@ -1,0 +1,4 @@
+Sammanfattning av uppdraget;En//DT|UTR|SIN|IND//det//2 särskild//PC|PRF|UTR|SIN|IND|NOM//amod//2 utredare//NN|UTR|SIN|IND|NOM//nsubj:pass//3 utses//VB|PRS|SFO//ROOT//3 för//PP//mark//6 att//IE//mark//6 stödja//VB|INF|AKT//advcl//3 arbetet//NN|NEU|SIN|DEF|NOM//obj//6 med//PP//case//9 jämställdhetsintegrering//NN|UTR|SIN|IND|NOM//nmod//7 i//PP//case//13 den//DT|UTR|SIN|DEF//det//13 statliga//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//13 verksamheten//NN|UTR|SIN|DEF|NOM//nmod//9 .//MAD//punct//3
+Sammanfattning av uppdraget;Insatserna//NN|UTR|PLU|DEF|NOM//nsubj:pass//17 skall//VB|PRS|AKT//aux//17 riktas//VB|INF|SFO//parataxis//3 till//PP//case//19 myndigheter//NN|UTR|PLU|IND|NOM//obl//17 under//PP//case//21 regeringen//NN|UTR|SIN|DEF|NOM//obl//17 ,//MID//punct//24 inklusive//PP//case//24 Regeringskansliet//NN|NEU|SIN|DEF|NOM//conj//21 .//MAD//punct//3
+Sammanfattning av uppdraget;Utredaren//NN|UTR|SIN|DEF|NOM//nsubj//1 skall//VB|PRS|AKT//ROOT//1 ://MAD//punct//1
+

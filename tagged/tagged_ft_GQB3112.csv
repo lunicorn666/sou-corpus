@@ -1,0 +1,209 @@
+Swedish Views;Editor//PM|NOM//nmod//1 Peter//PM|NOM//ROOT//1 Seipel//PM|NOM//flat:name//1
+Swedish Views;Information//NN|UTR|SIN|IND|NOM//nmod//2 and//PM|NOM//cc//0 Communication//PM|NOM//ROOT//2
+Swedish Views;Technology//PM|NOM//ROOT//0 Commission//PM|NOM//nsubj//0 Report//PM|NOM//flat:name//1
+Swedish Views;Stockholm//PM|NOM//ROOT//0 2002//RG|NOM//nummod//0
+
+
+Editor’s Foreword;Peter//PM|NOM//ROOT//0 Seipel//PM|NOM//flat//0
+Editor’s Foreword;Christer//PM|NOM//compound//1 Marking//PM|NOM//ROOT//1 *//MID//punct//1
+
+
+1 Background / PART II:;Peter//PM|NOM//ROOT//0 Seipel//PM|NOM//flat//0 *//MID//punct//0
+
+
+4 Points of view;Håkan//PM|NOM//ROOT//0 Hydén//PM|NOM//flat:name//0 *//MID//punct//0
+
+
+2 The long waves;Time//UO//ROOT//0
+2 The long waves;Joachim//PM|NOM//ROOT//0 Benno//PM|NOM//flat:name//0 *//MID//punct//0
+2 The long waves;Peter//PM|NOM//ROOT//0 Wahlgren//PM|NOM//flat:name//0 1//RG|NOM//nummod//0
+2 The long waves;Rättsinformatik//NN|UTR|SIN|IND|NOM//ROOT//0 1996//RG|NOM//nummod//0 .//MID//punct//0
+2 The long waves;Martin//PM|NOM//appos//0 Brinnen//PM|NOM//flat:name//3 ,//MID//punct//4 ed//NN|AN//conj//3 .//MAD//punct//3 ,//MID//punct//9
+2 The long waves;Stockholm//PM|NOM//conj//3 ,//MID//punct//12 Norstedts//PM|GEN//amod//12 Juridik//PM|NOM//conj//3 ,//MID//punct//12 1996//RG|NOM//nummod//3 ,//MID//punct//3 pp//NN|AN//nmod//3 .//MAD//punct//3
+2 The long waves;49-58//RG|NOM//conj//0 ,//MID//punct//20 53-54//RG|NOM//nmod//18 .//MAD//punct//0
+2 The long waves;(//PAD//punct//24 Freely//UO//compound//24 translated//UO//appos//0 )//PAD//punct//24
+
+
+4 Concluding reflections;4.3//RG|NOM//nmod//3 The//UO//det//3 wider//UO//amod//3 perspective//UO//ROOT//3
+4 Concluding reflections;Per//PM|NOM//ROOT//0 Furberg//PM|NOM//flat:name//0 *//MAD//punct//0
+
+1 Introduction (1);in//PL//ROOT//0 Annex//PM|NOM//nsubj//0 1//RG|NOM//nummod//0 .//MAD//punct//0
+1 Introduction (1);N//PM|NOM//ROOT//0  //_SP////0 immediate//UO//nmod:poss//3 settlement//UO//conj//0 ,//MID//punct//0
+1 Introduction (1);N//PM|NOM//ROOT//0  //_SP////0 chattels//UO//conj//0 ,//MID//punct//2 7.1//RG|NOM//nmod//5 Cash-based//UO//appos//0 payments//UO//nmod:poss//7 procedures//UO//nmod//5
+
+9 Closing lines The IT-practitioner’s World;presentation//NN|UTR|SIN|IND|NOM//ROOT//0 in//PM|NOM//advmod//0 Annex//PM|NOM//nmod//0 1//RG|NOM//nummod//0 .//MAD//punct//0
+
+
+3 The IT-practitioner / Part III:;Hans//PM|NOM//nmod:poss//1 Sundström//PM|NOM//ROOT//1 ,//MID//punct//3 Gustaf//PM|NOM//conj//1 Johnssén//PM|NOM//flat:name//3 *//MID//punct//1
+
+
+2 Government in transition;Administration//NN|UTR|SIN|IND|NOM//ROOT//0  //_SP////0 (//PAD//punct//0 Statskontoret//NN|NEU|SIN|DEF|NOM//appos//0 2000:41//RG|NOM//nmod//3 )//PAD//punct//3 ,//MID//punct//7 available//UO//conj//0 at//UO//obj//7 www.statskontoret.se//NN|UTR|PLU|IND|NOM//nummod//7 .//MAD//punct//0
+
+7 New legal documents;Peter//PM|NOM//ROOT//0 Seipel//PM|NOM//flat//0 *//MID//punct//0
+7 New legal documents;Erlend//PM|NOM//nmod//1 Loe//PM|NOM//ROOT//1 1//RG|NOM//nummod//1
+
+
+5 Minimalism and maximalism;Claes//PM|NOM//ROOT//0 Gränström//PM|NOM//flat:name//0 *//MID//punct//4 2.1//RG|NOM//nmod//4 Technological//PM|NOM//conj//0 development//NN|UTR|SIN|IND|NOM//conj//0 2.2//RG|NOM//nummod//0 The//UO//det//9 democratic//UO//amod//9 process//UO//nmod//10 2.3//RG|NOM//conj//0 Internationalisation//NN|UTR|SIN|IND|NOM//cc//0 3.2//RG|NOM//conj//0 Arrangement//UO//conj//0 and//PM|NOM//cc//0 description//PM|NOM//conj//0 3.3//RG|NOM//nmod//17 Appraisal//PM|NOM//nmod//0 ///MID//cc//19 deletion//NN|UTR|SIN|IND|NOM//conj//17 3.4//RG|NOM//nmod//21 Authenticity//PM|NOM//nmod//0 ///MID//cc//23 migration//NN|UTR|SIN|IND|NOM//conj//21
+
+
+1 Anonymity versus community;entation//NN|UTR|SIN|IND|NOM//nsubj//8 in//UO//advmod//0 Annex//PM|NOM//nmod//0 1//RG|NOM//nummod//0 .//MAD//punct//0
+1 Anonymity versus community;6.2//RG|NOM//nmod//7 Be//UO//amod//7 media//UO//nmod//8 neutral//JJ|POS|UTR|SIN|IND|NOM//ROOT//8 !//MID//punct//8
+1 Anonymity versus community;6.3//RG|NOM//nummod//12 Harmonise//PM|NOM//amod//12 law//UO//nmod//13 internationally//UO//parataxis//8 !//MAD//punct//8
+
+1 Introduction (2);Merger//PM|NOM//ROOT//0 &//KN|AN//cc//2 Acquisition//PM|NOM//conj//0 .//MAD//punct//0
+
+
+12 Concluding remarks;Mikael//PM|NOM//ROOT//0 Pawlo//PM|NOM//flat:name//0 *//MID//punct//0
+
+3 Open code legislation;2001//RG|NOM//ROOT//0 .//MAD//punct//0
+
+6 Compulsory licensing;The//UO//det//1 conversation//UO//nmod//2 continues//UO//ROOT//2 .//MAD//punct//2
+6 Compulsory licensing;Lena//PM|NOM//ROOT//0 Olsen//PM|NOM//flat:name//0 *//MID//punct//0
+
+
+7 Conclusions;Gustaf//PM|NOM//ROOT//0 Johnssén//PM|NOM//flat:name//0 *//MID//punct//0
+
+
+3 Classification problems;"c//NN|NEU|SIN|IND|NOM//discourse//3 )//PAD//punct//0 an//UO//case//3 office//UO//ROOT//3 ;//MID//punct//3"
+3 Classification problems;"d//NN|NEU|SIN|IND|NOM//conj//3 )//PAD//punct//5 a//UO//amod//8 factory//UO//conj//3 ;//MAD//punct//3"
+3 Classification problems;N//PM|NOM//ROOT//0  //_SP////0 Enforcement//PM|NOM//amod//3 problems//UO//conj//0 .//MAD//punct//0
+3 Classification problems;N//PM|NOM//ROOT//0  //_SP////0 Application//UO//nmod//3 problems//UO//nmod//0 .//MAD//punct//0
+3 Classification problems;N//PM|NOM//ROOT//0  //_SP////0 Principal//UO//amod//3 problems//UO//conj//0 .//MAD//punct//0
+3 Classification problems;Anders//PM|NOM//nmod//1 R.//PM|NOM//ROOT//1 Olsson//PM|NOM//flat:name//1 *//MID//punct//1
+
+
+5 Solutions?;Håkan//PM|NOM//ROOT//0 Hydén//PM|NOM//flat:name//0 *//MID//punct//0
+
+1 Self or employed?;Legal//UO//amod//1 System//UO//ROOT//1 )//PAD//punct//1 Diss//NN|AN//appos//1 .//MAD//punct//1 ,//MID//punct//6
+1 Self or employed?;Stockholm//PM|NOM//conj//1 ://MID//punct//6
+1 Self or employed?;Stockholm//PM|NOM//conj//1 Business//PM|NOM//nsubj//8 School//PM|NOM//conj//8 2002//RG|NOM//nummod//10 (//PAD//punct//8 in//UO//parataxis//8 press//UO//conj//8 )//PAD//punct//1 .//MAD//punct//1
+1 Self or employed?;Anders//PM|NOM//nmod//1 Victorin//PM|NOM//ROOT//1 *//MID//punct//1
+
+
+7 Conclusion / Security and Vulnerability;Sören//PM|NOM//ROOT//0 Öman//PM|NOM//flat:name//0 *//MID//punct//0
+
+1 Historical background;Per//PM|NOM//ROOT//0 Furberg//PM|NOM//flat:name//0 *//MAD//punct//0
+
+1 Computer crime;in//PL//ROOT//0 Annex//PM|NOM//nsubj//0 1//RG|NOM//nummod//0 .//MAD//punct//0
+
+
+6 Closing lines Part VI: / Legal Machinery Matters;Cecilia//PM|NOM//ROOT//0 Magnusson//PM|NOM//flat:name//0 Sjöberg//PM|NOM//flat:name//1 *//MID//punct//0
+
+
+3 Why markup languages?;3.1//RG|NOM//nummod//1 XML//PM|NOM//nsubj//2 explained//NN|UTR|SIN|IND|NOM//ROOT//2
+
+3 Why markup languages? / >;...//MID//punct//2 3.2//RG|NOM//nummod//2 XML//PM|NOM//ROOT//2 and//PM|NOM//cc//4 security//UO//conj//2
+
+4 Infrastructural changes;5.1//RG|NOM//compound//1 Regulatory//UO//nmod:poss//2 management//UO//amod//3 marked-up//UO//ROOT//3 documents//UO//nsubj//3
+
+6 Concluding remarks;Peter//PM|NOM//ROOT//0 Wahlgren//PM|NOM//flat:name//0 *//MID//punct//0
+
+1 Introduction (3);http://www.juridicum.su.se/iri/engindex.htm?studentinfo/master/master//AB|AN//punct//5 .//MAD//punct//5
+1 Introduction (3);2.1//RG|NOM//nummod//4 Background//PM|NOM//cc//2 2.2//RG|NOM//nummod//5 Information//NN|UTR|SIN|IND|NOM//nsubj//6 content//UO//ROOT//6
+1 Introduction (3);Technical//PM|NOM//ROOT//0 aspect//NN|UTR|SIN|IND|NOM//obl//2 2.3//RG|NOM//nmod//3 Technical//PM|NOM//nmod//0 aspects//PM|NOM//conj//0 2.4//RG|NOM//nmod//6 Organisation//NN|UTR|SIN|IND|NOM//obl//0
+1 Introduction (3);Ulf//PM|NOM//ROOT//0 Maunsbach//PM|NOM//flat:name//0 *//MID//punct//0
+
+1 Introductory remarks;2.1//RG|NOM//nmod//1 What//UO//compound//3 is//UO//nmod//3 ADR-online//UO//ROOT//3 ?//MAD//punct//3
+
+3 Final remarks;Björn//PM|NOM//ROOT//0 Larsson//PM|NOM//flat:name//0 *//MID//punct//0
+
+4 Possible development;4.1.2//RG|NOM//nsubj//2 The//PM|NOM//det//2 organisation//NN|UTR|SIN|IND|NOM//ROOT//2
+4 Possible development;Intermediate//UO//det//1 court//UO//ROOT//1
+4 Possible development;Lower//PM|NOM//amod//1 court//UO//ROOT//1
+
+5 Concluding viewpoints Annex 1;Peter//PM|NOM//ROOT//0 Seipel//PM|NOM//flat//0
+5 Concluding viewpoints Annex 1;Kjell//PM|NOM//ROOT//0 Skoglund//PM|NOM//flat//0
+5 Concluding viewpoints Annex 1;Joachim//PM|NOM//ROOT//0 Benno//PM|NOM//flat:name//0
+5 Concluding viewpoints Annex 1;Viveca//PM|NOM//nmod:poss//1 Bergstedt//PM|NOM//ROOT//1 Sten//PM|NOM//flat:name//1
+5 Concluding viewpoints Annex 1;Peter//PM|NOM//ROOT//0 Danovsky//PM|NOM//flat//0
+5 Concluding viewpoints Annex 1;Malin//PM|NOM//ROOT//0 Forsman//PM|NOM//flat//0
+5 Concluding viewpoints Annex 1;Per//PM|NOM//ROOT//0 Furberg//PM|NOM//flat//0
+5 Concluding viewpoints Annex 1;Johan//PM|NOM//ROOT//0 Hirschfeldt//PM|NOM//flat:name//0
+5 Concluding viewpoints Annex 1;Håkan//PM|NOM//ROOT//0 Hydén//PM|NOM//flat:name//0
+5 Concluding viewpoints Annex 1;Katarina//PM|NOM//ROOT//0 Högbom//PM|NOM//flat//0
+5 Concluding viewpoints Annex 1;Agne//PM|NOM//ROOT//0 Lindberg//PM|NOM//flat:name//0
+5 Concluding viewpoints Annex 1;Christina//PM|NOM//ROOT//0 Ramberg//PM|NOM//flat//0
+5 Concluding viewpoints Annex 1;Nicklas//PM|NOM//ROOT//0 Skår//PM|NOM//flat//0
+5 Concluding viewpoints Annex 1;Hans//PM|NOM//nmod:poss//1 Sundström//PM|NOM//ROOT//1
+5 Concluding viewpoints Annex 1;Monique//PM|NOM//ROOT//0 Wadsted//PM|NOM//flat//0
+5 Concluding viewpoints Annex 1;B//PM|NOM//nmod//1 G//PM|NOM//ROOT//1 Wennersten//PM|NOM//flat:name//1
+5 Concluding viewpoints Annex 1;Kerstin//PM|NOM//ROOT//0 Wiss//PM|NOM//flat//0 Holmdahl//PM|NOM//flat:name//1
+
+5 Concluding viewpoints Annex 1 / Annex 2;1/97//RG|NOM//nummod//21  //_SP////0 Transaktionens//NN|UTR|SIN|DEF|GEN//nmod:poss//3 anonymisering//NN|UTR|SIN|IND|NOM//conj//0 och//KN//cc//6 dess//PS|UTR/NEU|SIN/PLU|DEF//nmod:poss//6 påverkan//NN|UTR|SIN|IND|NOM//conj//0 på//PP//case//9 rättsliga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//9 problemställningar//NN|UTR|PLU|IND|NOM//nmod//6 .//MAD//punct//6
+5 Concluding viewpoints Annex 1 / Annex 2;(//PAD//punct//12 also//UO//parataxis//0 in//UO//advmod//12 English//PM|NOM//conj//12 ,//MID//punct//17 see//UO//nummod//17 below//UO//conj//12 6/98//RG|NOM//nummod//12 .//MID//punct//12 )//PAD//punct//21
+5 Concluding viewpoints Annex 1 / Annex 2;Joachim//PM|NOM//ROOT//21 Benno//PM|NOM//flat//21 .//MAD//punct//21
+5 Concluding viewpoints Annex 1 / Annex 2;2/97//RG|NOM//nummod//2  //_SP////0 Konsumentskyddet//NN|NEU|SIN|DEF|NOM//ROOT//2 i//PP//case//4 informationssamhäll//NN|NEU|SIN|IND|NOM//nmod//2 et//UO//nummod//4 .//MAD//punct//2
+5 Concluding viewpoints Annex 1 / Annex 2;3/98//RG|NOM//case//3  //_SP////0 Cyberrymdens//NN|UTR|SIN|DEF|GEN//nmod:poss//3 juridik//NN|UTR|SIN|IND|NOM//ROOT//3 –//RG|NOM//punct//5 Lagstiftning//NN|UTR|SIN|IND|NOM//appos//3 och//KN//cc//7 självreglering//NN|UTR|SIN|IND|NOM//conj//5 .//MAD//punct//3
+5 Concluding viewpoints Annex 1 / Annex 2;4/98//RG|NOM//nummod//3  //_SP////0 Mobila//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//3 agenter//NN|UTR|PLU|IND|NOM//ROOT//3 .//MAD//punct//3
+5 Concluding viewpoints Annex 1 / Annex 2;5/98//RG|NOM//discourse//2  //_SP////0 SPAM//PM|NOM//ROOT//2 !//MID//punct//2 ?//MAD//punct//2
+5 Concluding viewpoints Annex 1 / Annex 2;7/98//RG|NOM//advmod//3  //_SP////0 Fri//JJ|POS|UTR|SIN|IND|NOM//amod//3 aktör//NN|UTR|SIN|IND|NOM//ROOT//3 ,//MID//punct//5 egenanställd//PC|PRF|UTR|SIN|IND|NOM//conj//3 ,//MID//punct//8 ny//JJ|POS|UTR|SIN|IND|NOM//amod//8 daglönare//NN|UTR|SIN|IND|NOM//conj//3 !//MID//punct//3 ?//MAD//punct//3
+5 Concluding viewpoints Annex 1 / Annex 2;(//PAD//punct//12 I//RG|NOM//appos//3 )//PAD//punct//3
+5 Concluding viewpoints Annex 1 / Annex 2;8/98//RG|NOM//advmod//3  //_SP////0 En//DT|UTR|SIN|IND//det//3 missbruksmodell//NN|UTR|SIN|IND|NOM//ROOT//3 .//MAD//punct//3
+5 Concluding viewpoints Annex 1 / Annex 2;Per//PM|NOM//ROOT//0 Hammarstedt//PM|NOM//flat//0
+5 Concluding viewpoints Annex 1 / Annex 2;9/98//RG|NOM//case//2  //_SP////0 Rättspolitik//NN|UTR|SIN|IND|NOM//ROOT//2 på//PP//case//4 IT-området//NN|NEU|SIN|DEF|NOM//nmod//2 –//RG|NOM//punct//7 ett//DT|NEU|SIN|IND//det//7 diskussionsunderlag//NN|NEU|SIN|IND|NOM//appos//2
+5 Concluding viewpoints Annex 1 / Annex 2;10/99//RG|NOM//det//3  //_SP////0 Teknikoberoende//JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//3 yttrandefrihetsreglering//NN|UTR|SIN|IND|NOM//ROOT//3 ?//MAD//punct//3
+5 Concluding viewpoints Annex 1 / Annex 2;Martin//PM|NOM//ROOT//0 Brinnen//PM|NOM//flat//0
+5 Concluding viewpoints Annex 1 / Annex 2;11/99//RG|NOM//ROOT//0  //_SP////0 Fri//JJ|POS|UTR|SIN|IND|NOM//amod//3 aktör//NN|UTR|SIN|IND|NOM//appos//0 ,//MID//punct//5 egenanställd//PC|PRF|UTR|SIN|IND|NOM//conj//0 ,//MID//punct//8 ny//JJ|POS|UTR|SIN|IND|NOM//amod//8 daglönare//NN|UTR|SIN|IND|NOM//conj//0 !//MID//punct//0 ?//MAD//punct//0
+5 Concluding viewpoints Annex 1 / Annex 2;(//PAD//punct//0 II//RG|NOM//appos//0 )//PAD//punct//0
+5 Concluding viewpoints Annex 1 / Annex 2;12/2000//RG|NOM//nummod//2  //_SP////0 Ledningsrätten//PM|NOM//ROOT//2 i//PP//case//4 IT-tider//NN|UTR|PLU|IND|NOM//nmod//2
+5 Concluding viewpoints Annex 1 / Annex 2;14/2000//RG|NOM//nummod//3  //_SP////0 Elektronisk//JJ|POS|UTR|SIN|IND|NOM//amod//3 handel//NN|UTR|SIN|IND|NOM//ROOT//3 och//KN//cc//6 indirekt//JJ|POS|UTR|SIN|IND|NOM//amod//6 skatt//NN|UTR|SIN|IND|NOM//conj//3 .//MAD//punct//3
+5 Concluding viewpoints Annex 1 / Annex 2;15/2000//RG|NOM//nummod//2  //_SP////0 Behov//NN|NEU|PLU|IND|NOM//ROOT//2 av//PP//case//5 nya//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//5 associassionsformer//NN|UTR|PLU|IND|NOM//nmod//2 ?//MAD//punct//2
+5 Concluding viewpoints Annex 1 / Annex 2;16/2000//RG|NOM//det//3  //_SP////0 Insynens//PM|GEN//nmod:poss//3 gränser//NN|UTR|PLU|IND|NOM//ROOT//3 –//PAD//punct//3 Allt//PN|NEU|SIN|IND|SUB/OBJ//appos//3 eller//KN//cc//7 intet//PN|NEU|SIN|IND|SUB/OBJ//conj//5 ?//MAD//punct//3
+5 Concluding viewpoints Annex 1 / Annex 2;Peter//PM|NOM//ROOT//0 Seipel//PM|NOM//flat//0
+5 Concluding viewpoints Annex 1 / Annex 2;(//PAD//punct//2 Data//UO//compound//2 viruses//UO//ROOT//2 .//MID//punct//2
+5 Concluding viewpoints Annex 1 / Annex 2;Seminar//UO//parataxis//2 documentation//UO//obj//4 .//MID//punct//2 )//PAD//punct//9
+5 Concluding viewpoints Annex 1 / Annex 2;18/2000//RG|NOM//amod//9 e-skatt//NN|UTR|SIN|IND|NOM//conj//2 ?//MID//punct//9
+5 Concluding viewpoints Annex 1 / Annex 2;  //_SP////10 i-skatt//NN|UTR|SIN|IND|NOM//conj//9 ?//MID//punct//9
+5 Concluding viewpoints Annex 1 / Annex 2;  //_SP////13 o-skatt//NN|UTR|SIN|IND|NOM//dep//2 ?//MAD//punct//2
+5 Concluding viewpoints Annex 1 / Annex 2;Gustaf//PM|NOM//ROOT//0 Johnssén//PM|NOM//flat:name//0 30/2001//RG|NOM//nummod//0 Ledningsrätt//NN|UTR|SIN|IND|NOM//obj//0 i//PP//case//6  //_SP////4 IT-tider//NN|UTR|PLU|IND|NOM//obl//0 .//MAD//punct//0
+5 Concluding viewpoints Annex 1 / Annex 2;31/2001//RG|NOM//nummod//3  //_SP////0 Fri//JJ|POS|UTR|SIN|IND|NOM//amod//3 aktör//NN|UTR|SIN|IND|NOM//ROOT//3 ,//MID//punct//5 egenanställd//PC|PRF|UTR|SIN|IND|NOM//conj//3 ,//MID//punct//8 ny//JJ|POS|UTR|SIN|IND|NOM//amod//8 daglönare//NN|UTR|SIN|IND|NOM//conj//3 ?//MID//punct//3
+5 Concluding viewpoints Annex 1 / Annex 2;(//PAD//punct//11 IV//RG|NOM//appos//3 )//PAD//punct//11 –//RG|NOM//punct//14 Fri//JJ|POS|UTR|SIN|IND|NOM//appos//3 ,//MID//punct//14 ensam//JJ|POS|UTR|SIN|IND|NOM//conj//14 ,//MID//punct//18 trygg//JJ|POS|UTR|SIN|IND|NOM//conj//14 ?//MAD//punct//3
+5 Concluding viewpoints Annex 1 / Annex 2;52/2002//RG|NOM//ROOT//0  //_SP////0 IT//NN|AN//appos//0 i//PP//case//4 domstolsprocessen//NN|UTR|SIN|DEF|NOM//nmod//2 .//MAD//punct//0
+5 Concluding viewpoints Annex 1 / Annex 2;(//PAD//punct//1 IT//NN|AN//ROOT//1 in//PM|NOM//advmod//1 the//PM|NOM//det//4 courts//UO//obj//1 .//MAD//punct//1
+5 Concluding viewpoints Annex 1 / Annex 2;Seminar//UO//parataxis//1 documentation//UO//obj//6 .//MID//punct//1 )//PAD//punct//1
+5 Concluding viewpoints Annex 1 / Annex 2;55/2002//RG|NOM//amod//11 Företagshemligheter//NN|UTR|PLU|IND|NOM//appos//1 i//PP//case//14 digital//JJ|POS|UTR|SIN|IND|NOM//amod//14 miljö//NN|UTR|SIN|IND|NOM//nmod//11 .//MAD//punct//1
+5 Concluding viewpoints Annex 1 / Annex 2;56/2002//RG|NOM//det//2  //_SP////0 Behandling//NN|UTR|SIN|IND|NOM//ROOT//2 av//PP//case//4 personuppgifter//NN|UTR|PLU|IND|NOM//nmod//2 och//KN//cc//6 rättsinformationen//NN|UTR|SIN|DEF|NOM//conj//4 .//MAD//punct//2
+5 Concluding viewpoints Annex 1 / Annex 2;SOU//PM|NOM//ROOT//0  //_SP////0 Rättsinformation//NN|UTR|SIN|IND|NOM//conj//0 och//KN//cc//4 IT//NN|AN//conj//2 .//MAD//punct//0
+5 Concluding viewpoints Annex 1 / Annex 2;SOU//PM|NOM//ROOT//0  //_SP////0 Rättsinformation//NN|UTR|SIN|IND|NOM//nmod//0 under//PP//case//4 2000-talet//NN|NEU|SIN|DEF|NOM//nmod//0 .//MAD//punct//0
+5 Concluding viewpoints Annex 1 / Annex 2;Memos//NN|NEU|SIN|IND|NOM//ROOT//0
+5 Concluding viewpoints Annex 1 / Annex 2;1:1998//RG|NOM//ROOT//0
+5 Concluding viewpoints Annex 1 / Annex 2;1:1999//RG|NOM//ROOT//0
+5 Concluding viewpoints Annex 1 / Annex 2;3:1999//RG|NOM//ROOT//0
+5 Concluding viewpoints Annex 1 / Annex 2;4:1999//RG|NOM//ROOT//0
+5 Concluding viewpoints Annex 1 / Annex 2;5:1999//RG|NOM//ROOT//0
+5 Concluding viewpoints Annex 1 / Annex 2;6:2000//RG|NOM//ROOT//0
+5 Concluding viewpoints Annex 1 / Annex 2;7:2000//MAD//ROOT//0
+5 Concluding viewpoints Annex 1 / Annex 2;8:2000//RG|NOM//ROOT//0
+5 Concluding viewpoints Annex 1 / Annex 2;9:2000//RG|NOM//ROOT//0
+5 Concluding viewpoints Annex 1 / Annex 2;10:2000//RG|NOM//ROOT//0
+5 Concluding viewpoints Annex 1 / Annex 2;11:2001//RG|NOM//ROOT//0
+5 Concluding viewpoints Annex 1 / Annex 2;12:2001//RG|NOM//ROOT//0
+5 Concluding viewpoints Annex 1 / Annex 2;14:2001//RG|NOM//ROOT//0
+5 Concluding viewpoints Annex 1 / Annex 2;15:2001//RG|NOM//ROOT//0
+5 Concluding viewpoints Annex 1 / Annex 2;Missbruksmodell//PM|NOM//ROOT//0 –//RG|NOM//punct//0 Alternativ//JJ|POS|UTR|SIN|IND|NOM//amod//3 reglering//NN|UTR|SIN|IND|NOM//appos//0 av//PP//case//5 skyddet//NN|NEU|SIN|DEF|NOM//nmod//3 för//PP//case//7 personuppgifter//NN|UTR|PLU|IND|NOM//nmod//5 .//MAD//punct//0
+5 Concluding viewpoints Annex 1 / Annex 2;Per//PM|NOM//ROOT//0 Hammarstedt//PM|NOM//flat//0
+5 Concluding viewpoints Annex 1 / Annex 2;Fri//JJ|POS|UTR|SIN|IND|NOM//amod//1 aktör//NN|UTR|SIN|IND|NOM//dislocated//9 ,//MID//punct//3 egenanställd//PC|PRF|UTR|SIN|IND|NOM//conj//1 ,//MID//punct//6 ny//JJ|POS|UTR|SIN|IND|NOM//amod//6 daglönare//NN|UTR|SIN|IND|NOM//conj//1 –//RG|NOM//punct//1 Hur//HA//advmod//9 ser//VB|PRS|AKT//ROOT//9 det//PN|NEU|SIN|DEF|SUB/OBJ//nsubj//9 ut//PL//compound:prt//9 idag//AB//advmod//9 ?//MID//punct//9
+5 Concluding viewpoints Annex 1 / Annex 2;Vad//HP|NEU|SIN|IND//nsubj:pass//16 behöver//VB|PRS|AKT//aux//16 göras//VB|INF|SFO//advcl//9 ?//MID//punct//20
+5 Concluding viewpoints Annex 1 / Annex 2;En//DT|UTR|SIN|IND//det//20 första//RO|NOM//amod//20 karta//NN|UTR|SIN|IND|NOM//obl//16 och//KN//cc//22 sammanställningar//NN|UTR|PLU|IND|NOM//conj//20 av//PP//case//24 utmaningar//NN|UTR|PLU|IND|NOM//nmod//22 .//MAD//punct//9
+5 Concluding viewpoints Annex 1 / Annex 2;Mats//PM|NOM//ROOT//0 Utbult//PM|NOM//flat:name//0
+5 Concluding viewpoints Annex 1 / Annex 2;Observatoriets//NN|NEU|SIN|DEF|GEN//nmod:poss//1 syn//NN|UTR|SIN|IND|NOM//ROOT//1 på//PP//case//4 vissa//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//4 straff-//NN|NEU|-|-|SMS//nmod//1 och//KN//cc//6 processrättsliga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//conj//4 lagstiftningsfrågor//NN|UTR|PLU|IND|NOM//conj//4 .//MAD//punct//1
+5 Concluding viewpoints Annex 1 / Annex 2;Nätets//NN|NEU|SIN|DEF|GEN//nmod:poss//1 genomskinlighet//NN|UTR|SIN|IND|NOM//ROOT//1 –//RG|NOM//punct//4 En//DT|UTR|SIN|IND//det//4 sammanfattning//NN|UTR|SIN|IND|NOM//appos//1 av//PP//case//7 ett//DT|NEU|SIN|IND//det//7 samtal//NN|NEU|SIN|IND|NOM//nmod//4 .//MAD//punct//1
+5 Concluding viewpoints Annex 1 / Annex 2;E-post//NN|UTR|SIN|IND|NOM//ROOT//0 på//PP//case//2 arbetsplatsen//NN|UTR|SIN|DEF|NOM//nmod//0 –//RG|NOM//punct//5 En//DT|UTR|SIN|IND//det//5 redovisning//NN|UTR|SIN|IND|NOM//appos//0 av//PP//case//8 ett//DT|NEU|SIN|IND//det//8 samtal//NN|NEU|SIN|IND|NOM//nmod//5 .//MAD//punct//5
+5 Concluding viewpoints Annex 1 / Annex 2; //_SP////9 (//PAD//punct//19 E-mail//NN|UTR|SIN|IND|NOM//nsubj//19  //_SP////12 at//PM|NOM//nsubj//17 the//PM|NOM//det//16 work//PM|NOM//nmod//17 place//UO//conj//12 .//MAD//punct//12
+5 Concluding viewpoints Annex 1 / Annex 2;Seminar//UO//parataxis//0 documentation//UO//obj//19 .//MAD//punct//19 )//PAD//punct//19
+5 Concluding viewpoints Annex 1 / Annex 2;Fri//JJ|POS|UTR|SIN|IND|NOM//amod//1 agent//NN|UTR|SIN|IND|NOM//ROOT//1 ,//MID//punct//3 egenanställd//PC|PRF|UTR|SIN|IND|NOM//conj//1 ,//MID//punct//7 ny//JJ|POS|UTR|SIN|IND|NOM//amod//7 daglönare//NN|UTR|SIN|IND|NOM//nmod//7 III//RG|NOM//conj//1 .//MAD//punct//1
+5 Concluding viewpoints Annex 1 / Annex 2;En//DT|UTR|SIN|IND//det//10 workshop//NN|UTR|SIN|IND|NOM//appos//1 och//KN//cc//13 ett//DT|NEU|SIN|IND//det//13 förslag//NN|NEU|SIN|IND|NOM//conj//10 till//PP//case//16 ”//PM|NOM//punct//16 Lag//NN|UTR|SIN|IND|NOM//nmod//13 om//PP//case//18 självanställning//NN|UTR|SIN|IND|NOM//obl//16 ”//PAD//punct//1 .//MAD//punct//1
+5 Concluding viewpoints Annex 1 / Annex 2;Rättsliga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//3 och//KN//cc//2 andra//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//conj//0 samhällsaspekter//NN|UTR|PLU|IND|NOM//ROOT//3 på//PP//case//5 agentteknik//NN|UTR|SIN|IND|NOM//nmod//3 .//MAD//punct//3
+5 Concluding viewpoints Annex 1 / Annex 2;Rapport//NN|UTR|SIN|IND|NOM//appos//3 från//PP//case//10 ett//DT|NEU|SIN|IND//det//10 seminarium//NN|NEU|SIN|IND|NOM//nmod//7 .//MAD//punct//3
+5 Concluding viewpoints Annex 1 / Annex 2;Auktioner//NN|UTR|PLU|IND|NOM//ROOT//0 på//PP//case//2 Internet//NN|NEU|SIN|DEF|NOM//nmod//0 –//RG|NOM//punct//4 Rapport//NN|UTR|SIN|IND|NOM//appos//0 från//PP//case//7 ett//DT|NEU|SIN|IND//det//7 seminarium//NN|NEU|SIN|IND|NOM//nmod//4 .//MAD//punct//0
+5 Concluding viewpoints Annex 1 / Annex 2;Överlever//VB|PRS|AKT//ROOT//0 upphovsrätten//NN|UTR|SIN|DEF|NOM//nsubj//0 upphovsrätten//NN|UTR|SIN|DEF|NOM//obj//0 ?//MID//punct//4
+5 Concluding viewpoints Annex 1 / Annex 2;Rapport//NN|UTR|SIN|IND|NOM//appos//2 från//PP//case//7 ett//DT|NEU|SIN|IND//det//7 seminarium//NN|NEU|SIN|IND|NOM//nmod//4 .//MAD//punct//0
+5 Concluding viewpoints Annex 1 / Annex 2;Bolagsstämma//NN|UTR|SIN|IND|NOM//ROOT//0 online//UO//obj//0 –//RG|NOM//punct//3 Rapport//NN|UTR|SIN|IND|NOM//appos//0 från//PP//case//6 ett//DT|NEU|SIN|IND//det//6 seminarium//NN|NEU|SIN|IND|NOM//nmod//3 .//MAD//punct//0
+5 Concluding viewpoints Annex 1 / Annex 2;Digitala//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//2 dokuments//NN|UTR|SIN|IND|GEN//nmod:poss//2 bevisvärde//NN|NEU|SIN|IND|NOM//ROOT//2 –//PM|NOM//punct//4 Rapport//NN|UTR|SIN|IND|NOM//appos//2 från//PP//case//7 ett//DT|NEU|SIN|IND//det//7 seminarium//NN|NEU|SIN|IND|NOM//nmod//4 .//MAD//punct//2
+5 Concluding viewpoints Annex 1 / Annex 2;(//PAD//punct//4 Digital//UO//compound//2 documents//UO//nmod:poss//4 as//UO//nmod//2 proof//UO//ROOT//4 .//MAD//punct//4
+5 Concluding viewpoints Annex 1 / Annex 2;Seminar//UO//parataxis//4 documentation//UO//obj//6 .//MAD//punct//4 )//PAD//punct//4
+5 Concluding viewpoints Annex 1 / Annex 2;Deponering//NN|UTR|SIN|IND|NOM//ROOT//0 av//PP//case//2 källkod//NN|UTR|SIN|IND|NOM//nmod//0 .//MAD//punct//0
+5 Concluding viewpoints Annex 1 / Annex 2;Fri//JJ|POS|UTR|SIN|IND|NOM//amod//1 agent//NN|UTR|SIN|IND|NOM//ROOT//1 ,//MID//punct//3 egenanställd//PC|PRF|UTR|SIN|IND|NOM//conj//1 ,//MID//punct//6 ny//JJ|POS|UTR|SIN|IND|NOM//amod//6 daglönare//NN|UTR|SIN|IND|NOM//conj//1 !//MID//punct//1 ?//MID//punct//1 -//MID//punct//1
+5 Concluding viewpoints Annex 1 / Annex 2;En//DT|UTR|SIN|IND//det//11 summering//NN|UTR|SIN|IND|NOM//appos//1 .//MAD//punct//1
+5 Concluding viewpoints Annex 1 / Annex 2;Alternativ//JJ|POS|UTR|SIN|IND|NOM//amod//1 tvistelösning//NN|UTR|SIN|IND|NOM//ROOT//1 (//PAD//punct//3 ADR//PM|NOM//appos//1 )//PAD//punct//5 online//UO//conj//3 .//MAD//punct//1
+

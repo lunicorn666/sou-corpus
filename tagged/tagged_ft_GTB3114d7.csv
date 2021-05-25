@@ -1,0 +1,10 @@
+3.3.4 Avdelning D Särskilda förmåner vid funktionshinder ;3.3.5//RG|NOM//nummod//1 Avdelning//NN|UTR|SIN|IND|NOM//nmod//2 E//NN|NEU|SIN|IND|NOM//nummod//3 Förmåner//NN|UTR|PLU|IND|NOM//ROOT//3 vid//PP//case//5 ålderdom//NN|UTR|SIN|IND|NOM//nmod//3
+3.3.4 Avdelning D Särskilda förmåner vid funktionshinder ;V//PP//nummod//3 Vissa//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//3 gemensamma//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//3 bestämmelser//NN|UTR|PLU|IND|NOM//ROOT//3 om//PP//case//6 allmän//JJ|POS|UTR|SIN|IND|NOM//amod//6 ålderspension//NN|UTR|SIN|IND|NOM//nmod//3
+3.3.4 Avdelning D Särskilda förmåner vid funktionshinder ;3.3.6//RG|NOM//nmod//2 Avdelning//NN|UTR|SIN|IND|NOM//nmod//2 F//PM|NOM//dep//3 Förmåner//NN|UTR|PLU|IND|NOM//ROOT//3 till//PP//case//5 efterlevande//NN|UTR|PLU|IND|NOM//nmod//3
+3.3.4 Avdelning D Särskilda förmåner vid funktionshinder ;III//RG|NOM//nmod//1 Efterlevandeförmåner//NN|UTR|PLU|IND|NOM//ROOT//1 från//PP//case//3 arbetsskadeförsäkringen//NN|UTR|SIN|DEF|NOM//nmod//1 m.m.//AB|AN//conj//3
+3.3.4 Avdelning D Särskilda förmåner vid funktionshinder ;IV//RG|NOM//nmod//1 Efterlevandeskydd//NN|NEU|SIN|IND|NOM//ROOT//1 i//PP//case//5 form//NN|UTR|SIN|IND|NOM//fixed//2 av//PP//fixed//2 premiepension//NN|UTR|SIN|IND|NOM//nmod//1
+3.3.4 Avdelning D Särskilda förmåner vid funktionshinder ;3.3.7//RG|NOM//ROOT//0 Avdelning//NN|UTR|SIN|IND|NOM//nmod//2 G//PM|NOM//dep//0 Bostadsstöd//NN|NEU|SIN|IND|NOM//flat:name//2
+3.3.4 Avdelning D Särskilda förmåner vid funktionshinder ;3.3.8//RG|NOM//nmod//1 Avdelning//NN|UTR|SIN|IND|NOM//nmod//2 H//PM|NOM//ROOT//2 Vissa//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//5 gemensamma//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//5 bestämmelser//NN|UTR|PLU|IND|NOM//obj//2
+3.3.4 Avdelning D Särskilda förmåner vid funktionshinder ;IV//RG|NOM//nmod//3 Vissa//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//3 organisatoriska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//3 bestämmelser//NN|UTR|PLU|IND|NOM//ROOT//3
+3.3.4 Avdelning D Särskilda förmåner vid funktionshinder ;3.4//RG|NOM//nmod//1 Paragrafregister//NN|UTR|PLU|IND|NOM//ROOT//1 som//HP|-|-|-//nsubj//3 utgår//VB|PRS|AKT//acl:relcl//1 från//PP//case//5 SEL//PM|NOM//obl//3
+

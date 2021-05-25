@@ -1,0 +1,13 @@
+Bilagor;Bilaga//NN|UTR|SIN|IND|NOM//nmod//2 1//RG|NOM//nummod//2 Kommittédirektiv//NN|UTR|SIN|IND|NOM//ROOT//2 2000:96//RG|NOM//punct//2
+Bilagor;Bilaga//NN|UTR|SIN|IND|NOM//nmod//2 2//RG|NOM//nummod//0 Tilläggsdirektiv//NN|NEU|PLU|IND|NOM//ROOT//2 2001:17//RG|NOM//punct//2
+Bilagor;Bilaga//NN|UTR|SIN|IND|NOM//nmod//1 3//RG|NOM//nummod//2 Tilläggsdirektiv//NN|NEU|PLU|IND|NOM//ROOT//2 2002:3//RG|NOM//obj//2
+Bilagor;Bilaga//NN|UTR|SIN|IND|NOM//nmod//1 4//RG|NOM//nummod//2 Tilläggsdirektiv//NN|UTR|SIN|IND|NOM//ROOT//2 2003:5//RG|NOM//nummod//2
+Bilagor;Bilaga//NN|UTR|SIN|IND|NOM//nsubj//2 5//RG|NOM//nummod//2 Sammanfattning//NN|UTR|SIN|IND|NOM//ROOT//2 av//PP//case//4 Trängselavgifter//NN|UTR|PLU|IND|NOM//nmod//2 –//RG|NOM//punct//6 effekter//NN|UTR|PLU|IND|NOM//conj//2 på//PP//case//9  //_SP////7 näringslivet//NN|NEU|SIN|DEF|NOM//nmod//6 ,//MID//punct//11 Inregia//PM|NOM//conj//2 AB//NN|AN//nmod//11 2003//RG|NOM//nummod//11
+Bilagor;Bilaga//NN|UTR|SIN|IND|NOM//ROOT//0 6//RO|NOM//nummod//2 Sammanfattning//NN|UTR|SIN|IND|NOM//nmod//0 av//PP//case//4 Fördelningseffekter//NN|UTR|PLU|IND|NOM//nmod//2 av//PP//case//6 trängselavgifter//NN|UTR|PLU|IND|NOM//nmod//4 ,//MID//punct//0 ÅF//PM|NOM//appos//0 Trafikkompetens//NN|UTR|SIN|DEF|GEN//conj//0 2003//RG|NOM//nummod//0
+Bilagor;Bilaga//NN|UTR|SIN|IND|NOM//nsubj//2 7//RG|NOM//nummod//2 Sammanfattning//NN|UTR|SIN|IND|NOM//ROOT//2 av//PP//case//5 preliminär//JJ|POS|UTR|SIN|IND|NOM//amod//5 förstudierapport//NN|UTR|SIN|IND|NOM//nmod//2
+Bilagor;Näringslivseffekter//NN|UTR|PLU|IND|NOM//ROOT//0 av//PP//case//2 trängselavgifter//NN|UTR|PLU|IND|NOM//nmod//0 ,//MID//punct//4 KTH//PM|NOM//appos//0 2003//RG|NOM//nummod//4
+Bilagor;Bilaga//NN|UTR|SIN|IND|NOM//nmod//1 8//RG|NOM//nummod//3 Preliminär//JJ|POS|UTR|SIN|IND|NOM//amod//3 Sammanfattning//NN|UTR|SIN|IND|NOM//ROOT//3 av//PP//case//5 Fördelningseffekter//NN|UTR|PLU|IND|NOM//nmod//3  //_SP////5 av//PP//case//8 trängselavgifter//NN|UTR|PLU|IND|NOM//nmod//5 ,//MID//punct//10 Transek//PM|NOM//conj//8 2003//RG|NOM//nummod//10
+Bilagor;Bilaga//NN|UTR|SIN|IND|NOM//nsubj:pass//4 9//RG|NOM//nummod//3 Stockholms//PM|GEN//nmod:poss//3 stads//NN|UTR|SIN|IND|GEN//amod//4 kommunfullmäktiges//NN|UTR|PLU|DEF|GEN//nmod:poss//5 beslut//NN|NEU|SIN|IND|NOM//ROOT//5
+
+Kommittédirektiv;Beslut//NN|NEU|SIN|IND|NOM//ROOT//0 vid//PP//case//2 regeringssammanträde//NN|NEU|SIN|IND|NOM//nmod//0 den//DT|UTR|SIN|DEF//det//5 14//RG|NOM//nummod//5 december//NN|UTR|SIN|IND|NOM//nmod//0 2000//RG|NOM//nummod//5 .//MAD//punct//0
+

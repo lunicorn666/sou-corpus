@@ -1,0 +1,10 @@
+Bilaga 1 – Direktiv och tilläggsdirektiv;Departement//NN|UTR|SIN|IND|NOM//ROOT//0 ://MID//punct//0
+Bilaga 1 – Direktiv och tilläggsdirektiv;Näringsdepartementet//NN|NEU|SIN|DEF|NOM//appos//0
+Bilaga 1 – Direktiv och tilläggsdirektiv;Beslut//NN|NEU|SIN|IND|NOM//ROOT//0 vid//PP//case//2 regeringssammanträde//NN|NEU|SIN|IND|NOM//nmod//0 ://MID//punct//2
+Bilaga 1 – Direktiv och tilläggsdirektiv;2000-08-31//RG|NOM//obl//0
+Bilaga 1 – Direktiv och tilläggsdirektiv;Rubrik//NN|UTR|SIN|IND|NOM//ROOT//0 ://MID//punct//0
+Bilaga 1 – Direktiv och tilläggsdirektiv;Omställningsavtal//NN|NEU|SIN|IND|NOM//appos//0 -//MID//punct//2 -//MID//punct//2 -//MID//punct//2 -//MID//punct//2 -//MID//punct//2 -//MID//punct//2 -//MID//punct//2 -//MID//punct//2 -//MID//punct//2 -//MID//punct//2 -//MID//punct//2 -//MID//punct//2 -//MID//punct//2 -//MID//punct//2 -//MID//punct//2 -//MID//punct//2 -//MID//punct//2 -//MID//punct//2 -//MID//punct//2 -//MID//punct//2 -//MID//punct//2 -//MID//punct//2 -//MID//punct//2 -//MID//punct//2 -//MID//punct//2 -//MID//punct//0
+Bilaga 1 – Direktiv och tilläggsdirektiv;Dir//NN|AN//discourse//2 .//MAD//punct//0
+Bilaga 1 – Direktiv och tilläggsdirektiv;2000:55//RG|NOM//ROOT//2
+Bilaga 1 – Direktiv och tilläggsdirektiv;Beslut//NN|NEU|SIN|IND|NOM//ROOT//0 vid//PP//case//2 regeringssammanträde//NN|NEU|SIN|IND|NOM//nmod//0 den//DT|UTR|SIN|DEF//det//5 31//RG|NOM//nummod//5 augusti//NN|UTR|SIN|IND|NOM//nmod//0 2000//RG|NOM//nummod//5 .//MAD//punct//0
+

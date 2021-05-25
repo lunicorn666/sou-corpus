@@ -1,0 +1,177 @@
+A.1 Introduction;A.6.1//PM|GEN//nmod//1 Salmonella//NN|UTR|SIN|IND|NOM//ROOT//1
+
+A.8 Toxicological aspects A.9 Environmental effects A.10 Summary comments;References//NN|UTR|SIN|IND|NOM//ROOT//0
+
+
+B.1 Introduction;B.3.1//PM|NOM//ROOT//0 Prospective//PM|GEN//nmod:poss//2 studies//NN|UTR|SIN|IND|NOM//obj//0
+B.1 Introduction;B.3.2//PM|NOM//nmod//2 Point-prevalence//PM|NOM//amod//2 studies//NN|UTR|SIN|IND|NOM//ROOT//2
+
+B.8 Toxicological aspects;B.8.2//PM|NOM//amod//1 Allergy//PM|NOM//ROOT//1
+
+B.9 Environmental effects B.10 Summary comments;References//PM|NOM//ROOT//0 107-114//RG|NOM//nummod//0 .//MAD//punct//0
+B.9 Environmental effects B.10 Summary comments;713-723//RG|NOM//nummod//0 .//MAD//punct//0 *//MID//punct//22
+B.9 Environmental effects B.10 Summary comments;"OURNAL//PM|NOM//nmod//7 OF//NN|AN//discourse//22 ""//PAD//punct//9 ACTERIOLOGY//PM|NOM//obl:agent//7 3784-3789//RG|NOM//nummod//9 .//MAD//punct//9 #//MID//nummod//13"
+B.9 Environmental effects B.10 Summary comments;LINICAL//NN|NEU|SIN|IND|NOM//appos//9 )//PAD//punct//13 NFECTIOUS//PM|NOM//conj//9 $//NN|UTR|SIN|IND|NOM//flat:name//15 ISEASES//PM|NOM//appos//15 1520//RG|NOM//nummod//17 .//MAD//punct//15
+B.9 Environmental effects B.10 Summary comments;374//RG|NOM//conj//9 .//MAD//punct//9
+B.9 Environmental effects B.10 Summary comments;832-837//RG|NOM//conj//0 .//MAD//punct//22
+B.9 Environmental effects B.10 Summary comments;.UTRITION//MID//punct//0 100-110//RG|NOM//nummod//0 .//MAD//punct//25
+B.9 Environmental effects B.10 Summary comments;647//RG|NOM//conj//0 .//MAD//punct//0 *//MID//punct//30
+B.9 Environmental effects B.10 Summary comments;ONSON//PM|NOM//amod//32 '//PAD//punct//32 AND//PM|NOM//conj//0 *//MID//punct//34 ACOBSSON//PM|NOM//conj//32 3//RG|NOM//nummod//36 %//NN|AN//conj//32  //_SP////36 ,//MID//punct//36 1973//RG|NOM//nummod//32 .//MAD//punct//32
+B.9 Environmental effects B.10 Summary comments;Foderantibiotikas//PM|GEN//nmod:poss//42 inverkan//NN|UTR|SIN|IND|NOM//conj//0 på//PP//case//44 kalvdödlighet//NN|UTR|SIN|IND|NOM//nmod//42 .//MAD//punct//42
+B.9 Environmental effects B.10 Summary comments;3VENSK//AB|AN//nmod//42 6ETERIN¤RTIDNING//RO|NOM//nummod//48 17-22//RG|NOM//nmod//46 .//MAD//punct//42
+B.9 Environmental effects B.10 Summary comments;62-70//RG|NOM//nmod//42 .//MAD//punct//42
+B.9 Environmental effects B.10 Summary comments;256-261//RG|NOM//punct//0 .//MID//punct//0
+B.9 Environmental effects B.10 Summary comments;976//RG|NOM//nummod//0 .//MAD//punct//0
+B.9 Environmental effects B.10 Summary comments;1UINLAN//RG|NOM//nmod//0 '//PAD//punct//56 *//MID//punct//59 AND//UO//nmod//61 '//PAD//punct//61 UTTERIDGE//PM|NOM//conj//0 *//MID//punct//61  //_SP////62 -//MID//punct//0 ,//MID//punct//64 1989//RG|NOM//nummod//0 .//MAD//punct//0
+B.9 Environmental effects B.10 Summary comments;Bacitracin//PM|NOM//nmod//0 and//PM|NOM//cc//68 a//UO//case//72 bacitracin-zinc//UO//amod//72 complex//UO//nmod//68 150//RG|NOM//nummod//72 .//MAD//punct//0
+B.9 Environmental effects B.10 Summary comments;Copenhagen//NN|UTR|SIN|DEF|NOM//ROOT//0 .//MAD//punct//0
+B.9 Environmental effects B.10 Summary comments;p.//NN|UTR|SIN|IND|NOM//nmod//3 178//RG|NOM//nmod//0 .//MAD//punct//0
+
+
+C.1 Introduction;C.3.1//PM|NOM//ROOT//0 Prospective//PM|GEN//nmod:poss//2 studies//NN|UTR|SIN|IND|GEN//nmod//0
+C.1 Introduction;C.3.2//PM|NOM//amod//2 Point-prevalence//UO//amod//2 studies//NN|UTR|SIN|IND|NOM//ROOT//2
+C.1 Introduction;C.7.1//PM|GEN//nmod//1 Salmonella//PM|NOM//ROOT//1
+
+C.8 Toxicological aspects;C.8.1//PM|NOM//amod//1 Allergy//PM|NOM//ROOT//1
+
+C.9 Environmental effects C.10 Summary comments;References//UO//ROOT//0 44:832-837//RG|NOM//nummod//0 .//MAD//punct//0
+C.9 Environmental effects C.10 Summary comments;45:2336-2341//RG|NOM//nmod//0 .//MAD//punct//3
+C.9 Environmental effects C.10 Summary comments;63:199-225//RG|NOM//punct//0 .//MAD//punct//0
+C.9 Environmental effects C.10 Summary comments;Poultry//PM|NOM//nmod//1 Science//PM|NOM//ROOT//1 .//MAD//punct//1
+C.9 Environmental effects C.10 Summary comments;63:2036-2042//RG|NOM//punct//1 .//MAD//punct//1
+
+D.1 Introduction;Experimental//PM|NOM//nmod:poss//1 studies//NN|UTR|SIN|IND|GEN//ROOT//1
+D.1 Introduction;Cohort//PM|NOM//amod//1 studies//NN|UTR|SIN|IND|GEN//ROOT//1
+D.1 Introduction;Point//UO//case//2 prevalence//UO//amod//2 studies//UO//ROOT//2
+D.1 Introduction;Co-transfer//NN|UTR|SIN|IND|NOM//ROOT//0 of//UO//case//3 genes//UO//amod//3 additives//UO//nmod//0 .//MAD//punct//0
+D.1 Introduction;D.7.1//PM|GEN//advmod//1 Salmonella//PM|NOM//ROOT//1
+
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;References//PM|NOM//ROOT//0 107-114//RG|NOM//nummod//0 .//MAD//punct//0
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;117-127//RG|NOM//conj//0 .//MAD//punct//3 #//MID//nummod//6
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;ONTACT//JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM//appos//0 $//NN|UTR|SIN|IND|NOM//nummod//6 ERMATITIS//PM|NOM//nmod//9 115//RG|NOM//nmod//6 .//MAD//punct//6 %//NN|AN//nmod//13
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;PIDEMIOLOGY//PM|NOM//amod//13 AND//PM|NOM//appos//6 )//PAD//punct//6 NFECTION//PM|NOM//nmod//6 239-252//RG|NOM//nummod//15 .//MAD//punct//6
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;832-837//RG|NOM//nummod//6 .//MAD//punct//18
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;714//RG|NOM//nummod//6 .//MAD//punct//6 '//PAD//punct//23
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;REKO//JJ|POS|UTR|SIN|IND|NOM//appos//6 #//NN|UTR|SIN|IND|NOM//nummod//23  //_SP////24 ,//MID//punct//23 1996//RG|NOM//nummod//23 .//MAD//punct//23
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;Inventering//NN|UTR|SIN|IND|NOM//conj//6 av//PP//case//31 resistens//NN|UTR|SIN|IND|NOM//nmod//29 mot//PP//case//34 antibakteriella//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//34 medel//NN|NEU|PLU|IND|NOM//nmod//31 hos//PP//case//36 enterokocker//NN|UTR|PLU|IND|NOM//nmod//34 från//PP//case//38 kyckling//NN|UTR|SIN|IND|NOM//nmod//36 (//PAD//punct//40 rapport//NN|UTR|SIN|IND|NOM//appos//38 )//PAD//punct//40 .//MAD//punct//6
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;National//PM|NOM//amod//44 Veterinary//PM|NOM//nmod//45 Institute//PM|NOM//conj//6 ,//MID//punct//47 Uppsala//PM|NOM//conj//45 .//MAD//punct//6
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;Butterworths//PM|NOM//ROOT//0 ,//MID//punct//2 Nottingham//PM|NOM//conj//0 .//MAD//punct//0
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;pp//NN|AN//punct//0 .//MAD//punct//0
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;369-384//RG|NOM//conj//0 .//MAD//punct//0
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;6ETERINARY//AB|AN//case//10 2ECORD//NN|AN//nmod//10 495-500//RG|NOM//conj//0 .//MAD//punct//0
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;Serumlaboratorium//PM|NOM//ROOT//0 ,//MID//punct//0 Copenhagen//PM|NOM//conj//0 .//MAD//punct//2
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;272//RG|NOM//conj//0 .//MAD//punct//0 &//KN|AN//cc//7 %//NN|AN//conj//0
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;-3//RG|NOM//nummod//7 -ICROBIOLOGY//MID//punct//7 LETTERS//PM|NOM//conj//0 165-172//RG|NOM//nummod//10 .//MAD//punct//0
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;2016-2018//RG|NOM//nummod//0 .//MAD//punct//0
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;359-363//RG|NOM//dep//0 .//MAD//punct//0 *//MID//punct//18
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;OURNAL//PM|NOM//conj//0 OF//NN|AN//punct//18 (//PAD//punct//18 YGIENE//PM|NOM//appos//18 217-231//RG|NOM//nummod//21 .//MAD//punct//18
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;150//RG|NOM//nummod//18 .//MAD//punct//0
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;"VAN//PM|NOM//nmod//1 DEN//DT|UTR|SIN|DEF//ROOT//1 ""//PAD//punct//3 OGAARD//PM|NOM//appos//1 !//MID//punct//3 ,//MID//punct//6"
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;ONDON//PM|NOM//conj//1 .//MID//punct//6
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;$//PM|NOM//nmod//9 RIESSEN//PM|NOM//appos//1 #//MID//nummod//11 AND//PM|NOM//nmod//9 3TOBBERINGH//NN|AN//nummod//13 %//NN|AN//conj//9 ,//MID//punct//9 1996//RG|NOM//nummod//9 .//MID//punct//9
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;Prevalence//PM|NOM//conj//9 1136//RG|NOM//nummod//17 .//MAD//punct//9
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;179-184//RG|NOM//nummod//9 .//MAD//punct//9
+D.8 Toxicological aspects D.9 Environmental effects D.10 Summary comments;114//RG|NOM//nummod//9 .//MAD//punct//9
+
+E.1 Introduction;E.1.2//PM|NOM//nmod//1 Streptogramins//NN|UTR|SIN|DEF|GEN//ROOT//1 (//PAD//punct//1 virginiamycin//NN|UTR|SIN|IND|NOM//appos//1 )//PAD//punct//1
+E.1 Introduction;E.3.1//PM|NOM//amod//2 Prospective//PM|GEN//nmod:poss//2 studies//NN|UTR|SIN|IND|NOM//ROOT//2
+E.1 Introduction;Experimental//PM|NOM//nmod:poss//1 studies//NN|UTR|SIN|IND|GEN//ROOT//1
+E.1 Introduction;Field//PM|NOM//nmod:poss//1 studies//NN|UTR|SIN|IND|NOM//ROOT//1
+E.1 Introduction;E.3.2//PM|NOM//case//2 Retrospective//PM|GEN//nmod:poss//2 studies//NN|UTR|SIN|IND|NOM//ROOT//2
+E.1 Introduction;E.3.3//PM|NOM//amod//2 Point-prevalence//PM|NOM//amod//2 studies//NN|UTR|SIN|IND|NOM//ROOT//2
+E.1 Introduction;Enterococci//NN|UTR|SIN|IND|NOM//ROOT//0
+E.1 Introduction;Staphylococci//NN|UTR|SIN|IND|NOM//ROOT//0
+E.1 Introduction;Campylobacter//NN|UTR|PLU|IND|NOM//ROOT//0
+E.1 Introduction;Serpulina//NN|UTR|SIN|IND|NOM//ROOT//0
+
+E.4.1 Target modification;Enterococci//PM|NOM//ROOT//0 and//UO//cc//2 streptococci//NN|NEU|SIN|IND|NOM//conj//0
+E.4.1 Target modification;Staphylococci//NN|UTR|SIN|IND|NOM//ROOT//0
+E.4.1 Target modification;Clostridia//PM|NOM//ROOT//0
+E.4.1 Target modification;E.4.2//PM|NOM//ROOT//0 Enzymatic//PM|NOM//amod//2 inactivation//NN|UTR|SIN|IND|NOM//nsubj//0
+E.4.1 Target modification;E.4.3//PM|NOM//ROOT//0 Active//PM|NOM//nsubj//0 efflux//PM|NOM//advmod//0
+E.4.1 Target modification;E.7.1//PM|GEN//amod//2 Salmonella//PM|NOM//amod//2 found//UO//ROOT//2 .//MAD//punct//2
+E.4.1 Target modification;E.7.3//PM|NOM//nmod:poss//2 Other//UO//nmod:poss//2 effects//UO//ROOT//2
+
+E.8 Toxicological aspects;E.8.1//PM|NOM//nsubj:pass//1 Residues//PM|NOM//ROOT//1
+E.8 Toxicological aspects;E.8.2//PM|NOM//amod//1 Allergy//PM|NOM//ROOT//1
+
+E.9 Environmental effects E.10 Summary comments;References//UO//ROOT//0 !//MID//punct//0
+E.9 Environmental effects E.10 Summary comments;POTEKSBOLAGET//PM|NOM//appos//0  //_SP////2 1996//RG|NOM//nummod//2 .//MAD//punct//0
+E.9 Environmental effects E.10 Summary comments; //_SP////5 3VENSK//RG|NOM//conj//0 ,//MID//punct//7 ¤KEMEDELSSTATISTIK//NN|UTR|SIN|IND|NOM//nmod//10 Apoteksbolaget//NN|NEU|SIN|DEF|NOM//appos//7 AB//PM|NOM//flat:name//10 ,//MID//punct//13 Stockholm//PM|NOM//conj//10 .//MAD//punct//10
+E.9 Environmental effects E.10 Summary comments;pp//NN|AN//conj//7 .//MAD//punct//7
+E.9 Environmental effects E.10 Summary comments; //_SP////16 pp.141-145//RG|NOM//conj//0 .//MID//punct//18
+E.9 Environmental effects E.10 Summary comments;0066-4804//RG|NOM//conj//0 .//MAD//punct//20
+E.9 Environmental effects E.10 Summary comments;1739-1745//RG|NOM//conj//0 .//MAD//punct//22
+E.9 Environmental effects E.10 Summary comments;832-837//RG|NOM//conj//0 .//MAD//punct//24 '//PAD//punct//27
+E.9 Environmental effects E.10 Summary comments;REKO//JJ|POS|UTR|SIN|IND|NOM//conj//0 #//NN|UTR|SIN|IND|NOM//nummod//27  //_SP////28 ,//MID//punct//27 1996//RG|NOM//nummod//27 .//MAD//punct//27
+E.9 Environmental effects E.10 Summary comments;Inventering//NN|UTR|SIN|IND|NOM//conj//27 av//PP//case//35 resistens//NN|UTR|SIN|IND|NOM//nmod//33 mot//PP//case//38 antibakteriella//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//38 medel//NN|NEU|PLU|IND|NOM//nmod//35 hos//PP//case//40 enterokocker//NN|UTR|PLU|IND|NOM//nmod//38 från//PP//case//42 kyckling//NN|UTR|SIN|IND|NOM//nmod//40 (//PAD//punct//44 rapport//NN|UTR|SIN|IND|NOM//appos//42 )//PAD//punct//44 .//MAD//punct//27
+E.9 Environmental effects E.10 Summary comments;National//PM|NOM//amod//48 Veterinary//PM|NOM//nmod//49 Institute//PM|NOM//conj//27 ,//MID//punct//51 Uppsala//PM|NOM//conj//49 .//MAD//punct//27 -//MID//punct//27
+E.9 Environmental effects E.10 Summary comments;(//PAD//punct//27 A//PM|NOM//appos//27  //_SP////55 ,//MID//punct//55 1991//RG|NOM//punct//27 .//MID//punct//27
+E.9 Environmental effects E.10 Summary comments;Resistensundersökning//NN|UTR|SIN|IND|NOM//conj//27 av//PP//case//62 svenska//NN|UTR|SIN|IND|NOM//nmod//60 isolat//NN|NEU|PLU|IND|NOM//acl:relcl//27 av//PP//case//66 Treponema//UO//amod//66 hyodysenteriae//UO//obl:agent//63 .//MAD//punct//27
+E.9 Environmental effects E.10 Summary comments;3VENSK//AB|AN//nummod//69 6ETERIN¤RTIDNING//RG|NOM//conj//0  //_SP////69 349-352//RG|NOM//nummod//69 .//MAD//punct//69
+E.9 Environmental effects E.10 Summary comments;165-173//RG|NOM//conj//0 .//MAD//punct//0
+E.9 Environmental effects E.10 Summary comments;229-32//RG|NOM//conj//0 .//MAD//punct//79
+E.9 Environmental effects E.10 Summary comments;-OLECULAR//MID//punct//79 '//PAD//punct//79 ENERAL//PM|GEN//conj//0 '//PAD//punct//81 ENETICS//PM|NOM//conj//0 341-348//RG|NOM//nummod//81 .//MID//punct//81
+E.9 Environmental effects E.10 Summary comments;206-208//RG|NOM//conj//0 .//MAD//punct//84
+E.9 Environmental effects E.10 Summary comments;441-447//RG|NOM//conj//0 .//MAD//punct//86
+E.9 Environmental effects E.10 Summary comments;1413-1418//RG|NOM//conj//0 .//MAD//punct//88
+E.9 Environmental effects E.10 Summary comments;pp//NN|AN//conj//0 .//MAD//punct//0
+E.9 Environmental effects E.10 Summary comments;221-235//RG|NOM//nummod//0 .//MID//punct//92
+E.9 Environmental effects E.10 Summary comments;62-70//RG|NOM//discourse//96 .//MAD//punct//94
+E.9 Environmental effects E.10 Summary comments;139//RG|NOM//conj//0 .//MAD//punct//96
+E.9 Environmental effects E.10 Summary comments;1246-1248//RG|NOM//nummod//96 .//MAD//punct//96
+E.9 Environmental effects E.10 Summary comments;p.//NN|UTR|SIN|IND|NOM//nmod//101 263//RG|NOM//nmod//96 .//MID//punct//96
+E.9 Environmental effects E.10 Summary comments;.ATURV¥RDSVERKET//RG|NOM//punct//0 ,//MID//punct//105 1996//RG|NOM//conj//0 .//MID//punct//0
+E.9 Environmental effects E.10 Summary comments;Läkemedel//NN|NEU|PLU|IND|NOM//conj//0 och//KN//cc//109 miljön//NN|UTR|SIN|DEF|NOM//conj//107 .//MAD//punct//0
+E.9 Environmental effects E.10 Summary comments;Rapport//NN|UTR|SIN|IND|NOM//conj//0 nr//NN|AN//nmod//113 4660//RG|NOM//nummod//111 .//MAD//punct//111
+E.9 Environmental effects E.10 Summary comments;Naturvårdsverket//NN|NEU|SIN|DEF|NOM//conj//0 ,//MID//punct//117 Stockholm//PM|NOM//conj//115 .//MAD//punct//115
+E.9 Environmental effects E.10 Summary comments;1163-1166//RG|NOM//conj//115 .//MAD//punct//115
+E.9 Environmental effects E.10 Summary comments;2125//RG|NOM//conj//115 .//MAD//punct//115
+E.9 Environmental effects E.10 Summary comments;126//RG|NOM//conj//115 .//MAD//punct//115 *//MID//punct//126
+E.9 Environmental effects E.10 Summary comments;OURNAL//PM|NOM//amod//139 OF//NN|AN//punct//126 (//PAD//punct//127 YGIENE//PM|NOM//nmod//130 217-231//RG|NOM//appos//127 .//MAD//punct//126
+E.9 Environmental effects E.10 Summary comments;150//RG|NOM//nummod//126 .//MAD//punct//126
+E.9 Environmental effects E.10 Summary comments;510-513//RG|NOM//nummod//126 .//MAD//punct//126
+E.9 Environmental effects E.10 Summary comments;119-131//RG|NOM//nummod//126 .//MAD//punct//126
+E.9 Environmental effects E.10 Summary comments;567-72//RG|NOM//nummod//139 issn//NN|UTR|SIN|IND|NOM//conj//0 ://MID//punct//139
+E.9 Environmental effects E.10 Summary comments;0392-2990//RG|NOM//nummod//139 .//MID//punct//139
+E.9 Environmental effects E.10 Summary comments;349-351//RG|NOM//nmod//139 .//MAD//punct//0
+
+Annex F: Carbadox and olaquindox F.1 Introduction;porcine//UO//ROOT//0 proliferative//UO//xcomp//0 enteritis//UO//advmod//1 )//PAD//punct//0 .//MAD//punct//0
+Annex F: Carbadox and olaquindox F.1 Introduction;found//NN|UTR|SIN|IND|NOM//obj//0 .//MAD//punct//0
+
+F.8 Toxicological aspects;F.8.1//PM|NOM//aux//2 Target//PM|NOM//nsubj//2 species//UO//ROOT//2
+F.8 Toxicological aspects;Carbadox//NN|UTR|SIN|IND|NOM//ROOT//0
+F.8 Toxicological aspects;Olaquindox//NN|UTR|SIN|IND|NOM//ROOT//0
+F.8 Toxicological aspects;Photoallergy//NN|NEU|PLU|IND|NOM//ROOT//0
+
+F.9 Environmental effects F.10 Summary comments;References//NN|UTR|SIN|IND|NOM//ROOT//0 3UPPL//RG|NOM//nummod//0  //_SP////1 288-292//RG|NOM//nummod//1 .//MAD//punct//1
+F.9 Environmental effects F.10 Summary comments;397-407//RG|NOM//nummod//0 .//MAD//punct//5
+F.9 Environmental effects F.10 Summary comments;34-41//RG|NOM//conj//0 .//MAD//punct//7
+F.9 Environmental effects F.10 Summary comments;85-95//RG|NOM//conj//0 .//MAD//punct//0
+F.9 Environmental effects F.10 Summary comments;WHO//PM|NOM//nmod//44 ,//MID//punct//0 Geneva//PM|NOM//conj//0 .//MAD//punct//2
+F.9 Environmental effects F.10 Summary comments;429-443//RG|NOM//conj//0 .//MID//punct//0
+F.9 Environmental effects F.10 Summary comments;(//PAD//punct//7 OLMGREN//PM|NOM//appos//0 .//MAD//punct//7
+F.9 Environmental effects F.10 Summary comments; //_SP////8 ,//MID//punct//7 1994//RG|NOM//conj//0 .//MID//punct//0
+F.9 Environmental effects F.10 Summary comments;Profylaktiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//14 effekter//NN|UTR|PLU|IND|NOM//appos//0 av//PP//case//16 zinkoxid//NN|UTR|SIN|IND|NOM//nmod//14 eller//KN//cc//18 olaquindox//NN|UTR|SIN|IND|NOM//conj//16 mot//PP//case//20 avvänjningsdiarré//NN|UTR|SIN|IND|NOM//nmod//14 hos//PP//case//22 svin//NN|NEU|SIN|IND|NOM//nmod//20 .//MAD//punct//14
+F.9 Environmental effects F.10 Summary comments;3VENSK//AB|AN//nummod//25 6ETERIN¤RTIDNING//RG|NOM//conj//0  //_SP////25 217-222//RG|NOM//nmod//25 .//MAD//punct//0
+F.9 Environmental effects F.10 Summary comments;7IENER//AB|AN//case//30 4IER¤RZTLICHE//RG|NOM//conj//0 -ONATSSCHRIFT//MID//punct//30 135-137//RG|NOM//nummod//30 .//MAD//punct//30
+F.9 Environmental effects F.10 Summary comments;2350//RG|NOM//nummod//0 .//MAD//punct//34
+F.9 Environmental effects F.10 Summary comments;203-209//RG|NOM//conj//0 .//MAD//punct//36
+F.9 Environmental effects F.10 Summary comments;170//RG|NOM//conj//0 .//MAD//punct//0
+F.9 Environmental effects F.10 Summary comments;6ETERINARY//AB|AN//cc//42 2ECORD//NN|AN//nmod//42 367-370//RG|NOM//conj//0 .//MAD//punct//0
+F.9 Environmental effects F.10 Summary comments;1349-1356//RG|NOM//ROOT//44 .//MAD//punct//44
+F.9 Environmental effects F.10 Summary comments;July//PM|NOM//ROOT//0 3//RG|NOM//nummod//0 ,//MID//punct//1 Copenhagen//PM|NOM//conj//0 .//MAD//punct//3
+F.9 Environmental effects F.10 Summary comments;375-392//RG|NOM//conj//0 .//MAD//punct//0
+F.9 Environmental effects F.10 Summary comments;Copenhagen//NN|UTR|SIN|DEF|NOM//ROOT//0 .//MAD//punct//0
+F.9 Environmental effects F.10 Summary comments;p.//NN|UTR|SIN|IND|NOM//nmod//3 248//RG|NOM//nmod//0 .//MAD//punct//0
+F.9 Environmental effects F.10 Summary comments;Copenhagen//NN|UTR|SIN|DEF|NOM//ROOT//0 .//MAD//punct//0
+F.9 Environmental effects F.10 Summary comments;p.//NN|UTR|SIN|IND|NOM//nmod//3 249//RG|NOM//nmod//0 .//MAD//punct//3
+F.9 Environmental effects F.10 Summary comments;4OXICOLOGY//AB|AN//nummod//6 IN//AB//nmod//3 6ITRO//AB|AN//case//8 141-143//RG|NOM//conj//0 .//MAD//punct//0
+F.9 Environmental effects F.10 Summary comments;0OULTRY//RG|NOM//nummod//12 3CIENCE//NN|AN//det//12 2036-2042//RG|NOM//appos//0 .//MAD//punct//12
+F.9 Environmental effects F.10 Summary comments;432-433//RG|NOM//discourse//18 ,//MID//punct//14 436//RG|NOM//nummod//14 .//MAD//punct//14
+F.9 Environmental effects F.10 Summary comments;349-351//RG|NOM//conj//0 .//MAD//punct//18
+F.9 Environmental effects F.10 Summary comments;Basic//UO//nmod:poss//1 assumptions//UO//ROOT//1
+F.9 Environmental effects F.10 Summary comments;Assumptions//PM|NOM//nmod//1 1102//RG|NOM//nummod//2 0//RG|NOM//nummod//3 1.76//RG|NOM//obl//5 7//RG|NOM//nummod//3 940//RG|NOM//obl//7 7//RG|NOM//nummod//5 2.1//RG|NOM//nmod//9 %//NN|AN//nmod//9 1.3//RG|NOM//nmod//12 7//RG|NOM//nummod//11 %//NN|AN//nmod//12 0.3//RG|NOM//obl//16 7//RG|NOM//nummod//14 %//NN|AN//nmod//15 0.1//RG|NOM//nmod//12 1031//RG|NOM//ROOT//16 9//RG|NOM//nummod//18 8.3//RG|NOM//obl//21 %//NN|AN//obl//20 5//RG|NOM//nummod//18 1355//RG|NOM//obl//22 14//RG|NOM//nummod//16
+F.9 Environmental effects F.10 Summary comments;Assumptions//PM|NOM//ROOT//0
+F.9 Environmental effects F.10 Summary comments;Assumptions//PM|NOM//ROOT//0
+

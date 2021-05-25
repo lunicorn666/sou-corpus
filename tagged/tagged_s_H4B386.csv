@@ -1,0 +1,4 @@
+Sammanfattning;Nedan//AB//advmod//1 sammanfattas//VB|PRS|SFO//ROOT//1 utredningens//NN|UTR|SIN|DEF|GEN//nmod:poss//3 slutsatser//NN|UTR|PLU|IND|NOM//nsubj:pass//1 .//MAD//punct//1
+Sammanfattning;En//DT|UTR|SIN|IND//det//6 redovisning//NN|UTR|SIN|IND|NOM//nsubj:pass//11 av//PP//case//10 betänkandets//NN|NEU|SIN|DEF|GEN//nmod:poss//10 innehållsmässiga//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//10 struktur//NN|UTR|SIN|IND|NOM//nmod//6 följs//VB|PRS|SFO//parataxis//1 av//PP//case//15 en//DT|UTR|SIN|IND//det//15 kort//JJ|POS|UTR|SIN|IND|NOM//amod//15 sammanfattning//NN|UTR|SIN|IND|NOM//obl:agent//11 av//PP//case//19 utredningens//NN|UTR|SIN|DEF|GEN//nmod:poss//19 viktigaste//JJ|SUV|UTR/NEU|SIN/PLU|DEF|NOM//amod//19 förslag//NN|NEU|PLU|IND|NOM//nmod//15 och//KN//cc//21 insikter//NN|UTR|PLU|IND|NOM//conj//19 .//MAD//punct//11
+
+

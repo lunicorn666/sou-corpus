@@ -1,0 +1,152 @@
+Participation in European Politics;Hans//PM|NOM//nmod:poss//1 Agné//PM|NOM//ROOT//1
+Participation in European Politics;Brigid//PM|NOM//nmod//1 Laffan//PM|NOM//ROOT//1
+Participation in European Politics;Britta//PM|NOM//ROOT//0 Lejon//PM|NOM//flat:name//0
+Participation in European Politics;Pippa//PM|NOM//ROOT//0 Norris//PM|NOM//flat//0
+Participation in European Politics;Hermann//PM|NOM//ROOT//0 Schmitt//PM|NOM//flat//0
+Participation in European Politics;Richard//PM|NOM//ROOT//0 Sinnott//PM|NOM//flat//0
+Participation in European Politics;Demokratiutredningens//NN|UTR|SIN|DEF|GEN//nmod:poss//1 skrift//NN|UTR|SIN|IND|NOM//nmod//3 nr//NN|AN//nmod//3 32//RG|NOM//ROOT//3
+Participation in European Politics;SOU//PM|NOM//nsubj:pass//10 och//KN//cc//2 Ds//PM|NOM//conj//0 som//HP|-|-|-//nsubj//4 ingår//VB|PRS|AKT//acl:relcl//2 i//PP//case//8 1999//RG|NOM//nummod//7 års//NN|NEU|SIN|IND|GEN//nmod:poss//8 nummerserie//NN|UTR|SIN|IND|NOM//obl//4 kan//VB|PRS|AKT//aux//10 köpas//VB|INF|SFO//ROOT//10 från//PP//case//13 Fakta//NN|NEU|SIN|IND|NOM//nmod//13 Info//PM|NOM//obl//10 Direkt//AB|POS//advmod//10 .//MAD//punct//10
+Participation in European Politics;För//PP//case//17 remissutsändningar//NN|UTR|PLU|IND|NOM//obl//28 av//PP//case//19 SOU//PM|NOM//nmod//17 och//KN//cc//21 Ds//PM|NOM//conj//19 som//HP|-|-|-//nsubj//23 ingår//VB|PRS|AKT//acl:relcl//21 i//PP//case//27 1999//RG|NOM//nummod//26 års//NN|NEU|SIN|IND|GEN//nmod:poss//27 nummerserie//NN|UTR|SIN|IND|NOM//obl//23 svarar//VB|PRS|AKT//parataxis//10 Fakta//NN|NEU|PLU|IND|NOM//nmod//30 Info//PM|NOM//nsubj//28 Direkt//AB|POS//advmod//28 på//PP//case//33 uppdrag//NN|NEU|SIN|IND|NOM//obl//28 av//PP//case//36 Regeringskansliets//NN|NEU|SIN|DEF|GEN//nmod:poss//36 förvaltningsavdelning//NN|UTR|SIN|IND|NOM//nmod//33 .//MAD//punct//10
+
+Preface;Erik//PM|NOM//ROOT//0 Amnå//PM|NOM//flat:name//0
+Preface;Principal//PM|NOM//ROOT//0 Secreterary//PM|NOM//obj//0
+Preface;P//PM|NOM//nmod//1 REFACE//PM|NOM//ROOT//1
+
+Notes;.//MAD//ROOT//0
+Notes;Ladies//PM|NOM//ROOT//0 and//UO//cc//0 gentlemen//UO//conj//0 ,//MID//punct//0 *//MID//punct//0 *//MID//punct//0 *//MID//punct//0 *//MID//punct//0 *//MID//punct//0 *//MID//punct//0 *//MID//punct//0 *//MID//punct//0 *//MID//punct//0 *//MID//punct//0 *//MID//punct//0 *//MID//punct//0
+Notes;Thank//UO//ROOT//0 you//UO//obj//0 .//MAD//punct//0 .//MAD//punct//0
+Notes;Differences//UO//ROOT//0 in//UO//advmod//0 turnout//PM|NOM//obj//0
+Notes;Multivariate//PM|NOM//nmod:poss//1 Analyses//PM|NOM//ROOT//1
+
+References (1);.//MAD//ROOT//0
+
+
+Elections;Richard//PM|NOM//ROOT//0 Sinnott//PM|NOM//flat//0
+
+Introduction (1);*//MID//punct//3 Concurrent//UO//amod//3 nation-wide//UO//flat//1 elections//UO//ROOT//3
+
+
+Integration and Statehood;Brigid//PM|NOM//nmod//1 Laffan//PM|NOM//ROOT//1
+
+
+Participation;Hermann//PM|NOM//ROOT//0 Schmitt//PM|NOM//flat//0
+
+
+Turnout;EC//PM|NOM//ROOT//0 ///MID//cc//2 EU//PM|NOM//conj//0
+Turnout;European//UO//amod//1 Council///NN|UTR|SIN|IND|NOM//ROOT//1
+Turnout;Council//PM|NOM//ROOT//0 of//PM|NOM//case//2 Ministers//PM|NOM//nmod//0
+Turnout;European//PM|NOM//amod//1 Government//PM|NOM//ROOT//1
+Turnout;European//PM|NOM//amod//1 Parliament//UO//ROOT//1
+Turnout;European//UO//amod//2 Political//PM|NOM//amod//2 Parties//PM|NOM//ROOT//2
+Turnout;European//PM|NOM//amod//2 Electorate//PM|GEN//nmod:poss//2 right//PM|NOM//ROOT//2
+
+
+References (3);.//MAD//ROOT//0
+
+Blaming the Messenger?;Elections//PM|NOM//ROOT//0
+Blaming the Messenger?;Pippa//PM|NOM//ROOT//0 Norris//PM|NOM//flat//0
+
+
+Different Political Levels;Hans//PM|NOM//nmod:poss//1 Agné//PM|NOM//ROOT//1 *//MID//punct//1 *//MID//punct//1 *//MID//punct//1
+Different Political Levels;T//PM|NOM//nmod//1 O//PM|NOM//ROOT//1 SHARE//PM|NOM//flat:name//1 DEMOCRATIC//PM|NOM//flat//1 LEGITIMACY//PM|GEN//nmod//5 BETWEEN//PM|NOM//nmod//1 DIFFERENT//PM|NOM//nmod//7 POLITICAL//PM|NOM//amod//8 LEVELS//PM|NOM//nmod//5 *//MAD//punct//5 *//MID//punct//1 *//MID//punct//1
+Different Political Levels;T//PM|NOM//nmod//1 O//PM|NOM//ROOT//1 SHARE//PM|NOM//flat:name//1 DEMOCRATIC//PM|NOM//flat//1 LEGITIMACY//PM|GEN//nmod//5 BETWEEN//PM|NOM//dep//1 DIFFERENT//PM|NOM//obl//7 POLITICAL//PM|NOM//amod//8 LEVELS//PM|NOM//nmod//5
+Different Political Levels;T//PM|NOM//nmod//1 O//PM|NOM//ROOT//1 SHARE//PM|NOM//flat:name//1 DEMOCRATIC//PM|NOM//flat//1 LEGITIMACY//PM|GEN//nmod//5 BETWEEN//PM|NOM//dep//1 DIFFERENT//PM|NOM//obl//7 POLITICAL//PM|NOM//amod//8 LEVELS//PM|NOM//nmod//5
+Different Political Levels;T//PM|NOM//nmod//1 O//PM|NOM//ROOT//1 SHARE//PM|NOM//flat:name//1 DEMOCRATIC//PM|NOM//flat//1 LEGITIMACY//PM|GEN//nmod//5 BETWEEN//PM|NOM//dep//1 DIFFERENT//PM|NOM//obl//7 POLITICAL//PM|NOM//amod//8 LEVELS//PM|NOM//nmod//5
+
+References s å a r b e t a r;Demokratiutredningen//NN|UTR|SIN|DEF|NOM//nsubj//1 analyserar//VB|PRS|AKT//ROOT//1 den//DT|UTR|SIN|DEF//det//4 svenska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//4 folkstyrelsens//NN|UTR|SIN|DEF|GEN//nmod:poss//5 förutsättningar//NN|UTR|PLU|IND|NOM//obj//1 inför//PP//case//7 2000-talet//NN|NEU|SIN|DEF|NOM//nmod//5 .//MID//punct//1
+References s å a r b e t a r;Det//PN|NEU|SIN|DEF|SUB/OBJ//expl//10 sker//VB|PRS|AKT//parataxis//1 i//PP//case//12 ljuset//NN|NEU|SIN|DEF|NOM//obl//10 av//PP//case//15 bl.a.//AB|AN//advmod//15 globaliseringen//NN|UTR|SIN|DEF|NOM//nmod//12 ,//MID//punct//17 EU-medlemskapet//NN|NEU|SIN|DEF|NOM//conj//15 ,//MID//punct//19 förändringarna//NN|UTR|PLU|DEF|NOM//conj//15 i//PP//case//21 medielandskapet//NN|NEU|SIN|DEF|NOM//nmod//19 ,//MID//punct//25 den//DT|UTR|SIN|DEF//det//25 nya//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//25 IT-tekniken//NN|UTR|SIN|DEF|NOM//conj//15 ,//MID//punct//27 förnyelsearbetet//NN|NEU|SIN|DEF|NOM//obl//10 inom//PP//case//30 offentlig//JJ|POS|UTR|SIN|IND|NOM//amod//30 förvaltning//NN|UTR|SIN|IND|NOM//nmod//27 och//KN//cc//33 folkrörelsernas//NN|UTR|PLU|DEF|GEN//nmod:poss//33 förändringar//NN|UTR|PLU|IND|NOM//conj//30 .//MAD//punct//27
+References s å a r b e t a r;Kommittén//NN|UTR|SIN|DEF|NOM//nsubj//38 har//VB|PRS|AKT//aux//38 också//AB//advmod//38 fått//VB|SUP|AKT//conj//10 i//PP//advmod//38 uppdrag//NN|NEU|SIN|IND|NOM//fixed//39 att//IE//mark//42 förklara//VB|INF|AKT//advcl//38 det//DT|NEU|SIN|DEF//det//45 sjunkande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//45 valdeltagandet//NN|NEU|SIN|DEF|NOM//obj//42 samt//KN//cc//47 stimulera//VB|INF|AKT//conj//38 det//DT|NEU|SIN|DEF//det//50 demokratiska//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//50 engagemanget//NN|NEU|SIN|DEF|NOM//obj//47 .//MAD//punct//38
+References s å a r b e t a r;Vid//PP//case//53 sekelskiftet//NN|NEU|SIN|DEF|NOM//obl//56 skall//VB|PRS|AKT//aux//56 utredningen//NN|UTR|SIN|DEF|NOM//nsubj//56 presentera//VB|INF|AKT//advcl//38 en//DT|UTR|SIN|IND//det//59 sammanvägd//PC|PRF|UTR|SIN|IND|NOM//amod//59 analys//NN|UTR|SIN|IND|NOM//obj//56 i//PP//case//61 form//NN|UTR|SIN|IND|NOM//nmod//59 av//PP//case//64 ett//DT|NEU|SIN|IND//det//64 slutbetänkande//NN|NEU|SIN|IND|NOM//nmod//61 .//MAD//punct//10
+References s å a r b e t a r;Utredningen//NN|UTR|SIN|DEF|NOM//nsubj//1 vill//VB|PRS|AKT//aux//6 redan//AB//advmod//6 under//PP//case//5 arbetets//NN|NEU|SIN|DEF|GEN//nmod:poss//5 gång//NN|UTR|SIN|IND|NOM//obl//6 bidra//VB|INF|AKT//ROOT//6 till//PP//mark//9 att//IE//mark//9 fördjupa//VB|INF|AKT//advcl//6 demokratidebatten//NN|UTR|SIN|DEF|NOM//obj//9 genom//PP//case//9
+References s å a r b e t a r;•//NN|UTR|SIN|IND|NOM//case//2 en//DT|UTR|SIN|IND//det//2 skriftserie//NN|UTR|SIN|IND|NOM//ROOT//2
+References s å a r b e t a r;•//NN|UTR|SIN|IND|NOM//case//2 offentliga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//2 seminarier//NN|NEU|PLU|IND|NOM//ROOT//2
+References s å a r b e t a r;•//NN|UTR|SIN|IND|NOM//case//2 en//DT|UTR|SIN|IND//det//2 webbplats//NN|UTR|SIN|IND|NOM//ROOT//2 för//PP//case//4 debatt//NN|UTR|SIN|IND|NOM//nmod//2 och//KN//cc//6 information//NN|UTR|SIN|IND|NOM//conj//4
+
+Skrifter;Demokratiutredningen//NN|UTR|SIN|DEF|NOM//nsubj//2 kommer//VB|PRS|AKT//aux//2 fortlöpande//JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM//ROOT//2 under//PP//case//5 arbetets//NN|NEU|SIN|DEF|GEN//nmod:poss//5 gång//NN|UTR|SIN|IND|NOM//obl//2 att//IE//mark//7 publicera//VB|INF|AKT//advcl//2 en//DT|UTR|SIN|IND//det//9 skriftserie//NN|UTR|SIN|IND|NOM//obj//7 med//PP//case//11 essäer//NN|UTR|PLU|IND|NOM//nmod//9 ,//MID//punct//13 debattartiklar//NN|UTR|PLU|IND|NOM//conj//11 ,//MID//punct//15 seminarieinlägg//NN|NEU|PLU|IND|NOM//conj//11 och//KN//cc//17 forskarantologier//NN|NEU|PLU|IND|NOM//conj//11 .//MAD//punct//2
+Skrifter;Den//DT|UTR|SIN|DEF//det//2 omfattande//PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//2 demokratiforskning//NN|UTR|SIN|IND|NOM//nsubj:pass//10 som//HP|-|-|-//nsubj:pass//4 bedrivs//VB|PRS|SFO//acl:relcl//2 vid//PP//case//7 våra//PS|UTR/NEU|PLU|DEF//nmod:poss//7 universitet//NN|NEU|PLU|IND|NOM//obl//4 och//KN//cc//9 högskolor//NN|UTR|PLU|IND|NOM//conj//7 ställs//VB|PRS|SFO//ROOT//10 på//PP//case//13 detta//DT|NEU|SIN|DEF//det//13 vis//NN|NEU|SIN|IND|NOM//obl//10 till//PP//mark//15 förfogande//NN|NEU|SIN|IND|NOM//advcl//10 för//PP//case//17 alla//PN|UTR/NEU|PLU|IND|SUB/OBJ//obl//15 som//HP|-|-|-//nsubj//20 är//VB|PRS|AKT//cop//20 intresserade//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//acl:relcl//17 av//PP//case//22 demokratifrågor//NN|UTR|PLU|IND|NOM//obl//20 .//MAD//punct//10
+Skrifter;Information//NN|UTR|SIN|IND|NOM//nsubj//8 om//PP//case//2 titlar//NN|UTR|PLU|IND|NOM//nmod//0 ,//MID//punct//4 utgivningsdag//NN|UTR|SIN|IND|NOM//conj//2 ,//MID//punct//6 priser//NN|NEU|PLU|IND|NOM//conj//2 m.m.//AB|AN//conj//2 finns//VB|PRS|SFO//ROOT//8 på//PP//case//11 utredningens//NN|UTR|SIN|DEF|GEN//nmod:poss//11 webbplats//NN|UTR|SIN|IND|NOM//obl//8 .//MAD//punct//8
+
+Seminarier;En//PN|UTR|SIN|IND|SUB/OBJ//ROOT//0 av//PP//case//3 utredningens//NN|UTR|SIN|DEF|GEN//nmod:poss//3 uppgifter//NN|UTR|PLU|IND|NOM//nmod//0 är//VB|PRS|AKT//cop//0 att//IE//mark//6 stimulera//VB|INF|AKT//csubj//0 det//DT|NEU|SIN|DEF//det//9 offentliga//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//9 samtalet//NN|NEU|SIN|DEF|NOM//obj//6 .//MAD//punct//0
+Seminarier;Därför//AB//advmod//1 anordnar//VB|PRS|AKT//ROOT//1 vi//PN|UTR|PLU|DEF|SUB//nsubj//1 offentliga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//4 seminarier//NN|NEU|PLU|IND|NOM//obj//1 runt//AB//advmod//1 om//AB//fixed//5 i//PP//case//8 landet//NN|NEU|SIN|DEF|NOM//obl//1 .//MAD//punct//1
+Seminarier;Till//PP//case//1 seminarierna//NN|NEU|PLU|DEF|NOM//obl//2 bjuder//VB|PRS|AKT//ROOT//2 vi//PN|UTR|PLU|DEF|SUB//nsubj//2 in//PL//compound:prt//2 forskare//NN|UTR|PLU|IND|NOM//obj//2 och//KN//cc//7 idédebattörer//NN|UTR|PLU|IND|NOM//conj//5 att//IE//mark//9 bidra//VB|INF|AKT//acl//7 med//PP//case//12 sin//PS|UTR|SIN|DEF//nmod:poss//12 kunskap//NN|UTR|SIN|IND|NOM//obl//9 och//KN//cc//15 sina//PS|UTR/NEU|PLU|DEF//nmod:poss//15 värderingar//NN|UTR|PLU|IND|NOM//conj//12 kring//PP//case//18 de//DT|UTR/NEU|PLU|DEF//det//18 frågor//NN|UTR|PLU|IND|NOM//nmod//15 vi//PN|UTR|PLU|DEF|SUB//nsubj//20 tycker//VB|PRS|AKT//acl:relcl//18 är//VB|PRS|AKT//cop//22 värdefulla//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//xcomp//2 att//IE//mark//24 samtala//VB|INF|AKT//acl//22 kring//PP//obl//24 .//MAD//punct//2
+Seminarier;Varje//DT|UTR/NEU|SIN|IND//det//1 seminarium//NN|NEU|SIN|IND|NOM//nsubj:pass//2 dokumenteras//VB|PRS|SFO//ROOT//2 i//PP//case//7 form//NN|UTR|SIN|IND|NOM//fixed//3 av//PP//fixed//3 en//DT|UTR|SIN|IND//det//7 skrift//NN|UTR|SIN|IND|NOM//obl//2 .//MAD//punct//2
+
+www. demokratitorget. gov.se;är//VB|PRS|AKT//cop//1 adressen//NN|UTR|SIN|DEF|NOM//ROOT//1 till//PP//case//4 Demokratiutredningens//PM|GEN//nmod:poss//4 webbplats//NN|UTR|SIN|IND|NOM//nmod//1 .//MAD//punct//1
+www. demokratitorget. gov.se;Här//AB//advmod//7 finns//VB|PRS|SFO//parataxis//1 möjlighet//NN|UTR|SIN|IND|NOM//nsubj//7 att//IE//mark//10 föra//VB|INF|AKT//acl//8 en//DT|UTR|SIN|IND//det//13 fri//JJ|POS|UTR|SIN|IND|NOM//amod//13 debatt//NN|UTR|SIN|IND|NOM//obj//10 kring//PP//case//15 demokratin//NN|UTR|SIN|DEF|NOM//obl//10 –//RG|NOM//punct//19 demokratitorget//NN|NEU|SIN|DEF|NOM//nsubj//19 är//VB|PRS|AKT//cop//19 öppet//JJ|POS|NEU|SIN|IND|NOM//advmod//7 för//PP//case//21 alla//PN|UTR/NEU|PLU|IND|SUB/OBJ//obl//19 .//MAD//punct//7
+www. demokratitorget. gov.se;Ett//DT|NEU|SIN|IND//det//1 antal//NN|NEU|SIN|IND|NOM//nmod//2 krönikörer//NN|UTR|PLU|IND|NOM//nsubj//5 kommer//VB|PRS|AKT//aux//5 att//IE//mark//5 kommentera//VB|INF|AKT//ROOT//5 demokratiproblem//NN|NEU|PLU|IND|NOM//obj//5 och//KN//cc//9 andra//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//9 demokratidebatter//NN|UTR|PLU|IND|NOM//conj//6 .//MAD//punct//5
+www. demokratitorget. gov.se;Här//AB//advmod//4 kan//VB|PRS|AKT//aux//4 Du//PN|UTR|SIN|DEF|SUB//nsubj//4 också//AB//advmod//4 informera//VB|INF|AKT//advcl//22 dig//PN|UTR|SIN|DEF|OBJ//obj//4 om//PP//compound:prt//4 och//KN//cc//8 föra//VB|INF|AKT//conj//4 dialog//NN|UTR|SIN|IND|NOM//obj//8 kring//PP//case//11 utredningen//NN|UTR|SIN|DEF|NOM//obl//8 .//MAD//punct//4
+www. demokratitorget. gov.se;Direktiv//NN|NEU|PLU|IND|NOM//parataxis//4 i//PP//case//15 fulltext//NN|UTR|SIN|IND|NOM//nmod//13 ,//MID//punct//17 arbetsplan//NN|UTR|SIN|IND|NOM//conj//15 och//KN//cc//20 utredningens//NN|UTR|SIN|DEF|GEN//nmod:poss//20 protokoll//NN|NEU|PLU|IND|NOM//conj//15 är//VB|PRS|AKT//cop//22 dokument//NN|NEU|PLU|IND|NOM//ROOT//22 man//PN|UTR|SIN|IND|SUB//nsubj//25 kan//VB|PRS|AKT//aux//25 hämta//VB|INF|AKT//acl:relcl//22 hem//PL//advmod//25 .//MAD//punct//22
+www. demokratitorget. gov.se;Här//AB//advmod//1 informerar//VB|PRS|AKT//ROOT//1 vi//PN|UTR|PLU|DEF|SUB//nsubj//1 också//AB//advmod//1 fortlöpande//JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM//xcomp//1 om//PP//case//7 aktuella//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//7 skrifter//NN|UTR|PLU|IND|NOM//obl//4 och//KN//cc//9 seminarier//NN|NEU|PLU|IND|NOM//conj//7 .//MAD//punct//1
+www. demokratitorget. gov.se;Man//PN|UTR|SIN|IND|SUB//nsubj//14 kan//VB|PRS|AKT//aux//14 dessutom//AB//advmod//14 ta//VB|INF|AKT//parataxis//1 del//NN|UTR|SIN|IND|NOM//obj//14 av//PP//case//17 debattinlägg//NN|NEU|PLU|IND|NOM//nmod//15 vid//PP//case//19 seminarier//NN|NEU|PLU|IND|NOM//obl//14 samt//KN//cc//21 beställa//VB|INF|AKT//conj//14 utredningens//NN|UTR|SIN|DEF|GEN//nmod:poss//23 skrifter//NN|UTR|PLU|IND|NOM//obj//21 .//MAD//punct//1
+www. demokratitorget. gov.se;Länkar//NN|UTR|PLU|IND|NOM//nsubj//1 finns//VB|PRS|SFO//ROOT//1 till//PP//case//4 andra//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//4 delar//NN|UTR|PLU|IND|NOM//obl//1 av//PP//case//6 nätet//NN|NEU|SIN|DEF|NOM//nmod//4 där//HA//advmod//9 demokratifrågor//NN|UTR|PLU|IND|NOM//nsubj:pass//9 dryftas//VB|PRS|SFO//acl:relcl//4 på//PP//case//12 olika//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//12 sätt//NN|NEU|PLU|IND|NOM//obl//9 .//MAD//punct//1
+
+Information;Vi//PN|UTR|PLU|DEF|SUB//nsubj//1 svarar//VB|PRS|AKT//ROOT//1 gärna//AB|POS//advmod//1 på//PP//case//4 frågor//NN|UTR|PLU|IND|NOM//obl//1 och//KN//cc//6 lämnar//VB|PRS|AKT//conj//1 ytterligare//JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//8 information//NN|UTR|SIN|IND|NOM//obj//6 om//PP//case//11 utredningens//NN|UTR|SIN|DEF|GEN//nmod:poss//11 arbete//NN|NEU|SIN|IND|NOM//nmod//8 .//MAD//punct//6
+Information;Adress//NN|UTR|SIN|IND|NOM//nsubj//19 och//KN//cc//15 telefonnummer//NN|NEU|SIN|IND|NOM//conj//13 till//PP//case//18 utredningens//NN|UTR|SIN|DEF|GEN//nmod:poss//18 kansli//NN|NEU|SIN|IND|NOM//nmod//15 finns//VB|PRS|SFO//conj//1 på//PP//case//22 nästa//JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM//amod//22 sida//NN|UTR|SIN|IND|NOM//obl//19 .//MAD//punct//19
+
+Utredningens sammansättning Ordförande;Bengt//PM|NOM//nsubj//2 Göransson//PM|NOM//flat:name//0 f.d.//JJ|AN//ROOT//2 statsråd//NN|NEU|SIN|IND|NOM//nmod//4 tel//PM|NOM//obj//2 ://MID//punct//4
+Utredningens sammansättning Ordförande;08-453//RG|NOM//nmod//8 41//RG|NOM//nmod//8 04//RG|NOM//conj//2
+
+Kommittéledamöter;Stefan//PM|NOM//nsubj:pass//5 Attefall//PM|NOM//flat//0 (//PAD//punct//0 kd//PM|NOM//appos//0 )//PAD//punct//3 ledamot//NN|UTR|SIN|IND|NOM//ROOT//5 av//PP//case//7 riksdagen//NN|UTR|SIN|DEF|NOM//obl:agent//5  //_SP////7 tel//NN|AN//obl//5 ://MID//punct//5
+Kommittéledamöter;08-786//RG|NOM//nmod//5 54//RG|NOM//nummod//13 46//RG|NOM//obl//11
+Kommittéledamöter;Nils//PM|NOM//nmod//1 Fredrik//PM|NOM//nsubj//6 Aurelius//PM|NOM//flat:name//1 (//PAD//punct//2 m//NN|AN//appos//2 )//PAD//punct//1 ledamot//NN|UTR|SIN|IND|NOM//ROOT//6 av//PP//case//8 riksdagen//NN|UTR|SIN|DEF|NOM//nmod//6 tel//NN|AN//nmod//8 ://MID//punct//6
+Kommittéledamöter;08-786//RG|NOM//appos//6 46//RG|NOM//nummod//13 85//RG|NOM//obl//11
+
+Experter;Lars//PM|NOM//ROOT//0 Bryntesson//PM|NOM//flat:name//0
+Experter;Kulturdepartementet//NN|NEU|SIN|DEF|NOM//ROOT//0
+Experter;Wanja//PM|NOM//ROOT//0 Lundby-Wedin//PM|NOM//nsubj//0
+Experter;LO//PM|NOM//ROOT//0 ://MID//punct//0 s//NN|AN//case//4 andra//RO|NOM//amod//4 ordförande//NN|UTR|SIN|IND|NOM//appos//0
+Experter;Carl-Gunnar//PM|NOM//ROOT//0 Peterson//PM|NOM//flat:name//0
+Experter;Justitiedepartementet//NN|NEU|SIN|DEF|NOM//ROOT//0
+Experter;Elisabeth//PM|NOM//compound//2 Rynell//PM|NOM//flat//0 författare//NN|UTR|SIN|IND|NOM//ROOT//2
+Experter;Marcus//PM|NOM//amod//2 Storch//PM|NOM//flat//0 direktör//NN|UTR|SIN|IND|NOM//ROOT//2
+Experter;Formgivning//NN|UTR|SIN|IND|NOM//ROOT//0 ://MID//punct//0
+Experter;Susan//PM|NOM//appos//0 Nilsson//PM|NOM//flat//2 Jupiter//PM|NOM//conj//2 Reklam//NN|UTR|SIN|IND|NOM//conj//2 AB//PM|NOM//flat//2
+Experter;P//PM|NOM//ROOT//0 OSTADRESS//PM|NOM//flat//0 ://MID//punct//0
+Experter; //_SP////2 103//RG|NOM//nummod//6 33//RG|NOM//nummod//6 Stockholm//PM|NOM//appos//0 .//MID//punct//0
+Experter;B//PM|NOM//parataxis//0 ESÖKSADRESS//PM|NOM//nsubj//8 ://MID//punct//8
+Experter; //_SP////10 Regeringsgatan//PM|NOM//nmod//13 30-32//RG|NOM//nmod//8
+Experter;E-POST//PM|NOM//ROOT//0 ://MID//punct//0
+Experter;  //_SP////1 margareta.meyer@justice.ministry.se//AB|AN//appos//0
+
+Publications of the Commission of Democracy in Sweden;Editor//PM|NOM//nmod//1 Erik//PM|NOM//nsubj//38 Amnå//PM|NOM//flat:name//1 1//RG|NOM//nummod//1 .//MAD//punct//1
+Publications of the Commission of Democracy in Sweden;Demokratins//NN|UTR|SIN|DEF|GEN//nmod:poss//6 räckvidd//NN|UTR|SIN|IND|NOM//conj//1 .//MAD//punct//6
+Publications of the Commission of Democracy in Sweden;Dokumentation//NN|UTR|SIN|IND|NOM//nmod//6 från//PP//case//11 ett//DT|NEU|SIN|IND//det//11 seminarium//NN|NEU|SIN|IND|NOM//nmod//8 (//PAD//punct//11 SOU//PM|NOM//appos//11 1998:55//RG|NOM//conj//11 )//PAD//punct//8 3//RG|NOM//nummod//1 .//MID//punct//1
+Publications of the Commission of Democracy in Sweden; //_SP////17 Att//IE//mark//20 rösta//VB|INF|AKT//acl//1 med//PP//case//22 händerna//NN|UTR|PLU|DEF|NOM//obl//20 .//MAD//punct//1
+Publications of the Commission of Democracy in Sweden;Om//PP//case//25 stormöten//NN|NEU|PLU|IND|NOM//nmod//1 ,//MID//punct//27 folkomröstningar//NN|UTR|PLU|IND|NOM//conj//25 och//KN//cc//29 direktdemokrati//NN|UTR|SIN|IND|NOM//conj//25 i//PP//case//31 Schweiz//PM|NOM//nmod//25 (//PAD//punct//25 SOU//PM|NOM//appos//25 1998:85//RG|NOM//conj//25 )//PAD//punct//25 6//RG|NOM//nmod//25 .//MAD//punct//1
+Publications of the Commission of Democracy in Sweden;Lekmannastyre//PM|NOM//ROOT//38 i//PP//case//41 experternas//NN|UTR|PLU|DEF|GEN//nmod:poss//41 tid//NN|UTR|SIN|IND|NOM//obl//38 .//MAD//punct//38
+Publications of the Commission of Democracy in Sweden;Dokumentation//NN|UTR|SIN|IND|NOM//nmod//38 från//PP//case//46 ett//DT|NEU|SIN|IND//det//46 seminarium//NN|NEU|SIN|IND|NOM//nmod//43 (//PAD//punct//46 SOU//PM|NOM//nmod//49 1998:102//RG|NOM//appos//46 )//PAD//punct//49 7//RG|NOM//nummod//49 .//MID//punct//43
+Publications of the Commission of Democracy in Sweden;Demokrati//NN|UTR|SIN|IND|NOM//nmod//43 på//PP//case//56 europeisk//JJ|POS|UTR|SIN|IND|NOM//amod//56 nivå//NN|UTR|SIN|IND|NOM//nmod//53 ?//MID//punct//38
+Publications of the Commission of Democracy in Sweden; //_SP////57 (//PAD//punct//38 SOU//PM|NOM//nmod//61 1998:124//RG|NOM//appos//38 )//PAD//punct//61 9//RG|NOM//nummod//61 .//MAD//punct//38
+Publications of the Commission of Democracy in Sweden;Lokala//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//66 Demokratiexperiment//PM|NOM//appos//38 .//MID//punct//66
+Publications of the Commission of Democracy in Sweden; //_SP////67 Exempel//NN|NEU|PLU|IND|NOM//conj//66 och//KN//cc//71 analyser//NN|UTR|PLU|IND|NOM//conj//69 (//PAD//punct//66 SOU//PM|NOM//nmod//74 1998:155//RG|NOM//appos//66 )//PAD//punct//38
+Publications of the Commission of Democracy in Sweden;D//NN|NEU|SIN|IND|NOM//ROOT//0 EMOKRATIUTREDNINGENS//PM|GEN//nmod//2 SKRIFTSERIE//PM|NOM//nsubj//0 12.EU//RG|NOM//obl//0 –//NN|AN//punct//6 ett//DT|NEU|SIN|IND//det//6 demokratiprojekt//NN|NEU|SIN|IND|NOM//appos//0 ?//MID//punct//6
+Publications of the Commission of Democracy in Sweden;Dokumentation//NN|UTR|SIN|IND|NOM//appos//6 från//PP//case//11 ett//DT|NEU|SIN|IND//det//11 seminarium//NN|NEU|SIN|IND|NOM//nmod//8 (//PAD//punct//8 SOU//PM|NOM//nmod//14 1998:145//RG|NOM//appos//8 )//PAD//punct//6
+
+13.Invandrarskap och medborgarskap.;Dokumentation//NN|UTR|SIN|IND|NOM//nsubj//9 från//PP//case//3 ett//DT|NEU|SIN|IND//det//3 seminarium//NN|NEU|SIN|IND|NOM//nmod//0 (//PAD//punct//3 SOU//PM|NOM//appos//3 1999:8//RG|NOM//nummod//5 )//PAD//punct//5 14.Att//RG|NOM//conj//3 slakta//VB|INF|AKT//ROOT//9 ett//RG|NEU|SIN|IND|NOM//obj//9 får//NN|NEU|SIN|IND|NOM//xcomp//9 i//PP//case//14 Guds//PM|GEN//nmod:poss//14 namn//NN|NEU|SIN|IND|NOM//obl//11 .//MAD//punct//9
+13.Invandrarskap och medborgarskap.;Om//SN//case//17 religionsfrihet//NN|UTR|SIN|IND|NOM//obl//9 och//KN//cc//19 demokrati//NN|UTR|SIN|IND|NOM//conj//17 (//PAD//punct//17 SOU//PM|NOM//appos//17 1999:9//RG|NOM//conj//17 )//PAD//punct//9
+
+15. Etik och demokratisk statskonst;(//PAD//punct//1 SOU//PM|NOM//ROOT//1 1999:13//RG|NOM//nummod//1 )//PAD//punct//1 16//RG|NOM//nummod//1 .//MAD//punct//1
+15. Etik och demokratisk statskonst;Elektronisk//JJ|POS|UTR|SIN|IND|NOM//amod//7 demokrati//NN|UTR|SIN|IND|NOM//conj//1  //_SP////7 (//PAD//punct//7 SOU//PM|NOM//appos//7 1999:12//RG|NOM//punct//7 )//PAD//punct//1 17.Den//RG|NOM//nmod//15 skyddade//VB|PRT|AKT//amod//15 provinsen//NN|UTR|SIN|DEF|NOM//conj//1 .//MAD//punct//1
+15. Etik och demokratisk statskonst;En//DT|UTR|SIN|IND//det//18 essä//NN|UTR|SIN|IND|NOM//conj//1 om//PP//case//21 demokratins//NN|UTR|SIN|DEF|GEN//nmod:poss//21 värde//NN|NEU|SIN|IND|NOM//nmod//18 och//KN//cc//23 värdighet//NN|UTR|SIN|IND|NOM//conj//21 (//PAD//punct//23 SOU//PM|NOM//nmod//18 1999:22//RG|NOM//conj//18 )//PAD//punct//18 19//RG|NOM//nummod//18 .//MAD//punct//1
+15. Etik och demokratisk statskonst;Demokratin//NN|UTR|SIN|DEF|NOM//appos//1 i//PP//case//35 den//DT|UTR|SIN|DEF//det//34 offentliga//JJ|POS|UTR/NEU|SIN|DEF|NOM//amod//34 sektorns//NN|UTR|SIN|DEF|GEN//nmod:poss//35 förändring//NN|UTR|SIN|IND|NOM//nmod//30 .//MAD//punct//1
+15. Etik och demokratisk statskonst; //_SP////36 Dokumentation//NN|UTR|SIN|IND|NOM//nmod//1 från//PP//case//41 ett//DT|NEU|SIN|IND//det//41 seminarium//NN|NEU|SIN|IND|NOM//nmod//38 (//PAD//punct//38 SOU//PM|NOM//appos//38 1999:40//RG|NOM//obl//1 )//PAD//punct//1
+
+21. Bör demokratin avnationaliseras?;(//PAD//punct//1 SOU//PM|NOM//ROOT//1 1999:11//RG|NOM//nummod//1 )//PAD//punct//1 22//RG|NOM//nummod//1 .//MAD//punct//1
+21. Bör demokratin avnationaliseras?;Globaliseringen//NN|UTR|SIN|DEF|NOM//conj//1 och//KN//cc//8 demokratin//NN|UTR|SIN|DEF|NOM//conj//6 .//MAD//punct//1
+21. Bör demokratin avnationaliseras?; //_SP////9 Dokumentation//NN|UTR|SIN|IND|NOM//nmod//1 från//PP//case//14 ett//DT|NEU|SIN|IND//det//14 seminarium//NN|NEU|SIN|IND|NOM//nmod//11 (//PAD//punct//11 SOU//PM|NOM//appos//11 1999:56//RG|NOM//obl//1 )//PAD//punct//1
+
+23. Löser juridiken demokratins problem?;(//PAD//punct//1 SOU//PM|NOM//ROOT//1 1999:58//RG|NOM//nummod//1 )//PAD//punct//4 24//RG|NOM//conj//1 .//MAD//punct//1
+23. Löser juridiken demokratins problem?;Representativ//JJ|POS|UTR|SIN|IND|NOM//amod//7 demokrati//NN|UTR|SIN|IND|NOM//appos//1  //_SP////7 (//PAD//punct//10 SOU//PM|NOM//nmod//7 1999:64//RG|NOM//nmod//10 )//PAD//punct//7
+
+25. Demokratin och det gemensamma bästa;(//PAD//punct//1 SOU//PM|NOM//ROOT//1 1999:74//RG|NOM//punct//1 )//PAD//punct//1 26//RG|NOM//nummod//1 .//MAD//punct//1
+25. Demokratin och det gemensamma bästa;Demokratiopinioner//NN|UTR|PLU|IND|NOM//nmod//1  //_SP////6 (//PAD//punct//9 SOU//PM|NOM//nmod//6 1999:80//RG|NOM//nmod//9 )//PAD//punct//6
+25. Demokratin och det gemensamma bästa;D//NN|NEU|SIN|IND|NOM//ROOT//0 EMOKRATIUTREDNINGENS//PM|GEN//nmod//2 SKRIFTSERIE//PM|NOM//nsubj//0 27//RG|NOM//nummod//2 .//MAD//punct//0
+25. Demokratin och det gemensamma bästa;Olydiga//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//6 medborgare//NN|UTR|PLU|IND|NOM//appos//0  //_SP////6 (//PAD//punct//10 SOU//PM|NOM//nmod//10 1999:101//RG|NOM//appos//6 )//PAD//punct//10 28//RG|NOM//nummod//10 .//MAD//punct//10
+25. Demokratin och det gemensamma bästa;Demokratins//NN|UTR|SIN|DEF|GEN//nmod:poss//15 förgörare//NN|UTR|SIN|IND|NOM//conj//0  //_SP////15 (//PAD//punct//15 SOU//PM|NOM//appos//15 1999:10//RG|NOM//conj//15 )//PAD//punct//15 29//RG|NOM//nmod//15 .//MAD//punct//15
+25. Demokratin och det gemensamma bästa;Civilsamhället//NN|NEU|SIN|DEF|NOM//nmod//15 som//KN//case//26 demokratins//NN|UTR|SIN|DEF|GEN//nmod:poss//26 arena//NN|UTR|SIN|IND|NOM//nmod//23 .//MAD//punct//15
+25. Demokratin och det gemensamma bästa; //_SP////27 Några//DT|UTR/NEU|PLU|IND//det//31 kritiska//JJ|POS|UTR/NEU|PLU|IND/DEF|NOM//amod//31 reflektioner//NN|UTR|PLU|IND|NOM//appos//15 (//PAD//punct//31 SOU//PM|NOM//nmod//34 1999:112//RG|NOM//appos//31 )//PAD//punct//34 30//RG|NOM//nummod//31 .//MAD//punct//15
+25. Demokratin och det gemensamma bästa;Demokrati//NN|UTR|SIN|IND|NOM//appos//15 på//PP//case//40 remiss//NN|UTR|SIN|IND|NOM//nmod//38  //_SP////40 (//PAD//punct//38 SOU//PM|NOM//nmod//44 1999:144//RG|NOM//nmod//38
+
+31. Vad hände med Sveriges ekonomi efter 1970?;(//PAD//punct//2 SOU//PM|NOM//nmod//2 1999:150//RG|NOM//ROOT//2
+31. Vad hände med Sveriges ekonomi efter 1970?;(//PAD//punct//2 SOU//PM|NOM//nmod//2 1999:151//RG|NOM//ROOT//2 )//PAD//punct//2
+

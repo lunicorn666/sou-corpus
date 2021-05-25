@@ -1,0 +1,14 @@
+Moderniserade skatteregler för ideell sektor;Betänkande//NN|NEU|SIN|IND|NOM//ROOT//0 av//PP//case//2 Stiftelse-//PM|SMS//nmod//0 och//KN//cc//4 föreningsskatteutredningen//NN|UTR|SIN|DEF|NOM//conj//2
+Moderniserade skatteregler för ideell sektor;Stockholm//PM|NOM//ROOT//0 2009//RG|NOM//nummod//0
+
+Stiftelse- och föreningsskatteutredningen;Fi//PM|NOM//ROOT//0 2007:09//RG|NOM//punct//0
+Stiftelse- och föreningsskatteutredningen;Utredningssekreterare//NN|UTR|PLU|IND|NOM//ROOT//0
+Stiftelse- och föreningsskatteutredningen;Gunilla//PM|NOM//ROOT//0 Landmark//PM|NOM//flat:name//0
+Stiftelse- och föreningsskatteutredningen;Telefon//NN|UTR|SIN|IND|NOM//nmod//1 076//RG|NOM//ROOT//1 1386314//RG|NOM//nummod//1
+Stiftelse- och föreningsskatteutredningen;E-post//NN|UTR|SIN|IND|NOM//amod//1 gunilla.landmark@finance.ministry.se//AB|AN//ROOT//1
+
+
+Rättsliga experten Gunilla Landmark anställdes fr.o.m. den 1 september 2007 som sekreterare i utredningen. Utredningen har antagit namnet Stiftelse- och föreningsskatteutredningen (Fi 2007:09).;Utredningen//NN|UTR|SIN|DEF|NOM//nsubj//1 överlämnar//VB|PRS|AKT//ROOT//1 betänkandet//NN|NEU|SIN|DEF|NOM//obj//1  //_SP////2 Moderniserade//PC|PRF|UTR/NEU|PLU|IND/DEF|NOM//amod//5 skatteregler//NN|UTR|PLU|IND|NOM//obj//1 för//PP//case//8 ideell//JJ|POS|UTR|SIN|IND|NOM//amod//8 sektor//NN|UTR|SIN|IND|NOM//nmod//5 (//PAD//punct//5 SOU//PM|NOM//appos//5 2009:65//RG|NOM//conj//10 )//PAD//punct//5 .//MAD//punct//17
+Rättsliga experten Gunilla Landmark anställdes fr.o.m. den 1 september 2007 som sekreterare i utredningen. Utredningen har antagit namnet Stiftelse- och föreningsskatteutredningen (Fi 2007:09).;Uppdraget//NN|NEU|SIN|DEF|NOM//nsubj//17 är//VB|PRS|AKT//cop//17 härmed//AB//advmod//17 slutfört//PC|PRF|NEU|SIN|IND|NOM//conj//1 .//MAD//punct//1
+
+

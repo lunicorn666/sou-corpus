@@ -14,12 +14,12 @@ Tables, lists and diagrams as well as non-Swedish text were removed whenever the
 * **ENs**: for English summary
 
 The original html can be found at `https://data.riksdagen.se/dokument/` + `document id`.
-So for the file `ft_H4B319.html` the corresponding original file at Riksdagen is [`https://data.riksdagen.se/dokument/H4B319.html`](https://data.riksdagen.se/dokument/H4B319.html).
+So for the file `ft_H4B319.html`, the corresponding original file at Riksdagen is [`https://data.riksdagen.se/dokument/H4B319.html`](https://data.riksdagen.se/dokument/H4B319.html).
 
 ## tagged/
 This directory contains sentence-segmented and dependency-parsed versions of the SOU-text bodies. These are saved as csv, with the second field containing a processed sentence at a time and the first field containing the corresponding raw section header or title.
 For sentence segmentation and parsing, the [Swedish spaCy model](https://github.com/Kungbib/swedish-spacy) was used.
 The sentence segmentation was complemented with some rules for
 
-* abbreviations like 'm.m.', 'osv.' and 'etc.' that can to occur at the end of a sentence
+* abbreviations like 'm.m.', 'osv.' and 'etc.' that can occur at the end of a sentence
 * the use of a colon with acronyms to express possessive or plural (e.g. 'EU:s huvudmål ...', 'SOU:er', etc.)

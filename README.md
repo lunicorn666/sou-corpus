@@ -2,7 +2,9 @@ SOU corpus
 ----------
 This repository contains cleaned and further processed versions of Swedish Government Official Reports - Statens offentliga utredningar (SOU).
 The documents are based on html versions from [Riksdagens öppna data](http://data.riksdagen.se) and cover the years 1994 to 2020.
+Details of the cleaning procedure are described in:
 
+> Luise Dürlich, Sebastian Reimann, Gustav Finnveden, Joakim Nivre and Sara Stymne. Cause and Effect in Governmental Reports: Two Data Sets for Causality Detection in Swedish. In Proceedings of the First Workshop on Natural Language Processing for Political Sciences. June 24, 2022. Marseilles, France.
 
 ## html/
 In contrast to the original html versions, the extracted files distinguish section headers and titles from text body.
